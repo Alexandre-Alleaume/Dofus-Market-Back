@@ -114,7 +114,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce bandeau Pandawushu noué autour du crâne, vous pourrez sans problème effrayer les jeunes Lenalds, en vous faisant passer pour un Maître en arts martiaux. N''oubliez pas de pousser quelques cris de guerre pour paraître encore plus crédible.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image0.svg'
+		'../images/image_chapeau/image0.svg'
 	),
 	(
 		'item',
@@ -172,7 +172,7 @@ VALUES
 		NULL,
 		NULL,
 		'Muni de ce petit chapeau sur la tête, vous aurez l''air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image1.svg'
+		'../images/image_chapeau/image1.svg'
 	),
 	(
 		'item',
@@ -230,7 +230,7 @@ VALUES
 		NULL,
 		NULL,
 		'Muni de ce petit chapeau sur la tête, vous aurez l''air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image2.svg'
+		'../images/image_chapeau/image2.svg'
 	),
 	(
 		'item',
@@ -288,7 +288,7 @@ VALUES
 		NULL,
 		NULL,
 		'Muni de ce petit chapeau sur la tête, vous aurez l''air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image3.svg'
+		'../images/image_chapeau/image3.svg'
 	),
 	(
 		'item',
@@ -346,7 +346,7 @@ VALUES
 		NULL,
 		NULL,
 		'Muni de ce petit chapeau sur la tête, vous aurez l''air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image4.svg'
+		'../images/image_chapeau/image4.svg'
 	),
 	(
 		'item',
@@ -404,7 +404,7 @@ VALUES
 		NULL,
 		NULL,
 		'Muni de ce petit chapeau sur la tête, vous aurez l''air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image5.svg'
+		'../images/image_chapeau/image5.svg'
 	),
 	(
 		'item',
@@ -462,7 +462,7 @@ VALUES
 		NULL,
 		NULL,
 		'Muni de ce petit chapeau sur la tête, vous aurez l''air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image6.svg'
+		'../images/image_chapeau/image6.svg'
 	),
 	(
 		'item',
@@ -520,7 +520,7 @@ VALUES
 		NULL,
 		NULL,
 		'A part faire fuir les nanas, ce chapeau n''a pas vraiment grande utilité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image7.svg'
+		'../images/image_chapeau/image7.svg'
 	),
 	(
 		'item',
@@ -578,7 +578,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Louffeur prévient des dégâts physiques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image8.svg'
+		'../images/image_chapeau/image8.svg'
 	),
 	(
 		'item',
@@ -636,7 +636,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Komintot permet d''augmenter la sagesse de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image9.svg'
+		'../images/image_chapeau/image9.svg'
 	),
 	(
 		'item',
@@ -694,7 +694,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Lisseur prévient des dégâts magiques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image10.svg'
+		'../images/image_chapeau/image10.svg'
 	),
 	(
 		'item',
@@ -752,7 +752,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce Bandeau permet d''augmenter la vitalité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image11.svg'
+		'../images/image_chapeau/image11.svg'
 	),
 	(
 		'item',
@@ -810,7 +810,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce Bandeau permet d''augmenter la vitalité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image12.svg'
+		'../images/image_chapeau/image12.svg'
 	),
 	(
 		'item',
@@ -868,7 +868,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce casque amélioré permet en théorie de chevaucher les Scarafeuilles les plus rapides sans perdre sa perruque. Tout simplement inestimable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image13.svg'
+		'../images/image_chapeau/image13.svg'
 	),
 	(
 		'item',
@@ -926,7 +926,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce Bandeau permet d''augmenter la vitalité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image14.svg'
+		'../images/image_chapeau/image14.svg'
 	),
 	(
 		'item',
@@ -984,7 +984,7 @@ VALUES
 		NULL,
 		NULL,
 		'Affublé de cette coiffe, vous ressemblerez à une Arakne sauvage. Dans le meilleur des cas, vous effraierez les Moskitos un peu naïfs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image15.svg'
+		'../images/image_chapeau/image15.svg'
 	),
 	(
 		'item',
@@ -1042,7 +1042,7 @@ VALUES
 		NULL,
 		NULL,
 		'Autrefois utilisée en infusion, et parfois même fumée, cette coiffe de Champ Champ a tout pour plaire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image16.svg'
+		'../images/image_chapeau/image16.svg'
 	),
 	(
 		'item',
@@ -1100,7 +1100,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce superbe chapeau permet à son porteur de gagner force et intelligence si ce dernier parvient à s''accommoder de l''odeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image17.svg'
+		'../images/image_chapeau/image17.svg'
 	),
 	(
 		'item',
@@ -1158,7 +1158,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous avez toujours rêvé d''être fleuriste et d''avoir une haleine parfumée à l''eau de rose, c''est le moment d''adopter cette étrange coiffe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image18.svg'
+		'../images/image_chapeau/image18.svg'
 	),
 	(
 		'item',
@@ -1216,7 +1216,7 @@ VALUES
 		NULL,
 		NULL,
 		'Il faut peu de choses pour que vous ressembliez à un Ouginak. Attention aux puces.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image19.svg'
+		'../images/image_chapeau/image19.svg'
 	),
 	(
 		'item',
@@ -1274,7 +1274,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe doit son nom surprenant à l''excentricité du premier Enutrof qui l''a découverte en dépouillant un vieux Moskito malade. Très utile pour les aventuriers qui débutent, elle permet avant tout, de rendre folles de vous les Araknes affamées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image20.svg'
+		'../images/image_chapeau/image20.svg'
 	),
 	(
 		'item',
@@ -1332,7 +1332,7 @@ VALUES
 		NULL,
 		NULL,
 		'Lo Korko Klako ost ouno chapo kilo bo. Tros ostotiko, tros bolo, il so porto par los plus bo dos Sadida.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image21.svg'
+		'../images/image_chapeau/image21.svg'
 	),
 	(
 		'item',
@@ -1390,7 +1390,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pour se protéger du soleil lorsque vous travaillez dans les champs, rien de mieux qu''un Ploukosse. Pour se protéger du soleil lorsque vous travaillez dans les champs et que vous êtes pauvre, rien de mieux que le célèbre Bob du Paysan.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image22.svg'
+		'../images/image_chapeau/image22.svg'
 	),
 	(
 		'item',
@@ -1448,7 +1448,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette étrange coiffe a appartenu au tristement célèbre Homme Ours. Cousue à partir des restes de la tête d''un ours en décomposition, cette coiffe vous permettra de ne pas passer inaperçu, et surtout, de laisser grâce à son odeur originale, une trace de votre passage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image23.svg'
+		'../images/image_chapeau/image23.svg'
 	),
 	(
 		'item',
@@ -1506,7 +1506,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Coiffe du Ploukosse, sous ses dehors "has been"", est très efficace lors des combats pour un simple chapeau de paille.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image24.svg'
+		'../images/image_chapeau/image24.svg'
 	),
 	(
 		'item',
@@ -1564,7 +1564,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porter ce casque signifie adopter un look unique... A mi-chemin entre le ridicule et le comique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image25.svg'
+		'../images/image_chapeau/image25.svg'
 	),
 	(
 		'item',
@@ -1622,7 +1622,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce magnifique chapeau permettra à votre héros d''être la plus belle pour aller danser au bal masqué (hohé hohé).',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image26.svg'
+		'../images/image_chapeau/image26.svg'
 	),
 	(
 		'item',
@@ -1680,7 +1680,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Troma est aussi craignos qu''un Rasboul en poil de Bitouf. (Pour ceux qui ne savent pas ce qu''est un Rasboul en poil de bitouf, référez-vous aux grands livres des Craps à Poules).',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image27.svg'
+		'../images/image_chapeau/image27.svg'
 	),
 	(
 		'item',
@@ -1738,7 +1738,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Oiram a fait de nombreux adeptes de part le monde, du fait de son côté très classieux... Ce chapeau a longtemps été porté par un plombier qui passait son temps à sauter et courir...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image28.svg'
+		'../images/image_chapeau/image28.svg'
 	),
 	(
 		'item',
@@ -1796,7 +1796,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce casque de chantier est devenu un objet de mode incontournable pour les aventurières coquettes. Mais où va le monde ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image29.svg'
+		'../images/image_chapeau/image29.svg'
 	),
 	(
 		'item',
@@ -1854,7 +1854,7 @@ VALUES
 		NULL,
 		NULL,
 		'Hugne "le sans mémoire" possédait une magnifique boule de crystal que lui avait donné son pépé. Bien décidé à la conserver toute sa vie, il la plaça sur son chapeau, qu''il ne quittait jamais... Il est mort de fatigue, en essayant de la retrouver.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image30.svg'
+		'../images/image_chapeau/image30.svg'
 	),
 	(
 		'item',
@@ -1912,7 +1912,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce magnifique masque en cuir appartenait à Jouik Krampe, cousin de Zeurg. Tous deux étaient très portés sur les vêtements en cuir moulant. Un peu comme le Captain Chafer, la perversité en moins.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image31.svg'
+		'../images/image_chapeau/image31.svg'
 	),
 	(
 		'item',
@@ -1970,7 +1970,7 @@ VALUES
 		NULL,
 		NULL,
 		'Il est dit que le ridicule ne tue pas. C''est exact, mais avec ce casque vous aurez vraiment l''air ridicule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image32.svg'
+		'../images/image_chapeau/image32.svg'
 	),
 	(
 		'item',
@@ -2028,7 +2028,7 @@ VALUES
 		NULL,
 		NULL,
 		'Rouge, blanc et surtout somptueusement classe, ce chapeau vous permettra d''assurer un max lors des soirées de l''ambassadeur qui sont toujours une réussite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image33.svg'
+		'../images/image_chapeau/image33.svg'
 	),
 	(
 		'item',
@@ -2086,7 +2086,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce crâne de démon reconstruit à partir d''ossements divers et variés apporte grâce et élégance à son porteur... Vos amies vont vous jalouser...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image34.svg'
+		'../images/image_chapeau/image34.svg'
 	),
 	(
 		'item',
@@ -2144,7 +2144,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau en peau de larve verte magique donne à son porteur une allure guillerette, mais également un peu stupide. On ne peut pas tout avoir dans la vie, le porteur de ce chapeau en est d''ailleurs un excellent exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image35.svg'
+		'../images/image_chapeau/image35.svg'
 	),
 	(
 		'item',
@@ -2202,7 +2202,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette coiffe sur la tête, vous n''avez vraiment pas l''air très futé. Mais plus que sans la coiffe, donc autant la garder.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image36.svg'
+		'../images/image_chapeau/image36.svg'
 	),
 	(
 		'item',
@@ -2260,7 +2260,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Choipo Podlard vient d''une grande école de magie. Créature vivante, il a rencontré les plus grands magiciens de notre temps, tels que Mme Magoa AlaGale, Mr Doublegore et le célèbre Remy Krokeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image37.svg'
+		'../images/image_chapeau/image37.svg'
 	),
 	(
 		'item',
@@ -2318,7 +2318,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau en Corne de Minotoror est très efficace pour impressionner ses adversaires en se faisant passer pour un Minotoror. Cette ruse ne semble fonctionner que sur les adversaires simplets. Un Iop ou un Tofu devrait faire l''affaire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image38.svg'
+		'../images/image_chapeau/image38.svg'
 	),
 	(
 		'item',
@@ -2376,7 +2376,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau confectionné à partir d''oreilles cousues entre elles, vous rendra tout simplement unique tant il est original. On raconte qu''il a jadis permis à Rakmar Bilgout de séduire la reine des Bouftous, pour ensuite l''égorger plus facilement.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image39.svg'
+		'../images/image_chapeau/image39.svg'
 	),
 	(
 		'item',
@@ -2434,7 +2434,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce casque en os a longtemps séjourné dans les poches d''un Kanigrou. Usé, rayé, il garde tout de même de belles propriétés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image40.svg'
+		'../images/image_chapeau/image40.svg'
 	),
 	(
 		'item',
@@ -2492,7 +2492,7 @@ VALUES
 		NULL,
 		NULL,
 		'Enfin, l''opportunité de ressembler à une vraie larve s''offre à vous. Vous pourrez enfin afficher ouvertement votre mode de vie larvesque.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image41.svg'
+		'../images/image_chapeau/image41.svg'
 	),
 	(
 		'item',
@@ -2550,7 +2550,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Ours est un chapeau confectionné dans la tête d''un ours mort. Il a cependant gardé un poil soyeux. Le tailleur qui l''a confectionné devait être très habile pour avoir réussi a garder l''expression de mécontentement de l''ours d''origine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image42.svg'
+		'../images/image_chapeau/image42.svg'
 	),
 	(
 		'item',
@@ -2608,7 +2608,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette coiffe de Prespic sur la tête, vous ressemblez presque à Dévie Cloquette, célèbre chasseuse des temps modernes, prête à tout pour cacher sa calvitie naissante. Pas de chance pour vous si vous vouliez faire de même, vous devrez vous contenter d''une coiffe de couleur rousse, qui de toute évidence, dégagera une horrible odeur dès qu''il se mettra à pleuvoir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image43.svg'
+		'../images/image_chapeau/image43.svg'
 	),
 	(
 		'item',
@@ -2666,7 +2666,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau, en forme de corbeille à fruits en osier renversée, est en fait une corbeille à fruits renversée magique. Ce qui ne manquera pas d''impressionner votre entourage, surtout s''il est composé d''apprentis Bworks Mages.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image44.svg'
+		'../images/image_chapeau/image44.svg'
 	),
 	(
 		'item',
@@ -2724,7 +2724,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau, confectionné à partir de Slips en cuir de Chafer Lancier tressés entre eux, vous rendra de toute évidence irrésistible auprès des femelles Bwork Mages, réputées pour leur féminité débordante, accentuée par leur barbe rousse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image45.svg'
+		'../images/image_chapeau/image45.svg'
 	),
 	(
 		'item',
@@ -2782,7 +2782,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est le fantôme Brave qui le premier comprit comment utiliser correctement de l''Osier Sombre à des fins autres que gastronomiques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image46.svg'
+		'../images/image_chapeau/image46.svg'
 	),
 	(
 		'item',
@@ -2840,7 +2840,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau en écorce enchantée appartenait à Lorko, un Bûcheron réputé qui n''a pas hésité à défier le célèbre Bûcheron Brouce Boulgoure, lors d''un fameux duel de déracinage d''Orme à mains nues dans la clairière de Liroye Merline.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image47.svg'
+		'../images/image_chapeau/image47.svg'
 	),
 	(
 		'item',
@@ -2898,7 +2898,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une coquille de Dragoeuf Blanc rembourrée de cuir et de laine, rien de tel pour se protéger des attaques classiques et des éclairs d''un Bwork Mage ivre. En revanche, vous avez l''air de sortir de l''oeuf avec un pareil chapeau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image48.svg'
+		'../images/image_chapeau/image48.svg'
 	),
 	(
 		'item',
@@ -2956,7 +2956,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le top du top de la mode, mais uniquement au nord-est d''Amakna.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image51.svg'
+		'../images/image_chapeau/image51.svg'
 	),
 	(
 		'item',
@@ -3014,7 +3014,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Kwakoiffe de Terre est tellement lourde qu''elle vous permettra de garder en permanence les pieds sur terre, mais vous fera également parfois tomber par terre. On ne peut pas tout avoir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image62.svg'
+		'../images/image_chapeau/image62.svg'
 	),
 	(
 		'item',
@@ -3072,7 +3072,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Kwakoiffe de Flammes vous donne réellement une allure de tombeur, ce qui est très pratique pour mettre à terre vos adversaires, lorsque ceux-ci n''arrivent plus à tenir debout tellement ils rigolent, en vous voyant affublé de cette coiffe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image63.svg'
+		'../images/image_chapeau/image63.svg'
 	),
 	(
 		'item',
@@ -3130,7 +3130,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pour garder les cheveux au vent même une fois équipé d''une coiffe, rien ne vaut cette sympathique Kwakoiffe du Vent, qui vous permettra sans aucun doute de laisser libre court à votre expression capillaire dans la plupart des circonstances. C''est suffisant pour réussir à interloquer le plus blasé des Chafers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image64.svg'
+		'../images/image_chapeau/image64.svg'
 	),
 	(
 		'item',
@@ -3188,7 +3188,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Kwakoiffe de Glace vous permettra de toujours avoir des idées fraîches, même lorsque vous serez à court d''idées. Elle n''est cependant pas assez puissante pour un Iop.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image65.svg'
+		'../images/image_chapeau/image65.svg'
 	),
 	(
 		'item',
@@ -3246,7 +3246,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Champo appartenait à l''un des plus grands Maîtres Bolet d''Amakna. Vaillant et brillant, Gnion le Bolet était le seul de sa race à avoir réussi à se faire respecter des êtres humains.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image66.svg'
+		'../images/image_chapeau/image66.svg'
 	),
 	(
 		'item',
@@ -3304,7 +3304,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce chapeau sur la tête, vous ressemblez de loin à un Pandawushuka du village d''Akwadala. De près, vous ne ressemblez à rien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image67.svg'
+		'../images/image_chapeau/image67.svg'
 	),
 	(
 		'item',
@@ -3362,7 +3362,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce casque directement taillé dans la pierre vaut son pesant d''or. Il saura vous protéger des attaques d''un Craqueboule tout en vous permettant d''enchaîner des coups de boules dignes du Désiroboule. De quoi faire perdre la boule à tous vos adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image68.svg'
+		'../images/image_chapeau/image68.svg'
 	),
 	(
 		'item',
@@ -3420,7 +3420,7 @@ VALUES
 		NULL,
 		NULL,
 		'Affublé de cette coiffe originale, vous pourrez enfin faire croire à vos amis que vous êtes un chasseur de Scarafeuilles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image69.svg'
+		'../images/image_chapeau/image69.svg'
 	),
 	(
 		'item',
@@ -3478,7 +3478,7 @@ VALUES
 		NULL,
 		NULL,
 		'Affublé de cette coiffe originale, vous pourrez enfin faire croire à vos amis que vous êtes un chasseur de Scarafeuilles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image70.svg'
+		'../images/image_chapeau/image70.svg'
 	),
 	(
 		'item',
@@ -3536,7 +3536,7 @@ VALUES
 		NULL,
 		NULL,
 		'Affublé de cette coiffe originale, vous pourrez enfin faire croire à vos amis que vous êtes un chasseur de Scarafeuilles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image71.svg'
+		'../images/image_chapeau/image71.svg'
 	),
 	(
 		'item',
@@ -3594,7 +3594,7 @@ VALUES
 		NULL,
 		NULL,
 		'Affublé de cette coiffe originale, vous pourrez enfin faire croire à vos amis que vous êtes un chasseur de Scarafeuilles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image72.svg'
+		'../images/image_chapeau/image72.svg'
 	),
 	(
 		'item',
@@ -3652,7 +3652,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''Abracaska permet d''éviter les gueules de bois.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image73.svg'
+		'../images/image_chapeau/image73.svg'
 	),
 	(
 		'item',
@@ -3710,7 +3710,7 @@ VALUES
 		NULL,
 		NULL,
 		'Grâce à cette magnifique coiffe, vous aurez au moins autant de classe que le tristement célèbre Maître Corbac.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image74.svg'
+		'../images/image_chapeau/image74.svg'
 	),
 	(
 		'item',
@@ -3768,7 +3768,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette étrange coiffe ressemble à un gros fruit déshydraté en décomposition, un peu comme vous après une soirée passée à la taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image75.svg'
+		'../images/image_chapeau/image75.svg'
 	),
 	(
 		'item',
@@ -3826,7 +3826,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous voulez être traumatisé, il vous faut absolument cette magnifique noix de coco trouée. Nous rappelons à l''utilisateur que l''intérieur est équipé d''une paille et de boissons rafraîchissantes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image76.svg'
+		'../images/image_chapeau/image76.svg'
 	),
 	(
 		'item',
@@ -3884,7 +3884,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette coiffe sur le crâne, vous n''aurez pas l''air plus astucieux qu''avant, c''est une certitude. En revanche, vous aurez l''air beaucoup plus "cool", et finalement, c''est tout ce qui compte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image77.svg'
+		'../images/image_chapeau/image77.svg'
 	),
 	(
 		'item',
@@ -3942,7 +3942,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Kraignosse est un casque inquiétant confectionné à partir de restes d''Ouginak et de divers détritus. Longtemps porté par Gourlo le Terrible, le Kraignosse fût l''image de la désolation.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image78.svg'
+		'../images/image_chapeau/image78.svg'
 	),
 	(
 		'item',
@@ -4000,7 +4000,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Makroute Sombre est un chapeau qui provient d''un Makroute Déchiqueté recousu à la main et sans anesthésie. Maintenant, il n''obéit plus qu''à son maître et adore mordre les inconnus.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image79.svg'
+		'../images/image_chapeau/image79.svg'
 	),
 	(
 		'item',
@@ -4058,7 +4058,7 @@ VALUES
 		NULL,
 		NULL,
 		'Même Spartapine le grand moissonneur, n''eut pas la chance de porter un tel casque, qui doit sa résistance aux métaux et pierres de qualité utilisés pour sa confection.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image80.svg'
+		'../images/image_chapeau/image80.svg'
 	),
 	(
 		'item',
@@ -4116,7 +4116,7 @@ VALUES
 		NULL,
 		NULL,
 		'Vous qui avez toujours rêvé de ressembler à une Dragodinde, c''est le moment ou jamais. Cependant, si vous voulez conserver votre bonne santé, nous vous conseillons d''éviter de vous promener dans les rues d''Amakna durant la période de Noël.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image81.svg'
+		'../images/image_chapeau/image81.svg'
 	),
 	(
 		'item',
@@ -4174,7 +4174,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Boufcoiffe Royale est un objet indémodable. Elégante, elle procure à son porteur force et intelligence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image82.svg'
+		'../images/image_chapeau/image82.svg'
 	),
 	(
 		'item',
@@ -4232,7 +4232,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est la coiffe parfaite pour ceux qui veulent avoir des idées noires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image83.svg'
+		'../images/image_chapeau/image83.svg'
 	),
 	(
 		'item',
@@ -4290,7 +4290,7 @@ VALUES
 		NULL,
 		NULL,
 		'Version embellie du célèbre masque Kanniboule, le Kannipiou vous permettra de passer pour un véritable chasseur de Pious, auprès de vos amis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image84.svg'
+		'../images/image_chapeau/image84.svg'
 	),
 	(
 		'item',
@@ -4348,7 +4348,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coquille de Dragoeuf Doré rembourrée, vous rend presque insensible aux coups de foudre magiques du Bwork Mage. En revanche, il ne vous protège en rien contre les vrais coups de foudre...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image85.svg'
+		'../images/image_chapeau/image85.svg'
 	),
 	(
 		'item',
@@ -4406,7 +4406,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe est parfaite pour cacher votre acné, ou votre visage de chérubin.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image86.svg'
+		'../images/image_chapeau/image86.svg'
 	),
 	(
 		'item',
@@ -4464,7 +4464,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe est ornée d''énormes oreilles de Koalak, qui permettent d''amplifier les sons émis par les créatures qui vous entourent. Attention, elle peut détruire vos tympans si vos amis sont adeptes des vents de panique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image87.svg'
+		'../images/image_chapeau/image87.svg'
 	),
 	(
 		'item',
@@ -4522,7 +4522,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces oreilles ne vous permettront pas de mieux entendre, mais permettront à vos amis de mieux vous retrouver dans la foule, et à vos ennemis, de mourir de rire. Une paire d''oreilles qui s''avère avec le temps vraiment indispensable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image88.svg'
+		'../images/image_chapeau/image88.svg'
 	),
 	(
 		'item',
@@ -4580,7 +4580,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette coiffe sur la tête, vous pouvez être certain que vos amis rêveront enfin de vous lécher. Voilà un chapeau qui aurait comblé le Captain Chafer à la grande époque.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image89.svg'
+		'../images/image_chapeau/image89.svg'
 	),
 	(
 		'item',
@@ -4638,7 +4638,7 @@ VALUES
 		NULL,
 		NULL,
 		'Comme vous, la tortue a vraiment une toute petite tête. Ca tombe bien, ce chapeau est spécialement prévu pour ça.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image90.svg'
+		'../images/image_chapeau/image90.svg'
 	),
 	(
 		'item',
@@ -4696,7 +4696,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette tête de Mulou sur le crâne, vous ressemblez à Bernaize Mainarht, illustre ménestrel en avance sur son temps, dont la tête fut retrouvée coincée dans la gueule d''un Mulou agonisant, n''ayant pas supporté les chansons que le ménestrel avait tenté de lui infliger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image91.svg'
+		'../images/image_chapeau/image91.svg'
 	),
 	(
 		'item',
@@ -4754,7 +4754,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette tête de Kitsou n''est portable que par les aventuriers qui ont perdu l''odorat. On ne se demande pas pourquoi...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image92.svg'
+		'../images/image_chapeau/image92.svg'
 	),
 	(
 		'item',
@@ -4812,7 +4812,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce chapeau sur la tête, vous ressemblez de loin à un Pandawushuka du village d''Aerdala. De près, vous ne ressemblez à rien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image93.svg'
+		'../images/image_chapeau/image93.svg'
 	),
 	(
 		'item',
@@ -4870,7 +4870,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coquille de Dragoeuf de Saphire vous ira à merveille si vous savez la porter. Arborer une telle coiffe n''est pas à la portée de tout le monde, la preuve, les Iops ont tendance à la porter à l''envers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image94.svg'
+		'../images/image_chapeau/image94.svg'
 	),
 	(
 		'item',
@@ -4928,7 +4928,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous avez toujours rêvé de ressembler à un Crocodaille sans pour autant vous transformer en Crocodaille, cette coiffe est faîte pour vous. N''espérez pas pour autant utiliser cette coiffe pour faire croire à vos amis que vous avez un jour réussi à tuer vous-même un Crocodaille. Personne n''y croira, à part vous peut-être.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image95.svg'
+		'../images/image_chapeau/image95.svg'
 	),
 	(
 		'item',
@@ -4986,7 +4986,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite coiffe permet au Dragoeuf volant de se jeter sur ses ennemis sans risquer de se faire de jolies bosses sur le crâne. Utilisée depuis longtemps sur les grands chantiers d''Amakna, cette coiffe a connu un regain de popularité après l''invasion d''Astrub par l''illustre troupe des Meulous débridés de la montagne de Kruup. Il n''y a aucune logique dans cette histoire, mais quelle importance ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image96.svg'
+		'../images/image_chapeau/image96.svg'
 	),
 	(
 		'item',
@@ -5044,7 +5044,7 @@ VALUES
 		NULL,
 		NULL,
 		'Version retravaillée du Jouik Krampe, ce chapeau utilise les meilleurs ressources de l''île de Moon, ce qui lui donne un cachet très terroir reconnaissons-le. A défaut de ressembler à un Kanniboul, vous pourrez sortir de très bons coups de boule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image97.svg'
+		'../images/image_chapeau/image97.svg'
 	),
 	(
 		'item',
@@ -5102,7 +5102,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce chapeau sur la tête, vous ressemblez de loin à un Pandawushuka du village de Terrdala. De près, vous ne ressemblez à rien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image98.svg'
+		'../images/image_chapeau/image98.svg'
 	),
 	(
 		'item',
@@ -5160,7 +5160,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe a été confectionnée à partir de restes de Kralamoures morts, séchés. Attention, elle risque de reprendre vie si vous vous en servez comme bonnet de bain.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image99.svg'
+		'../images/image_chapeau/image99.svg'
 	),
 	(
 		'item',
@@ -5218,7 +5218,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau était suffisamment large pour dissimuler la tête et la barbe ridiculement peu fournie de Barbroussa. Mais il n''est pas capable de couvrir le crâne de quelqu''un ayant la grosse tête.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image100.svg'
+		'../images/image_chapeau/image100.svg'
 	),
 	(
 		'item',
@@ -5276,7 +5276,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette couronne a appartenu à l''illustre Roi Gelax, réputé pour son romantisme débordant et son pouvoir de séduction qui a marqué à vie plus d''une Gelée femelle... On raconte même, qu''il est plus ou moins le père de toutes les Gelées de la région d''Amakna, preuve s''il en est, de son endurance et de sa fertilité légendaire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image101.svg'
+		'../images/image_chapeau/image101.svg'
 	),
 	(
 		'item',
@@ -5334,7 +5334,7 @@ VALUES
 		NULL,
 		NULL,
 		'Recouverte d''une multitude de fleurs des moissons, cette coiffe donnait une allure guillerette à Shika, lorsqu''elle partait au petit matin, labourer les collines Koln.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image102.svg'
+		'../images/image_chapeau/image102.svg'
 	),
 	(
 		'item',
@@ -5392,7 +5392,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau de paille a été confectionné à l''aide d''une multitude d''épis magiques tressés entre eux, puis l''intérieur a été rembourré avec divers poils et étoffes cousues à la main par Shika Ingalsse, femme de Farle. Plus classe que le Ploukosse, et plus stylé que le Kraignosse, ce chapeau vous protègera du cagnard comme il l''a fait pour Farle pendant des centaines de moissons, tout en vous donnant une allure guillerette et vraiment "cool". Suffisant pour s''improviser roi ou reine des champs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image103.svg'
+		'../images/image_chapeau/image103.svg'
 	),
 	(
 		'item',
@@ -5450,7 +5450,7 @@ VALUES
 		NULL,
 		NULL,
 		'Version améliorée du casque du Craqueleur, ce roc vous protègera efficacement des chutes de pierres, mais pas des chutes de cheveux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image104.svg'
+		'../images/image_chapeau/image104.svg'
 	),
 	(
 		'item',
@@ -5508,7 +5508,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe surpuissante tient plus de la perruque qu''autre chose, mais qu''importe, elle est surpuissante. En effet, son propriétaire aimait se travestir et se faire passer pour les autres, afin de mieux profiter des personnes naïves. Ses jeux lugubres et glauques finirent par être découverts, tout comme son crâne, une fois sa coiffe retirée. Son immense talent d''artiste lui sauva la vie, puisqu''il se proposa quelques jours avant sa mise à mort, pour sculpter une statue géante à l''effigie des parties intimes du Meulou. Il fût tout de même brûlé vif une fois la statue finie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image105.svg'
+		'../images/image_chapeau/image105.svg'
 	),
 	(
 		'item',
@@ -5566,7 +5566,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coquille de Dragoeuf Noir est idéale pour rester discret la nuit, ou se protéger des chutes de pierres, courantes en montagne, ou lorsque l''on défie un Craqueleur au lancer de rochers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image106.svg'
+		'../images/image_chapeau/image106.svg'
 	),
 	(
 		'item',
@@ -5624,7 +5624,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce masque ne permet ni de prévenir ni de guérir la gueule de bois, mais il vous permet au moins de la dissimuler de façon élégante. La nuance sombre indique juste que vous êtes de mauvaise humeur et qu''il ne faut pas vous chauffer longtemps pour que vous lanciez à tout le monde une volée de bois vert.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image107.svg'
+		'../images/image_chapeau/image107.svg'
 	),
 	(
 		'item',
@@ -5682,7 +5682,7 @@ VALUES
 		NULL,
 		NULL,
 		'Equipé de cette coiffe, vous pourrez sans peine vous travestir et séduire le premier Astrubien un peu trop crédule que vous voudrez arnaquer, en lui proposant une folle nuit d''amour derrière un grand orme, pour 100 kamas seulement.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image108.svg'
+		'../images/image_chapeau/image108.svg'
 	),
 	(
 		'item',
@@ -5740,7 +5740,7 @@ VALUES
 		NULL,
 		NULL,
 		'Transmis de générations en générations, ce casque difforme a même été porté par Crail en personne. Beaucoup d''aventuriers lui prêtent des pouvoirs qu''il n''a pas, caractéristique partagée avec beaucoup de divinités et de héros des temps modernes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image109.svg'
+		'../images/image_chapeau/image109.svg'
 	),
 	(
 		'item',
@@ -5798,7 +5798,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce chapeau sur la tête, vous ressemblez de loin à un Pandawushuka du village de Feudala. De près, vous ne ressemblez à rien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image110.svg'
+		'../images/image_chapeau/image110.svg'
 	),
 	(
 		'item',
@@ -5856,7 +5856,7 @@ VALUES
 		NULL,
 		NULL,
 		'Affublé de cet énorme crâne, vous aurez l''air d''un Grizboule à poils durs, mais sans poils. De quoi laisser sans voix vos admiratrices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image111.svg'
+		'../images/image_chapeau/image111.svg'
 	),
 	(
 		'item',
@@ -5914,7 +5914,7 @@ VALUES
 		NULL,
 		NULL,
 		'Bill voulait une auréole. Il cria si fort et fit si grand caprice qu''on la lui accorda. Un vrai petit diable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image112.svg'
+		'../images/image_chapeau/image112.svg'
 	),
 	(
 		'item',
@@ -5972,7 +5972,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porté autrefois par les forces de l''ordre des plus grandes cités, ce casque est aujourd''hui utilisé pour effrayer ceux qui contestent l''ordre établi et cherchent à en apprendre trop sur ce qui régit leur univers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image113.svg'
+		'../images/image_chapeau/image113.svg'
 	),
 	(
 		'item',
@@ -6030,7 +6030,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce masque a servi à Brouce Boulgoure lorsqu''il infiltra subtilement un repaire de rats d''Egoûtants afin de couper un orme en commençant par les racines. Il finit tout de même par massacrer tous les rats du repaire, parce qu''il n''était en réalité pas très discret, avec ses gros sabots en bois.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image114.svg'
+		'../images/image_chapeau/image114.svg'
 	),
 	(
 		'item',
@@ -6088,7 +6088,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce somptueux chapeau vous permet d''y voir plus clair même lorsqu''il fait déjà assez clair. Il est également très utile pour éblouir les bêtes qui hantent les mines mal famées, ou tout simplement, pour faire croire aux Iops que vous êtes une lumière.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image115.svg'
+		'../images/image_chapeau/image115.svg'
 	),
 	(
 		'item',
@@ -6146,7 +6146,7 @@ VALUES
 		NULL,
 		NULL,
 		'Moins efficace que la Coiffe royale, cette capuche permet toutefois une très bonne évacuation de la sueur. Un peu trop bonne, en fait. Du coup, que l''on porte la capuche ou qu''on ne la porte pas ne fait aucune différence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image116.svg'
+		'../images/image_chapeau/image116.svg'
 	),
 	(
 		'item',
@@ -6204,7 +6204,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette coiffe, le Rat Blanc ressemble à un vrai Rat Blanc de Bonta. Sans cette coiffe, il ressemble à un vrai Rat Blanc de Bonta sans coiffe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image117.svg'
+		'../images/image_chapeau/image117.svg'
 	),
 	(
 		'item',
@@ -6262,7 +6262,7 @@ VALUES
 		NULL,
 		NULL,
 		'Créature étrange sortie d''un monde imaginaire, le Gaddie se démarquait avant tout par son extraordinaire ruse, son aversion totale pour le règne végétal, et sa faculté à jeûner pendant plusieurs jours en temps de guerre. Une créature aussi complexe à comprendre était de toute évidence impossible à maîtriser, on la laissa donc vivre en paix dans les mines sans fond de Kruup, où elle fit connaissance avec une vieille Liche dévoreuse de Bouftons.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image118.svg'
+		'../images/image_chapeau/image118.svg'
 	),
 	(
 		'item',
@@ -6320,7 +6320,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe de mariée est passée de mode depuis bien longtemps, peut-être à cause de sa dentelle qui date d''une autre ère. Recyclée en culotte, et portée sur une tête bien garnie en cheveux, elle pourrait cependant mettre en transe, le plus blasé des Chafers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image119.svg'
+		'../images/image_chapeau/image119.svg'
 	),
 	(
 		'item',
@@ -6378,7 +6378,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est un vieil Enutrof, connu sous le nom de Dhy-Ah-Mhanhd, aigri et rongé par des siècles de malchance qui fit le premier, la découverte de cette terrible coiffe, cachée au fond d''une alcôve dans les grottes de Bimd''Oule. Plus tard, l''Enutrof s''exila loin des terres d''Amakna pour tenter d''échapper à l''ennui et découvrir de nouveaux horizons. La légende raconte qu''il revient sur ses terres natales une fois par siècle, pour se moquer de ses anciens amis, mais surtout par nostalgie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image120.svg'
+		'../images/image_chapeau/image120.svg'
 	),
 	(
 		'item',
@@ -6436,7 +6436,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau au nom surprenant, appartenait à un pauvre Ecaflip, qui avait perdu l''usage de la parole suite à un terrible traumatisme. Artiste dans l''âme, et dans le sang, il fût contraint de suivre une formation de Brasseur. Il se noya dans un fût de bière et de larmes, vers son quatorzième anniversaire. Heureusement, la bière ne fut pas perdue pour autant, puisque le prêtre responsable des obsèques, tomba dans un coma éthylique pendant plusieurs années avant de reprendre son office là où il s''était arrêté.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image121.svg'
+		'../images/image_chapeau/image121.svg'
 	),
 	(
 		'item',
@@ -6494,7 +6494,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe est un hommage aux cousins lointains des Moskitos, les Phalènes. Bien plus gros, mais plus gentils que les Moskitos, les Phalènes avaient une fâcheuse tendance à chercher à se reproduire avec tout et n''importe quoi, mais surtout avec n''importe quoi, ce qui a conduit à une extinction progressive de leur espèce. Cette terrible histoire n''avait laissé personne indifférent, et de nos jours, il est courant d''insulter un aventurier de Phalène, lorsque l''on veut insinuer qu''il choisit très mal ses conjoints...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image122.svg'
+		'../images/image_chapeau/image122.svg'
 	),
 	(
 		'item',
@@ -6552,7 +6552,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Coiffe fut créée pour Jicé Aouaire car il a la tête plate, aucun soucis d''équilibre pour l''arborer donc. Il l''a faite faire après avoir vaincu l''Abraknyde Ancestral en brisant ses noisettes entre ses fesses, mais il s''en vante moins.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image123.svg'
+		'../images/image_chapeau/image123.svg'
 	),
 	(
 		'item',
@@ -6610,7 +6610,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau a été confectionné il y a bien longtemps par des apprentis tailleurs qui voulaient se protéger des crises de colères de Mirko le tailleur. Ce dernier avait la fâcheuse habitude de décimer ses apprentis avec des coups de pieds en pleine tête, lorsqu''ils ne travaillaient pas assez vite. Une façon comme une autre de les remotiver pour qu''ils se mettent au travail.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image124.svg'
+		'../images/image_chapeau/image124.svg'
 	),
 	(
 		'item',
@@ -6668,7 +6668,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce splendide chapeau a été imaginé sur l''île de Dora Bora un peu au sud de l''île de Moon. Parfaitement adapté au combat, il est également très apprécié comme corbeille à fruits, pour entreposer les noix de Kokokos Traumatisées par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image125.svg'
+		'../images/image_chapeau/image125.svg'
 	),
 	(
 		'item',
@@ -6726,7 +6726,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Solomonk était le chapeau d''un vieux chef d''une Tribu de Pandawas, experts en potions laxatives. Les Pandawas en question étant souvent obligés de tester eux-mêmes les effets de leurs potions, ils utilisaient ce type de chapeau, qui à défaut de les mettre en valeur, faisait un excellent pot de chambre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image126.svg'
+		'../images/image_chapeau/image126.svg'
 	),
 	(
 		'item',
@@ -6784,7 +6784,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le slogan publicitaire de ce casque était : "Cet imposant casque en argile fera de vous un colosse à la tête d''argile". Une étude approfondie de l''objet vous permettra de vous apercevoir que le casque en question n''est pas en argile, mais en plomb. De quoi prendre un peu de plomb dans le crâne à moindre frais.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image127.svg'
+		'../images/image_chapeau/image127.svg'
 	),
 	(
 		'item',
@@ -6842,7 +6842,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau en forme de cuve servait aux pompiers d''Amakna lors des incendies de champs de céréales. De nos jours, il sert avant tout aux Brasseurs et aux serveuses de taverne, qui servent de fûts sur pattes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image128.svg'
+		'../images/image_chapeau/image128.svg'
 	),
 	(
 		'item',
@@ -6900,7 +6900,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau étrange vous protègera des rayons du soleil, même la nuit. Attention, il reprend vie une fois toutes les trois décennies, et se retourne contre son maître en tentant de l''étouffer pendant son sommeil.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image129.svg'
+		'../images/image_chapeau/image129.svg'
 	),
 	(
 		'item',
@@ -6958,7 +6958,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ça sur le crâne, vous aurez l''air d''un Kaskargo. Certes vous serez protégé des coups à la tête, mais est-ce une raison pour baver ainsi ? Vous n''avez pourtant pas besoin de ça pour vous déplacer !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image130.svg'
+		'../images/image_chapeau/image130.svg'
 	),
 	(
 		'item',
@@ -7016,7 +7016,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce casque absolument terrifiant et d''une taille démesurée ferait passer un petit chérubin comme vous, pour un impitoyable guerrier venu de l''au delà. Cloué sur un mur, il fera un excellent porte manteau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image131.svg'
+		'../images/image_chapeau/image131.svg'
 	),
 	(
 		'item',
@@ -7074,7 +7074,7 @@ VALUES
 		NULL,
 		NULL,
 		'De loin, cette coiffe ressemble à un abat-jour avec deux trous pour les yeux. De près, aussi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image132.svg'
+		'../images/image_chapeau/image132.svg'
 	),
 	(
 		'item',
@@ -7132,7 +7132,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Chapeau de la Gamine Zoth a la particularité de lui faire voir les choses en double. Ainsi, lorsqu''elle voit une personne de sa tribu, elle zoth zoth.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image133.svg'
+		'../images/image_chapeau/image133.svg'
 	),
 	(
 		'item',
@@ -7190,7 +7190,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette couronne est assez difficile à attraper, elle file entre les doigts. Aucun doute, c''est bien la Couronne du Tofu Royal. En revanche, elle ne semble pas du tout pouvoir s''assortir avec votre petite tête, ne parlons même pas de celle d''un Iop !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image134.svg'
+		'../images/image_chapeau/image134.svg'
 	),
 	(
 		'item',
@@ -7248,7 +7248,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe appartenait à une petite Xélorette, qui prenait un malin plaisir à dérégler l''écoulement du temps. La légende raconte qu''elle parvint à voler plusieurs jours aux habitants d''Amakna. Elle ne s''est soustraite à la colère de la population qu''en distribuant de nombreuses friandises.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image135.svg'
+		'../images/image_chapeau/image135.svg'
 	),
 	(
 		'item',
@@ -7306,7 +7306,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe n''a rien à voir avec un Dora... Absolument rien on vous dit ! Il est donc inutile de répandre de fausses rumeurs à propos du manque d''inspiration ou de la fainéantise de son concepteur . En revanche elle est très jolie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image136.svg'
+		'../images/image_chapeau/image136.svg'
 	),
 	(
 		'item',
@@ -7364,7 +7364,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce bandeau, les Iops n''auront jamais été aussi séduisants !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image137.svg'
+		'../images/image_chapeau/image137.svg'
 	),
 	(
 		'item',
@@ -7422,7 +7422,7 @@ VALUES
 		NULL,
 		NULL,
 		'Grâce à ce masque, vous affronterez tous les dangers sans aucune crainte ! C''est normal vu qu''il obstrue tout le champ de vision.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image138.svg'
+		'../images/image_chapeau/image138.svg'
 	),
 	(
 		'item',
@@ -7480,7 +7480,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce masque ne permet ni de prévenir ni de guérir la gueule de bois, mais il vous donne au moins l''occasion de la dissimuler de façon élégante.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image139.svg'
+		'../images/image_chapeau/image139.svg'
 	),
 	(
 		'item',
@@ -7538,7 +7538,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce casque a les mêmes avantages que les autres coiffes Zoth : il protège des coups de soleil même en plein cagnard, il amortit les coups portés à la tête, et il empêche de prendre conscience du danger en restreignant le champ de vision de celui qui le porte. Bref, ceci est le couvre-chef idéal du guerrier.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image140.svg'
+		'../images/image_chapeau/image140.svg'
 	),
 	(
 		'item',
@@ -7596,7 +7596,7 @@ VALUES
 		NULL,
 		NULL,
 		'En dépeçant le Meulou, des chasseurs se sont aperçus qu''il ne possède qu''une seule grosse corne qui traverse son crâne de part en part, ce qui ne gène nullement les Iops qui la portent avec enthousiasme non dissimulé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image141.svg'
+		'../images/image_chapeau/image141.svg'
 	),
 	(
 		'item',
@@ -7654,7 +7654,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce surprenant casque transforme son propriétaire en Bwork de Bronze selon la légende. A essayer d''urgence sur les gros lourds, vous pourrez les refondre ensuite et en tirer un bon prix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image142.svg'
+		'../images/image_chapeau/image142.svg'
 	),
 	(
 		'item',
@@ -7712,7 +7712,7 @@ VALUES
 		NULL,
 		NULL,
 		'Vous pouvez porter cette coiffe dans n''importe quel sens, on aura toujours l''impression qu''elle n''est pas droite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image143.svg'
+		'../images/image_chapeau/image143.svg'
 	),
 	(
 		'item',
@@ -7770,7 +7770,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau était utilisé par certains Xélors, pour cacher leur calvitie naissante. Certains Enutrofs s''en servaient même pour cacher leur femme. Une façon habile de cacher deux problèmes majeurs de la vie de tous les jours.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image144.svg'
+		'../images/image_chapeau/image144.svg'
 	),
 	(
 		'item',
@@ -7828,7 +7828,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce chapeau unique a appartenu à un Xélor, connu pour ses idées explosives et sa maîtrise du temps. Il est mort d''une façon assez peu commune en lançant un Vent de Panique décoiffant, et en oubliant que son chapeau lançait de petites étincelles autour de lui. Sa mort fut paraît-il assez douloureuse, mais si lumineuse, qu''on raconte qu''il aurait éclairé la cité de Brâkmar toute entière pendant quelques secondes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image145.svg'
+		'../images/image_chapeau/image145.svg'
 	),
 	(
 		'item',
@@ -7886,7 +7886,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe tient chaud aux oreilles, et absorbe les effluves d''alcool qui s''échappent de votre haleine. Que demander de plus ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image146.svg'
+		'../images/image_chapeau/image146.svg'
 	),
 	(
 		'item',
@@ -7944,7 +7944,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe stylée donne la Mitcho classe à n''importe qui, ainsi qu''une odeur de sous-bois dont vos amis se passeraient bien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image147.svg'
+		'../images/image_chapeau/image147.svg'
 	),
 	(
 		'item',
@@ -8002,7 +8002,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce casque sur la tête, vous pouvez espérer vous élever dans les airs si vous tournez sur vous-même à la vitesse de l''éclair. Pour l''atterrissage, débrouillez-vous.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image148.svg'
+		'../images/image_chapeau/image148.svg'
 	),
 	(
 		'item',
@@ -8060,7 +8060,7 @@ VALUES
 		NULL,
 		NULL,
 		'La coiffe du Maître Zoth possède l''immense avantage de restreindre le champ de vision de manière encore plus importante que les autres casques. C''est grâce à lui que l''on peut accéder à la fameuse technique de combat dite « de la fouine ». En gros, il suffit de frapper n''importe où en utilisant toutes ses forces. Étant ainsi totalement imprévisible, vous êtes sûr de vaincre l''adversaire (ou du moins le surprendre suffisamment pour lui donner des coups bien placés).',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image149.svg'
+		'../images/image_chapeau/image149.svg'
 	),
 	(
 		'item',
@@ -8118,7 +8118,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe se transmet dans la famille du Minotot, de génération en génération. Ce qui explique en partie son odeur de pellicules en décomposition.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image150.svg'
+		'../images/image_chapeau/image150.svg'
 	),
 	(
 		'item',
@@ -8176,7 +8176,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce masque Vaudou sert essentiellement à masquer le visage des Kannibouls qui aiment la fronde (comme Thierry), mais qui ratent souvent leur cible. C''est pourquoi, ils sont toujours un peu verts de rage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image151.svg'
+		'../images/image_chapeau/image151.svg'
 	),
 	(
 		'item',
@@ -8234,7 +8234,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Kannibouls Jav ont souvent le "blues" et peignent leur coiffe en bleu. Est-ce lié à un chagrin d''amour ou à une autre raison ? Difficile de connaître le fin mot de cette histoire. Mais ce serait bien qu''ils se contentent de porter le masque et qu''ils arrêtent de chanter leur mélancolie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image152.svg'
+		'../images/image_chapeau/image152.svg'
 	),
 	(
 		'item',
@@ -8292,7 +8292,7 @@ VALUES
 		NULL,
 		NULL,
 		'À force de rire jaune car ils loupent leur objectif, certains Kanniboules ont peint leur masque de cette couleur. Ainsi, même lorsqu''ils rient de bon cœur, on a l''impression qu''ils se forcent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image153.svg'
+		'../images/image_chapeau/image153.svg'
 	),
 	(
 		'item',
@@ -8350,7 +8350,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Kannibouls Archer n''arrivaient pas à se concentrer et à bien viser sauf lorsqu''ils étaient très en colère. Ainsi, pour être toujours sur de voir rouge, ils ont peint leur masque dans cette couleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image154.svg'
+		'../images/image_chapeau/image154.svg'
 	),
 	(
 		'item',
@@ -8408,7 +8408,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous agitez vos deux petits grelots rapidement, vous pourrez presque jouer de la musique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image155.svg'
+		'../images/image_chapeau/image155.svg'
 	),
 	(
 		'item',
@@ -8466,7 +8466,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce couvre-chef a été porté par Kuri en personne pendant plusieurs années, jusqu''à ce qu''elle décide d''arrêter de porter des coiffes démodées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image156.svg'
+		'../images/image_chapeau/image156.svg'
 	),
 	(
 		'item',
@@ -8524,7 +8524,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette coiffe sur le crâne, vous aurez toujours une tête en pétard, même si vous n''êtes pas en colère. Il faut dire que les écorces de la chevelure du Tynril frisent lorsque le temps est humide, ce qui fait de cet animal l''indicateur météorologique le plus sûr au monde. En revanche, il redoute le feu. Faites donc très attention aux flammes si vous ne voulez pas vous transformer en torche humaine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image157.svg'
+		'../images/image_chapeau/image157.svg'
 	),
 	(
 		'item',
@@ -8582,7 +8582,7 @@ VALUES
 		NULL,
 		NULL,
 		'Coiffe royale, cette capuche possède les mêmes vertus que la Cape du Roissingue. Ses micro-aérations contribuent à une meilleure évacuation de la sueur pour toujours garder la tête froide. Hélas, elle possède également les défauts de la cape : son odeur nauséabonde est si présente qu''on pourrait presque la découper au couteau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image158.svg'
+		'../images/image_chapeau/image158.svg'
 	),
 	(
 		'item',
@@ -8640,7 +8640,7 @@ VALUES
 		NULL,
 		NULL,
 		'Autrefois porté par un Xélor sauvage dont la soeur avait été enlevée par des esclavagistes sans scrupules, ce somptueux chapeau fera de vous un sauvage vraiment original.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image159.svg'
+		'../images/image_chapeau/image159.svg'
 	),
 	(
 		'item',
@@ -8698,7 +8698,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette coiffe n''est autre qu''une partie de la tête d''Ougah, très grande divinité vénérée par les Porcos. Rembourrée avec du tissu, des plumes et de la laine, cette coiffe peut être portée par n''importe qui, à condition d''en supporter l''odeur et le poids.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image160.svg'
+		'../images/image_chapeau/image160.svg'
 	),
 	(
 		'item',
@@ -8756,7 +8756,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce chapeau sur le crâne, le Crocodaille pense être à la pointe de la mode. Il faudrait que celle-ci soit vraiment bien émoussée pour ce que cela soit possible. Mais il vaut mieux éviter de lui faire remarquer son côté ridicule. Le Crocodaille est très susceptible...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image161.svg'
+		'../images/image_chapeau/image161.svg'
 	),
 	(
 		'item',
@@ -8814,7 +8814,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prenez un Dora, recouvrez-le de bave de Bouftou et de la sueur de Iop. Laissez le tout moisir pendant quelques semaines, et voilà vous avec une réplique de Chapignon. Attention, ce chapeau donne parfois des hallucinations.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image162.svg'
+		'../images/image_chapeau/image162.svg'
 	),
 	(
 		'item',
@@ -8872,7 +8872,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce magnifique casque renferme bien des secrets, pendant de longues années, lorsqu''il était le seul compagnon du Bworker, et lorsqu''il était encore vivant, le Bworker lui aurait confié toutes ses histoires de protections usagées. A force d''entendre ces atrocités, le casque a fini par mourir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image163.svg'
+		'../images/image_chapeau/image163.svg'
 	),
 	(
 		'item',
@@ -8930,7 +8930,7 @@ VALUES
 		NULL,
 		NULL,
 		'Qu''Tan se servait de ces cornes afin de punir ses sujets quand ils revenaient bredouille de la chasse, ou plutôt "brocouille" comme on dit dans le coin.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image164.svg'
+		'../images/image_chapeau/image164.svg'
 	),
 	(
 		'item',
@@ -8988,7 +8988,7 @@ VALUES
 		NULL,
 		NULL,
 		'On dit que le Kimbo porte cette perruque en hommage à un bel éphèbe bronzé rencontré un jour sur son île, dont il appréciait le sourire aéré. Il la cache néanmoins sous sa coco parce qu''il la trouve quand même ridicule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_chapeau/image165.svg'
+		'../images/image_chapeau/image165.svg'
 	),
 	(
 		'item',
@@ -9046,7 +9046,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d''attirer l''attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image0.svg'
+		'../images/image_cape/image0.svg'
 	),
 	(
 		'item',
@@ -9104,7 +9104,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d''attirer l''attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image1.svg'
+		'../images/image_cape/image1.svg'
 	),
 	(
 		'item',
@@ -9162,7 +9162,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d''attirer l''attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image2.svg'
+		'../images/image_cape/image2.svg'
 	),
 	(
 		'item',
@@ -9220,7 +9220,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d''attirer l''attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image3.svg'
+		'../images/image_cape/image3.svg'
 	),
 	(
 		'item',
@@ -9278,7 +9278,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d''attirer l''attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image4.svg'
+		'../images/image_cape/image4.svg'
 	),
 	(
 		'item',
@@ -9336,7 +9336,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d''attirer l''attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image5.svg'
+		'../images/image_cape/image5.svg'
 	),
 	(
 		'item',
@@ -9394,7 +9394,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape permet de passer incognito dans un cimetière, ou de se déguiser en Chafeuse lorsque le besoin d''extrême perversité se fait sentir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image6.svg'
+		'../images/image_cape/image6.svg'
 	),
 	(
 		'item',
@@ -9452,7 +9452,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape vous donne des ailes. La fumée qui s''en dégage lorsqu''elle brûle, pourra même vous faire planer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image7.svg'
+		'../images/image_cape/image7.svg'
 	),
 	(
 		'item',
@@ -9510,7 +9510,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la chance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image8.svg'
+		'../images/image_cape/image8.svg'
 	),
 	(
 		'item',
@@ -9568,7 +9568,7 @@ VALUES
 		NULL,
 		NULL,
 		'Classe mais peu performante, cette cape comblera tout de même les jeunes aventuriers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image9.svg'
+		'../images/image_cape/image9.svg'
 	),
 	(
 		'item',
@@ -9626,7 +9626,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la chance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image10.svg'
+		'../images/image_cape/image10.svg'
 	),
 	(
 		'item',
@@ -9684,7 +9684,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la chance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image11.svg'
+		'../images/image_cape/image11.svg'
 	),
 	(
 		'item',
@@ -9742,7 +9742,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape est certainement l''une des plus puissantes au monde. Elle augmente toutes les caractéristiques de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image12.svg'
+		'../images/image_cape/image12.svg'
 	),
 	(
 		'item',
@@ -9800,7 +9800,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la vie de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image13.svg'
+		'../images/image_cape/image13.svg'
 	),
 	(
 		'item',
@@ -9858,7 +9858,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la sagesse de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image14.svg'
+		'../images/image_cape/image14.svg'
 	),
 	(
 		'item',
@@ -9916,7 +9916,7 @@ VALUES
 		NULL,
 		NULL,
 		'La seule chose qui soit plus impressionnante qu''un Champ Champ enragé, c''est un Champ Champ enragé avec une cape. En effet, cette cape incarne une certaine forme de sur-puissance vestimentaire, bien qu''elle soit avouons-le, assez laide.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image15.svg'
+		'../images/image_cape/image15.svg'
 	),
 	(
 		'item',
@@ -9974,7 +9974,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape est indispensable à l''entraînement au Pandawushu...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image16.svg'
+		'../images/image_cape/image16.svg'
 	),
 	(
 		'item',
@@ -10032,7 +10032,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape a tout pour plaire : sa résistance, son confort, sa couleur, sa rareté... En revanche son odeur est redoutable pour les parois nasales. Mais bon, on ne peut pas tout avoir non plus.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image17.svg'
+		'../images/image_cape/image17.svg'
 	),
 	(
 		'item',
@@ -10090,7 +10090,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous voulez être la plus belle ce soir pour aller danser, c''est la cape qu''il vous faut.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image18.svg'
+		'../images/image_cape/image18.svg'
 	),
 	(
 		'item',
@@ -10148,7 +10148,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette magnifique cape est un brillant mélange entre l''essence d''Abraknyde et le bon Bouftou des familles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image19.svg'
+		'../images/image_cape/image19.svg'
 	),
 	(
 		'item',
@@ -10206,7 +10206,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la sagesse de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image20.svg'
+		'../images/image_cape/image20.svg'
 	),
 	(
 		'item',
@@ -10264,7 +10264,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la vie de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image21.svg'
+		'../images/image_cape/image21.svg'
 	),
 	(
 		'item',
@@ -10322,7 +10322,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape vient du pays des Patitaliennes, un endroit où l''on parle avec les mains. Cela explique la grande liberté de mouvement laissée par celle-ci. Elle est en outre d''une légèreté surprenante.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image22.svg'
+		'../images/image_cape/image22.svg'
 	),
 	(
 		'item',
@@ -10380,7 +10380,7 @@ VALUES
 		NULL,
 		NULL,
 		'Venant du Mont Taigüe ou du monde Aigüe selon la manière dont vous le prononcez, cette cape a conduit à l''empoisonnement de son ancienne propriétaire, mais bizarrement elle augmente la résistance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image23.svg'
+		'../images/image_cape/image23.svg'
 	),
 	(
 		'item',
@@ -10438,7 +10438,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ayant appartenu à une certaine Mulba, qui s''en servait pour transporter des objets encombrants dans sa quête des Sept Poules de Cristal venues des étoiles, cette cape augmente considérablement la force.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image24.svg'
+		'../images/image_cape/image24.svg'
 	),
 	(
 		'item',
@@ -10496,7 +10496,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la vie de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image25.svg'
+		'../images/image_cape/image25.svg'
 	),
 	(
 		'item',
@@ -10554,7 +10554,7 @@ VALUES
 		NULL,
 		NULL,
 		'Tissée magiquement avec un soin infini, la Cape Abilité permet à son porteur de discerner les points faibles de ses adversaires pour leur porter des coups destructeurs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image26.svg'
+		'../images/image_cape/image26.svg'
 	),
 	(
 		'item',
@@ -10612,7 +10612,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la sagesse de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image27.svg'
+		'../images/image_cape/image27.svg'
 	),
 	(
 		'item',
@@ -10670,7 +10670,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette jolie cape a été portée pendant des années par le célèbre Homme Ours. Elle ne fera pas de vous un ours, mais vous pourrez rivaliser avec les plus grands.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image28.svg'
+		'../images/image_cape/image28.svg'
 	),
 	(
 		'item',
@@ -10728,7 +10728,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape est comme son porteur, unique en son genre et trop souvent sous-estimée. Elle est constituée d''un assemblage de peaux de larves vertes, ce qui lui donne un aspect rugueux des plus sympathique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image29.svg'
+		'../images/image_cape/image29.svg'
 	),
 	(
 		'item',
@@ -10786,7 +10786,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pour ceux qui ont toujours rêvé de voler comme un Kwak, allez vous recoucher, car ces ailes ne feront de vous qu''un danger public doublé d''un idiot.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image30.svg'
+		'../images/image_cape/image30.svg'
 	),
 	(
 		'item',
@@ -10844,7 +10844,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette superbe cape a appartenu au Grand Stratéquerre. Ce célèbre seigneur de guerre et fin stratège, avide de conquête de l''univers, a bien vite abandonné tous ses projets après avoir revêtu cette cape. Étrange !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image31.svg'
+		'../images/image_cape/image31.svg'
 	),
 	(
 		'item',
@@ -10902,7 +10902,7 @@ VALUES
 		NULL,
 		NULL,
 		'On prétend que cette cape légendaire permet de devenir presque invincible si on la combine à l''épée légendaire des escrimeurs, le Dard Tagnan et au chapeau légendaire des Six Rameaux de Bergers Rahks.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image32.svg'
+		'../images/image_cape/image32.svg'
 	),
 	(
 		'item',
@@ -10960,7 +10960,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Samoulaille est une cape légendaire, brodée par les tailleurs pour les guerriers préférant les combats au corps à corps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image33.svg'
+		'../images/image_cape/image33.svg'
 	),
 	(
 		'item',
@@ -11018,7 +11018,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Boufteuse augmente les dégâts et la vitalité de son porteur. Cependant elle dégage une forte odeur, et il n''est pas rare qu''un bouftou vous prenne pour l''un des siens.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image34.svg'
+		'../images/image_cape/image34.svg'
 	),
 	(
 		'item',
@@ -11076,7 +11076,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette étrange cape semble avoir été coupée en deux. Mais pourquoi aurait-elle était coupée en deux ? Personne ne le sait, même si tout le monde a son avis sur la question.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image35.svg'
+		'../images/image_cape/image35.svg'
 	),
 	(
 		'item',
@@ -11192,7 +11192,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape rouge sang a baigné dans le sang pendant des années. Ce type de cape est très prisée lors des Fêtes Dalouhines.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image37.svg'
+		'../images/image_cape/image37.svg'
 	),
 	(
 		'item',
@@ -11250,7 +11250,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les effets magiques de cette cape sont souvent surestimés, ce qui a causé la perte de nombreux aventuriers, notamment, le tristement célèbre Ménestrel Francisque Kabroule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image38.svg'
+		'../images/image_cape/image38.svg'
 	),
 	(
 		'item',
@@ -11308,7 +11308,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces ailes en bois améliorées ont été rembourrées et rendues plus légères grâce à des plumes et du tissu de qualité. L''armature étant toujours en bois, vous aurez tout de même du mal à ne pas vous écraser.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image39.svg'
+		'../images/image_cape/image39.svg'
 	),
 	(
 		'item',
@@ -11366,7 +11366,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape ne peut être portée que par les grands justiciers d''Amakna, c''est à dire presque personne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image40.svg'
+		'../images/image_cape/image40.svg'
 	),
 	(
 		'item',
@@ -11424,7 +11424,7 @@ VALUES
 		NULL,
 		NULL,
 		'On raconte que les Fourbasses mortes sont très confortables une fois qu''elles ont pris le temps de se décomposer au soleil. En effet, avec le temps elles deviennent beaucoup plus souples et douces. Beaucoup d''aventuriers aimeraient pouvoir en dire autant de leur dulcinée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image41.svg'
+		'../images/image_cape/image41.svg'
 	),
 	(
 		'item',
@@ -11482,7 +11482,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape a été confectionné grâce à des poils et autres élèments organiques de diverses Mulous... On peut dire qu''elle respire la puissance.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image42.svg'
+		'../images/image_cape/image42.svg'
 	),
 	(
 		'item',
@@ -11540,7 +11540,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape augmente la portée de son porteur, lui permettant d''atteindre des cibles très éloignées, ou d''impressionner les aventuriers un peu naïfs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image43.svg'
+		'../images/image_cape/image43.svg'
 	),
 	(
 		'item',
@@ -11598,7 +11598,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette magnifique cape a été confectionnée avec les plumes du dernier Poolay d''Amakna. Véritable rareté, les collectionneurs rêvent de l''avoir dans leur collection.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image44.svg'
+		'../images/image_cape/image44.svg'
 	),
 	(
 		'item',
@@ -11656,7 +11656,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape d''apparence quelconque n''est en fait pas tout à fait quelconque. Elle rendrait invisible son porteur aux yeux de ceux qui ne le regardent pas. Impressionnant !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image45.svg'
+		'../images/image_cape/image45.svg'
 	),
 	(
 		'item',
@@ -11714,7 +11714,7 @@ VALUES
 		NULL,
 		NULL,
 		'La cape Hilère est un type de cape très demandée par les coiffeurs. Ils adorent se rouler dedans. Elle rend les cheveux de son porteur plus résistants aux chocs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image46.svg'
+		'../images/image_cape/image46.svg'
 	),
 	(
 		'item',
@@ -11772,7 +11772,7 @@ VALUES
 		NULL,
 		NULL,
 		'Maimpa était un Ecaflip qui se moquait du vide, prétextant qu''il retomberait toujours sur ses pattes. Mais un jour, il atterrit sur un Trool affamé. Il fût enterré le jour même à l''endroit où l''on a trouvé ses restes. Un peu partout en quelques sortes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image47.svg'
+		'../images/image_cape/image47.svg'
 	),
 	(
 		'item',
@@ -11830,7 +11830,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape, cousue main avec des plumes de Tofus, permet au héros qui la porte de courir plus vite et de s''échapper plus facilement des zones de tacle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image48.svg'
+		'../images/image_cape/image48.svg'
 	),
 	(
 		'item',
@@ -11888,7 +11888,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite cape rousse peut également faire office de descente de lit, ou de paillasson, de quoi remettre au goût du jour l''intérieur de votre habitation, de manière économique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image49.svg'
+		'../images/image_cape/image49.svg'
 	),
 	(
 		'item',
@@ -11946,7 +11946,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape qui vient du village d''Akwadala, peut servir de paillasson, ou même de serpillière si vous venez de sortir de l''eau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image50.svg'
+		'../images/image_cape/image50.svg'
 	),
 	(
 		'item',
@@ -12004,7 +12004,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Cape est bien étrange, elle est faite de bouts de boue du Boo, mais elle tient tout de même debout. Une fois sur vos épaules, elle pourra même faire de vous un boute-en-train.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image51.svg'
+		'../images/image_cape/image51.svg'
 	),
 	(
 		'item',
@@ -12062,7 +12062,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéale pour se camoufler en motte de terre géante, cette cape vous permettra d''attaquer par surprise les laboureurs et leur voler leurs richesses. Elle est donc avant tout réservée aux collectionneurs de silex.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image52.svg'
+		'../images/image_cape/image52.svg'
 	),
 	(
 		'item',
@@ -12120,7 +12120,7 @@ VALUES
 		NULL,
 		NULL,
 		'Légère et raffinée, cette création peut accessoirement servir de rideau pour les plus dépourvus. Elle était jadis très convoitée par la Momie Nova en personne, qui désirait être correctement habillée pour sortir le soir. Un exemple à suivre pour certains.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image53.svg'
+		'../images/image_cape/image53.svg'
 	),
 	(
 		'item',
@@ -12178,7 +12178,7 @@ VALUES
 		NULL,
 		NULL,
 		'Très peu irritante, mais un peu quand même il faut l''avouer, cette cape ne pourra pas hélas vous faire voler, ni même planer. Même en y cousant un grand "M" dessus, ça ne marchera pas, certains y croyaient pourtant dur comme fer. Dommage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image54.svg'
+		'../images/image_cape/image54.svg'
 	),
 	(
 		'item',
@@ -12236,7 +12236,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéale pour se rafraîchir sur l''île de Moon pendant la saison chaude, et parfaite pour refroidir les ardeurs de vos amis les plus entreprenants, cette cape saura répondre aux attentes de l''aventurier des temps modernes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image55.svg'
+		'../images/image_cape/image55.svg'
 	),
 	(
 		'item',
@@ -12294,7 +12294,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette splendide cape, tissée à partir de divers éléments fibreux de toute nature, est une pièce unique de par sa couleur et ses reflets.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image56.svg'
+		'../images/image_cape/image56.svg'
 	),
 	(
 		'item',
@@ -12352,7 +12352,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Coq ayant donné ses plumes pour la confection de cette cape s''est débattu pendant plusieurs jours et plusieurs nuits avant de finalement tomber à bout de force et de se laisser déplumer. "Hû !" s''exclama son propriétaire, lui aussi à bout de souffle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image57.svg'
+		'../images/image_cape/image57.svg'
 	),
 	(
 		'item',
@@ -12410,7 +12410,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape a été cousue dans un seul et unique but, créer une cape capable de maintenir éveillé son porteur pendant plusieurs jours d''affilée. Le résultat est bel et bien présent, elle est si rigide, qu''elle vous gardera debout dans toutes les circonstances. Attention cependant, vous ne serez plus capables de nouer vos lacets.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image58.svg'
+		'../images/image_cape/image58.svg'
 	),
 	(
 		'item',
@@ -12468,7 +12468,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape, pas très jolie au premier abord est pourtant très efficace, une fois que l''on s''habitue à son odeur de Corbac en décomposition.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image59.svg'
+		'../images/image_cape/image59.svg'
 	),
 	(
 		'item',
@@ -12526,7 +12526,7 @@ VALUES
 		NULL,
 		NULL,
 		'Qui n''a jamais rêvé de revêtir une cape en coquille de Scarafeuilles ? Une fois équipée, vous devriez réussir à vous prendre pour un véritable Scarafeuille, et peut-être arriverez-vous à vous déplacer en glissant et en dérapant. De quoi décontenancer une horde de Trools.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image60.svg'
+		'../images/image_cape/image60.svg'
 	),
 	(
 		'item',
@@ -12584,7 +12584,7 @@ VALUES
 		NULL,
 		NULL,
 		'Qui n''a jamais rêvé de revêtir une cape en coquille de Scarafeuilles ? Une fois équipée, vous devriez réussir à vous prendre pour un véritable Scarafeuille, et peut-être arriverez-vous à vous déplacer en glissant et en dérapant. De quoi décontenancer une horde de Trools.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image61.svg'
+		'../images/image_cape/image61.svg'
 	),
 	(
 		'item',
@@ -12642,7 +12642,7 @@ VALUES
 		NULL,
 		NULL,
 		'Qui n''a jamais rêvé de revêtir une cape en coquille de Scarafeuilles ? Une fois équipée, vous devriez réussir à vous prendre pour un véritable Scarafeuille, et peut-être arriverez-vous à vous déplacer en glissant et en dérapant. De quoi décontenancer une horde de Trools.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image62.svg'
+		'../images/image_cape/image62.svg'
 	),
 	(
 		'item',
@@ -12700,7 +12700,7 @@ VALUES
 		NULL,
 		NULL,
 		'Qui n''a jamais rêvé de revêtir une cape en coquille de Scarafeuilles ? Une fois équipée, vous devriez réussir à vous prendre pour un véritable Scarafeuille, et peut-être arriverez-vous à vous déplacer en glissant et en dérapant. De quoi décontenancer une horde de Trools.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image63.svg'
+		'../images/image_cape/image63.svg'
 	),
 	(
 		'item',
@@ -12758,7 +12758,7 @@ VALUES
 		NULL,
 		NULL,
 		'De quoi ressembler à une ombre, ou se déguiser en Maître Corbac pour impressionner les filles à la sortie de la Boulangerie avant la tombée de la nuit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image64.svg'
+		'../images/image_cape/image64.svg'
 	),
 	(
 		'item',
@@ -12816,7 +12816,7 @@ VALUES
 		NULL,
 		NULL,
 		'Vêtu de Feuilles d''Abraknydes, vous pourrez vous pavaner au beau milieu de la forêt sans que l''on vous reconnaisse vraiment. Attention toutefois aux Abraknydes en quête de bourgeonnements printaniers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image65.svg'
+		'../images/image_cape/image65.svg'
 	),
 	(
 		'item',
@@ -12874,7 +12874,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape en pierre est un peu trop rigide, mais elle n''en reste pas moins une excellente protection contre les jets de pierres, ou plus dangereux encore, contre les crachats de Craqueleurs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image66.svg'
+		'../images/image_cape/image66.svg'
 	),
 	(
 		'item',
@@ -12932,7 +12932,7 @@ VALUES
 		NULL,
 		NULL,
 		'Hirvé Vélard, célèbre ménestrel de son état, aimait chanter à en perdre la voix. Il fut brûlé vif près de la banque de Bonta, après avoir fait scandale avec sa chanson "Fais-la frire, Mourir ou vivre".',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image67.svg'
+		'../images/image_cape/image67.svg'
 	),
 	(
 		'item',
@@ -12990,7 +12990,7 @@ VALUES
 		NULL,
 		NULL,
 		'A base de tissu sanguin, la Cape Sanguine a un aspect cartonneux au toucher, comme si la teinture rougeâtre avait coagulé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image68.svg'
+		'../images/image_cape/image68.svg'
 	),
 	(
 		'item',
@@ -13048,7 +13048,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape provient d''un Ouginak, elle sent encore l''odeur de sa truffe, chaude et humide, un peu comme les mamelles d''une femelle Bouftou en rût.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image69.svg'
+		'../images/image_cape/image69.svg'
 	),
 	(
 		'item',
@@ -13106,7 +13106,7 @@ VALUES
 		NULL,
 		NULL,
 		'Parfois, lorsqu''un guerrier et une Dragodinde s''unissent, il peut se produire de bien étranges événements. Cette cape en est la preuve vivante, puisqu''il s''agit des ailes d''une Dragodinde cousues sur une cape. La Dragodinde qui s''est sacrifiée pour cette cape, l''a offerte au célèbre ménestrel Lonne Jenone, le jour de leur union. Francisque Kabroule en aurait même fait une chanson.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image70.svg'
+		'../images/image_cape/image70.svg'
 	),
 	(
 		'item',
@@ -13164,7 +13164,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape portée par le grand Bouftou Royal confère, en plus d''un style fabuleux, une force hors du commun.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image71.svg'
+		'../images/image_cape/image71.svg'
 	),
 	(
 		'item',
@@ -13222,7 +13222,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette étrange Cape puise toute sa force dans son aspect vétuste. Plus elle sera sale, et plus elle vous servira.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image72.svg'
+		'../images/image_cape/image72.svg'
 	),
 	(
 		'item',
@@ -13280,7 +13280,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous n''avez pas les moyens de vous acheter une Corbacape Mastralis, mais que vous aimez faire peur aux Araknes en vous habillant en noir, c''est la cape qu''il vous faut.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image73.svg'
+		'../images/image_cape/image73.svg'
 	),
 	(
 		'item',
@@ -13338,7 +13338,7 @@ VALUES
 		NULL,
 		NULL,
 		'Jules Yanos, célèbre tailleur, était surtout célèbre pour avoir échangé sa femme contre un dé à coudre magique. Comme quoi, il existe encore des gens qui ont le sens des affaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image74.svg'
+		'../images/image_cape/image74.svg'
 	),
 	(
 		'item',
@@ -13396,7 +13396,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous aimez prendre la vie du bon côté, cette cape est faite pour vous. En effet, elle est si épaisse et confortable qu''elle peut servir de lit improvisé si la fatigue commence à vous gagner. Son odeur de Kaliptus fumé lui permet même de repousser les insectes, les créatures indésirables ou encore les belles-mères.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image75.svg'
+		'../images/image_cape/image75.svg'
 	),
 	(
 		'item',
@@ -13454,7 +13454,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette création hybride entre une hôte et une cape, est franchement étonnante. Si elle avait été confectionnée en cuir, le Captain Chafer l''aurait adorée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image76.svg'
+		'../images/image_cape/image76.svg'
 	),
 	(
 		'item',
@@ -13512,7 +13512,7 @@ VALUES
 		NULL,
 		NULL,
 		'Plus dorée qu''une Scaracape classique et moins noire qu''une Scaracape Noire, cette cape est parfaite pour cacher vos excroissances. Elle servait autrefois au Scarabosse Doré qui l''utilisait pour cacher son horrible bosse. De nos jours, cette cape est avant tout utilisée pour cacher les horribles postérieurs. Autant dire que cette cape est populaire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image77.svg'
+		'../images/image_cape/image77.svg'
 	),
 	(
 		'item',
@@ -13570,7 +13570,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une cape élégante qui vous rendra irrésistible auprès des amateurs de belles plantes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image78.svg'
+		'../images/image_cape/image78.svg'
 	),
 	(
 		'item',
@@ -13628,7 +13628,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dépourvue de fils et de poils, cette Cape reste un mystère pour les têtes pensantes d''Amakna, ce qui ne doit pas représenter plus d''une dizaine de personnes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image79.svg'
+		'../images/image_cape/image79.svg'
 	),
 	(
 		'item',
@@ -13686,7 +13686,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une cape pratique et résistante, qui ne fera pas de vous une célébrité, mais comme vous n''en étiez pas une jusqu''à maintenant, où est le problème ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image80.svg'
+		'../images/image_cape/image80.svg'
 	),
 	(
 		'item',
@@ -13744,7 +13744,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape vous protégera de la majorité des attaques, mais pas du ridicule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image81.svg'
+		'../images/image_cape/image81.svg'
 	),
 	(
 		'item',
@@ -13802,7 +13802,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Cape fut découpée dans un fanion, anciennement situé sur la plus haute tour du chateau d''Amakna. C''est sûrement pour cela qu''elle sent le linge séché au grand air.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image82.svg'
+		'../images/image_cape/image82.svg'
 	),
 	(
 		'item',
@@ -13860,7 +13860,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pris d''une étrange frénésie, les tofus que vous croisez veulent se frotter contre votre jambe. Ce n''est tout de même pas cette cape qui les attire ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image83.svg'
+		'../images/image_cape/image83.svg'
 	),
 	(
 		'item',
@@ -13918,7 +13918,7 @@ VALUES
 		NULL,
 		NULL,
 		'En portant cette cape, vous serez pris d''une furieuse envie de vinaigrette.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image84.svg'
+		'../images/image_cape/image84.svg'
 	),
 	(
 		'item',
@@ -13976,7 +13976,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape est lavable en rivière, même si elle risque de déteindre dès le troisième lavage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image85.svg'
+		'../images/image_cape/image85.svg'
 	),
 	(
 		'item',
@@ -14034,7 +14034,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape qui vient du village de Terrdala, peut servir de paillasson, ou même de serpillière si vous venez de sortir de l''eau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image86.svg'
+		'../images/image_cape/image86.svg'
 	),
 	(
 		'item',
@@ -14092,7 +14092,7 @@ VALUES
 		NULL,
 		NULL,
 		'Il faut avouer que cette Cape possède une forte odeur très désagréable. En essayant de mettre des mots sur cette infection, on peut dire que c''est tout simplement un mélange de poils de monstres divers qui créent ce magnifique pot pourri.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image87.svg'
+		'../images/image_cape/image87.svg'
 	),
 	(
 		'item',
@@ -14150,7 +14150,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette peau de Mulou constitue une excellente protection contre le froid, mais également contre les aventuriers aux sens olfactifs un peu trop développés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image88.svg'
+		'../images/image_cape/image88.svg'
 	),
 	(
 		'item',
@@ -14208,7 +14208,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape qui vient du village d''Aerdala, peut servir de paillasson, ou même de serpillière si vous venez de sortir de l''eau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image89.svg'
+		'../images/image_cape/image89.svg'
 	),
 	(
 		'item',
@@ -14266,7 +14266,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape presque vivante en poils de barbe roux est unique en son genre. Animée d''une magie extraordinaire, elle a tendance à jouer de nombreux tours à son porteur, en se cachant toujours au moment de partir à l''aventure, lorsqu''on a besoin d''elle. Elle compense heureusement sa fourberie, par une puissance en combat à toute épreuve, qui fait d''elle une "véwitable meuchine de guewe" d''après certains Wabbits.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image90.svg'
+		'../images/image_cape/image90.svg'
 	),
 	(
 		'item',
@@ -14324,7 +14324,7 @@ VALUES
 		NULL,
 		NULL,
 		'Des fleurs des moissons ont été cousues sur cette cape confectionnée à partir de céréales magiques tissées entre elles. Elle est animée d''une magie si puissante, que Shika s''en servait de protection contre la foudre, les soirs d''orage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image91.svg'
+		'../images/image_cape/image91.svg'
 	),
 	(
 		'item',
@@ -14382,7 +14382,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape en tissu et en peaux permettait à Farle Ingalsse d''ensemencer des champs entiers pendant une saison complète sans jamais devoir s''arrêter. En effet, une fois repliée et utilisée comme une besace, sa capacité semble presque illimitée. Personne ne connaît réellement le tailleur à l''origine de cette merveille, la légende raconte seulement, qu''il s''est retiré de la profession lorsque ses clients ont commencé à confondre ses capes avec des serpillères. Quel triste départ en retraite !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image92.svg'
+		'../images/image_cape/image92.svg'
 	),
 	(
 		'item',
@@ -14440,7 +14440,7 @@ VALUES
 		NULL,
 		NULL,
 		'On raconte que le Captain Chafer a tenté de voler cette cape pour remplacer ses célèbres sous-vêtements en cuir. Mais elle ne lui allait pas, elle n''incarnait pas assez la perversité et la perfidie pour lui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image93.svg'
+		'../images/image_cape/image93.svg'
 	),
 	(
 		'item',
@@ -14498,7 +14498,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape épaisse en pierre brute fera de vous une brute épaisse en pierre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image106.svg'
+		'../images/image_cape/image106.svg'
 	),
 	(
 		'item',
@@ -14556,7 +14556,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéale pour le jardin, la Brouteuse peut aussi servir de paillasson pour votre entrée de maison. Conçue à la base pour les Sadidas, elle n''abîme pas les poils, même les plus fragiles. Certains vont même jusqu''à dire qu''elle ralentit leur chute.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image107.svg'
+		'../images/image_cape/image107.svg'
 	);
 
 INSERT INTO
@@ -14675,7 +14675,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape qui vient du village de Feudala, peut servir de paillasson, ou même de serpillière si vous venez de sortir de l''eau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image108.svg'
+		'../images/image_cape/image108.svg'
 	),
 	(
 		'item',
@@ -14733,7 +14733,7 @@ VALUES
 		NULL,
 		NULL,
 		'Moins performante que la Cape du Roissingue, cette cape présente néanmoins les mêmes avantages quant à l''évacuation de la sueur. Avec elle, vous allez pouvoir faire face à toutes les situations... Si vous arrivez à combattre en apnée, car vu l''odeur, il est vraiment impossible de ne pas défaillir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image109.svg'
+		'../images/image_cape/image109.svg'
 	),
 	(
 		'item',
@@ -14791,7 +14791,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape est le symbole identifiant un rat blanc du réseau d''égoûts de Bonta, elle lui est remise après un examen long et difficile, et il la porte fièrement jusqu''à sa mort, c''est à dire jamais longtemps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image110.svg'
+		'../images/image_cape/image110.svg'
 	),
 	(
 		'item',
@@ -14849,7 +14849,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape ne fera pas de vous un petit Cochon de Lait, mais elle vous permettra peut-être de vous travestir l''espace d''une soirée, afin de séduire une belle Cochonne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image111.svg'
+		'../images/image_cape/image111.svg'
 	),
 	(
 		'item',
@@ -14907,7 +14907,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape très puissante a renversé plus d''un imprudent ayant tenté de la porter, une caractéristique partagée avec la Momie Nova.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image112.svg'
+		'../images/image_cape/image112.svg'
 	),
 	(
 		'item',
@@ -14965,7 +14965,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape peut être confectionnée avec n''importe quels poils, à condition qu''ils soient les plus sales possibles. Ils sont tressés entre eux puis fixés à l''aide de sécrétions diverses. L''odeur n''est pas en option.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image113.svg'
+		'../images/image_cape/image113.svg'
 	),
 	(
 		'item',
@@ -15023,7 +15023,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prenez un Minotoror, attachez-le fermement, prenez un rabot géant, et pelez-lui (en un seul passage) le dos. Voilà, c''est fait, vous avez désormais entre les mains, une cape du Minotoror.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image114.svg'
+		'../images/image_cape/image114.svg'
 	),
 	(
 		'item',
@@ -15081,7 +15081,7 @@ VALUES
 		NULL,
 		NULL,
 		'Tissée dans des étoffes de Zoths, cette cape possède un pouvoir extraordinaire dont l''origine reste encore inconnue.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image115.svg'
+		'../images/image_cape/image115.svg'
 	),
 	(
 		'item',
@@ -15139,7 +15139,7 @@ VALUES
 		NULL,
 		NULL,
 		'En été, l''Abraknyde Ancestral aime se dorer au soleil, mais son bois habitué aux forêts sombres le supporte mal. Cette cape est confectionnée avec les pelures de son écorce.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image116.svg'
+		'../images/image_cape/image116.svg'
 	),
 	(
 		'item',
@@ -15197,7 +15197,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape, d''allure royale, constitue pourtant une incroyable protection. C''est ce modèle qui a fait la réputation d''une célèbre tailleuse, juste avant de mourir de son succès, écrasée par la foule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image117.svg'
+		'../images/image_cape/image117.svg'
 	),
 	(
 		'item',
@@ -15255,7 +15255,7 @@ VALUES
 		NULL,
 		NULL,
 		'Portée par les plus grands de ce monde, cette cape est surtout réputée pour sa douceur légendaire, qui lui permet d''être portée sans aucun sous-vêtement lors des saisons chaudes. Une forme raffinée d''exhibitionnisme qui en a séduit plus d''un.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image118.svg'
+		'../images/image_cape/image118.svg'
 	),
 	(
 		'item',
@@ -15313,7 +15313,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape recouverte d''écailles vous protègera d''après la légende, de la foudre, des haricots, et surtout des femmes fatales.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image119.svg'
+		'../images/image_cape/image119.svg'
 	),
 	(
 		'item',
@@ -15371,7 +15371,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les meilleurs tailleurs d''Amakna se sont associés jadis pour utiliser les restes de la dépouille du Maître Corbac afin d''en faire une cape somptueuse. Avec une telle cape sur les épaules, le maître c''est vous.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image120.svg'
+		'../images/image_cape/image120.svg'
 	),
 	(
 		'item',
@@ -15429,7 +15429,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape colorée fait de vous une cible privilégiée. Seuls les aventuriers vifs et agiles ont su la porter longtemps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image121.svg'
+		'../images/image_cape/image121.svg'
 	),
 	(
 		'item',
@@ -15487,7 +15487,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Meulou a la queue si belle et si longue qu''elle traîne au sol. Certains aventuriers jaloux la lui ont arrachée et la portent, espérant sûrement y gagner en virilité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image122.svg'
+		'../images/image_cape/image122.svg'
 	),
 	(
 		'item',
@@ -15545,7 +15545,7 @@ VALUES
 		NULL,
 		NULL,
 		'Il y a plus de 200 ans, une étoffe d''un tissu anodin s''est prise dans les branches du Chêne Mou. L''arbre a poussé autour et au travers, l''imprégnant ainsi de sa magie. Elle est désormais indissociable de ce gros morceau de bois ce qui la rend peu pratique et inflammable, mais sa puissance est indéniable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image123.svg'
+		'../images/image_cape/image123.svg'
 	),
 	(
 		'item',
@@ -15603,7 +15603,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape ne vient pas de votre galaxie et pourtant, elle semble assortie à la couleur de vos bas résille en laine de Boufton.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image124.svg'
+		'../images/image_cape/image124.svg'
 	),
 	(
 		'item',
@@ -15661,7 +15661,7 @@ VALUES
 		NULL,
 		NULL,
 		'Constituée d''une étoffe de Roissingue, cette cape comporte des micro trous permettant une meilleure évacuation de la sueur en cas d''effort intense, comme lors de mêlées belliqueuses en zone marécageuse. Cette cape laisse passer l''humidité mais garde la chaleur. Ainsi, vous restez sec quelle que soit la situation. Dommage que l''odeur persistante de moisissure soit inaltérable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image125.svg'
+		'../images/image_cape/image125.svg'
 	),
 	(
 		'item',
@@ -15719,7 +15719,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pour sortir en soirée, ou séduire au bal masqué du Captain Chafer, c''est la cape qu''il vous faut.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image126.svg'
+		'../images/image_cape/image126.svg'
 	),
 	(
 		'item',
@@ -15777,7 +15777,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape appartenait à un célèbre Chapon, ancien volatile aux longues plumes qui aimait se pavoiser devant le Zaap de Bonta devant sa basse-cour composée de volailles crédules et de poulardes immatures.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image127.svg'
+		'../images/image_cape/image127.svg'
 	),
 	(
 		'item',
@@ -15835,7 +15835,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si cette cape n''était pas recouverte de moisissure, elle pourrait servir de nappe. Ce n''est pas grave, elle pourra toujours vous servir de linceul.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image128.svg'
+		'../images/image_cape/image128.svg'
 	),
 	(
 		'item',
@@ -15893,7 +15893,7 @@ VALUES
 		NULL,
 		NULL,
 		'On raconte que le Bworker s''est cousu cette cape avec la peau des fesses de Rushu. Cette histoire aurait pu être crédible si le Bworker savait coudre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image129.svg'
+		'../images/image_cape/image129.svg'
 	),
 	(
 		'item',
@@ -15951,7 +15951,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape était autrefois réservée aux meilleurs grimpeurs, aux aventuriers qui étaient les plus rapides pour escalader la montagne des Craqueleurs. Aujourd''hui elle sert surtout à se faire remarquer dans les soirées mondaines.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image130.svg'
+		'../images/image_cape/image130.svg'
 	),
 	(
 		'item',
@@ -16009,7 +16009,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette cape étrange semble faite d''encre noire, mais étrangement, elle se comporte comme une étoffe et ne coule pas. En revanche elle tâche. Votre arrière train n''aura jamais été aussi sale.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image131.svg'
+		'../images/image_cape/image131.svg'
 	),
 	(
 		'item',
@@ -16067,7 +16067,7 @@ VALUES
 		NULL,
 		NULL,
 		'En revêtant cet accoutrement, attendez-vous à une augmentation non négligeable des traquenards, des embuscades et autres attaques en tout genre des assaillants de la cité noire. Si ça se trouve, au fond, vous cherchez peut-être volontairement toute cette attention.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_cape/image132.svg'
+		'../images/image_cape/image132.svg'
 	),
 	(
 		'item',
@@ -16125,7 +16125,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette semble avoir été confectionnée à partir d''une petite tête de Piou desséchée. La coquetterie n''a aucune limite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image0.svg'
+		'../images/image_amulette/image0.svg'
 	),
 	(
 		'item',
@@ -16183,7 +16183,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette semble avoir été confectionnée à partir d''une petite tête de Piou desséchée. La coquetterie n''a aucune limite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image1.svg'
+		'../images/image_amulette/image1.svg'
 	),
 	(
 		'item',
@@ -16241,7 +16241,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette semble avoir été confectionnée à partir d''une petite tête de Piou desséchée. La coquetterie n''a aucune limite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image2.svg'
+		'../images/image_amulette/image2.svg'
 	),
 	(
 		'item',
@@ -16299,7 +16299,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette semble avoir été confectionnée à partir d''une petite tête de Piou desséchée. La coquetterie n''a aucune limite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image3.svg'
+		'../images/image_amulette/image3.svg'
 	),
 	(
 		'item',
@@ -16357,7 +16357,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette semble avoir été confectionnée à partir d''une petite tête de Piou desséchée. La coquetterie n''a aucune limite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image4.svg'
+		'../images/image_amulette/image4.svg'
 	),
 	(
 		'item',
@@ -16415,7 +16415,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette semble avoir été confectionnée à partir d''une petite tête de Piou desséchée. La coquetterie n''a aucune limite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image5.svg'
+		'../images/image_amulette/image5.svg'
 	),
 	(
 		'item',
@@ -16473,7 +16473,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente l''intelligence de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image6.svg'
+		'../images/image_amulette/image6.svg'
 	),
 	(
 		'item',
@@ -16531,7 +16531,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la force de son porteur',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image7.svg'
+		'../images/image_amulette/image7.svg'
 	),
 	(
 		'item',
@@ -16589,7 +16589,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la vitalité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image8.svg'
+		'../images/image_amulette/image8.svg'
 	),
 	(
 		'item',
@@ -16647,7 +16647,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pas très classe, pas très efficace, mais sympathique lorsque l''on possède la panoplie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image9.svg'
+		'../images/image_amulette/image9.svg'
 	),
 	(
 		'item',
@@ -16705,7 +16705,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette permet d''occasionner plus de dégâts pour les aventuriers qui débutent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image10.svg'
+		'../images/image_amulette/image10.svg'
 	),
 	(
 		'item',
@@ -16763,7 +16763,7 @@ VALUES
 		NULL,
 		NULL,
 		'Née d''une erreur de manipulation d''un bijoutier, cette amulette augmente l''intelligence de son porteur. En revanche, elle donne généralement un puissant mal de crâne qui a pour effet d''amoindrir la condition physique de son propriétaire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image11.svg'
+		'../images/image_amulette/image11.svg'
 	),
 	(
 		'item',
@@ -16821,7 +16821,7 @@ VALUES
 		NULL,
 		NULL,
 		'Selon un illustre aventurier, cette amulette contient une larme de Bouftou, à l''odeur et aux propriétés semblables à celles des décoctions de cuir de bouftou.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image12.svg'
+		'../images/image_amulette/image12.svg'
 	),
 	(
 		'item',
@@ -16879,7 +16879,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente l''intelligence de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image13.svg'
+		'../images/image_amulette/image13.svg'
 	),
 	(
 		'item',
@@ -16937,7 +16937,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette confectionnée à partir de petits crânes taillés dans de l''os, par un des plus grands bijoutiers Sram, est unique en son genre. Elle permet à son porteur de s''évader plus facilement lors des situations périlleuses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image14.svg'
+		'../images/image_amulette/image14.svg'
 	),
 	(
 		'item',
@@ -16995,7 +16995,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la force de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image15.svg'
+		'../images/image_amulette/image15.svg'
 	),
 	(
 		'item',
@@ -17053,7 +17053,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la vitalité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image16.svg'
+		'../images/image_amulette/image16.svg'
 	),
 	(
 		'item',
@@ -17111,7 +17111,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une bonne Corne de Bouftou, c''est une Corne qui procure calme et sagesse. Un Bon pendentif de Bouftou vous procurera donc sagesse et calme. Ou l''inverse. Ou autre chose. Ou alors rien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image17.svg'
+		'../images/image_amulette/image17.svg'
 	),
 	(
 		'item',
@@ -17169,7 +17169,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce collier est recherché par les collectionneurs, vous en tirerez un bon prix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image18.svg'
+		'../images/image_amulette/image18.svg'
 	),
 	(
 		'item',
@@ -17227,7 +17227,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette a la faculté de devenir rose les jours où son porteur est d''humeur guillerette. On raconte qu''elle décuple également vos chances de trouver de bons objets.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image19.svg'
+		'../images/image_amulette/image19.svg'
 	),
 	(
 		'item',
@@ -17285,7 +17285,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente l''intelligence de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image20.svg'
+		'../images/image_amulette/image20.svg'
 	),
 	(
 		'item',
@@ -17343,7 +17343,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la force de son porteur',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image21.svg'
+		'../images/image_amulette/image21.svg'
 	),
 	(
 		'item',
@@ -17401,7 +17401,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la vitalité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image22.svg'
+		'../images/image_amulette/image22.svg'
 	),
 	(
 		'item',
@@ -17459,7 +17459,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente l''intelligence de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image23.svg'
+		'../images/image_amulette/image23.svg'
 	),
 	(
 		'item',
@@ -17517,7 +17517,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la force de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image24.svg'
+		'../images/image_amulette/image24.svg'
 	),
 	(
 		'item',
@@ -17575,7 +17575,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la vitalité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image25.svg'
+		'../images/image_amulette/image25.svg'
 	),
 	(
 		'item',
@@ -17633,7 +17633,7 @@ VALUES
 		NULL,
 		NULL,
 		'Création originale de l''orfèvre John Les Nonnes, c''est aujourd''hui un des bijoux les plus classiques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image26.svg'
+		'../images/image_amulette/image26.svg'
 	),
 	(
 		'item',
@@ -17691,7 +17691,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite amulette fleurit au printemps, mais se dessèche en été, se fane en automne, et pourrit en hiver. L''occasion rêvée pour changer de look au fil des saisons.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image27.svg'
+		'../images/image_amulette/image27.svg'
 	),
 	(
 		'item',
@@ -17749,7 +17749,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Destinée Dorée permet au héros qui la porte d''augmenter considérablement sa vitalité et son agilité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image28.svg'
+		'../images/image_amulette/image28.svg'
 	),
 	(
 		'item',
@@ -17807,7 +17807,7 @@ VALUES
 		NULL,
 		NULL,
 		'Son créateur, un certain Ken Aton, était très célèbre pour ses habitudes assez étranges. Il passait ses journées à chasser le Minotoror pour se fabriquer une moquette pectorale.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image29.svg'
+		'../images/image_amulette/image29.svg'
 	),
 	(
 		'item',
@@ -17865,7 +17865,7 @@ VALUES
 		NULL,
 		NULL,
 		'Moins efficace et moins prisée que la célèbre Araknamu, cette petite amulette a pourtant beaucoup de charme lorsqu''elle est portée toute seule, sur un corps très poilu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image30.svg'
+		'../images/image_amulette/image30.svg'
 	),
 	(
 		'item',
@@ -17981,7 +17981,7 @@ VALUES
 		NULL,
 		NULL,
 		'Jozébo Vez était un berger de Veaux, lointains cousins des Bouftous. Dans son troupeau, quelques bêtes possédaient une fourrure plus douce que les autres. Elle se revendait bien plus cher et pour différencier ses bêtes, il attachait ce collier à leur cou.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image32.svg'
+		'../images/image_amulette/image32.svg'
 	),
 	(
 		'item',
@@ -18039,7 +18039,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette a jadis appartenu au grand bandit "Thisme", réputé pour sa cruauté sans limite et sa mort idiote. Sa vie fût digne d''un conte d''Eniripsa, il mourût noyé et écrasé dans un pressoir à huile alors qu''il venait tout juste de purger une peine de prison de plus d''une centaine d''années, pour avoir volé une noix de cajou.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image33.svg'
+		'../images/image_amulette/image33.svg'
 	),
 	(
 		'item',
@@ -18097,7 +18097,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''osamodas Onehaieuf Bek cherchait absolument à gagner du mérite devant les membres de sa guilde, et décida alors de faire une Amulette révolutionnaire. Il y parvint en préparant un petit déjeuner à ses amis. Étrange.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image34.svg'
+		'../images/image_amulette/image34.svg'
 	),
 	(
 		'item',
@@ -18155,7 +18155,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Gougnole a été créée dans de la pierre de lune ayant trempé 5000 ans dans un baril de bière. Inévitablement, cela lui a conféré de terribles pouvoirs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image35.svg'
+		'../images/image_amulette/image35.svg'
 	),
 	(
 		'item',
@@ -18213,7 +18213,7 @@ VALUES
 		NULL,
 		NULL,
 		'Excellent travail de l''apprenti-orfèvre Polma Kartnez, cette copie surpasse l''originale.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image36.svg'
+		'../images/image_amulette/image36.svg'
 	),
 	(
 		'item',
@@ -18271,7 +18271,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Chafer est quelqu''un de sensible et distingué, il garde toujours avec lui une amulette faite des crânes de ses cousins tombés au combat. Le plus étrange, c''est que le Chafer n''a jamais eu de cousins.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image37.svg'
+		'../images/image_amulette/image37.svg'
 	),
 	(
 		'item',
@@ -18329,7 +18329,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''Homme Ours portait cette amulette autour du cou, lorsqu''il a affronté les brigandins de la tanière de Bimdhoul. La légende raconte qu''elle lui a sauvé la vie, mais quand on la regarde de près, on s''aperçoit qu''il s''agit bien d''une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image38.svg'
+		'../images/image_amulette/image38.svg'
 	),
 	(
 		'item',
@@ -18387,7 +18387,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite Arakne est la preuve vivante que l''on est pas obligé d''empailler un animal pour en faire une Amulette. Elle vous chatouillera le cou, et tissera peut-être une toile devant votre bouche, si vous baillez trop souvent, ou si vous avez trop mauvaise haleine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image39.svg'
+		'../images/image_amulette/image39.svg'
 	),
 	(
 		'item',
@@ -18445,7 +18445,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette est parfumée à l''huile de Tournesol Sauvage et aux fines herbes. Elle peut donc servir d''appât pour les ruminants dangereux que vous voudrez piéger, comme les Bouftous, ou les belles-mères par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image40.svg'
+		'../images/image_amulette/image40.svg'
 	),
 	(
 		'item',
@@ -18503,7 +18503,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette était jadis portée par tous les aventuriers qui préféraient répandre l''amour plutôt que de faire la guerre. Chacun ses goûts.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image41.svg'
+		'../images/image_amulette/image41.svg'
 	),
 	(
 		'item',
@@ -18561,7 +18561,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette, exclusivement fabriquée à partir de bois précieux, est très prisée des Bûcherons qui lui attribuent bien souvent des pouvoirs qu''elle n''a pas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image42.svg'
+		'../images/image_amulette/image42.svg'
 	),
 	(
 		'item',
@@ -18619,7 +18619,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette, sertie d''écailles de poisson, est censée porter chance à son propriétaire lorsqu''il part en mer les jours de tempête.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image43.svg'
+		'../images/image_amulette/image43.svg'
 	),
 	(
 		'item',
@@ -18677,7 +18677,7 @@ VALUES
 		NULL,
 		NULL,
 		'Légère comme une plume de Tofu, cette amulette se porte autour du cou ou du front, pour les aventuriers en quête d''originalité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image44.svg'
+		'../images/image_amulette/image44.svg'
 	),
 	(
 		'item',
@@ -18735,7 +18735,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette, est une amélioration de La Destinée Dorée. Étrangement, elles n''ont rien en commun, excepté leur aspect assez ridicule, il faut le reconnaître.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image45.svg'
+		'../images/image_amulette/image45.svg'
 	),
 	(
 		'item',
@@ -18793,7 +18793,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette blanchâtre est confectionnée avec du Crabe, ce qui en fait une amulette très fragile mais originale.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image46.svg'
+		'../images/image_amulette/image46.svg'
 	),
 	(
 		'item',
@@ -18851,7 +18851,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette du Kitsou attirera l''attention sur votre double menton.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image47.svg'
+		'../images/image_amulette/image47.svg'
 	),
 	(
 		'item',
@@ -18909,7 +18909,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette tête de larve autour du cou, vous ressemblez à Ulrik Holgan célèbre dompteur de larves des temps modernes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image48.svg'
+		'../images/image_amulette/image48.svg'
 	),
 	(
 		'item',
@@ -18967,7 +18967,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce pendentif aide son porteur à se retrouver en paix avec le monde qui l''entoure.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image49.svg'
+		'../images/image_amulette/image49.svg'
 	),
 	(
 		'item',
@@ -19025,7 +19025,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette puissante amulette a tout pour rendre son porteur célèbre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image50.svg'
+		'../images/image_amulette/image50.svg'
 	),
 	(
 		'item',
@@ -19083,7 +19083,7 @@ VALUES
 		NULL,
 		NULL,
 		'Hète était l''un des plus grands guerriers d''Amakna. La légende dit qu''il tirait sa sagesse de la broche qu''il portait toujours sur lui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image51.svg'
+		'../images/image_amulette/image51.svg'
 	),
 	(
 		'item',
@@ -19141,7 +19141,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette a permis à de nombreuses reprises à Shika Ingalsse, de survivre aux rebellions des troupeaux de Bouftous bien décidés à lui mener la vie dure.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image52.svg'
+		'../images/image_amulette/image52.svg'
 	),
 	(
 		'item',
@@ -19199,7 +19199,7 @@ VALUES
 		NULL,
 		NULL,
 		'Symbole mystérieux d''un organisme mystérieux. D''ailleurs il n''existe pas, et vous n''en avez jamais entendu parler !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image53.svg'
+		'../images/image_amulette/image53.svg'
 	),
 	(
 		'item',
@@ -19257,7 +19257,7 @@ VALUES
 		NULL,
 		NULL,
 		'Law-bibe était un vieillard qui adorait assembler n''importe quoi pour en faire un objet. Un jour, il créa ce médaillon aux formes intrigantes. Une fois autour du cou, il ressentit une étrange sensation. Bien étrange sensation même...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image54.svg'
+		'../images/image_amulette/image54.svg'
 	),
 	(
 		'item',
@@ -19315,7 +19315,7 @@ VALUES
 		NULL,
 		NULL,
 		'Lahilama était un grand chef spirituel qui officiait au fin fond des montagnes. Il s''ennuyait tellement, qu''il passait ses journées à coudre des bonnets jaunes pour ses disciples. La folie n''a pas de limites.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image55.svg'
+		'../images/image_amulette/image55.svg'
 	),
 	(
 		'item',
@@ -19373,7 +19373,7 @@ VALUES
 		NULL,
 		NULL,
 		'Holy était une disciple de Iop qui avait juré de terrasser le mal où qu''il soit. D''un calme redoutable, elle ne s''énervait jamais sauf quand on la comparait à une certaine Oly.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image56.svg'
+		'../images/image_amulette/image56.svg'
 	),
 	(
 		'item',
@@ -19431,7 +19431,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dodge adorait exploser tout ce qui avait de la valeur à ses yeux. Il disait que c''était la preuve qu''il existait. Chacun son truc.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image57.svg'
+		'../images/image_amulette/image57.svg'
 	),
 	(
 		'item',
@@ -19489,7 +19489,7 @@ VALUES
 		NULL,
 		NULL,
 		'Gorgée de soleil, la Bourgeonette réchauffe les coeurs en plus de procurer une sensation d''invulnérabilité face à la terre. Elle est aussi tellement légère qu''on oublie souvent de l''enlever à l''heure du coucher.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image58.svg'
+		'../images/image_amulette/image58.svg'
 	),
 	(
 		'item',
@@ -19547,7 +19547,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette splendide amulette confectionnée à partir de restes de Dragoeuf, est suffisamment impressionnante pour faire battre en retrait la majorité des ennemis normalement constitués.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image59.svg'
+		'../images/image_amulette/image59.svg'
 	),
 	(
 		'item',
@@ -19605,7 +19605,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette provient des régions nordiques, elle confère a son porteur la capacité d''invoquer plus facilement des créatures.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image60.svg'
+		'../images/image_amulette/image60.svg'
 	),
 	(
 		'item',
@@ -19663,7 +19663,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette est constituée d''un mélange de feuilles de Fourbasse et de détritus de l''île de Moon. Elle ressemble plus à un collier de fleurs qu''à une véritable amulette, mais elle vous permettra de séduire sans trop d''efforts la faune locale de l''île de Moon, composée presque exclusivement d''abominables créatures. Ainsi, plus aucune Fourbasse ne saura vous résister, elles vous sauteront toutes au cou pour vous faire des suçons. Les plus malchanceux en amour sauront s''en contenter.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image61.svg'
+		'../images/image_amulette/image61.svg'
 	),
 	(
 		'item',
@@ -19721,7 +19721,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porter autour du coup une Arackne prise dans l''ambre, lorsque vous attaquez une de ses soeurs, peut suffire à la décontenancer. Pauvre bête, on appelle cela l''ironie du sort.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image62.svg'
+		'../images/image_amulette/image62.svg'
 	),
 	(
 		'item',
@@ -19779,7 +19779,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pêcher un Somoon relève de l''exploit, mais avec cette amulette sur soi, plus rien n''est impossible.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image63.svg'
+		'../images/image_amulette/image63.svg'
 	),
 	(
 		'item',
@@ -19837,7 +19837,7 @@ VALUES
 		NULL,
 		NULL,
 		'Silicate a confectionné cette Amulette un matin d''hiver, pour un célèbre aventurier du nom de Rimb Vardi, qui pourchassait un vieux Bwork Mage, responsable de plusieurs catastrophes naturelles déclenchées par sa magie trop approximative.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image64.svg'
+		'../images/image_amulette/image64.svg'
 	),
 	(
 		'item',
@@ -19895,7 +19895,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce pendentif aide son porteur à se retrouver en paix avec le monde qui l''entoure.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image65.svg'
+		'../images/image_amulette/image65.svg'
 	),
 	(
 		'item',
@@ -19953,7 +19953,7 @@ VALUES
 		NULL,
 		NULL,
 		'La seule chance de survivre dans une mine infestée de Mineurs Sombres, c''est d''y voir clair. A défaut de leur voler leur bougie, portez cette amulette, elle vous portera chance.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image66.svg'
+		'../images/image_amulette/image66.svg'
 	),
 	(
 		'item',
@@ -20011,7 +20011,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce ridicule petit morceau de bambou est doté de pouvoirs magiques bien étranges. Il était autrefois porté par les jeunes Pandawas, une fois la puberté passée. Vous devriez peut-être attendre encore quelques années avant de le porter autour du coup...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image67.svg'
+		'../images/image_amulette/image67.svg'
 	),
 	(
 		'item',
@@ -20069,7 +20069,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porter autour du cou un Moskito pris dans un ambre, c''est un peu montrer à vos adversaires, que vous êtes un redoutable chasseur... de Moskitos. De quoi vous rendre ridicule en dehors du Berceau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image68.svg'
+		'../images/image_amulette/image68.svg'
 	),
 	(
 		'item',
@@ -20127,7 +20127,7 @@ VALUES
 		NULL,
 		NULL,
 		'On dit que cette broche a été créée par l''illustre forgeron Boulgur, qui a la réputation de forger les armes des dieux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image69.svg'
+		'../images/image_amulette/image69.svg'
 	),
 	(
 		'item',
@@ -20185,7 +20185,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Vegamu a parfois tendance à attirer les Moskitos, qui de loin la prennent pour une copine. Ils sont souvent déçus une fois qu''ils tombent sur le porteur de l''amulette.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image70.svg'
+		'../images/image_amulette/image70.svg'
 	),
 	(
 		'item',
@@ -20243,7 +20243,7 @@ VALUES
 		NULL,
 		NULL,
 		'Seuls les habitants du village d''Akwadala avaient l''autorisation de porter cette amulette, qui est censée être un des éléments les plus importants de leur costume traditionnel. En y regardant de plus près, on se demande bien pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image71.svg'
+		'../images/image_amulette/image71.svg'
 	),
 	(
 		'item',
@@ -20301,7 +20301,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette terrifiante a impressionné plus d''un marin, la porter sur soi suffit à faire de vous une personne redoutée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image72.svg'
+		'../images/image_amulette/image72.svg'
 	),
 	(
 		'item',
@@ -20359,7 +20359,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette est extrêmement utile, mais rend son porteur blanc comme un bouftou.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image73.svg'
+		'../images/image_amulette/image73.svg'
 	),
 	(
 		'item',
@@ -20417,7 +20417,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette amulette autour du cou, vous pourriez tenter de faire croire à votre entourage que vous avez une haleine fraîche. Laissez tomber, c''est peine perdue.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image74.svg'
+		'../images/image_amulette/image74.svg'
 	),
 	(
 		'item',
@@ -20475,7 +20475,7 @@ VALUES
 		NULL,
 		NULL,
 		'Grâce aux multiples talents des artisans d''Amakna, la Dragolyre Remaniée excelle dans la perfection.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image75.svg'
+		'../images/image_amulette/image75.svg'
 	),
 	(
 		'item',
@@ -20533,7 +20533,7 @@ VALUES
 		NULL,
 		NULL,
 		'Jadis portée par Oto Mustam, chef des guerriers de Brâkmar, cette petite amulette ne lui servait qu''à se faire beau lors des orgies organisées à Brâkmar. Tout un programme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image76.svg'
+		'../images/image_amulette/image76.svg'
 	),
 	(
 		'item',
@@ -20591,7 +20591,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Lard Fou était un petit démon bien vil qui ne pouvait s''empêcher de rester planté devant les gens sans bouger. Il était aussi résistant à la magie, ce qui imposait le respect à l''époque. Depuis, le Lard Fou se terre quelque part et attend.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image77.svg'
+		'../images/image_amulette/image77.svg'
 	),
 	(
 		'item',
@@ -20649,7 +20649,7 @@ VALUES
 		NULL,
 		NULL,
 		'Lorsque le vent souffle dans ses plumes, le Kwak du Vent se sent libre comme l''air, et se laisse planer tel une vieille feuille morte emportée par une bourrasque. Contrairement aux idées reçues, c''est assez impressionnant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image78.svg'
+		'../images/image_amulette/image78.svg'
 	),
 	(
 		'item',
@@ -20707,7 +20707,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec toutes ces plumes autour du cou, vous ressemblerez à Aldo Rado, grand Sacrieur aventurier en quête d''une cité d''or.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image79.svg'
+		'../images/image_amulette/image79.svg'
 	),
 	(
 		'item',
@@ -20765,7 +20765,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette donne des facultés très particulières à son porteur, en effet ce dernier se voit comme transporté par une aura mystérieuse parcourant son corps, ce qui généralement a pour effet de décupler ses capacités physiques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image80.svg'
+		'../images/image_amulette/image80.svg'
 	),
 	(
 		'item',
@@ -20823,7 +20823,7 @@ VALUES
 		NULL,
 		NULL,
 		'Autrefois, un Ecaflip nommé Dodge, éclata en mille morceaux une carte au trésor gravée sur une pierre. Croyant réussir à reformer la carte, il garda la plus grosse partie pour en faire une Amulette mystérieuse. Nul ne sait ce que le trésor est devenu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image81.svg'
+		'../images/image_amulette/image81.svg'
 	),
 	(
 		'item',
@@ -20881,7 +20881,7 @@ VALUES
 		NULL,
 		NULL,
 		'Mulette était une petite Ecaflipette qui n''a jamais eu de chance dans sa vie, jusqu''au jour où sa grand-mère lui offrit cette amulette.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image82.svg'
+		'../images/image_amulette/image82.svg'
 	),
 	(
 		'item',
@@ -20939,7 +20939,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite broche a vraiment du charme, destinée à la base pour les malchanceux fermement décidés à participer aux jeux de la fête foraine, on a vite remarqué, qu''elle était également bien adaptée pour les chasses épiques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image83.svg'
+		'../images/image_amulette/image83.svg'
 	),
 	(
 		'item',
@@ -20997,7 +20997,7 @@ VALUES
 		NULL,
 		NULL,
 		'Portée sur un torse velu, cette amulette a tout pour plaire tant elle se marie bien avec les touffes de poils.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image84.svg'
+		'../images/image_amulette/image84.svg'
 	),
 	(
 		'item',
@@ -21055,7 +21055,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Liche était une sale créature connue pour s''incruster dans les groupes de valeureux guerriers afin de subtiliser une part du butin. Un jour, son petit manège fut découvert et elle dut prendre la fuite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image85.svg'
+		'../images/image_amulette/image85.svg'
 	),
 	(
 		'item',
@@ -21113,7 +21113,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette est aussi lourde qu''un Blop boulimique, voilà qui devrait décourager les aventuriers un peu trop fragiles de la porter. En revanche, une fois son poids supporté, il faut reconnaître qu''elle vous donne fière allure.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image86.svg'
+		'../images/image_amulette/image86.svg'
 	),
 	(
 		'item',
@@ -21171,7 +21171,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''Abramu est une amulette très élégante. Si vous avez l''intention de la porter nous vous conseillons de vous promener nu afin de bien mettre en valeur ce précieux bijoux. Vous verrez, les dames n''y résistent pas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image87.svg'
+		'../images/image_amulette/image87.svg'
 	),
 	(
 		'item',
@@ -21229,7 +21229,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le pauvre Gudule a perdu la tête suite à un terrible combat avec Many. Heureusement, son amulette elle n''a pas été abimée pendant l''affrontement. Elle a gardé ses pouvoirs hypnotisants, mais aussi laxatifs. A utiliser avec modération.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image88.svg'
+		'../images/image_amulette/image88.svg'
 	),
 	(
 		'item',
@@ -21287,7 +21287,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette a été retrouvée dans l''épave échouée du célèbre pêcheur de Kralamoure, Moby Diqueriveurse, qui était également populaire pour ses boutades vaseuses au bar des pirates.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image89.svg'
+		'../images/image_amulette/image89.svg'
 	),
 	(
 		'item',
@@ -21345,7 +21345,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette puissante amulette contient toute la vie du Craqueleur, tous les objets qu''il a récoltés avant de mourir sous les coups de butoir d''aventuriers attirés par ses richesses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image90.svg'
+		'../images/image_amulette/image90.svg'
 	),
 	(
 		'item',
@@ -21403,7 +21403,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce pendentif aide son porteur à se retrouver en paix avec le monde qui l''entoure.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image91.svg'
+		'../images/image_amulette/image91.svg'
 	),
 	(
 		'item',
@@ -21461,7 +21461,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Amulette est presque parfaite, elle accroît considérablement la sagesse de celui qui la porte autour du cou. Très utile pour paraître plus sage auprès de vos amis, ou vous faire passer pour un écolier modèle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image92.svg'
+		'../images/image_amulette/image92.svg'
 	),
 	(
 		'item',
@@ -21519,7 +21519,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette augmente la force et l''intelligence de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image93.svg'
+		'../images/image_amulette/image93.svg'
 	),
 	(
 		'item',
@@ -21577,7 +21577,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quand Lorkos voulut pénétrer dans le Labyrinthe du Minotoror, il n''hésita pas une seconde à équiper son Amublop. Personne n''a jamais su pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image94.svg'
+		'../images/image_amulette/image94.svg'
 	),
 	(
 		'item',
@@ -21635,7 +21635,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quand Lorkos voulut pénétrer dans le Labyrinthe du Minotoror, il n''hésita pas une seconde à équiper son Amublop. Personne n''a jamais su pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image95.svg'
+		'../images/image_amulette/image95.svg'
 	),
 	(
 		'item',
@@ -21693,7 +21693,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quand Lorkos voulut pénétrer dans le Labyrinthe du Minotoror, il n''hésita pas une seconde à équiper son Amublop. Personne n''a jamais su pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image96.svg'
+		'../images/image_amulette/image96.svg'
 	),
 	(
 		'item',
@@ -21751,7 +21751,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quand Lorkos voulut pénétrer dans le Labyrinthe du Minotoror, il n''hésita pas une seconde à équiper son Amublop. Personne n''a jamais su pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image97.svg'
+		'../images/image_amulette/image97.svg'
 	),
 	(
 		'item',
@@ -21809,7 +21809,7 @@ VALUES
 		NULL,
 		NULL,
 		'Oly était une disciple de Iop dont le seul talent était la cuisine. On rapporte que Iop en personne lui aurait donné cette médaille, pour compenser ses trop grandes faiblesses en combat. Cependant seuls les coeurs purs peuvent la porter.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image98.svg'
+		'../images/image_amulette/image98.svg'
 	),
 	(
 		'item',
@@ -21867,7 +21867,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette renferme une partie de l''histoire des Craqueleurs des Plaines qui pourrait se résumer en deux lignes si quelqu''un la connaissait. Malheureusement, les Craqueleurs eux-mêmes ne la connaissent pas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image99.svg'
+		'../images/image_amulette/image99.svg'
 	),
 	(
 		'item',
@@ -21925,7 +21925,7 @@ VALUES
 		NULL,
 		NULL,
 		'Offert à Melyonen par le célèbre Kanigrou Rook Y Balboua, pour la remercier de lui avoir présenté celle qui est maintenant sa femme, Ar d''rieeeeeeeeeneuh comme il aime à l''appeler.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image100.svg'
+		'../images/image_amulette/image100.svg'
 	),
 	(
 		'item',
@@ -21983,7 +21983,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette surpuissante est le fruit du travail sur la maîtrise du temps d''un très vieux Xélor.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image101.svg'
+		'../images/image_amulette/image101.svg'
 	),
 	(
 		'item',
@@ -22041,7 +22041,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Je ne suis pas un Tikoko, les Trukikols me collent à la peau, je ne suis pas un Tikoko, un Tikokooooooo...". Voilà ce que chantait à tue-tête en revenant de ses vacances sur l''île de Moon, Danioule le célèbre ménestrel paysan, connu pour battre l''Avoine en chantant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image102.svg'
+		'../images/image_amulette/image102.svg'
 	),
 	(
 		'item',
@@ -22099,7 +22099,7 @@ VALUES
 		NULL,
 		NULL,
 		'Derrière ce surnom stupide, se cache en réalité une amulette relativement puissante, confectionnée à partir de crocs, de dents et d''ossements de Mulous, ce qui explique la terrible odeur qui s''en dégage. A défaut d''être assortie à votre cou, elle sera assortie à votre haleine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image103.svg'
+		'../images/image_amulette/image103.svg'
 	),
 	(
 		'item',
@@ -22157,7 +22157,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette ne ressemble à aucune autre amulette, tout simplement car aucune amulette ne lui ressemble.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image104.svg'
+		'../images/image_amulette/image104.svg'
 	),
 	(
 		'item',
@@ -22215,7 +22215,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les dents de cette amulette ont rongé plus de Cawottes que Brouce Boulgoure n''a déraciné d''arbres, ne vous étonnez donc pas si vous sentez la Cawotte, et si les Tiwabbits cherchent à vous faire des bisous dans le cou.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image105.svg'
+		'../images/image_amulette/image105.svg'
 	),
 	(
 		'item',
@@ -22273,7 +22273,7 @@ VALUES
 		NULL,
 		NULL,
 		'Voilà une amulette, qui trahira votre goût prononcé pour les orgies de Gelée. On peut trouver mieux pour se mettre en valeur ou briller en société, mais il faut assumer jusqu''au bout votre faible pour la gelée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image106.svg'
+		'../images/image_amulette/image106.svg'
 	),
 	(
 		'item',
@@ -22331,7 +22331,7 @@ VALUES
 		NULL,
 		NULL,
 		'Seuls les habitants du village d''Aerdala avaient l''autorisation de porter cette amulette, qui est censée être un des éléments les plus importants de leur costume traditionnel. En y regardant de plus près, on se demande bien pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image107.svg'
+		'../images/image_amulette/image107.svg'
 	),
 	(
 		'item',
@@ -22389,7 +22389,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet objet a été moulé à partir d''un mélange d''oeufs célestes et de poussières d''étoiles lactées. A conserver au frais.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image108.svg'
+		'../images/image_amulette/image108.svg'
 	),
 	(
 		'item',
@@ -22447,7 +22447,7 @@ VALUES
 		NULL,
 		NULL,
 		'De la couleur du célèbre Dofus Turquoise, cette amulette n''a en fait aucun rapport avec ce dernier, ce qui ne l''empêche pas d''être très puissante pour autant. Comme quoi, les apparences ne sont pas toujours trompeuses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image109.svg'
+		'../images/image_amulette/image109.svg'
 	),
 	(
 		'item',
@@ -22505,7 +22505,7 @@ VALUES
 		NULL,
 		NULL,
 		'Vous portez fièrement cette amulette, symbole de votre participation à cette grande manifestation sportive. Il faut ça pour rester fier après être passé sous la mêlée du B.C Trool.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image110.svg'
+		'../images/image_amulette/image110.svg'
 	),
 	(
 		'item',
@@ -22563,7 +22563,7 @@ VALUES
 		NULL,
 		NULL,
 		'Epuop Tik en personne a commandé cette amulette à un illustre bijoutier. Il désirait pouvoir habiller toutes ses poupées en même temps au lieu d''attendre qu''elles périssent pour en invoquer d''autres. Une maladie courante chez les Sadidas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image111.svg'
+		'../images/image_amulette/image111.svg'
 	),
 	(
 		'item',
@@ -22621,7 +22621,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette surprenante amulette a en fait été confectionnée à partir d''un Bouclier Reptilien dont on a détaché les multiples pierres précieuses. C''est donc un bijou particulièrement lourd à porter mais vraiment très résistant. Votre cou sera parfaitement protégé des vampires, mais aussi des suçons des villageoises un peu trop entreprenantes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image112.svg'
+		'../images/image_amulette/image112.svg'
 	),
 	(
 		'item',
@@ -22679,7 +22679,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette est en fait une confiserie. Elle pourrait être mangée si elle n''avait pas auparavant été roulée sous les aisselles pendant 36 générations, par une horde de femelles Bwork en chaleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image113.svg'
+		'../images/image_amulette/image113.svg'
 	),
 	(
 		'item',
@@ -22737,7 +22737,7 @@ VALUES
 		NULL,
 		NULL,
 		'Seuls les habitants du village de Terrdala avaient l''autorisation de porter cette amulette, qui est censée être un des éléments les plus importants de leur costume traditionnel. En y regardant de plus près, on se demande bien pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image114.svg'
+		'../images/image_amulette/image114.svg'
 	),
 	(
 		'item',
@@ -22795,7 +22795,7 @@ VALUES
 		NULL,
 		NULL,
 		'Shika assistait Farle lors des moissons, en récupérant les épis magiques qui tombaient sous sa faux. Elle prit l''habitude au fil des moissons, de les accrocher autour de son cou. Privés de leurs racines et du reste de leur tige, ces épis magiques continuent tout de même de mûrir chaque année à la même période.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image115.svg'
+		'../images/image_amulette/image115.svg'
 	),
 	(
 		'item',
@@ -22853,7 +22853,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette d''apparence rudimentaire a été confectionnée à partir de trois épis de Blé magiques, recouverts de poussière de pierre précieuse, et fauchés dans les plaines de Snossios pendant la treizième moisson d''Istrabraq. Elle confère un courage hors du commun à son porteur, désormais à même de faucher plaines et vallées sans jamais faillir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image116.svg'
+		'../images/image_amulette/image116.svg'
 	),
 	(
 		'item',
@@ -22911,7 +22911,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette coûte beaucoup plus cher à fabriquer qu''une Amublop classique. Mais il faut voir le bon côté des choses, elle peut aussi se revendre plus cher, surtout si vous arnaquez un habitant d''Astrub.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image117.svg'
+		'../images/image_amulette/image117.svg'
 	),
 	(
 		'item',
@@ -22969,7 +22969,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette coûte beaucoup plus cher à fabriquer qu''une Amublop classique. Mais il faut voir le bon côté des choses, elle peut aussi se revendre plus cher, surtout si vous arnaquez un habitant d''Astrub.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image118.svg'
+		'../images/image_amulette/image118.svg'
 	),
 	(
 		'item',
@@ -23027,7 +23027,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette coûte beaucoup plus cher à fabriquer qu''une Amublop classique. Mais il faut voir le bon côté des choses, elle peut aussi se revendre plus cher, surtout si vous arnaquez un habitant d''Astrub.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image119.svg'
+		'../images/image_amulette/image119.svg'
 	),
 	(
 		'item',
@@ -23085,7 +23085,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette coûte beaucoup plus cher à fabriquer qu''une Amublop classique. Mais il faut voir le bon côté des choses, elle peut aussi se revendre plus cher, surtout si vous arnaquez un habitant d''Astrub.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image120.svg'
+		'../images/image_amulette/image120.svg'
 	),
 	(
 		'item',
@@ -23143,7 +23143,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette étrange amulette, permet à son porteur de s''endormir pour une bonne sieste en plein combat. Un peu comme un Féca le ferait contre un groupe de Craqueleurs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image121.svg'
+		'../images/image_amulette/image121.svg'
 	),
 	(
 		'item',
@@ -23201,7 +23201,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce collier donne une furieuse envie de rugir à son possesseur, simplement parce que les moustaches du Mufafah qui l''ornent lui chatouillent les tétons.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image122.svg'
+		'../images/image_amulette/image122.svg'
 	),
 	(
 		'item',
@@ -23259,7 +23259,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''apparence modeste, cette amulette renferme bien des secrets notamment celui précisant quels secrets elle renferme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image123.svg'
+		'../images/image_amulette/image123.svg'
 	),
 	(
 		'item',
@@ -23317,7 +23317,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Broche a été confectionnée un matin d''automne au milieu d''une forêt de Hêtres et d''Ormes non loin de l''île d''Olag-lacustre. Elle est considérée par nombre de bûcherons comme une véritable relique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image124.svg'
+		'../images/image_amulette/image124.svg'
 	),
 	(
 		'item',
@@ -23375,7 +23375,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sans additif ni colorant, cette amulette serait tout simplement transparente. Rassurez-vous, personne ne vous demandera de la manger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image125.svg'
+		'../images/image_amulette/image125.svg'
 	),
 	(
 		'item',
@@ -23433,7 +23433,7 @@ VALUES
 		NULL,
 		NULL,
 		'Seuls les habitants du village de Feudala avaient l''autorisation de porter cette amulette, qui est censée être un des éléments les plus importants de leur costume traditionnel. En y regardant de plus près, on se demande bien pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image126.svg'
+		'../images/image_amulette/image126.svg'
 	),
 	(
 		'item',
@@ -23491,7 +23491,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette en résine de Bambou diffusera autour de vous une odeur agréable. Très efficace pour dissimuler vos essais de Vents de Panique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image127.svg'
+		'../images/image_amulette/image127.svg'
 	),
 	(
 		'item',
@@ -23549,7 +23549,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette magnifique broche est un hommage à la célèbre résistance des mineurs de la mine d''argent de Grimoth, qui passèrent un hiver entier, à combattre un Rockailleux de la pire espèce, pour finalement mourir achevés par un vieux Tofu égaré.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image128.svg'
+		'../images/image_amulette/image128.svg'
 	),
 	(
 		'item',
@@ -23607,7 +23607,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un vieux dicton de Sufokia dit: de la Boule un jour, de la Bouboule peut-être un autre jour. Vous pourrez constatez que, plus le dicton est vieux, plus il s''avère ridicule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image129.svg'
+		'../images/image_amulette/image129.svg'
 	),
 	(
 		'item',
@@ -23665,7 +23665,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce collier dispose d''une petite boucle, qui permettait d''accrocher une laisse au cou du Dragon Cochon, lorsque son propriétaire voulait l''emmener faire une petite promenade nocturne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image130.svg'
+		'../images/image_amulette/image130.svg'
 	),
 	(
 		'item',
@@ -23723,7 +23723,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous le portez comme un collier, il vous protègera des émanations toxiques provenant des égoûts. En revanche, si vous le portez comme une ceinture, ce sont vos alliés qui seront protégés de vos émanations toxiques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image131.svg'
+		'../images/image_amulette/image131.svg'
 	),
 	(
 		'item',
@@ -23781,7 +23781,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le rat qui possédait ce collier pensait devenir le chef de son clan. Il s''est fait manger par un Lenald enragé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image132.svg'
+		'../images/image_amulette/image132.svg'
 	),
 	(
 		'item',
@@ -23839,7 +23839,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bijou essaye parfois de vous voler des aliments au passage pendant votre repas, ne le laissez pas pendre trop bas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image133.svg'
+		'../images/image_amulette/image133.svg'
 	),
 	(
 		'item',
@@ -23897,7 +23897,7 @@ VALUES
 		NULL,
 		NULL,
 		'Autour du cou, ce torque met en valeur votre barbe. Si vous n''avez pas de barbe, vous ne pouvez vous en prendre qu''à vous-même.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image134.svg'
+		'../images/image_amulette/image134.svg'
 	),
 	(
 		'item',
@@ -23955,7 +23955,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce collier permettait au Minotoror de ne pas avoir de puces, de tiques, ou même de poux. De toute évidence, vous en aviez besoin.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image135.svg'
+		'../images/image_amulette/image135.svg'
 	),
 	(
 		'item',
@@ -24013,7 +24013,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Amulette spécialement conçue pour les vieux Enutrofs, a permis il y a bien longtemps à Setag, de nettoyer la mine de Grimoth, de tous ses rivaux mineurs. Une méthode certes peu raisonnable, mais terriblement efficace.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image136.svg'
+		'../images/image_amulette/image136.svg'
 	),
 	(
 		'item',
@@ -24071,7 +24071,7 @@ VALUES
 		NULL,
 		NULL,
 		'Confectionnée à partir d''écailles de Dragoeufs, cette amulette protégera efficacement votre pomme d''Adam, ou vos amygdales. De quoi faire la différence sur un champ de bataille.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image137.svg'
+		'../images/image_amulette/image137.svg'
 	),
 	(
 		'item',
@@ -24129,7 +24129,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette médaille appartenait à un célèbre Pandawa, maître d''une vieille école d''arts martiaux qui enseignait à ses disciples la défense en utilisant la force de ses adversaires. Son école a fini par disparaître car ses adversaires n''étaient plus assez forts.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image138.svg'
+		'../images/image_amulette/image138.svg'
 	),
 	(
 		'item',
@@ -24187,7 +24187,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est le célèbre et non moins burlesque artisan Yamato, injustement méprisé pour son arc ridicule, qui le premier, eu l''audace de tenter d''enchanter une amulette avec autant d''effets, chose réputée infaisable depuis des lustres.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image139.svg'
+		'../images/image_amulette/image139.svg'
 	),
 	(
 		'item',
@@ -24245,7 +24245,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sous ce nom étrange se cache un objet tout aussi étrange, né on ne sait trop comment de précédentes amulettes. On ignore tout des circonstances dans lesquelles elle a été découverte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image140.svg'
+		'../images/image_amulette/image140.svg'
 	),
 	(
 		'item',
@@ -24303,7 +24303,7 @@ VALUES
 		NULL,
 		NULL,
 		'Afin d''éviter qu''on le lui vole, ce collier est glissé autour du cou de l''héritier du Seigneur des rats à sa naissance. Ainsi, à l''âge adulte, le seul moyen de le lui enlever est de lui couper la tête. On le lui vole tout de même.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image141.svg'
+		'../images/image_amulette/image141.svg'
 	),
 	(
 		'item',
@@ -24361,7 +24361,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce Talisman a été confectionné avec de la poussière d''étoiles et de pierres précieuses, prises dans de l''ambre d''Abraknyde Ancestral. Le mélange étant parfois explosif, il est déconseillé d''en fabriquer une vous-même, laissez cela à un Bijoutier que vous n''aimez pas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image142.svg'
+		'../images/image_amulette/image142.svg'
 	),
 	(
 		'item',
@@ -24419,7 +24419,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pièce de bois prélevée au coeur du Chêne mou renferme un grand pouvoir, comme celui de mettre le Chêne Mou en colère.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image143.svg'
+		'../images/image_amulette/image143.svg'
 	),
 	(
 		'item',
@@ -24477,7 +24477,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Meulette renferme une étrange substance trouvée dans les entrailles du Meulou, d''aucuns prétendent qu''il s''agit de l''essence du monstre, d''autres pensent qu''il avait juste dévoré un Kirboule pas très frais.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image144.svg'
+		'../images/image_amulette/image144.svg'
 	),
 	(
 		'item',
@@ -24535,7 +24535,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce collier est porté par le Tanukouï San depuis sa tendre enfance, ce qui lui confère une valeur ajoutée non négligeable lorsque l''on sait de quoi il était capable, même durant son enfance.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image145.svg'
+		'../images/image_amulette/image145.svg'
 	),
 	(
 		'item',
@@ -24593,7 +24593,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce collier permettait aux Minotot, de protéger ses cervicales et d''éviter de périr à cause d''un stupide coup du Wabbit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image146.svg'
+		'../images/image_amulette/image146.svg'
 	),
 	(
 		'item',
@@ -24651,7 +24651,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette amulette est un vulgaire morceau de bois et de tissu déchiré, mais les Zoths croient dur comme fer à ses pouvoirs. Les pauvres fous !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image147.svg'
+		'../images/image_amulette/image147.svg'
 	),
 	(
 		'item',
@@ -24709,7 +24709,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette réplique approximative du grand Ougah se porte autour du cou, avec un regard noir et une barbe correctement entretenue.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image148.svg'
+		'../images/image_amulette/image148.svg'
 	),
 	(
 		'item',
@@ -24767,7 +24767,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un jour, le Captain Chafer rencontra le Bworker, il prit l''initiative de lui dire : "ton postérieur, ta tête, quelle différence ?". Depuis ce jour, personne n''a revu le Captain Chafer. Même son célèbre slip moulant en cuir semble avoir disparu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image149.svg'
+		'../images/image_amulette/image149.svg'
 	),
 	(
 		'item',
@@ -24825,7 +24825,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bijou dégage une telle puissance qu''elle tuerait un Moskito à 30 pas, si son odeur n''empêchait pas ce dernier d''approcher à moins d''un kilomètre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image150.svg'
+		'../images/image_amulette/image150.svg'
 	),
 	(
 		'item',
@@ -24883,7 +24883,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette effrayante amulette est longtemps restée cachée dans un manoir perdu. Autrefois vivante, elle voulait conquérir le monde. Finalement elle n''aura que votre cou. La pauvre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image151.svg'
+		'../images/image_amulette/image151.svg'
 	),
 	(
 		'item',
@@ -24941,7 +24941,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sertie d''un oeil de démon, cette amulette à la forme originale vous embrochera dès que vous vous mettrez à courir. Une sorte de vengence de la part du démon qui vous rappellera sans cesse que toute action engendre une réaction.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_amulette/image152.svg'
+		'../images/image_amulette/image152.svg'
 	),
 	(
 		'item',
@@ -24999,7 +24999,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau influe sur le cours de votre destinée, il vous rend plus résistant, mais moins chanceux. Vous augmentez vos chances de vivre longtemps en diminuant vos chances de vivre heureux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image0.svg'
+		'../images/image_anneau/image0.svg'
 	),
 	(
 		'item',
@@ -25057,7 +25057,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet étrange petit anneau a la faculté d''augmenter l''agilité de son porteur, pourtant étrangement frappé d''un manque de chance.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image1.svg'
+		'../images/image_anneau/image1.svg'
 	),
 	(
 		'item',
@@ -25115,7 +25115,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image2.svg'
+		'../images/image_anneau/image2.svg'
 	),
 	(
 		'item',
@@ -25173,7 +25173,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image3.svg'
+		'../images/image_anneau/image3.svg'
 	),
 	(
 		'item',
@@ -25231,7 +25231,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image4.svg'
+		'../images/image_anneau/image4.svg'
 	),
 	(
 		'item',
@@ -25289,7 +25289,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image5.svg'
+		'../images/image_anneau/image5.svg'
 	),
 	(
 		'item',
@@ -25347,7 +25347,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image6.svg'
+		'../images/image_anneau/image6.svg'
 	),
 	(
 		'item',
@@ -25405,7 +25405,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image7.svg'
+		'../images/image_anneau/image7.svg'
 	),
 	(
 		'item',
@@ -25463,7 +25463,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce petit anneau donne de la Force à son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image8.svg'
+		'../images/image_anneau/image8.svg'
 	),
 	(
 		'item',
@@ -25521,7 +25521,7 @@ VALUES
 		NULL,
 		NULL,
 		'Étrangement, les collectionneurs Amaknéens s''arrachent cet anneau alors qu''il ne vaut pas tripette.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image9.svg'
+		'../images/image_anneau/image9.svg'
 	),
 	(
 		'item',
@@ -25579,7 +25579,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce petit anneau augmente la vie de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image10.svg'
+		'../images/image_anneau/image10.svg'
 	),
 	(
 		'item',
@@ -25637,7 +25637,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce petit anneau augmente l''intelligence de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image11.svg'
+		'../images/image_anneau/image11.svg'
 	),
 	(
 		'item',
@@ -25695,7 +25695,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau renforce la sagesse de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image12.svg'
+		'../images/image_anneau/image12.svg'
 	),
 	(
 		'item',
@@ -25753,7 +25753,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau renforce la chance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image13.svg'
+		'../images/image_anneau/image13.svg'
 	),
 	(
 		'item',
@@ -25811,7 +25811,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau augmente l''agilité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image14.svg'
+		'../images/image_anneau/image14.svg'
 	),
 	(
 		'item',
@@ -25869,7 +25869,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un petit anneau sympathique pour les débutants, et qui amusera les jeunes enfants, ou les Ecaflips.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image15.svg'
+		'../images/image_anneau/image15.svg'
 	),
 	(
 		'item',
@@ -25927,7 +25927,7 @@ VALUES
 		NULL,
 		NULL,
 		'Malgré un nom pompeux, cet anneau rend juste un peu plus fort, et un peu plus bête.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image16.svg'
+		'../images/image_anneau/image16.svg'
 	),
 	(
 		'item',
@@ -25985,7 +25985,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau renforce la sagesse de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image17.svg'
+		'../images/image_anneau/image17.svg'
 	),
 	(
 		'item',
@@ -26043,7 +26043,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau renforce la chance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image18.svg'
+		'../images/image_anneau/image18.svg'
 	),
 	(
 		'item',
@@ -26101,7 +26101,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau augmente l''agilité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image19.svg'
+		'../images/image_anneau/image19.svg'
 	),
 	(
 		'item',
@@ -26159,7 +26159,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Champ Champ n''a jamais été connu pour être une créature très sympathique. Il vous empoisonne la vie dès qu''il peut, il mord assez fort, et a très mauvais caractère. C''est étonnant comme ces vilaines petites créatures peuvent parfois vous faire penser à un conjoint.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image20.svg'
+		'../images/image_anneau/image20.svg'
 	),
 	(
 		'item',
@@ -26217,7 +26217,7 @@ VALUES
 		NULL,
 		NULL,
 		'Lorsque le Champ Champ se marie, il offre cette alliance à sa dulcinée. Cette dernière étant dépourvue de bras, l''alliance est déposée soigneusement sur une de ses épines. En vous équipant de cette alliance, vous briserez les liens du mariage qui unissaient ces deux créatures, et dans le meilleur des cas, le Champ Champ vous prendra pour sa dulcinée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image21.svg'
+		'../images/image_anneau/image21.svg'
 	),
 	(
 		'item',
@@ -26275,7 +26275,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau, forgé dans de l''écorce d''Abraknyde possède de grands pouvoirs et implique donc de grandes responsabilités. Cependant, malgré sa valeur, des rumeurs laissent entendre qu''il est maudit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image22.svg'
+		'../images/image_anneau/image22.svg'
 	),
 	(
 		'item',
@@ -26333,7 +26333,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau augmente l''agilité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image23.svg'
+		'../images/image_anneau/image23.svg'
 	),
 	(
 		'item',
@@ -26391,7 +26391,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce ridicule petit anneau vous permettra de combattre plus facilement votre phobie des Araknes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image24.svg'
+		'../images/image_anneau/image24.svg'
 	),
 	(
 		'item',
@@ -26449,7 +26449,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau renforce la sagesse de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image25.svg'
+		'../images/image_anneau/image25.svg'
 	),
 	(
 		'item',
@@ -26507,7 +26507,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau renforce la chance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image26.svg'
+		'../images/image_anneau/image26.svg'
 	),
 	(
 		'item',
@@ -26565,7 +26565,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau permettra a votre héros d''augmenter ses PA, en contrepartie de sa force et de son intelligence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image27.svg'
+		'../images/image_anneau/image27.svg'
 	),
 	(
 		'item',
@@ -26623,7 +26623,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau renforce la sagesse de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image28.svg'
+		'../images/image_anneau/image28.svg'
 	),
 	(
 		'item',
@@ -26681,7 +26681,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau renforce la chance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image29.svg'
+		'../images/image_anneau/image29.svg'
 	),
 	(
 		'item',
@@ -26739,7 +26739,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau augmente l''agilité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image30.svg'
+		'../images/image_anneau/image30.svg'
 	),
 	(
 		'item',
@@ -26797,7 +26797,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau provient du fameux Bouze le Clerc, sauveur des temps modernes. Sa phrase culte parlait d''un fin Eni et d''au-delà.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image31.svg'
+		'../images/image_anneau/image31.svg'
 	),
 	(
 		'item',
@@ -26855,7 +26855,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ce petit anneau autour du doigt, vous pourrez presque essayer de passer inaperçu au milieu des champs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image32.svg'
+		'../images/image_anneau/image32.svg'
 	),
 	(
 		'item',
@@ -26913,7 +26913,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau, transmis de Grand père Enutrof en Père Enutrof, procure à son porteur une formidable force. Celui-ci n''en est qu''une pâle copie, mais il saura tout de même satisfaire les collectionneurs, qu''ils soient Enutrof ou non.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image33.svg'
+		'../images/image_anneau/image33.svg'
 	),
 	(
 		'item',
@@ -26971,7 +26971,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau apporte force et courage à son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image34.svg'
+		'../images/image_anneau/image34.svg'
 	),
 	(
 		'item',
@@ -27029,7 +27029,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces mitaines mitées sont de véritables bijoux. On raconte qu''elles sont recouvertes de poussière de diamant, ce qui leur confère une résistance extraordinaire. Elles disposent d''une face abrasive, idéale pour frotter le derrière des Bouftous, ou celui de votre épouse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image35.svg'
+		'../images/image_anneau/image35.svg'
 	),
 	(
 		'item',
@@ -27087,7 +27087,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau permet d''augmenter légèrement l''intelligence de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image36.svg'
+		'../images/image_anneau/image36.svg'
 	),
 	(
 		'item',
@@ -27145,7 +27145,7 @@ VALUES
 		NULL,
 		NULL,
 		'Anneau serti d''une pierre rare. Il doit son nom aux différentes pierres nécessaires à sa confection.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image37.svg'
+		'../images/image_anneau/image37.svg'
 	),
 	(
 		'item',
@@ -27203,7 +27203,7 @@ VALUES
 		NULL,
 		NULL,
 		'On dit que cet anneau serait issu d''une des nombreuses blessures reçues par un Sacrieur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image38.svg'
+		'../images/image_anneau/image38.svg'
 	),
 	(
 		'item',
@@ -27261,7 +27261,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce joli anneau avait comme fonction première de permettre aux Osamodas de reconnaître leur tofu dans les combats.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image39.svg'
+		'../images/image_anneau/image39.svg'
 	),
 	(
 		'item',
@@ -27319,7 +27319,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est aussi populaire auprès des dentistes que des bandits, qui s''en servent pour casser une à une les dents des imprudents. Une forme de prévention comme une autre contre l''apparition des caries.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image40.svg'
+		'../images/image_anneau/image40.svg'
 	),
 	(
 		'item',
@@ -27377,7 +27377,7 @@ VALUES
 		NULL,
 		NULL,
 		'Selon certaines légendes, cet anneau protège son porteur des intempéries. Mais ceci n''a jamais encore pu être prouvé, puisqu''il ne pleut jamais en Amakna.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image41.svg'
+		'../images/image_anneau/image41.svg'
 	),
 	(
 		'item',
@@ -27435,7 +27435,7 @@ VALUES
 		NULL,
 		NULL,
 		'Anneau des débutants par excellence, c''est également l''anneau symbolisant le mieux un bon nombre de moeurs inavouables. Il semblerait qu''il vous corresponde dans tous les cas, très bien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image42.svg'
+		'../images/image_anneau/image42.svg'
 	),
 	(
 		'item',
@@ -27493,7 +27493,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau était placé sur les pattes des sangliers en rut, pour que les éleveurs puissent facilement les reconnaître. Aujourd''hui, c''est vous qui portez cet anneau. Toutes les interprétations sont possibles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image43.svg'
+		'../images/image_anneau/image43.svg'
 	),
 	(
 		'item',
@@ -27551,7 +27551,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''Homme Ours n''a jamais quitté cette alliance, bien que sa femme fût dévorée sous ses yeux, par un des ours qu''il venait d''invoquer, et cela pour impressionner sa dulcinée. Elle a effectivement été très impressionnée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image44.svg'
+		'../images/image_anneau/image44.svg'
 	),
 	(
 		'item',
@@ -27609,7 +27609,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau a été créé pour augmenter la chance de son porteur lors de parties de cartes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image45.svg'
+		'../images/image_anneau/image45.svg'
 	),
 	(
 		'item',
@@ -27667,7 +27667,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est si léger qu''il vous permettra de réaliser n''importe quelle acrobatie avec vos doigts. Très pratique pour humilier un adversaire dix fois plus petit que vous, en lui écrasant la tête avec le pouce.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image46.svg'
+		'../images/image_anneau/image46.svg'
 	),
 	(
 		'item',
@@ -27725,7 +27725,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau vraiment insignifiant tant il est ridicule, peut tout de même se révéler indispensable. En effet, vos ennemis risquent d''avoir tellement pitié de vous, qu''ils vous achèveront, plutôt que de vous laisser souffrir atrocement. Il faut toujours voir le bon côté des choses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image47.svg'
+		'../images/image_anneau/image47.svg'
 	),
 	(
 		'item',
@@ -27783,7 +27783,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est à même de protéger son porteur des petites attaques magiques et donc par extension, des petits monstres qui usent de la magie pour faire les malins et se rendre intéressants.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image48.svg'
+		'../images/image_anneau/image48.svg'
 	),
 	(
 		'item',
@@ -27841,7 +27841,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est à même de protéger son porteur des petites attaques physiques et donc par extension, des petits monstres qui jouent sur leur physique pour vous surprendre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image49.svg'
+		'../images/image_anneau/image49.svg'
 	),
 	(
 		'item',
@@ -27899,7 +27899,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette magnifique alliance a été volée à Silimelle la Brasseuse de Bière, lors d''une soirée un peu trop arrosée à la taverne. Voilà ce qui arrive lorsque l''on paie des coups à des inconnus...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image50.svg'
+		'../images/image_anneau/image50.svg'
 	),
 	(
 		'item',
@@ -27957,7 +27957,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau a été offert il y bien longtemps à Isidor, un chat malin, par le roi Allister, qui reconnu l''agilité inégalable de cet Ecaflip.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image51.svg'
+		'../images/image_anneau/image51.svg'
 	),
 	(
 		'item',
@@ -28015,7 +28015,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau augmente la vie de son porteur, tout comme l''odeur de la femelle du Bouftou Royal augmente son charme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image52.svg'
+		'../images/image_anneau/image52.svg'
 	),
 	(
 		'item',
@@ -28073,7 +28073,7 @@ VALUES
 		NULL,
 		NULL,
 		'Anneaux engendrés lors des voyages temporels de Xélor.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image53.svg'
+		'../images/image_anneau/image53.svg'
 	),
 	(
 		'item',
@@ -28131,7 +28131,7 @@ VALUES
 		NULL,
 		NULL,
 		'Anneaux créés à partir de larmes d''Enutrof ayant perdu sa pelle. Cela donne une idée du désespoir dans lequel peut être plongé le bonhomme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image54.svg'
+		'../images/image_anneau/image54.svg'
 	),
 	(
 		'item',
@@ -28189,7 +28189,7 @@ VALUES
 		NULL,
 		NULL,
 		'Solo était un gentil vaurien, d''ailleurs il le disait lui-même. Ça ne l''a pas empêché de mourir pendu sur la place du village après avoir dérobé une petite culotte à la femme du chef. Solo n''était vraiment pas futé, mais gentil quand-même...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image55.svg'
+		'../images/image_anneau/image55.svg'
 	),
 	(
 		'item',
@@ -28247,7 +28247,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prenez des feuilles de Fourbasse, empilez-les, laissez-les macérer dans de l''alcool éventé, perforez-les, buvez le reste d''alcool, collez les feuilles autour d''un morceau d''écorce, fixez des morceaux de feuille de Kokoko avec une matière gluante, et voilà, vous avez une magnifique Fourballiance. Elle sent très mauvais, et vous sera particulièrement utile pour justifier et cacher l''odeur de vos doigts surtout si vous avez tendance à les mettre n''importe où. Surtout là où il ne faut pas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image56.svg'
+		'../images/image_anneau/image56.svg'
 	),
 	(
 		'item',
@@ -28305,7 +28305,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce petit anneau qui ne paye pas de mine a été crée par Degun. Ce bijoutier était plus connu pour ses coups de gueule envers tout le monde et sa cruelle aversion pour la Liche, que pour sa créativité en matière d''orfévrerie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image57.svg'
+		'../images/image_anneau/image57.svg'
 	),
 	(
 		'item',
@@ -28363,7 +28363,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet alliance provient du village d''Akwadala. Plus proche du porte-bonheur que de la relique magique, elle vous permettra tout de même de faire croire à vos amis que vous avez trouvé l''âme soeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image58.svg'
+		'../images/image_anneau/image58.svg'
 	),
 	(
 		'item',
@@ -28421,7 +28421,7 @@ VALUES
 		NULL,
 		NULL,
 		'A la fois sobre et tout de même original, cet anneau saura séduire les aventuriers avides d''apparat de luxes mais complètement fauchés, au point d''aller dépouiller de ridicules petites créatures sauvages pour s''orner de bijoux. La mesquinerie ne connaît aucune limite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image59.svg'
+		'../images/image_anneau/image59.svg'
 	),
 	(
 		'item',
@@ -28479,7 +28479,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau vous permettra de faire encore plus mal, lorsque vous donnerez des fessées bien méritées à vos enfants.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image60.svg'
+		'../images/image_anneau/image60.svg'
 	),
 	(
 		'item',
@@ -28537,7 +28537,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est une version améliorée du célèbre Anneau de Satisfaction. Idéal pour laisser à vos petites bestioles le soin de faire le combat à votre place, ou tout simplement pour faire le malin en invoquant une armée de Tofus.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image61.svg'
+		'../images/image_anneau/image61.svg'
 	),
 	(
 		'item',
@@ -28595,7 +28595,7 @@ VALUES
 		NULL,
 		NULL,
 		'Travailler la Branche d''Abraknyde n''est pas chose aisée. Mais avec de la persévérance, on peut finir par obtenir un anneau à la fois sobre, élégant et raffiné. Tout le contraire d''un Sadida dans une taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image62.svg'
+		'../images/image_anneau/image62.svg'
 	),
 	(
 		'item',
@@ -28653,7 +28653,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce petit anneau était jadis très convoité par les Enutrofettes qui préféraient s''en servir pour décorer leurs orteils. Une excellente façon de cacher leurs verrues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image63.svg'
+		'../images/image_anneau/image63.svg'
 	),
 	(
 		'item',
@@ -28711,7 +28711,7 @@ VALUES
 		NULL,
 		NULL,
 		'Judicieusement porté, cet anneau vous permettra d''embellir vos doigts boudinés. Malheureusement pour certains, il n''est efficace que sur les doigts.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image64.svg'
+		'../images/image_anneau/image64.svg'
 	),
 	(
 		'item',
@@ -28769,7 +28769,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est si léger, qu''il pourrait s''envoler au premier coup de vent. Mais ne rêvez pas, si cela se produit, vous ne vous envolerez pas avec lui. On se moquera de vous dans le meilleur des cas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image65.svg'
+		'../images/image_anneau/image65.svg'
 	),
 	(
 		'item',
@@ -28827,7 +28827,7 @@ VALUES
 		NULL,
 		NULL,
 		'Grâce à cet anneau, si vous vous perdez en allant délivrer un message, votre maître pourra peut-être vous retrouver.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image66.svg'
+		'../images/image_anneau/image66.svg'
 	),
 	(
 		'item',
@@ -28885,7 +28885,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porter cet anneau autour du doigt vous permettra d''avoir une pensée émue pour tous les Scarafeuilles que vous avez exterminés. Alors peut-être, vous vous demanderez si tout cela en valait réellement la peine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image67.svg'
+		'../images/image_anneau/image67.svg'
 	),
 	(
 		'item',
@@ -28943,7 +28943,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porter cet anneau autour du doigt vous permettra d''avoir une pensée émue pour tous les Scarafeuilles que vous avez exterminés. Alors peut-être, vous vous demanderez si tout cela en valait réellement la peine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image68.svg'
+		'../images/image_anneau/image68.svg'
 	),
 	(
 		'item',
@@ -29001,7 +29001,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porter cet anneau autour du doigt vous permettra d''avoir une pensée émue pour tous les Scarafeuilles que vous avez exterminés. Alors peut-être, vous vous demanderez si tout cela en valait réellement la peine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image69.svg'
+		'../images/image_anneau/image69.svg'
 	),
 	(
 		'item',
@@ -29059,7 +29059,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porter cet anneau autour du doigt vous permettra d''avoir une pensée émue pour tous les Scarafeuilles que vous avez exterminés. Alors peut-être, vous vous demanderez si tout cela en valait réellement la peine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image70.svg'
+		'../images/image_anneau/image70.svg'
 	),
 	(
 		'item',
@@ -29117,7 +29117,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Sacrabosse est une étrange créature. Bossue et laide depuis sa naissance, elle s''est retrouvée être la risée des autres Scarafeuilles. C''est peut-être pour cela que vous vous sentez si proche de cette créature.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image71.svg'
+		'../images/image_anneau/image71.svg'
 	);
 
 INSERT INTO
@@ -29236,7 +29236,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau a été créé par un célèbre forain, dont personne ne se rappelle le nom. Il est mort lors du concours de tir à l''arc, en mettant comme cible sur sa tête, une Graine de Tournesol Sauvage à la place de la traditionnelle Citrouille.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image72.svg'
+		'../images/image_anneau/image72.svg'
 	),
 	(
 		'item',
@@ -29294,7 +29294,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau appartenait à un vieillard, qui selon certaines rumeurs, aurait sauvé toutes les créatures de l''île de Moon d''un terrible déluge, en les amenant sur son radeau. Une autre version des faits raconte qu''il aurait troqué son radeau contre un petit singe, au lieu de sauver les créatures de l''île.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image73.svg'
+		'../images/image_anneau/image73.svg'
 	),
 	(
 		'item',
@@ -29352,7 +29352,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau, est en fait une excroissance du Chêne Mou, arrachée lors d''une tempête. Maintenant il est à vous, mais évitez de trop l''approcher de son maître, il pourrait décider de se retourner contre vous.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image74.svg'
+		'../images/image_anneau/image74.svg'
 	),
 	(
 		'item',
@@ -29410,7 +29410,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bijou n''est pas très précieux, mais il a la taille idéale pour servir à doser le mourgale dans un bon belgrouth à la glaviouze.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image75.svg'
+		'../images/image_anneau/image75.svg'
 	),
 	(
 		'item',
@@ -29468,7 +29468,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau, permet à l''Abraknyde Sombre, de sortir en soirée tout en étant vraiment très chic. Et comme la vie est bien faite, c''est toujours la soirée dans la Forêt Sombre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image76.svg'
+		'../images/image_anneau/image76.svg'
 	),
 	(
 		'item',
@@ -29526,7 +29526,7 @@ VALUES
 		NULL,
 		NULL,
 		'Stradamus, était un viel Enutrof, complètement ivre, qui lisait l''avenir dans les choppes de bière. La légende raconte qu''à sa demande, il fût enseveli à la verticale dans un des murs de la taverne de Brâkmar, pour "qu''aucun poltron ne puisse renverser une bière sur sa tombe". Le genre de légende colportée au fil des beuveries organisées par les Maîtres Sérianes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image77.svg'
+		'../images/image_anneau/image77.svg'
 	),
 	(
 		'item',
@@ -29584,7 +29584,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau magnifique peut être porté autour du gros orteil. Idéal pour cacher vos verrues et vos ongles incarnés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image78.svg'
+		'../images/image_anneau/image78.svg'
 	),
 	(
 		'item',
@@ -29642,7 +29642,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau doit son nom aux dernières paroles de son créateur : "Oh, Rigami mon ami !" lança-t-il dans un râle de douleur terriblement amusant. Il est important de constater que la confection de cet anneau en Bambou est antérieure à l''apparition des Bambous. Une énigme de plus qui ne risque pas d''être résolue avant plusieurs décennies.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image79.svg'
+		'../images/image_anneau/image79.svg'
 	),
 	(
 		'item',
@@ -29700,7 +29700,7 @@ VALUES
 		NULL,
 		NULL,
 		'Grâce à cet anneau, vos amies diront de vous "Elle a vraiment tout d''une dinde".',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image80.svg'
+		'../images/image_anneau/image80.svg'
 	),
 	(
 		'item',
@@ -29758,7 +29758,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une fois enfilé au bout d''un doigt, il n''est plus possible de se débarrasser de cet anneau. Plus vous y pensez, et plus il vous rappelle quelqu''un.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image81.svg'
+		'../images/image_anneau/image81.svg'
 	),
 	(
 		'item',
@@ -29816,7 +29816,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une fois enfilé au bout d''un doigt, il n''est plus possible de se débarrasser de cet anneau. Plus vous y pensez, et plus il vous rappelle quelqu''un.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image82.svg'
+		'../images/image_anneau/image82.svg'
 	),
 	(
 		'item',
@@ -29874,7 +29874,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une fois enfilé au bout d''un doigt, il n''est plus possible de se débarrasser de cet anneau. Plus vous y pensez, et plus il vous rappelle quelqu''un.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image83.svg'
+		'../images/image_anneau/image83.svg'
 	),
 	(
 		'item',
@@ -29932,7 +29932,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une fois enfilé au bout d''un doigt, il n''est plus possible de se débarrasser de cet anneau. Plus vous y pensez, et plus il vous rappelle quelqu''un.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image84.svg'
+		'../images/image_anneau/image84.svg'
 	),
 	(
 		'item',
@@ -29990,7 +29990,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau vivant dispose d''un terrible envoûtement, capable de rendre malades les aventuriers les plus résistants. On raconte qu''il était à l''origine censé soigner celui qui le porte autour de l''index et qu''il est devenu dangereux et agressif à force de se retrouver contre sa volonté dans des endroits peu recommandables.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image85.svg'
+		'../images/image_anneau/image85.svg'
 	),
 	(
 		'item',
@@ -30048,7 +30048,7 @@ VALUES
 		NULL,
 		NULL,
 		'Attention, cet anneau rendra votre doigt particulièrement malodorant. Une odeur qui risque d''en couvrir une autre. C''est peut-être pour votre doigt et votre entourage une très bonne chose...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image86.svg'
+		'../images/image_anneau/image86.svg'
 	),
 	(
 		'item',
@@ -30106,7 +30106,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''origine de cet anneau est pour le moins douteuse, on pense qu''il a appartenu à une tribu de Sadidas Kannibouls végétariens mangeurs de fougères de la pire espèce qui soit. Sûrement une histoire pour faire peur aux jeunes Sadidas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image87.svg'
+		'../images/image_anneau/image87.svg'
 	),
 	(
 		'item',
@@ -30164,7 +30164,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce magnifique anneau est porté par les Koalaks les plus téméraires, ceux qui ont été assez courageux pour le voler aux aventuriers d''Astrub à la sortie de la banque.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image88.svg'
+		'../images/image_anneau/image88.svg'
 	),
 	(
 		'item',
@@ -30222,7 +30222,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un groupe de Ménestrels cosmopolites, mais particulièrement mauvais, avaient décidé d''utiliser cette alliance pour se reconnaître dans la foule qui venait assister à leurs représentations. Finalement, cette alliance ne leur fut d''aucune utilité car ils n''eurent aucun succès. Selon certaines mauvaises langues ou bonnes oreilles, c''était bien mérité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image89.svg'
+		'../images/image_anneau/image89.svg'
 	),
 	(
 		'item',
@@ -30280,7 +30280,7 @@ VALUES
 		NULL,
 		NULL,
 		'Contrairement à ce que certains pensent, cet anneau n''a aucun rapport avec la sulfureuse Karina, qui s''est à maintes reprises, mise en scène d''une façon assez exotique dans le bar des pirates de Sufokia. En réalité, c''est un musicien éleveur de Tofus, qui a donné ce nom à cet anneau, capable une fois porté autour du pouce, d''émettre un son proche de celui que l''on peut entendre lorsque l''on tord le cou d''un Tofu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image90.svg'
+		'../images/image_anneau/image90.svg'
 	),
 	(
 		'item',
@@ -30338,7 +30338,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce petit anneau du Kitsou devrait vous protéger des petits tracas de la vie de tous les jours.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image91.svg'
+		'../images/image_anneau/image91.svg'
 	),
 	(
 		'item',
@@ -30396,7 +30396,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet alliance provient du village d''Aerdala. Plus proche du porte-bonheur que de la relique magique, elle vous permettra tout de même de faire croire à vos amis que vous avez trouvé l''âme soeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image92.svg'
+		'../images/image_anneau/image92.svg'
 	),
 	(
 		'item',
@@ -30454,7 +30454,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bijou a fait rêver plus d''un aventurier avant vous. En effet, on lui prête énormément de vertus, comme celle de transformer les plus belliqueux en doux rêveurs. La notice indique clairement qu''il est déconseillé de le mettre au feu, mais elle ne précise pas pourquoi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image93.svg'
+		'../images/image_anneau/image93.svg'
 	),
 	(
 		'item',
@@ -30512,7 +30512,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le bijoutier à l''origine de cette oeuvre n''a contrairement aux apparences aucun lien de parenté avec un célèbre forgeur d''épées. D''après son créateur, cet anneau est censé vous rappeler l''ambiance de la brousse, sans pour autant sentir les secousses. Personne n''a encore compris de quoi il parlait.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image94.svg'
+		'../images/image_anneau/image94.svg'
 	),
 	(
 		'item',
@@ -30570,7 +30570,7 @@ VALUES
 		NULL,
 		NULL,
 		'A l''époque où tous les Iops de son âge recevaient pour leur communion, une monture Tabi, ou une Goultard en bois, Vald lui a reçu cet anneau. C''est un peu moins marrant pour jouer avec ses petits camarades, mais c''est plus utile en plein combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image95.svg'
+		'../images/image_anneau/image95.svg'
 	),
 	(
 		'item',
@@ -30628,7 +30628,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau dispose d''un bien étrange enchantement. En effet, une fois porté autour du doigt, vous ne pourrez plus parler qu''au Bijoutier qui vous l''a confectionné.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image96.svg'
+		'../images/image_anneau/image96.svg'
 	),
 	(
 		'item',
@@ -30686,7 +30686,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est destiné aux seuls Enutrofs. Leur dieu l''a enchanté pour qu''il ne soit porté que par ses disciples. Il permettra à tout Enutrof qui se respecte, d''avoir beaucoup plus de chance pour découvrir des trésors.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image97.svg'
+		'../images/image_anneau/image97.svg'
 	),
 	(
 		'item',
@@ -30744,7 +30744,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau a été arraché au doigt encore chaud d''un jeune Corailleur fraichement massacré. Sa mère l''attendait pour le repas, jusqu''à ce qu''elle s''aperçoive que son rejeton venait d''être transformé en pierre tombale. Même le corail a un coeur, et pas forcément de pierre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image98.svg'
+		'../images/image_anneau/image98.svg'
 	),
 	(
 		'item',
@@ -30802,7 +30802,7 @@ VALUES
 		NULL,
 		NULL,
 		'Inutile de vous ronger les ongles avec cet anneau, léchez-vous les doigts !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image99.svg'
+		'../images/image_anneau/image99.svg'
 	),
 	(
 		'item',
@@ -30860,7 +30860,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau n''est malheureusement poli qu''à l''extérieur. On y enfile le doigt par un trou orné d''éclats de roche acérés. Recommandé pour les Sacrieurs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image100.svg'
+		'../images/image_anneau/image100.svg'
 	),
 	(
 		'item',
@@ -30918,7 +30918,7 @@ VALUES
 		NULL,
 		NULL,
 		'Personne ne connaît le propriétaire de cet anneau, qui a tenu a garder l''anonymat suite à un combat humiliant face à une Arackne invoquée. Cependant, il faut avouer que cette dernière venait d''être compulsée par un Iop.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image101.svg'
+		'../images/image_anneau/image101.svg'
 	),
 	(
 		'item',
@@ -30976,7 +30976,7 @@ VALUES
 		NULL,
 		NULL,
 		'Celle qui a créé cet anneau pensait que la fin du monde était proche, elle passait ses journées à graver sur les tables en bois à l''aide de son sertisseur, qu''il n''y avait plus d''avenir pour les habitants d''Amakna. La suite des événements, lui montra qu''elle avait tort.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image102.svg'
+		'../images/image_anneau/image102.svg'
 	),
 	(
 		'item',
@@ -31034,7 +31034,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bracelet ressemble étrangement à un gant et pourtant ce n''est pas un gant mais bien un bracelet. Les apparences sont parfois trompeuses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image103.svg'
+		'../images/image_anneau/image103.svg'
 	),
 	(
 		'item',
@@ -31092,7 +31092,7 @@ VALUES
 		NULL,
 		NULL,
 		'Réservé aux aventuriers avertis, cet anneau risque de choquer votre entourage s''il est composé de jeunes créatures innocentes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image104.svg'
+		'../images/image_anneau/image104.svg'
 	),
 	(
 		'item',
@@ -31150,7 +31150,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette alliance provient du village de Terrdala. Plus proche du porte-bonheur que de la relique magique, elle vous permettra tout de même de faire croire à vos amis que vous avez trouvé l''âme soeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image105.svg'
+		'../images/image_anneau/image105.svg'
 	),
 	(
 		'item',
@@ -31208,7 +31208,7 @@ VALUES
 		NULL,
 		NULL,
 		'Loopine a jadis demandé comment créer un tel anneau au monstre qui hante sa grotte en échange de quelques services à rendre, qui l''ont changé à jamais. Les gens avertis vous diront qu''il a perdu au change...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image106.svg'
+		'../images/image_anneau/image106.svg'
 	),
 	(
 		'item',
@@ -31266,7 +31266,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bracelet couvrait les bras de Shika, la protégeant des coups de soleil, et des coups de bec des Corbacs attirés par sa beauté rayonnante. Ils sont encore imprégnés de sa sueur suave.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image107.svg'
+		'../images/image_anneau/image107.svg'
 	),
 	(
 		'item',
@@ -31324,7 +31324,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bracelet en pierres précieuses a été recouvert d''une toile de Chanvre par Shika, pour éviter d''attirer l''attention des Corbacs, lorsque Farle semait son orge.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image108.svg'
+		'../images/image_anneau/image108.svg'
 	),
 	(
 		'item',
@@ -31382,7 +31382,7 @@ VALUES
 		NULL,
 		NULL,
 		'Kroula avait jadis tenté d''enfiler cet anneau autour de son gros orteil. Il espérait ainsi que ses ennemis daigneraient lui lécher les pieds dans l''espoir de récupérer quelques gouttes de jus de Blop Royal.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image109.svg'
+		'../images/image_anneau/image109.svg'
 	),
 	(
 		'item',
@@ -31440,7 +31440,7 @@ VALUES
 		NULL,
 		NULL,
 		'Kroula avait jadis tenté d''enfiler cet anneau autour de son gros orteil. Il espérait ainsi que ses ennemis daigneraient lui lécher les pieds dans l''espoir de récupérer quelques gouttes de jus de Blop Royal.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image110.svg'
+		'../images/image_anneau/image110.svg'
 	),
 	(
 		'item',
@@ -31498,7 +31498,7 @@ VALUES
 		NULL,
 		NULL,
 		'Kroula avait jadis tenté d''enfiler cet anneau autour de son gros orteil. Il espérait ainsi que ses ennemis daigneraient lui lécher les pieds dans l''espoir de récupérer quelques gouttes de jus de Blop Royal.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image111.svg'
+		'../images/image_anneau/image111.svg'
 	),
 	(
 		'item',
@@ -31556,7 +31556,7 @@ VALUES
 		NULL,
 		NULL,
 		'Kroula avait jadis tenté d''enfiler cet anneau autour de son gros orteil. Il espérait ainsi que ses ennemis daigneraient lui lécher les pieds dans l''espoir de récupérer quelques gouttes de jus de Blop Royal.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image112.svg'
+		'../images/image_anneau/image112.svg'
 	),
 	(
 		'item',
@@ -31614,7 +31614,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce rocher serti de pierres précieuses est idéal pour marquer les tempes ou le front de vos adversaires de façon définitive.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image113.svg'
+		'../images/image_anneau/image113.svg'
 	),
 	(
 		'item',
@@ -31672,7 +31672,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette alliance provient du village de Feudala. Plus proche du porte-bonheur que de la relique magique, elle vous permettra tout de même de faire croire à vos amis que vous avez trouvé l''âme soeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image114.svg'
+		'../images/image_anneau/image114.svg'
 	),
 	(
 		'item',
@@ -31730,7 +31730,7 @@ VALUES
 		NULL,
 		NULL,
 		'Chez les Enutrofs, on dit qu''un mineur est gogorifié lorsqu''il ne supporte plus la lumière du jour, à force de travailler dans sa mine. Ne tentez jamais d''approcher une bougie d''un tel mineur, il vous transformerait en bronze.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image115.svg'
+		'../images/image_anneau/image115.svg'
 	),
 	(
 		'item',
@@ -31788,7 +31788,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette alliance a été usée par le frottement des épis d''escourgeon pendant des centaines de moissons. Elle est également le témoin, de l''union entre Farle et Shika, lorsqu''ils se sont mariés au milieu d''un champs d''orge de printemps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image116.svg'
+		'../images/image_anneau/image116.svg'
 	),
 	(
 		'item',
@@ -31846,7 +31846,7 @@ VALUES
 		NULL,
 		NULL,
 		'Plutôt que de réduire sa consommation de jus de Blop frelaté, Shika Ingalsse préféra continuer de faucher en état d''ébriété. C''est en titubant dans les champs qu''elle tomba sur cet étrange anneau. Malheureusement, cette histoire ne comporte qu''une seule chute.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image117.svg'
+		'../images/image_anneau/image117.svg'
 	),
 	(
 		'item',
@@ -31904,7 +31904,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau en forme de gros papillon de nuit ne mettra pas vos mains en valeur, mais ce n''est peut-être pas plus mal...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image118.svg'
+		'../images/image_anneau/image118.svg'
 	),
 	(
 		'item',
@@ -31962,7 +31962,7 @@ VALUES
 		NULL,
 		NULL,
 		'Tournez cet anneau vers la droite si vous devez serrer la main d''un ennemi, et vers la gauche si vous devez serrer celle d''un ami. Dans tous les cas, on vous déconseille d''applaudir avec cet anneau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image119.svg'
+		'../images/image_anneau/image119.svg'
 	),
 	(
 		'item',
@@ -32020,7 +32020,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce gantelet appartenait à Marie Thé, cuisinière du palais de Bonta. Elle s''en servait pour assommer les Bouftous qui refusaient de se faire égorger, les plantes sauvages qui ne voulaient pas aller dans le saladier, et les clients qui ne voulaient pas les manger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image120.svg'
+		'../images/image_anneau/image120.svg'
 	),
 	(
 		'item',
@@ -32078,7 +32078,7 @@ VALUES
 		NULL,
 		NULL,
 		'Contrairement à ce que certains aventuriers rapportent, cet anneau n''a jamais été porté par le Minotoror, incapable d''enfiler un tel anneau autour de ses sabots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image121.svg'
+		'../images/image_anneau/image121.svg'
 	),
 	(
 		'item',
@@ -32136,7 +32136,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau en cuir et en ivoire permet de stimuler plus facilement vos partenaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image122.svg'
+		'../images/image_anneau/image122.svg'
 	),
 	(
 		'item',
@@ -32194,7 +32194,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les soirs où vous aurez trop bu, vous verrez peut-être le Moskito pris dans cet anneau vous faire un clin d''oeil. Mais évitez d''en parler à vos amis, il fait seulement semblant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image123.svg'
+		'../images/image_anneau/image123.svg'
 	),
 	(
 		'item',
@@ -32252,7 +32252,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite alliance est parfaitement adaptée aux petits doigts des Eniripsas. Elle est en revanche presque inutilisable par les Iops à cause de leurs gros doigts boudinés, et leur incapacité à comprendre où se met une alliance.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image124.svg'
+		'../images/image_anneau/image124.svg'
 	),
 	(
 		'item',
@@ -32310,7 +32310,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sculpté dans une carapace de Kaskargo, cet anneau résiste à n''importe quoi ou n''importe qui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image125.svg'
+		'../images/image_anneau/image125.svg'
 	),
 	(
 		'item',
@@ -32368,7 +32368,7 @@ VALUES
 		NULL,
 		NULL,
 		'Attention, cet anneau rendra votre doigt particulièrement malodorant. Une odeur qui risque d''en couvrir une autre. C''est peut-être pour votre doigt et votre entourage une très bonne chose...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image126.svg'
+		'../images/image_anneau/image126.svg'
 	),
 	(
 		'item',
@@ -32426,7 +32426,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau directement taillé dans une écaille géante de Dragoeuf protègera une petite partie d''une de vos phalanges. Sûrement la plus importante.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image127.svg'
+		'../images/image_anneau/image127.svg'
 	),
 	(
 		'item',
@@ -32484,7 +32484,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau a été conçu à une époque où le seigneur des rats s''était mutilé et n''avait plus qu''un doigt. Les malheureux seigneurs suivants avaient encore tous les leurs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image128.svg'
+		'../images/image_anneau/image128.svg'
 	),
 	(
 		'item',
@@ -32542,7 +32542,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est un excrément du Chêne Mou, en bois, mais l''odeur est la même.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image129.svg'
+		'../images/image_anneau/image129.svg'
 	),
 	(
 		'item',
@@ -32600,7 +32600,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bracelet permet de protéger entièrement le bras d''un Eniripsa, mais triple son poids.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image142.svg'
+		'../images/image_anneau/image142.svg'
 	),
 	(
 		'item',
@@ -32658,7 +32658,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce sceau désigne son possesseur comme étant le souverain incontesté de la Tourbière sans fond de l''île d''Otomaï. Difficile d''imaginer un royaume plus bucolique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image143.svg'
+		'../images/image_anneau/image143.svg'
 	),
 	(
 		'item',
@@ -32716,7 +32716,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les trois pointes de ce bracelet représentent les trois faiblesses du Bworker : sa soif de vengeance, sa soif de victoire, et sa soif tout court.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image144.svg'
+		'../images/image_anneau/image144.svg'
 	),
 	(
 		'item',
@@ -32774,7 +32774,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau est recouvert des mucosités du Bworker. Les petites pointes lui permettent de se curer le nez avec plus d''efficacité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image145.svg'
+		'../images/image_anneau/image145.svg'
 	),
 	(
 		'item',
@@ -32832,7 +32832,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cet anneau, en plus d''avoir un cheveu sur la langue et un poil dans la main, vous pourrez vous vanter d''avoir des cheveux autour des doigts.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image146.svg'
+		'../images/image_anneau/image146.svg'
 	),
 	(
 		'item',
@@ -32890,7 +32890,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vos ennemis sont allergiques aux champignons, laissez-les vous croquer les doigts.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image147.svg'
+		'../images/image_anneau/image147.svg'
 	),
 	(
 		'item',
@@ -32948,7 +32948,7 @@ VALUES
 		NULL,
 		NULL,
 		'Colerette la jeune Crâette, a perdu la tête dans les bois de Litneg. La pauvre fille a reçu une hache lancée par Brouce Boulgoure, qui l''avait prise par méprise pour une fougère géante. Etre une belle plante ne paie pas toujours.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image148.svg'
+		'../images/image_anneau/image148.svg'
 	),
 	(
 		'item',
@@ -33006,7 +33006,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet anneau vous suce le doigt en permanence, il est gluant et froid, si vous supportez ça vous pourrez profiter de ses immenses pouvoirs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image149.svg'
+		'../images/image_anneau/image149.svg'
 	),
 	(
 		'item',
@@ -33064,7 +33064,7 @@ VALUES
 		NULL,
 		NULL,
 		'On vous a vendu cet anneau comme un objet unique en son genre, qui procurerait des pouvoirs convoités par des chevaucheurs de Dragodindes tout de noir vêtus. Il suffit d''observer les autres aventuriers à Bonta pendant l''heure de pointe pour constater que ce n''est pas le cas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image150.svg'
+		'../images/image_anneau/image150.svg'
 	),
 	(
 		'item',
@@ -33122,7 +33122,7 @@ VALUES
 		NULL,
 		NULL,
 		'A première vue, cet anneau a l''air extrêment inconfortable voire même dangereux pour vos petits doigts. A bien y regarder de plus près : c''est le cas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image151.svg'
+		'../images/image_anneau/image151.svg'
 	),
 	(
 		'item',
@@ -33180,7 +33180,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une fois enfilé, vous ne pourrez plus jamais l''enlever tellement ses ventouses sont efficaces.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_anneau/image152.svg'
+		'../images/image_anneau/image152.svg'
 	),
 	(
 		'item',
@@ -33238,7 +33238,7 @@ VALUES
 		NULL,
 		NULL,
 		'Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d''herbe, comme les Xélors ou les Eniripsas par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image0.svg'
+		'../images/image_bottes/image0.svg'
 	),
 	(
 		'item',
@@ -33296,7 +33296,7 @@ VALUES
 		NULL,
 		NULL,
 		'Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d''herbe, comme les Xélors ou les Eniripsas par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image1.svg'
+		'../images/image_bottes/image1.svg'
 	),
 	(
 		'item',
@@ -33354,7 +33354,7 @@ VALUES
 		NULL,
 		NULL,
 		'Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d''herbe, comme les Xélors ou les Eniripsas par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image2.svg'
+		'../images/image_bottes/image2.svg'
 	),
 	(
 		'item',
@@ -33412,7 +33412,7 @@ VALUES
 		NULL,
 		NULL,
 		'Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d''herbe, comme les Xélors ou les Eniripsas par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image3.svg'
+		'../images/image_bottes/image3.svg'
 	),
 	(
 		'item',
@@ -33470,7 +33470,7 @@ VALUES
 		NULL,
 		NULL,
 		'Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d''herbe, comme les Xélors ou les Eniripsas par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image4.svg'
+		'../images/image_bottes/image4.svg'
 	),
 	(
 		'item',
@@ -33528,7 +33528,7 @@ VALUES
 		NULL,
 		NULL,
 		'Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d''herbe, comme les Xélors ou les Eniripsas par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image5.svg'
+		'../images/image_bottes/image5.svg'
 	),
 	(
 		'item',
@@ -33586,7 +33586,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont confectionnées en cuir de Bouftou, elles permettent aux éleveurs de s''approcher plus facilement des Bouftous pour les tuer, grâce à l''odeur qu''elles dégagent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image6.svg'
+		'../images/image_bottes/image6.svg'
 	),
 	(
 		'item',
@@ -33644,7 +33644,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces sandales sont faites à partir de plumes de Tofu bouilli, et la semelle est en Bec de Tofu inusable. Pour des raisons encore inexpliquées, elles rendent parfois leur porteur un peu débile...comme un Tofu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image7.svg'
+		'../images/image_bottes/image7.svg'
 	),
 	(
 		'item',
@@ -33702,7 +33702,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont confectionnées en cuir de Bouftou, elles permettent aux éleveurs de s''approcher plus facilement des Bouftous pour les tuer, grâce à l''odeur qu''elles dégagent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image8.svg'
+		'../images/image_bottes/image8.svg'
 	),
 	(
 		'item',
@@ -33760,7 +33760,7 @@ VALUES
 		NULL,
 		NULL,
 		'Bottes de simple facture mais idéales pour les jeunes se lançant sur le dur chemin de l''aventure.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image9.svg'
+		'../images/image_bottes/image9.svg'
 	),
 	(
 		'item',
@@ -33818,7 +33818,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les bottes qui portent chance. Le problème c''est qu''elles vous rendent moins résistant en combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image10.svg'
+		'../images/image_bottes/image10.svg'
 	),
 	(
 		'item',
@@ -33876,7 +33876,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette magnifique paire de bottes convertit un peu de votre force en intelligence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image11.svg'
+		'../images/image_bottes/image11.svg'
 	),
 	(
 		'item',
@@ -33934,7 +33934,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Chat Buté est le surnom donné à un célèbre Ecaflip. Aucun Ecaflip n''aura été plus têtu que lui, et en combat seule sa chance le sauvait de son inexistante intelligence. "Qui qu''c''est qu''y''est buté comme un caillou ?", s''exclamait-il souvent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image12.svg'
+		'../images/image_bottes/image12.svg'
 	),
 	(
 		'item',
@@ -33992,7 +33992,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes augmentent la force de leur porteur au détriment de son agilité, ce qui tend à le rendre différent d''un Tofu, sans pour autant le rendre moins idiot.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image13.svg'
+		'../images/image_bottes/image13.svg'
 	),
 	(
 		'item',
@@ -34050,7 +34050,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont confectionnées en cuir de Bouftou, elles permettent aux éleveurs de s''approcher plus facilement des Bouftous pour les tuer, grâce à l''odeur qu''elles dégagent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image14.svg'
+		'../images/image_bottes/image14.svg'
 	),
 	(
 		'item',
@@ -34108,7 +34108,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont confectionnées en cuir de Bouftou, elles permettent aux éleveurs de s''approcher plus facilement des Bouftous pour les tuer, grâce à l''odeur qu''elles dégagent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image15.svg'
+		'../images/image_bottes/image15.svg'
 	),
 	(
 		'item',
@@ -34166,7 +34166,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes augmentent la force de leur porteur, mais risquent de le rendre un peu idiot au bout d''un certain temps, voire de le transformer en Iop en cas d''utilisation régulière et prolongée',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image16.svg'
+		'../images/image_bottes/image16.svg'
 	),
 	(
 		'item',
@@ -34224,7 +34224,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes permettent d''augmenter l''intelligence de leur porteur, tout en lui conférant un style vraiment à la mode par les temps qui courent grâce à leur semelle en Bois de Noyer qui offre une adhérence remarquable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image17.svg'
+		'../images/image_bottes/image17.svg'
 	),
 	(
 		'item',
@@ -34282,7 +34282,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes permettent d''augmenter l''agilité de leur porteur, afin qu''il puisse se prendre pour un Tofu plus facilement, lorsque l''envie lui prend de faire l''idiot.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image18.svg'
+		'../images/image_bottes/image18.svg'
 	),
 	(
 		'item',
@@ -34340,7 +34340,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes augmentent la chance de leur porteur afin de l''aider à trouver des objets très puissants, comme de la bave de Bouftou par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image19.svg'
+		'../images/image_bottes/image19.svg'
 	),
 	(
 		'item',
@@ -34398,7 +34398,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces Bottes sont d''un confort inégalé, l''intérieur a l''air d''être doublé en laine de Bouftou, mais on peut ressentir également comme un liquide circulant entre les orteils. Reste à savoir si c''est de la Bave ou du Sang de Bouftou. Peu importe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image20.svg'
+		'../images/image_bottes/image20.svg'
 	),
 	(
 		'item',
@@ -34456,7 +34456,7 @@ VALUES
 		NULL,
 		NULL,
 		'Rien de mieux que d''utiliser des bottes confectionnées à partir de restes de fleurs champêtres, pour écraser ces misérables fleurs qui poussent dans vos champs. De plus, ces bottes permettront à vos pieds de dégager une délicieuse odeur de fleur. Dommage qu''il n''existe pas un équivalent à ces bottes pour les caleçons.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image21.svg'
+		'../images/image_bottes/image21.svg'
 	),
 	(
 		'item',
@@ -34514,7 +34514,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''agilité que confère ces bottes permettait à Klime le cordonnier de monter facilement sur le dos de n''importe quel Bouftou. Il est mort en confondant un Bouftou avec une Gelée, après une soirée trop arrosée passée à la taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image22.svg'
+		'../images/image_bottes/image22.svg'
 	),
 	(
 		'item',
@@ -34572,7 +34572,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes ont appartenu à Nexus, grand chevalier figé à jamais.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image23.svg'
+		'../images/image_bottes/image23.svg'
 	),
 	(
 		'item',
@@ -34630,7 +34630,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''agilité que confère ces bottes permettait à Klime le cordonnier de monter facilement sur le dos de n''importe quel Bouftou. Il est mort en confondant un Bouftou avec une Gelée, après une soirée trop arrosée passée à la taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image24.svg'
+		'../images/image_bottes/image24.svg'
 	),
 	(
 		'item',
@@ -34688,7 +34688,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont si confortables, si légères, que l''on ne peut qu''en être satisfait. Seul un adversaire pourrait ne pas être satisfait si vous lui faites voir vos semelles d''un peu trop près. Et encore ce n''est pas dit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image25.svg'
+		'../images/image_bottes/image25.svg'
 	),
 	(
 		'item',
@@ -34746,7 +34746,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''agilité que confère ces bottes permettait à Klime le cordonnier de monter facilement sur le dos de n''importe quel Bouftou. Il est mort en confondant un Bouftou avec une Gelée, après une soirée trop arrosée passée à la taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image26.svg'
+		'../images/image_bottes/image26.svg'
 	),
 	(
 		'item',
@@ -34804,7 +34804,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont rembourrées avec de la paille de blé, ce qui permet d''absorber la transpiration et de cultiver des champignons toxiques à moindre frais. Grâce à leur semelle molle, ces bottes sont recommandées par les arbitres de la fédération de Boufball.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image27.svg'
+		'../images/image_bottes/image27.svg'
 	),
 	(
 		'item',
@@ -34862,7 +34862,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''agilité que confère ces bottes permettait à Klime le cordonnier de monter facilement sur le dos de n''importe quel Bouftou. Il est mort en confondant un Bouftou avec une Gelée, après une soirée trop arrosée passée à la taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image28.svg'
+		'../images/image_bottes/image28.svg'
 	),
 	(
 		'item',
@@ -34920,7 +34920,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont rembourrées avec de la fourrure d''ours. De quoi garder les pieds au chaud même pour ceux qui ont le sang froid.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image29.svg'
+		'../images/image_bottes/image29.svg'
 	),
 	(
 		'item',
@@ -34978,7 +34978,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les bottes de Maîtrise augmentent l''agilité et l''intelligence de leur lanceur au détriment de la force et de la chance. Contrairement à ce que l''on pourrait croire, elle ne vous permettent pas de maitriser votre adversaire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image30.svg'
+		'../images/image_bottes/image30.svg'
 	),
 	(
 		'item',
@@ -35036,7 +35036,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les bottes de puissance augmentent la force et la chance de leur lanceur au détriment de l''intelligence et de l''agilité. Contrairement à ce que l''on pourrait croire, elle ne confèrent pas à leur porteur, une puissance démente.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image31.svg'
+		'../images/image_bottes/image31.svg'
 	),
 	(
 		'item',
@@ -35094,7 +35094,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les bottes d''Anticipation augmentent la force et l''agilité de leur lanceur au détriment de l''intelligence et de la chance. Contrairement à ce que l''on pourrait croire, elles ne vous permettent pas d''anticiper les actions de vos adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image32.svg'
+		'../images/image_bottes/image32.svg'
 	),
 	(
 		'item',
@@ -35152,7 +35152,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont si confortables qu''elles permettent au héros qui les chausse d''accroître sa concentration.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image33.svg'
+		'../images/image_bottes/image33.svg'
 	),
 	(
 		'item',
@@ -35210,7 +35210,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont parfaites pour marcher dans la boue et rayer les parquets. Elles sont généralement interdites sur toutes les pistes de danse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image34.svg'
+		'../images/image_bottes/image34.svg'
 	),
 	(
 		'item',
@@ -35268,7 +35268,7 @@ VALUES
 		NULL,
 		NULL,
 		'A la fois souples et légères, ces pantoufles restent chaudes l''hiver et fraîches l''été. Malheureusement, elles ne supportent pas les lavages en machine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image35.svg'
+		'../images/image_bottes/image35.svg'
 	),
 	(
 		'item',
@@ -35326,7 +35326,7 @@ VALUES
 		NULL,
 		NULL,
 		'La meilleure défense c''est l''attaque, ces bottes anti-agression vous permettront d''exterminer un groupe d''agresseurs sans aucune difficulté.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image36.svg'
+		'../images/image_bottes/image36.svg'
 	),
 	(
 		'item',
@@ -35384,7 +35384,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont si confortables qu''elles permettent au héros qui les chausse d''accroître sa concentration.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image37.svg'
+		'../images/image_bottes/image37.svg'
 	),
 	(
 		'item',
@@ -35442,7 +35442,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont si confortables qu''elles permettent au héros qui les chausse d''accroître sa concentration.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image38.svg'
+		'../images/image_bottes/image38.svg'
 	),
 	(
 		'item',
@@ -35500,7 +35500,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont si confortables qu''elles permettent au héros qui les chausse d''accroître sa concentration.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image39.svg'
+		'../images/image_bottes/image39.svg'
 	),
 	(
 		'item',
@@ -35558,7 +35558,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont idéales lorsqu''il s''agit d''asséner un coup de grâce.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image40.svg'
+		'../images/image_bottes/image40.svg'
 	),
 	(
 		'item',
@@ -35616,7 +35616,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces sandales appartenaient aux Maciens, une tribu d''Ouginaks, disparue aujourd''hui. Ces derniers étaient très complices avec les Pandawas, ce qui avait fini au fil des générations, par changer la couleur de leur pelage, qui était devenu blanc, tâcheté de noir. Ils furent tous transformés en manteau par une cruelle tailleuse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image41.svg'
+		'../images/image_bottes/image41.svg'
 	),
 	(
 		'item',
@@ -35674,7 +35674,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces petits souliers ont été renforcés, remis en état, mais surtout désodorisés. Ils sont surtout utilisés pour attirer les Champ-Champ, tant le substrat laissé par le Porkass leur semble appétissant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image42.svg'
+		'../images/image_bottes/image42.svg'
 	),
 	(
 		'item',
@@ -35732,7 +35732,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes permettaient à Hogmeiser de poursuivre les seuls êtres vivants qu''il ne supportait pas, les enfants. Heureusement pour eux, la lourdeur de ces bottes l''empêchait de leur botter le derrière.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image43.svg'
+		'../images/image_bottes/image43.svg'
 	),
 	(
 		'item',
@@ -35790,7 +35790,7 @@ VALUES
 		NULL,
 		NULL,
 		'Qui n''a jamais rêvé d''enfoncer son pied directement dans les entrailles d''une larve ? En tout cas sûrement pas vous, alors profitez-en et lâchez-vous.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image44.svg'
+		'../images/image_bottes/image44.svg'
 	),
 	(
 		'item',
@@ -35848,7 +35848,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une fois que vous aurez essayé ces bottes, vous ne serez plus capable de vous en défaire. Non pas parce qu''elles sont exceptionnelles, mais car elles sont incroyablement collantes. Une caractéristique trop souvent partagée avec les femelles Fourbasses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image45.svg'
+		'../images/image_bottes/image45.svg'
 	),
 	(
 		'item',
@@ -35906,7 +35906,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes permettaient à Hogmeiser de poursuivre les seuls êtres vivants qu''il ne supportait pas, les enfants. Heureusement pour eux, la lourdeur de ces bottes l''empêchait de leur botter le derrière.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image46.svg'
+		'../images/image_bottes/image46.svg'
 	),
 	(
 		'item',
@@ -35964,7 +35964,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces Getas en bois ont été confectionnées par les meilleurs cordonniers du village d''Akwadala. Très aérées, elles permettront à vos verrues de prendre l''air et de profiter du paysage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image47.svg'
+		'../images/image_bottes/image47.svg'
 	),
 	(
 		'item',
@@ -36022,7 +36022,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes permettaient à Hogmeiser de poursuivre les seuls êtres vivants qu''il ne supportait pas, les enfants. Heureusement pour eux, la lourdeur de ces bottes l''empêchait de leur botter le derrière.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image48.svg'
+		'../images/image_bottes/image48.svg'
 	),
 	(
 		'item',
@@ -36080,7 +36080,7 @@ VALUES
 		NULL,
 		NULL,
 		'Tarsy était un ermite qui n''appréciait pas trop les visites. Pour preuve, il recevait ses invités en leur montrant de très près la pointure de ses Bottes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image49.svg'
+		'../images/image_bottes/image49.svg'
 	),
 	(
 		'item',
@@ -36138,7 +36138,7 @@ VALUES
 		NULL,
 		NULL,
 		'Rembourrées avec de la laine de Boufcoul, ces bottes ont tout pour plaire. Légères, chaudes pendant les saisons froides, et aérées pendant les saisons chaudes, elles sauront satisfaire le plus blasé des aventuriers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image50.svg'
+		'../images/image_bottes/image50.svg'
 	),
 	(
 		'item',
@@ -36196,7 +36196,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes donnent l''impression de marcher constamment dans l''herbe fraîche. Elles sont donc idéales pour ceux dont l''odeur des pieds se rapproche plus du Clakoss, que de la Gelée Menthe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image51.svg'
+		'../images/image_bottes/image51.svg'
 	),
 	(
 		'item',
@@ -36254,7 +36254,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes permettaient à Hogmeiser de poursuivre les seuls êtres vivants qu''il ne supportait pas, les enfants. Heureusement pour eux, la lourdeur de ces bottes l''empêchait de leur botter le derrière.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image52.svg'
+		'../images/image_bottes/image52.svg'
 	),
 	(
 		'item',
@@ -36312,7 +36312,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéales comme patins à glace sur les lacs gelés, ces bottes sont également très utiles pour garder les pieds au frais, ou pour y stocker votre goûter durant les journées de forte chaleur. Il est cependant déconseillé de les faire sécher au coin du feu, sous peine de ne plus jamais les revoir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image53.svg'
+		'../images/image_bottes/image53.svg'
 	),
 	(
 		'item',
@@ -36370,7 +36370,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Rien de mieux que les Kwakobottes de Terre pour marcher dans la terre", telles étaient les paroles de Rola Ingalsse la célèbre laboureuse, juste avant de devenir aveugle, en recevant une motte de terre géante dans les yeux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image54.svg'
+		'../images/image_bottes/image54.svg'
 	),
 	(
 		'item',
@@ -36428,7 +36428,7 @@ VALUES
 		NULL,
 		NULL,
 		'Rudimentaires mais efficaces, ces bottes d''une légéreté surprenante sont parfois utilisées après avoir été retravaillées, comme manche à air pour indiquer la direction et la force du vent. Il est alors conseillé de se placer du bon côté de la manche à air, pour ne pas mourir asphyxié.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image55.svg'
+		'../images/image_bottes/image55.svg'
 	),
 	(
 		'item',
@@ -36486,7 +36486,7 @@ VALUES
 		NULL,
 		NULL,
 		'Muni de ces ergots de Kwak de Feu, il ne vous reste plus qu''à marcher sur des oeufs pour ne pas vous les faire voler par un Sram mal intentionné.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image56.svg'
+		'../images/image_bottes/image56.svg'
 	),
 	(
 		'item',
@@ -36544,7 +36544,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes, confectionnées avec de nombreuses parties de cadavre de Corbac, donnent à leur porteur une étrange sensation de légèreté, comparable à celle apportée par la consommation de Bolets grillés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image57.svg'
+		'../images/image_bottes/image57.svg'
 	),
 	(
 		'item',
@@ -36602,7 +36602,7 @@ VALUES
 		NULL,
 		NULL,
 		'La légende raconte que ces bottes ont été échangées contre d''autres bottes, défectueuses mais surpuissantes, qui avaient été fabriquées par un cordonnier maladroit manquant de sommeil.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image58.svg'
+		'../images/image_bottes/image58.svg'
 	),
 	(
 		'item',
@@ -36660,7 +36660,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les effets de cette paire de Bottes peuvent aussi parfaitement être retrouvés en se rendant dans une taverne. Il faut ensuite consommer un peu, voire beaucoup pour un effet optimum. Le lendemain vous aurez des jambes aussi lourdes que ces bottes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image59.svg'
+		'../images/image_bottes/image59.svg'
 	),
 	(
 		'item',
@@ -36718,7 +36718,7 @@ VALUES
 		NULL,
 		NULL,
 		'Kère fut le seul Eniripsa à remporter devant les Ecaflips, le grand Marathon d''Amakna. C''est grâce à ses bottes artisanales qu''il traversa la Mèr d''Asse et distança tous les écaflips médusés de voir un Eni courir sur l''eau. La classe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image60.svg'
+		'../images/image_bottes/image60.svg'
 	),
 	(
 		'item',
@@ -36776,7 +36776,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes donnent à leur porteur une impression d''incroyable légèreté, mais aussi un air stupide.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image61.svg'
+		'../images/image_bottes/image61.svg'
 	),
 	(
 		'item',
@@ -36834,7 +36834,7 @@ VALUES
 		NULL,
 		NULL,
 		'Incroyablement lourdes, mais néanmoins assez efficaces, ces bottes en pierre vous permettront enfin d''avoir une excuse, lorsque vous traînez des pieds pour défendre votre percepteur dans un combat perdu d''avance.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image62.svg'
+		'../images/image_bottes/image62.svg'
 	),
 	(
 		'item',
@@ -36892,7 +36892,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ragalde était sûrement un des Guerriers Iop les plus téméraires, ces bottes magiques lui ont permis d''occire bon nombre d''indésirables.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image63.svg'
+		'../images/image_bottes/image63.svg'
 	),
 	(
 		'item',
@@ -36950,7 +36950,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes exceptionnelles vous permettront de gagner un point de mouvement durant les combats. Attention cependant aux odeurs qu''elles dégagent, car elles ont appartenu au tristement célèbre Bowisse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image64.svg'
+		'../images/image_bottes/image64.svg'
 	),
 	(
 		'item',
@@ -37008,7 +37008,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes bien étranges étaient utilisées sur les jeunes disciples un peu limités intellectuellement, pour leur permettre de rattraper leur retard. Elles conviendront particulièrement aux Iops.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image65.svg'
+		'../images/image_bottes/image65.svg'
 	),
 	(
 		'item',
@@ -37066,7 +37066,7 @@ VALUES
 		NULL,
 		NULL,
 		'Vos copines vont vous envier ces bottes, car nul doute qu''elles vous permettront d''aller croquer les chocolats de l''ambassadeur durant l''une des ses merveilleuses soirées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image66.svg'
+		'../images/image_bottes/image66.svg'
 	),
 	(
 		'item',
@@ -37124,7 +37124,7 @@ VALUES
 		NULL,
 		NULL,
 		'Elles brillent, elles respirent la puissance, ces bottes sont en tous points royales.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image67.svg'
+		'../images/image_bottes/image67.svg'
 	),
 	(
 		'item',
@@ -37182,7 +37182,7 @@ VALUES
 		NULL,
 		NULL,
 		'Inutile de râler parce que le nom de ces bottes est imprononçable, cette particularité vous sauvera la vie, quand un brigand de grand chemin vous demandera : "Donne-moi tes Blopetes, non tes Blotpes, non tes Plobtes, non...". Vous aurez alors tout le temps nécessaire pour vous enfuir en courant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image68.svg'
+		'../images/image_bottes/image68.svg'
 	),
 	(
 		'item',
@@ -37240,7 +37240,7 @@ VALUES
 		NULL,
 		NULL,
 		'Inutile de râler parce que le nom de ces bottes est imprononçable, cette particularité vous sauvera la vie, quand un brigand de grand chemin vous demandera : "Donne-moi tes Blopetes, non tes Blotpes, non tes Plobtes, non...". Vous aurez alors tout le temps nécessaire pour vous enfuir en courant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image69.svg'
+		'../images/image_bottes/image69.svg'
 	),
 	(
 		'item',
@@ -37298,7 +37298,7 @@ VALUES
 		NULL,
 		NULL,
 		'Inutile de râler parce que le nom de ces bottes est imprononçable, cette particularité vous sauvera la vie, quand un brigand de grand chemin vous demandera : "Donne-moi tes Blopetes, non tes Blotpes, non tes Plobtes, non...". Vous aurez alors tout le temps nécessaire pour vous enfuir en courant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image70.svg'
+		'../images/image_bottes/image70.svg'
 	),
 	(
 		'item',
@@ -37356,7 +37356,7 @@ VALUES
 		NULL,
 		NULL,
 		'Inutile de râler parce que le nom de ces bottes est imprononçable, cette particularité vous sauvera la vie, quand un brigand de grand chemin vous demandera : "Donne-moi tes Blopetes, non tes Blotpes, non tes Plobtes, non...". Vous aurez alors tout le temps nécessaire pour vous enfuir en courant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image71.svg'
+		'../images/image_bottes/image71.svg'
 	),
 	(
 		'item',
@@ -37414,7 +37414,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes ont été spécialement conçues pour ceux qui aiment laisser à leurs créatures le plaisir de faire tout le travail pendant les combats.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image72.svg'
+		'../images/image_bottes/image72.svg'
 	),
 	(
 		'item',
@@ -37472,7 +37472,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes appartenaient à un cuisinier très pressé, qui allait chercher son céleri et son thé à toute vitesse à travers la campagne d''Amakna.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image73.svg'
+		'../images/image_bottes/image73.svg'
 	),
 	(
 		'item',
@@ -37530,7 +37530,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes crochues permettent d''escalader facilement les falaises les plus abruptes, ou de labourer les champs sans charrue.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image74.svg'
+		'../images/image_bottes/image74.svg'
 	),
 	(
 		'item',
@@ -37588,7 +37588,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces sandales étaient confiées aux Pandits à la fin de rituels religieux. Elles sont de nos jours surtout utilisées dans les championnats de claquettes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image75.svg'
+		'../images/image_bottes/image75.svg'
 	),
 	(
 		'item',
@@ -37646,7 +37646,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces Getas en bois ont été confectionnées par les meilleurs cordonniers du village d''Aerdala. Très aérées, elles permettront à vos verrues de prendre l''air et de profiter du paysage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image76.svg'
+		'../images/image_bottes/image76.svg'
 	),
 	(
 		'item',
@@ -37704,7 +37704,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces sandales étaient données aux Pandawas malades, qui avaient besoin de courir très vite lorsqu''ils avaient contracté le virus de la Pandrista, ou lorsqu''ils avaient passé une nuit trop arrosée à la taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image77.svg'
+		'../images/image_bottes/image77.svg'
 	),
 	(
 		'item',
@@ -37762,7 +37762,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont en réalité des pieds de Koalaks, sauvagement arrachés à leur propriétaires, puis vidés de leur contenu avant d''être rembourrés avec des poils de Koalaks. A la fois terrifiantes et séduisantes, ces bottes feront de vous la terreur d''Astrub.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image78.svg'
+		'../images/image_bottes/image78.svg'
 	),
 	(
 		'item',
@@ -37820,7 +37820,7 @@ VALUES
 		NULL,
 		NULL,
 		'Adoptez la "Cawotte attitude" avec ces tongues wabbits issues de la dernière collection. Elles sont recommandées par tous les experts en claquettes, en danses rituelles, et en Tango rapide du Captain Chafer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image79.svg'
+		'../images/image_bottes/image79.svg'
 	),
 	(
 		'item',
@@ -37878,7 +37878,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont très confortables en été, car elles libèrent une odeur de fraise des bois, couvrant facilement l''odeur de transpiration qui pourrait se dégager des orteils d''un vieux Sadida aux pieds poilus.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image80.svg'
+		'../images/image_bottes/image80.svg'
 	),
 	(
 		'item',
@@ -37936,7 +37936,7 @@ VALUES
 		NULL,
 		NULL,
 		'Elles sont un peu lourdes, mais ces charmantes Carabottes feront de vous la reine de la nuit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image81.svg'
+		'../images/image_bottes/image81.svg'
 	),
 	(
 		'item',
@@ -37994,7 +37994,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottines recouvertes de poils de Mulou, sont très pratiques pour nettoyer les parquets poussiéreux, ou tout simplement pour nettoyer la tête de vos adversaires lorsqu''ils sont au sol en train d''agoniser.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image82.svg'
+		'../images/image_bottes/image82.svg'
 	),
 	(
 		'item',
@@ -38052,7 +38052,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le poil de Moon, nécessaire pour cette paire de bottes, est sans aucun doute le poil le plus chaud pour les pieds, même si porter ses bottes en souvenir de Moon vous fera chaud au coeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image83.svg'
+		'../images/image_bottes/image83.svg'
 	),
 	(
 		'item',
@@ -38110,7 +38110,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces tongues servaient à pratiquer différents arts martiaux. D''un aspect peu innovant et artistiquement ratées, elles sont très vite tombées dans l''oubli, un peu comme vous, mais moins vite tout de même.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image84.svg'
+		'../images/image_bottes/image84.svg'
 	),
 	(
 		'item',
@@ -38168,7 +38168,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces magnifiques bottes, sont parfaites pour botter le derrière des Bouftous lorsqu''il faut les forcer à changer de pâtures et à traverser le village. Elles fonctionnent également pour forcer les enfants Iops à faire leurs devoirs et à aller à l''école.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image85.svg'
+		'../images/image_bottes/image85.svg'
 	),
 	(
 		'item',
@@ -38226,7 +38226,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces Getas en bois ont été confectionnées par les meilleurs cordonniers du village de Feudala. Très aérées, elles permettront à vos verrues de prendre l''air et de profiter du paysage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image86.svg'
+		'../images/image_bottes/image86.svg'
 	),
 	(
 		'item',
@@ -38284,7 +38284,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces magnifiques pantoufles en peau et en écailles de Chef Crocodaille sont munies de dents acérées à leurs extrémités. Méfiez-vous lorsque vous ferez du pied à votre dulcinée, vous pourriez lui déchirer ses petits bas en laine de Tabi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image87.svg'
+		'../images/image_bottes/image87.svg'
 	),
 	(
 		'item',
@@ -38342,7 +38342,7 @@ VALUES
 		NULL,
 		NULL,
 		'Adin était un jeune Pandawa, grand collectionneur de lampes, mais très loin d''être un génie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image88.svg'
+		'../images/image_bottes/image88.svg'
 	),
 	(
 		'item',
@@ -38400,7 +38400,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces Getas en bois ont été confectionnées par les meilleurs cordonniers du village de Terrdala. Très aérées, elles permettront à vos verrues de prendre l''air et de profiter du paysage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image89.svg'
+		'../images/image_bottes/image89.svg'
 	),
 	(
 		'item',
@@ -38458,7 +38458,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes ont appartenu à Hogmeiser pendant des années, avant qu''il ne les perdent lors d''un pari stupide avec Grizmine. La morale de l''histoire, c''est qu''il ne faut jamais jouer avec un Ecaflip.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image90.svg'
+		'../images/image_bottes/image90.svg'
 	),
 	(
 		'item',
@@ -38516,7 +38516,7 @@ VALUES
 		NULL,
 		NULL,
 		'Grâce à ces bottes, vous serez à même d''entendre le vent dans les voiles d''un bateau situé en pleine Mer d''Asse, ou d''entendre les gémissements d''un Chafer Lancier, perdu dans les tréfonds du labyrinthe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image91.svg'
+		'../images/image_bottes/image91.svg'
 	),
 	(
 		'item',
@@ -38574,7 +38574,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces sabots ont été conçus pour permettre à Shika de ne jamais écraser les semis, lorsqu''elle ensemençait les plaines de Snossios. Elle y fit rajouter des talons hauts, pour qu''elle puisse courir librement le matin dans les éteules, sans remplir ses sabots de rosée, ou sans abîmer ses chevilles fragiles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image92.svg'
+		'../images/image_bottes/image92.svg'
 	),
 	(
 		'item',
@@ -38632,7 +38632,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces sabots ont été taillés dans des bois rares, renforcés avec des pièces de cuirs d''une valeur inestimable, et rembourrés avec des céréales magiques. A la fois légère, élégante, et confortable, cette paire de sabots saura résister aux affres du temps. Beaucoup d''aventuriers un peu trop misogynes aimeraient pouvoir en dire autant de leur dulcinée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image93.svg'
+		'../images/image_bottes/image93.svg'
 	),
 	(
 		'item',
@@ -38690,7 +38690,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prononcez dix-huit fois le mot "Bloptes" le plus rapidement possible. Voilà, vous avez l''air d''un Iop.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image94.svg'
+		'../images/image_bottes/image94.svg'
 	),
 	(
 		'item',
@@ -38748,7 +38748,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prononcez dix-huit fois le mot "Bloptes" le plus rapidement possible. Voilà, vous avez l''air d''un Iop.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image95.svg'
+		'../images/image_bottes/image95.svg'
 	),
 	(
 		'item',
@@ -38864,7 +38864,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prononcez dix-huit fois le mot "Bloptes" le plus rapidement possible. Voilà, vous avez l''air d''un Iop.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image97.svg'
+		'../images/image_bottes/image97.svg'
 	),
 	(
 		'item',
@@ -38922,7 +38922,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous aimez danser et écraser les pieds de vos partenaires, ces bottes sont faites pour vous.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image98.svg'
+		'../images/image_bottes/image98.svg'
 	),
 	(
 		'item',
@@ -38980,7 +38980,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ou sans rembourrage ces bottes restent étranges. Il est donc inutile de les rembourrer avec autre chose que vos pieds.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image99.svg'
+		'../images/image_bottes/image99.svg'
 	),
 	(
 		'item',
@@ -39038,7 +39038,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une bonne paire de mules et vous vous sentez de suite plus fort, plus puissant, plus performant. Alors que ce ne sont que des mules.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image100.svg'
+		'../images/image_bottes/image100.svg'
 	),
 	(
 		'item',
@@ -39096,7 +39096,7 @@ VALUES
 		NULL,
 		NULL,
 		'On peut le dire, ces Bottes ont un côté comment dire... Hmmm... Bestial. Ne vous étonnez donc pas si un Mulou tombe amoureux de vos Bottes. C''est peut-être la pire chose qui puisse vous arriver.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image101.svg'
+		'../images/image_bottes/image101.svg'
 	),
 	(
 		'item',
@@ -39154,7 +39154,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ces bottes, votre équilibre est parfait, même par grand vent vous ne bougerez plus d''un pouce.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image102.svg'
+		'../images/image_bottes/image102.svg'
 	),
 	(
 		'item',
@@ -39212,7 +39212,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces magnifiques bottes d''Hogmeiser sont recouvertes d''une fine couche de pierres précieuses, pour les rendre insensibles à certaines attaques magiques. C''est avec ces bottes que Brouce Boulgoure a écrasé la tête du Roi des Abraknydes il y a très longtemps, pour animer l''ouverture de la foire du Trool.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image103.svg'
+		'../images/image_bottes/image103.svg'
 	),
 	(
 		'item',
@@ -39270,7 +39270,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces Bottes émettent un immonde bruit de succion à chaque pas, ce qui n''est pas sans vous rappeler le chant d''amour des Trools en rut. Un souvenir douloureux dont vous vous seriez bien passé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image108.svg'
+		'../images/image_bottes/image108.svg'
 	),
 	(
 		'item',
@@ -39328,7 +39328,7 @@ VALUES
 		NULL,
 		NULL,
 		'Attention en enfilant ces bottes, il n''est pas rare qu''elles contiennent encore un ou deux pieds du propriétaire précédent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image117.svg'
+		'../images/image_bottes/image117.svg'
 	),
 	(
 		'item',
@@ -39386,7 +39386,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec ces protège-tibias en bois massif, vos jambes ne craignent plus rien. Ils sont en revanche incompatibles avec le port de bottes . Vous pourrez les utiliser pour vous protéger lors des compétitions de Boufball, mais vous ne pourrez plus faire de pointu avec vos bottes coquées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image118.svg'
+		'../images/image_bottes/image118.svg'
 	),
 	(
 		'item',
@@ -39444,7 +39444,7 @@ VALUES
 		NULL,
 		NULL,
 		'De toute évidence, ces terribles bottes en poils et en cuir de Minotoror, sont bien trop lourdes pour vous faire gagner la légendaire course à pieds de la baie d''Amakna. Cependant, elles devraient vous permettre d''écraser facilement les pieds des autres concurrents sur la ligne de départ.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image119.svg'
+		'../images/image_bottes/image119.svg'
 	),
 	(
 		'item',
@@ -39502,7 +39502,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces sandales étaient utilisées par certaines femelles Pandits, pour séduire les aventuriers égarés, et les attirer dans d''horribles pièges.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image120.svg'
+		'../images/image_bottes/image120.svg'
 	),
 	(
 		'item',
@@ -39560,7 +39560,7 @@ VALUES
 		NULL,
 		NULL,
 		'Titude était un modeste Enutrof cordonnier, plus petit encore qu''un Xélor. On raconte qu''il aurait confectionné ces sandales pour enfin réussir à embrasser sa dulcinée, une Eniripsa cul-de-jatte, mais que cela ne suffit point, et qu''il dut se résoudre à ne pas l''embrasser debout.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image121.svg'
+		'../images/image_bottes/image121.svg'
 	),
 	(
 		'item',
@@ -39618,7 +39618,7 @@ VALUES
 		NULL,
 		NULL,
 		'On peut le dire, ces Bottes ont un côté comment dire, .....hmmm.... Sombre. Ne vous étonnez donc pas si un Vampire tombe en amour devant vous et vos Bottes. C''est peut-être la pire chose qui puisse vous arriver.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image122.svg'
+		'../images/image_bottes/image122.svg'
 	),
 	(
 		'item',
@@ -39676,7 +39676,7 @@ VALUES
 		NULL,
 		NULL,
 		'Harry était un vieux sage, qui passait ses journées à pêcher sur les quais de Sufokia. Sa grande moustache lui donnait un air de Danous Kouaide, célèbre acteur d''une troupe de théatre qui se produisait régulièrement à la taverne d''Amakna en guise de prélude à d''incroyables orgies à base de bière et de Bougnette.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image123.svg'
+		'../images/image_bottes/image123.svg'
 	),
 	(
 		'item',
@@ -39734,7 +39734,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont parfaites pour tuer le Bouftou lors d''une partie de Boufball ou pour faire souffrir un peu plus vos ennemis lors d''un botte-fesses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image124.svg'
+		'../images/image_bottes/image124.svg'
 	),
 	(
 		'item',
@@ -39792,7 +39792,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont encore animées d''une partie de l''appétit vorace du Meulou. Si vos pieds sentent le Clakoss, elles risquent de vous les mordre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image125.svg'
+		'../images/image_bottes/image125.svg'
 	),
 	(
 		'item',
@@ -39850,7 +39850,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le tout premier Seigneur des rats est mort en marchant par inadvertance dans une flaque de lave en fusion. Ces bottes sont portées en hommage par ses seigneurs. Attention, elles ne sont pas ignifugées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image126.svg'
+		'../images/image_bottes/image126.svg'
 	),
 	(
 		'item',
@@ -39908,7 +39908,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le dimanche, le Chêne Mou fait la sieste, et lorsqu''il se réveille, il aime qu''un Tronknyde obéissant lui apporte ses tongues sans qu''il les demande. Il n''a malheureusement pas de pieds, elles sont donc encore neuves.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image127.svg'
+		'../images/image_bottes/image127.svg'
 	),
 	(
 		'item',
@@ -39966,7 +39966,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sont si lourdes qu''elles seraient plutôt à classer dans la catégorie des armes tellement les coups de pieds deviennent meurtriers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image128.svg'
+		'../images/image_bottes/image128.svg'
 	),
 	(
 		'item',
@@ -40024,7 +40024,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Pandawas ont toujours été attirés par les boissons alcoolisées, ils ont ainsi au fil du temps, appris à mieux les conserver et les aromatiser. Quant à ces sandales, elles ont été faites spécialement pour les Pandawas alcooliques, elles sont lestées au niveau de la semelle, pour que vous puissiez garder les pieds sur terre plus souvent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image129.svg'
+		'../images/image_bottes/image129.svg'
 	),
 	(
 		'item',
@@ -40082,7 +40082,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces incroyables sandales vous permettront de vous baigner dans les eaux les plus dangereuses, sans risquer de vous abîmer les pieds. Attention cependant, elles ont la réputation de rayer le fond des baignoires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image130.svg'
+		'../images/image_bottes/image130.svg'
 	),
 	(
 		'item',
@@ -40140,7 +40140,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottines sont parfaites pour marcher dans les sous-bois, sans écraser les feuilles mortes. Attention cependant, leurs origines végétales les poussent inexorablement à écraser tout ce qui s''apparente de près ou de loin à du fumier.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image131.svg'
+		'../images/image_bottes/image131.svg'
 	),
 	(
 		'item',
@@ -40198,7 +40198,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces chaussons sont recouverts de petites aérations qui contrairement aux idées reçues, ne permettent pas à vos pieds de mieux s''aérer, mais plutôt aux spores des champignons installés sur vos pieds, de s''enfuir rapidement pour aller parasiter d''autres aventuriers plus facilement.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image132.svg'
+		'../images/image_bottes/image132.svg'
 	),
 	(
 		'item',
@@ -40256,7 +40256,7 @@ VALUES
 		NULL,
 		NULL,
 		'Il y a bien longtemps, Danous Kouaide a voulu faire le malin et battre le Bworker dans un concours de blagues : "Si tes bottes sont recouvertes de boucles d''oreilles c''est parce que tu n''as pas compris que les bottes ne se mettaient pas aux oreilles". Le Bworker lui a répondu avec un coup de hache sur le crâne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image133.svg'
+		'../images/image_bottes/image133.svg'
 	),
 	(
 		'item',
@@ -40314,7 +40314,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces bottes sentent le souffre et le fromage. En plus de vous procurer de la puissance, elles dissimuleront vos odeurs de pieds, c''est tout bénef'' !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image134.svg'
+		'../images/image_bottes/image134.svg'
 	),
 	(
 		'item',
@@ -40372,7 +40372,7 @@ VALUES
 		NULL,
 		NULL,
 		'Seul le Kimbo et ses pieds totalement loufoques peuvent se sentir à l''aise dans ces sandales. En revanche il n''est pas le seul à pouvoir profiter de leur puissance. Attention tout de même de ne pas vous tromper de sens en les enfilant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_bottes/image135.svg'
+		'../images/image_bottes/image135.svg'
 	),
 	(
 		'item',
@@ -40430,7 +40430,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente la force de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image0.svg'
+		'../images/image_ceinture/image0.svg'
 	),
 	(
 		'item',
@@ -40488,7 +40488,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente l''agilité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image1.svg'
+		'../images/image_ceinture/image1.svg'
 	),
 	(
 		'item',
@@ -40546,7 +40546,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture mettra vos hanches en valeur l''espace d''un combat. Elle servira ensuite à contenir vos tripes lorsqu''un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image2.svg'
+		'../images/image_ceinture/image2.svg'
 	),
 	(
 		'item',
@@ -40604,7 +40604,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture mettra vos hanches en valeur l''espace d''un combat. Elle servira ensuite à contenir vos tripes lorsqu''un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image3.svg'
+		'../images/image_ceinture/image3.svg'
 	),
 	(
 		'item',
@@ -40662,7 +40662,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture mettra vos hanches en valeur l''espace d''un combat. Elle servira ensuite à contenir vos tripes lorsqu''un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image4.svg'
+		'../images/image_ceinture/image4.svg'
 	),
 	(
 		'item',
@@ -40720,7 +40720,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture mettra vos hanches en valeur l''espace d''un combat. Elle servira ensuite à contenir vos tripes lorsqu''un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image5.svg'
+		'../images/image_ceinture/image5.svg'
 	),
 	(
 		'item',
@@ -40778,7 +40778,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture mettra vos hanches en valeur l''espace d''un combat. Elle servira ensuite à contenir vos tripes lorsqu''un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image6.svg'
+		'../images/image_ceinture/image6.svg'
 	),
 	(
 		'item',
@@ -40836,7 +40836,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture mettra vos hanches en valeur l''espace d''un combat. Elle servira ensuite à contenir vos tripes lorsqu''un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image7.svg'
+		'../images/image_ceinture/image7.svg'
 	),
 	(
 		'item',
@@ -40894,7 +40894,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette modeste ceinture augmente la chance de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image8.svg'
+		'../images/image_ceinture/image8.svg'
 	),
 	(
 		'item',
@@ -40952,7 +40952,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une petite ceinture pour les aventuriers en herbe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image9.svg'
+		'../images/image_ceinture/image9.svg'
 	),
 	(
 		'item',
@@ -41010,7 +41010,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente la vie de son porteur, pour plus de sûreté en plein combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image10.svg'
+		'../images/image_ceinture/image10.svg'
 	),
 	(
 		'item',
@@ -41068,7 +41068,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente la force de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image11.svg'
+		'../images/image_ceinture/image11.svg'
 	),
 	(
 		'item',
@@ -41126,7 +41126,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente la vie de son porteur, pour plus de sûreté en plein combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image12.svg'
+		'../images/image_ceinture/image12.svg'
 	),
 	(
 		'item',
@@ -41184,7 +41184,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente l''agilité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image13.svg'
+		'../images/image_ceinture/image13.svg'
 	),
 	(
 		'item',
@@ -41242,7 +41242,7 @@ VALUES
 		NULL,
 		NULL,
 		'Confectionnée à partir de vieux restes d''Araknes en décomposition, cette ceinture a tout pour plaire. Elle reprendra parfois vie et prendra un malin plaisir à vous mordre les hanches. Sales bêtes !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image14.svg'
+		'../images/image_ceinture/image14.svg'
 	),
 	(
 		'item',
@@ -41300,7 +41300,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente la force de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image15.svg'
+		'../images/image_ceinture/image15.svg'
 	),
 	(
 		'item',
@@ -41358,7 +41358,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente l''agilité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image16.svg'
+		'../images/image_ceinture/image16.svg'
 	),
 	(
 		'item',
@@ -41416,7 +41416,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente la vie de son porteur, pour plus de sûreté en plein combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image17.svg'
+		'../images/image_ceinture/image17.svg'
 	),
 	(
 		'item',
@@ -41474,7 +41474,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente la force de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image18.svg'
+		'../images/image_ceinture/image18.svg'
 	),
 	(
 		'item',
@@ -41532,7 +41532,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente l''agilité de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image19.svg'
+		'../images/image_ceinture/image19.svg'
 	),
 	(
 		'item',
@@ -41590,7 +41590,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette étrange ceinture est entièrement constituée de fragments de pince, et de carapace de crabe. Même en employant une magie très puissante, elle sentira toujours aussi mauvais, il faut vous rendre à l''évidence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image20.svg'
+		'../images/image_ceinture/image20.svg'
 	),
 	(
 		'item',
@@ -41648,7 +41648,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture augmente la vie de son porteur, pour plus de sûreté en plein combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image21.svg'
+		'../images/image_ceinture/image21.svg'
 	),
 	(
 		'item',
@@ -41706,7 +41706,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette ceinture décorée de petits pétales autour de la taille, vous pourrez sans problème vous faire passer pour une danseuse étoile au milieu d''un combat perdu d''avance. De quoi décontenancer une armée de Chafers, pour retourner la situation à votre avantage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image22.svg'
+		'../images/image_ceinture/image22.svg'
 	),
 	(
 		'item',
@@ -41764,7 +41764,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture saillante vous ira à ravir si vous rejoignez un jour la cause des bandits de grand chemin. En attendant, elle ne vous rendra que plus ridicule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image23.svg'
+		'../images/image_ceinture/image23.svg'
 	),
 	(
 		'item',
@@ -41822,7 +41822,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture permettait aux gardes du Château d''Amakna de contenir les émeutes et autres débordements lors des fêtes populaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image24.svg'
+		'../images/image_ceinture/image24.svg'
 	),
 	(
 		'item',
@@ -41880,7 +41880,7 @@ VALUES
 		NULL,
 		NULL,
 		'Poilue mais élégante, cette ceinture devrait parfois vous faire penser à votre dulcinée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image25.svg'
+		'../images/image_ceinture/image25.svg'
 	),
 	(
 		'item',
@@ -41938,7 +41938,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture recouverte de poils d''ours, est idéale pour cacher vos poignées d''amour. Il est donc conseillé de ne jamais l''enlever, pour ne pas décevoir l''élu de votre coeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image26.svg'
+		'../images/image_ceinture/image26.svg'
 	),
 	(
 		'item',
@@ -41996,7 +41996,7 @@ VALUES
 		NULL,
 		NULL,
 		'Rapide à équiper, cette ceinture s''avère tout de même assez légère pour sa taille. La laine donne l''impression d''être neuve. Normal, il a fallu selon la légende, dépecer une centaine de bouftons pour avoir cet aspect lisse et soyeux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image27.svg'
+		'../images/image_ceinture/image27.svg'
 	),
 	(
 		'item',
@@ -42054,7 +42054,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture possède de petites poches permettant de stocker davantage d''objets dans votre inventaire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image28.svg'
+		'../images/image_ceinture/image28.svg'
 	),
 	(
 		'item',
@@ -42112,7 +42112,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture est franchement exceptionnelle, puisqu''un bermuda en fibre de lin y est attaché. C''est la ceinture idéale pour ceux qui aiment se délester de leurs vêtements rapidement, et passer à l''action sur le champ. Attention cependant, pour des raisons d''hygiène, cette ceinture est interdite dans les piscines municipales.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image29.svg'
+		'../images/image_ceinture/image29.svg'
 	),
 	(
 		'item',
@@ -42170,7 +42170,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéale pour étrangler les Tofus, cette ceinture permet également aux chasseurs de fouetter les aventuriers qui s''aventurent sur leur domaine en période de chasse. Il est donc déconseillé de plaisanter pas avec nos amis les chasseurs, ce ne sont pas forcément les Tofus qui ont un coup dans l''aile.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image30.svg'
+		'../images/image_ceinture/image30.svg'
 	),
 	(
 		'item',
@@ -42228,7 +42228,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette magnifique ceinture de couleur rousse, vous permettra grâce à ses pouvoirs magiques de mieux vous concentrer et d''apprendre plus rapidement. Le rêve de tous les cancres d''Amakna.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image31.svg'
+		'../images/image_ceinture/image31.svg'
 	),
 	(
 		'item',
@@ -42286,7 +42286,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture vous est conseillée par Jiva en personne, pour les nuits froides et rigoureuses. En cas de tâches, elle se lave avec du Rimennelle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image32.svg'
+		'../images/image_ceinture/image32.svg'
 	),
 	(
 		'item',
@@ -42344,7 +42344,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture rend son porteur plus résistant et endurant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image33.svg'
+		'../images/image_ceinture/image33.svg'
 	),
 	(
 		'item',
@@ -42402,7 +42402,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture aérodynamique conçue par Tengra Reufrus vous rend agile comme l''air, et libre comme un Tofu. A moins que ça ne soit l''inverse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image34.svg'
+		'../images/image_ceinture/image34.svg'
 	),
 	(
 		'item',
@@ -42460,7 +42460,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture fut créée par Xof le Lenald, il eut la bonne idée de ramasser toutes les dents qu''il pouvait trouver sur un champ de bataille Wabbit. Depuis ce jour, ce geste est devenu une habitude.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image35.svg'
+		'../images/image_ceinture/image35.svg'
 	),
 	(
 		'item',
@@ -42518,7 +42518,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le cordonnier qui a créé cette ceinture avec les restes d''un Dragodinde devait vraiment manquer d''imagination, pour lui donner un nom aussi stupide.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image36.svg'
+		'../images/image_ceinture/image36.svg'
 	),
 	(
 		'item',
@@ -42576,7 +42576,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Ceinture de Puissance rend son porteur particulièrement puissant lors des combats, mais son poids réduit de manière conséquente son agilité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image37.svg'
+		'../images/image_ceinture/image37.svg'
 	),
 	(
 		'item',
@@ -42634,7 +42634,7 @@ VALUES
 		NULL,
 		NULL,
 		'Comportant des renforts en fer, c''est une version améliorée de la classique Ceinture Banisation, elle a été spécialement conçue pour chasser les Dragodindes Sauvages dans les contrées sauvages.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image38.svg'
+		'../images/image_ceinture/image38.svg'
 	),
 	(
 		'item',
@@ -42692,7 +42692,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéale pour garder ses hanches au chaud, cette ceinture a tout de même l''inconvénient d''irriter et de démanger les peaux douces. A réserver aux durs à cuir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image39.svg'
+		'../images/image_ceinture/image39.svg'
 	),
 	(
 		'item',
@@ -42750,7 +42750,7 @@ VALUES
 		NULL,
 		NULL,
 		'Remarquable création artisanale à base de restes de Fourbasses et de détritus ramassés le long des plages de Moon, au milieu de l''écume nauséabonde, cette ceinture si elle est portée toute seule, vous donnera une allure vraiment surprenante. De quoi décontenancer vos adversaires ou surprendre l''être aimé, pour mieux tirer partie de cet instant où pour une fois c''est vous qui aurez le dessus.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image40.svg'
+		'../images/image_ceinture/image40.svg'
 	),
 	(
 		'item',
@@ -42808,7 +42808,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous avez ce formidable objet autour des reins, c''est que vous êtes l''un des héros les plus chanceux de cet univers. Cette ceinture appartenait au héros barbu le plus fort et séduisant de tous les temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image41.svg'
+		'../images/image_ceinture/image41.svg'
 	),
 	(
 		'item',
@@ -42866,7 +42866,7 @@ VALUES
 		NULL,
 		NULL,
 		'Grougalorasalar aimait garder des fragments d''os appartenant aux ennemis vaincus les plus forts. Son affection pour Crocoburio le poussa à les utiliser pour fabriquer cette ceinture surpuissante.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image42.svg'
+		'../images/image_ceinture/image42.svg'
 	),
 	(
 		'item',
@@ -42924,7 +42924,7 @@ VALUES
 		NULL,
 		NULL,
 		'Léhunui savait se faire des amis, il conviait souvent ses camarades à de grandes soirées costumées. Il avait aussi pour réputation de mettre toujours les petits plats dans les grands et d''offrir de somptueux bijoux pour vous remercier de venir chez lui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image43.svg'
+		'../images/image_ceinture/image43.svg'
 	),
 	(
 		'item',
@@ -42982,7 +42982,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ramoume était un ancien ami d''enfance de Nova, ils se sont perdus de vue quand Ramoume décida de faire une sieste éternelle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image44.svg'
+		'../images/image_ceinture/image44.svg'
 	),
 	(
 		'item',
@@ -43040,7 +43040,7 @@ VALUES
 		NULL,
 		NULL,
 		'Portée autour des hanches, cette ceinture vous permettra de passer pour un aventurier pacifiste et ainsi de mieux surprendre vos adversaires en leur assenant un coup d''épée dans le dos.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image45.svg'
+		'../images/image_ceinture/image45.svg'
 	),
 	(
 		'item',
@@ -43098,7 +43098,7 @@ VALUES
 		NULL,
 		NULL,
 		'Enfin une bonne excuse de sentir la marée !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image46.svg'
+		'../images/image_ceinture/image46.svg'
 	),
 	(
 		'item',
@@ -43156,7 +43156,7 @@ VALUES
 		NULL,
 		NULL,
 		'Equipement d''une légèreté incompararable, la Végéte Hâtif vous apporte quelques grammes de finesses dans ce monde de Bwork en rût.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image47.svg'
+		'../images/image_ceinture/image47.svg'
 	),
 	(
 		'item',
@@ -43214,7 +43214,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Pandawas du village d''Akwadala ont toujours voulu garder la taille fine. En serrant au maximum cette ceinture, vous devriez arriver au même résultat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image48.svg'
+		'../images/image_ceinture/image48.svg'
 	),
 	(
 		'item',
@@ -43272,7 +43272,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Kwak de Terre n''est pas très social et surtout très chassé pour ses plumes, c''est bien connu. En portant cette ceinture autour des hanches, vous vous exposez donc à de multiples fourberies de la part des chasseurs de Kwaks de Terre, qui vous prendront de loin pour un vieux Kwak grabataire sur le déclin. Les apparences ne sont finalement pas toujours trompeuses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image49.svg'
+		'../images/image_ceinture/image49.svg'
 	),
 	(
 		'item',
@@ -43330,7 +43330,7 @@ VALUES
 		NULL,
 		NULL,
 		'"La seule façon d''attraper un vieux mâle Kwak du Vent contrarié, c''est de se déguiser en femelle Kwak du Vent contrariée. Dès lors, le mâle tentera de comprendre pourquoi la femelle est contrariée et tentera avec tous les moyens dont il dispose, de satisfaire la femelle. Une fois le mâle satisfait de sa prestation, il faut profiter de sa béatitude pour le plumer." Voici ce que l''on peut lire dans la section douze du tome trois sur la chasse aux Kwaks du Vent. Il y est en outre clairement indiqué, que cette ceinture est un élément indispensable pour se faire passer pour une femelle Kwak du Vent. Vous savez ce qu''il vous reste à faire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image50.svg'
+		'../images/image_ceinture/image50.svg'
 	),
 	(
 		'item',
@@ -43388,7 +43388,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pour parader comme un Kwak de Flammes pendant la saison des amours, cette ceinture sera parfaite, à condition de ne porter que ça.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image51.svg'
+		'../images/image_ceinture/image51.svg'
 	),
 	(
 		'item',
@@ -43446,7 +43446,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéale pour vous raffermir les hanches, cette ceinture vous permettra de garder bien au frais ce que vous avez en dessous de la ceinture.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image52.svg'
+		'../images/image_ceinture/image52.svg'
 	),
 	(
 		'item',
@@ -43504,7 +43504,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture ressemble presque à un pagne, elle conviendra parfaitement si vous voulez vous camoufler parmi les Kokokos de l''île de Moon, ou tout simplement si vous désirez courtiser un Kokoko.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image53.svg'
+		'../images/image_ceinture/image53.svg'
 	),
 	(
 		'item',
@@ -43562,7 +43562,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture manque cruellement d''originalité. Elle semble cependant assortie à votre coiffure.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image54.svg'
+		'../images/image_ceinture/image54.svg'
 	),
 	(
 		'item',
@@ -43620,7 +43620,7 @@ VALUES
 		NULL,
 		NULL,
 		'Porter cette ceinture autour des hanches fera de vous un aventurier respecté. La porter sur la tête en guise de bandeau fera de vous la risée du village d''Astrub.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image55.svg'
+		'../images/image_ceinture/image55.svg'
 	),
 	(
 		'item',
@@ -43678,7 +43678,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture vous apportera assurance et abdominaux en bois. Un traitement anti-Arakne est néanmoins recommandé tous les ans. Un peu comme la coiffure d''un Sadida, avec heureusement trois fois moins d''anti-parasites.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image56.svg'
+		'../images/image_ceinture/image56.svg'
 	);
 
 INSERT INTO
@@ -43797,7 +43797,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Scarature servait autrefois à donner une indication sur votre niveau en combat à mains nues. Posséder une Scarature verte signifiait que vous étiez un débutant, une rouge, signifiait que vous léchiez le sang de vos ennemis une fois ceux-ci exterminés, une blanche, signifiait que vous étiez une véritable machine à exterminer les ennemis, et une bleue signifiait que vous n''aviez pas assez de kamas pour vous acheter une des trois autres Scaratures.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image57.svg'
+		'../images/image_ceinture/image57.svg'
 	),
 	(
 		'item',
@@ -43855,7 +43855,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Scarature servait autrefois à donner une indication sur votre niveau en combat à mains nues. Posséder une Scarature verte signifiait que vous étiez un débutant, une rouge, signifiait que vous léchiez le sang de vos ennemis une fois ceux-ci exterminés, une blanche, signifiait que vous étiez une véritable machine à exterminer les ennemis, et une bleue signifiait que vous n''aviez pas assez de kamas pour vous acheter une des trois autres Scaratures.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image58.svg'
+		'../images/image_ceinture/image58.svg'
 	),
 	(
 		'item',
@@ -43913,7 +43913,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Scarature servait autrefois à donner une indication sur votre niveau en combat à mains nues. Posséder une Scarature verte signifiait que vous étiez un débutant, une rouge, signifiait que vous léchiez le sang de vos ennemis une fois ceux-ci exterminés, une blanche, signifiait que vous étiez une véritable machine à exterminer les ennemis, et une bleue signifiait que vous n''aviez pas assez de kamas pour vous acheter une des trois autres Scaratures.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image59.svg'
+		'../images/image_ceinture/image59.svg'
 	),
 	(
 		'item',
@@ -43971,7 +43971,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Scarature servait autrefois à donner une indication sur votre niveau en combat à mains nues. Posséder une Scarature verte signifiait que vous étiez un débutant, une rouge, signifiait que vous léchiez le sang de vos ennemis une fois ceux-ci exterminés, une blanche, signifiait que vous étiez une véritable machine à exterminer les ennemis, et une bleue signifiait que vous n''aviez pas assez de kamas pour vous acheter une des trois autres Scaratures.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image60.svg'
+		'../images/image_ceinture/image60.svg'
 	),
 	(
 		'item',
@@ -44029,7 +44029,7 @@ VALUES
 		NULL,
 		NULL,
 		'Célèbre combattant du dimanche, Frank s''est reconverti dans les arts martiaux après avoir lamentablement raté son diplôme de tailleur de pierres.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image61.svg'
+		'../images/image_ceinture/image61.svg'
 	),
 	(
 		'item',
@@ -44087,7 +44087,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture, en plus d''habiller d''une manière élégante, procure à son porteur un effet massant vraiment agréable. L''heureux propriétaire, moins stressé, est alors plus apte à réfléchir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image62.svg'
+		'../images/image_ceinture/image62.svg'
 	),
 	(
 		'item',
@@ -44145,7 +44145,7 @@ VALUES
 		NULL,
 		NULL,
 		'Utilisé comme fouet, ce string peut se révéler plus efficace qu''il n''y paraît, pour remotiver vos compagnons de route, lorsque l''amour du risque commence à leur faire défaut.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image63.svg'
+		'../images/image_ceinture/image63.svg'
 	),
 	(
 		'item',
@@ -44203,7 +44203,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Pandawas du village de Terrdala ont toujours voulu garder la taille fine. En serrant au maximum cette ceinture, vous devriez arriver au même résultat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image64.svg'
+		'../images/image_ceinture/image64.svg'
 	),
 	(
 		'item',
@@ -44261,7 +44261,7 @@ VALUES
 		NULL,
 		NULL,
 		'Autrefois utilisée pour les libertés conditionnelles, la Chtévu possède paraît-il un pouvoir supplémentaire par rapport aux autres ceintures. Mais personne n''a encore trouvé. Mieux vaut donc garder un oeil sur cette ceinture.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image65.svg'
+		'../images/image_ceinture/image65.svg'
 	),
 	(
 		'item',
@@ -44319,7 +44319,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce tutu rose sera parfait pour la représentation de fin d''année de votre petite dernière. Fabriqué en coton ancestral et en mousse de Mob l''éponge extensible, doux et confortable avec une jupe en froufrou, ce tutu sera peut-être le premier d''une future danseuse étoile.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image66.svg'
+		'../images/image_ceinture/image66.svg'
 	),
 	(
 		'item',
@@ -44377,7 +44377,7 @@ VALUES
 		NULL,
 		NULL,
 		'Derrière ce nom assez grotesque, se cache une belle création de Bowisse le Cordonnier qui lors d''une promenade dans le Donjon des Squelettes a eu l''idée de récupérer les restes de ses ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image67.svg'
+		'../images/image_ceinture/image67.svg'
 	),
 	(
 		'item',
@@ -44435,7 +44435,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le moins que l''on puisse dire, c''est qu''une fois enfilée, vous ne risquez plus de perdre cette ceinture. Elle fera le bonheur des étourdis et des victimes récurrentes de vols.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image68.svg'
+		'../images/image_ceinture/image68.svg'
 	),
 	(
 		'item',
@@ -44493,7 +44493,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture porte le nom ridicule de son créateur, Luthuthu, un cordonnier beaucoup moins connu que Bowisse, mais encore très créatif malgré son âge avancé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image69.svg'
+		'../images/image_ceinture/image69.svg'
 	),
 	(
 		'item',
@@ -44551,7 +44551,7 @@ VALUES
 		NULL,
 		NULL,
 		'Derrière ce nom stupide, se cache en réalité une ceinture originale, dont on ne connaît pas vraiment les défauts, ni les qualités. On sait tout de même qu''elle est reconnue d''utilité publique grâce à la protection exceptionnelle qu''elle confère aux poignées d''amour.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image70.svg'
+		'../images/image_ceinture/image70.svg'
 	),
 	(
 		'item',
@@ -44609,7 +44609,7 @@ VALUES
 		NULL,
 		NULL,
 		'Derrière ce nom stupide, se cache en réalité une ceinture originale, dont on ne connaît pas vraiment les défauts, ni les qualités. On sait tout de même qu''elle est reconnue d''utilité publique grâce à la protection exceptionnelle qu''elle confère aux poignées d''amour.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image71.svg'
+		'../images/image_ceinture/image71.svg'
 	),
 	(
 		'item',
@@ -44667,7 +44667,7 @@ VALUES
 		NULL,
 		NULL,
 		'Derrière ce nom stupide, se cache en réalité une ceinture originale, dont on ne connaît pas vraiment les défauts, ni les qualités. On sait tout de même qu''elle est reconnue d''utilité publique grâce à la protection exceptionnelle qu''elle confère aux poignées d''amour.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image72.svg'
+		'../images/image_ceinture/image72.svg'
 	),
 	(
 		'item',
@@ -44725,7 +44725,7 @@ VALUES
 		NULL,
 		NULL,
 		'Derrière ce nom stupide, se cache en réalité une ceinture originale, dont on ne connaît pas vraiment les défauts, ni les qualités. On sait tout de même qu''elle est reconnue d''utilité publique grâce à la protection exceptionnelle qu''elle confère aux poignées d''amour.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image73.svg'
+		'../images/image_ceinture/image73.svg'
 	),
 	(
 		'item',
@@ -44783,7 +44783,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous aimez parader entièrement nu sur les plages de l''île de Moon, vous devriez rapidement tomber amoureux de cette ceinture, réputée pour être un excellent cache-misère.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image74.svg'
+		'../images/image_ceinture/image74.svg'
 	),
 	(
 		'item',
@@ -44841,7 +44841,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette magnifique ceinture augmente la vitalité de son porteur et lui permet de porter plus facilement ses objets. Elle si douce qu''elle permet même de ligoter sa dulcinée lorsque celle-ci refuse de rester à la maison.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image75.svg'
+		'../images/image_ceinture/image75.svg'
 	),
 	(
 		'item',
@@ -44899,7 +44899,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est la ceinture la plus à la mode dans les rues de Bonta. Elle est ornée au niveau de la boucle, de l''insigne d''une célèbre confrérie de cordonniers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image76.svg'
+		'../images/image_ceinture/image76.svg'
 	),
 	(
 		'item',
@@ -44957,7 +44957,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est la ceinture la plus en vogue dans les égouts de Brâkmar. Pour donner l''impression d''être un dur à cuir, elle est parfaite. Pour faire de vous un dur à cuir, vous pouvez trouver mieux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image77.svg'
+		'../images/image_ceinture/image77.svg'
 	),
 	(
 		'item',
@@ -45015,7 +45015,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Dodu était un Sadida qui s''obstinait à faire trembler ses ennemis, il a commandé à Bowisse cette ceinture, assortie à la couleur de ses poils, car ne l''oublions pas, le Dodu en plus d''être un trembleur était un charmeur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image78.svg'
+		'../images/image_ceinture/image78.svg'
 	),
 	(
 		'item',
@@ -45073,7 +45073,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture en feuilles de Kaliptus diffuse une délicieuse odeur, capable d''en masquer d''autres. Elle est en outre parfaite pour masquer vos rondeurs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image79.svg'
+		'../images/image_ceinture/image79.svg'
 	),
 	(
 		'item',
@@ -45131,7 +45131,7 @@ VALUES
 		NULL,
 		NULL,
 		'De taille plus que respectable, ce magnifique slip comporte encore les traces du passage de son ancien propriétaire et quelques poils bien étranges. Sur les fesses ou sur la tête, ce slip fera de vous une personnalité respectée de tout Amakna.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image80.svg'
+		'../images/image_ceinture/image80.svg'
 	),
 	(
 		'item',
@@ -45189,7 +45189,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture est idéale pour protéger les parties sensibles, des coups critiques. Vérifiez tout de même que le cordonnier a bien retiré le propriétaire de la carapace avant que vous ne l''essayez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image81.svg'
+		'../images/image_ceinture/image81.svg'
 	),
 	(
 		'item',
@@ -45247,7 +45247,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture est idéale pour protéger les parties sensibles, des coups critiques. Vérifiez tout de même que le cordonnier a bien retiré le propriétaire de la carapace avant que vous ne l''essayez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image82.svg'
+		'../images/image_ceinture/image82.svg'
 	),
 	(
 		'item',
@@ -45305,7 +45305,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture est idéale pour protéger les parties sensibles, des coups critiques. Vérifiez tout de même que le cordonnier a bien retiré le propriétaire de la carapace avant que vous ne l''essayez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image83.svg'
+		'../images/image_ceinture/image83.svg'
 	),
 	(
 		'item',
@@ -45363,7 +45363,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite ceinture est idéale pour protéger les parties sensibles, des coups critiques. Vérifiez tout de même que le cordonnier a bien retiré le propriétaire de la carapace avant que vous ne l''essayez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image84.svg'
+		'../images/image_ceinture/image84.svg'
 	),
 	(
 		'item',
@@ -45421,7 +45421,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le plus dur avec cette Geloture, c''est qu''en cas de fringale, on est vite tenté de croquer dedans.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image85.svg'
+		'../images/image_ceinture/image85.svg'
 	),
 	(
 		'item',
@@ -45479,7 +45479,7 @@ VALUES
 		NULL,
 		NULL,
 		'Voilà une ceinture qui saura plaire aux amateurs de sensations fortes. En effet cette dernière a été conçue spécialement pour pouvoir s''approcher sans risques des Ouginaks. Son efficacité n''a cependant pas encore été prouvée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image86.svg'
+		'../images/image_ceinture/image86.svg'
 	),
 	(
 		'item',
@@ -45537,7 +45537,7 @@ VALUES
 		NULL,
 		NULL,
 		'Créée spécialement pour récompenser les guerriers les plus habiles de leurs mains, elle se porte sans sous-vêtements et uniquement en hiver.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image87.svg'
+		'../images/image_ceinture/image87.svg'
 	),
 	(
 		'item',
@@ -45595,7 +45595,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Pandawas du village d''Aerdala ont toujours voulu garder la taille fine. En serrant au maximum cette ceinture, vous devriez arriver au même résultat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image88.svg'
+		'../images/image_ceinture/image88.svg'
 	),
 	(
 		'item',
@@ -45653,7 +45653,7 @@ VALUES
 		NULL,
 		NULL,
 		'Trop rigide pour servir de fouet, cette ceinture recouverte de minuscules pierres précisieuses peut néanmoins être utilisée de manière plus conventionnelle, pour éviter que vos guêtres ne tombent sur vos genoux par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image89.svg'
+		'../images/image_ceinture/image89.svg'
 	),
 	(
 		'item',
@@ -45711,7 +45711,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une vieille légende extraite du fameux grimoire "Toute la vérité sur les femmes", raconte que cette ceinture aurait appartenu à une femme en or, plus intéressée par la richesse que par le pouvoir. Dans la version non censurée du grimoire, on y apprend également qu''elle était avant tout connue pour son goût prononcé pour les plaisanteries salaces. Elle n''était finalement pas si différente des autres femmes...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image90.svg'
+		'../images/image_ceinture/image90.svg'
 	),
 	(
 		'item',
@@ -45769,7 +45769,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture fera de vous une personne irrésistible. Bowisse recommande cependant de ne pas s''approcher du Dragon Cochon avec cette ceinture, cela pourrait réveiller certaines de ses pulsions les plus tourmentées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image91.svg'
+		'../images/image_ceinture/image91.svg'
 	),
 	(
 		'item',
@@ -45827,7 +45827,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette magnifique ceinture a été confectionnée suite à un pari fou. Le défi était d''améliorer une des plus belles ceintures conçue sur Amakna : la ceinture Fulgurante. Le pari fut réussi par Pakape Prométhé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image92.svg'
+		'../images/image_ceinture/image92.svg'
 	),
 	(
 		'item',
@@ -45885,7 +45885,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture en cuir protégeait les cuisses de Shika, lorsqu''elle traversait des champs de blé en courant pour rattraper les Bouftous égarés de son troupeau. Recouverte de pollen de céréales magiques, on raconte qu''elle brillait au clair de lune, et permettait à Farle de ne pas sectionner les jambes de sa propre femme lorsqu''il fauchait des champs entiers de céréales une fois la nuit tombée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image93.svg'
+		'../images/image_ceinture/image93.svg'
 	),
 	(
 		'item',
@@ -45943,7 +45943,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture servait également de tablier de boucher à Farle Ingalsse lorsqu''il devait égorger ses troupeaux de Bouftous. Une tâche ingrate et cruelle, dont il s''affranchissait pourtant avec un plaisir non dissimulé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image94.svg'
+		'../images/image_ceinture/image94.svg'
 	),
 	(
 		'item',
@@ -46001,7 +46001,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dépourvue de boucle, cette ceinture peut tout de même faire très mal si vous vous en servez comme fouet sur un postérieur à la peau fragile. Les pointes en fer rouillées sont à commander séparément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image95.svg'
+		'../images/image_ceinture/image95.svg'
 	),
 	(
 		'item',
@@ -46059,7 +46059,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dépourvue de boucle, cette ceinture peut tout de même faire très mal si vous vous en servez comme fouet sur un postérieur à la peau fragile. Les pointes en fer rouillées sont à commander séparément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image96.svg'
+		'../images/image_ceinture/image96.svg'
 	),
 	(
 		'item',
@@ -46117,7 +46117,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dépourvue de boucle, cette ceinture peut tout de même faire très mal si vous vous en servez comme fouet sur un postérieur à la peau fragile. Les pointes en fer rouillées sont à commander séparément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image97.svg'
+		'../images/image_ceinture/image97.svg'
 	),
 	(
 		'item',
@@ -46175,7 +46175,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dépourvue de boucle, cette ceinture peut tout de même faire très mal si vous vous en servez comme fouet sur un postérieur à la peau fragile. Les pointes en fer rouillées sont à commander séparément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image98.svg'
+		'../images/image_ceinture/image98.svg'
 	),
 	(
 		'item',
@@ -46233,7 +46233,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Craqueleur légendaire porte cette ceinture autour de ses orteils, vous autour de la taille, ou des chevilles peut-être...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image99.svg'
+		'../images/image_ceinture/image99.svg'
 	),
 	(
 		'item',
@@ -46291,7 +46291,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Pandawas du village de Feudala ont toujours voulu garder la taille fine. En serrant au maximum cette ceinture, vous devriez arriver au même résultat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image100.svg'
+		'../images/image_ceinture/image100.svg'
 	),
 	(
 		'item',
@@ -46349,7 +46349,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le célèbre Mulou a fait don de ses plus précieux organes pour aider à la confection de cette ceinture incroyable qui respire la puissance malgrès son apparence assez étrange qui comblerait le plus pervers des Chafers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image101.svg'
+		'../images/image_ceinture/image101.svg'
 	),
 	(
 		'item',
@@ -46407,7 +46407,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture a été créée pour la plus populaire des Crâette, qui aimait donner de son temps pour organiser tout un tas de fêtes et d''évènements hors du commun, histoire de divertir le peuple entre deux repassages de Slip en Cuir du Captain Chafer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image102.svg'
+		'../images/image_ceinture/image102.svg'
 	),
 	(
 		'item',
@@ -46465,7 +46465,7 @@ VALUES
 		NULL,
 		NULL,
 		'Lorsque Sangroku avait trop abusé des haricots magiques, il serrait bien fort cette ceinture autour de sa taille, pour contenir au maximum, les vents de panique qui l''ont rendu célèbre à travers toute la province d''Amakna.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image103.svg'
+		'../images/image_ceinture/image103.svg'
 	),
 	(
 		'item',
@@ -46523,7 +46523,7 @@ VALUES
 		NULL,
 		NULL,
 		'En serrant suffisamment fort cette ceinture, on peut réussir à bloquer entièrement l''appareil digestif de son propriétaire. Il ne reste ensuite plus qu''à trouver une utilité à cet acte profondément débile.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image104.svg'
+		'../images/image_ceinture/image104.svg'
 	),
 	(
 		'item',
@@ -46581,7 +46581,7 @@ VALUES
 		NULL,
 		NULL,
 		'Taillée dans un Abrakleur sombre, cette ceinture n''est pas assez flexible pour permettre de bouger librement, mais au moins, elle protège bien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image105.svg'
+		'../images/image_ceinture/image105.svg'
 	),
 	(
 		'item',
@@ -46639,7 +46639,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture a été confectionnée à partir des éléments les plus puissants du Chouque, notamment son célèbre caleçon. De quoi mettre en émoi toutes les flibustières du bar des pirates.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image106.svg'
+		'../images/image_ceinture/image106.svg'
 	),
 	(
 		'item',
@@ -46697,7 +46697,7 @@ VALUES
 		NULL,
 		NULL,
 		'Contrairement à son cousin blanc bontarien, le Rat Noir aime faire dans la discrétion, et porte donc une simple ceinture d''étoffe. Mais il aime aussi emporter un maximum d''armes avec lui, qui font un bruit d''enfer en s''entrechoquant à chaque pas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image107.svg'
+		'../images/image_ceinture/image107.svg'
 	),
 	(
 		'item',
@@ -46755,7 +46755,7 @@ VALUES
 		NULL,
 		NULL,
 		'Contrairement à ce que pense son cousin noir brâkmarien, le rat blanc aime également faire dans la discrétion. Les raccords métalliques de cette ceinture sont doublés de goudron et ne font aucun bruit, sauf quand son porteur tombe lamentablement, c''est à dire souvent puisqu''elle pèse plusieurs tonnes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image108.svg'
+		'../images/image_ceinture/image108.svg'
 	),
 	(
 		'item',
@@ -46813,7 +46813,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture est censée vous donner la virilité ancestrale. Que ce soit vrai ou pas, l''effet est périmé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image109.svg'
+		'../images/image_ceinture/image109.svg'
 	),
 	(
 		'item',
@@ -46871,7 +46871,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture est si souple, qu''elle peut servir à fouetter les fesses des enfants trop turbulents. Avec un peu de chance, ses ferrures permettront d''arracher quelques lambeaux de chair, et les terribles garnements qui vous servent de marmaille auront compris une bonne fois pour toute la leçon.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image110.svg'
+		'../images/image_ceinture/image110.svg'
 	),
 	(
 		'item',
@@ -46929,7 +46929,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture a été confectionnée à partir des restes du Maître Corbac, soigneusement cousus entre eux. Vous devriez vous sentir respecté une fois équipé de celle-ci. Le Chouque a même accepté de prêter sa boucle pour l''occasion.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image111.svg'
+		'../images/image_ceinture/image111.svg'
 	),
 	(
 		'item',
@@ -46987,7 +46987,7 @@ VALUES
 		NULL,
 		NULL,
 		'La célèbre Cordonnière Ha, avait un amant connu pour lui faire faux bond au dernier moment. Mais l''amour l''aveuglant, elle lui offrit tout de même cette magnifique ceinture comme témoin de leur union secrète.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image112.svg'
+		'../images/image_ceinture/image112.svg'
 	),
 	(
 		'item',
@@ -47045,7 +47045,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les esprits les plus pervertis d''Amakna, racontent que cette ceinture pouvait servir de prothèse. Personne ne comprend pourquoi, et heureusement il n''en n''est rien, ce n''est qu''une banale ceinture du Dragoeuf.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image113.svg'
+		'../images/image_ceinture/image113.svg'
 	),
 	(
 		'item',
@@ -47103,7 +47103,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture colorée est dotée d''une superbe touffe violacée sur le devant, vous pouvez également la porter à l''envers pour vous travestir en Wabbit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image114.svg'
+		'../images/image_ceinture/image114.svg'
 	),
 	(
 		'item',
@@ -47161,7 +47161,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sula la cordonnière aimait perdre son temps à flâner dans les champs, en quête d''un amour improbable. A défaut de trouver l''être tant convoité, elle trouva la mort en tombant dans une grande fosse remplie d''immondices, près de la zone Cochonne. Son corps ne fût retrouvé que 7 décennies plus tard, au moment de vider la fameuse fosse. Son frère se serait alors écrié : "je me doutais bien qu''elle était quelque part", juste avant de tomber lui aussi dans la fosse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image115.svg'
+		'../images/image_ceinture/image115.svg'
 	),
 	(
 		'item',
@@ -47219,7 +47219,7 @@ VALUES
 		NULL,
 		NULL,
 		'Contrairement aux apparences, Xéna, n''était pas une guerrière, mais une cordonnière. Ses formes généreuses et sa passion sans limite pour les tâches ménagères la prédestinaient à une brillante carrière dans les brasseries d''Amakna. Le destin en a décidé autrement.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image116.svg'
+		'../images/image_ceinture/image116.svg'
 	),
 	(
 		'item',
@@ -47277,7 +47277,7 @@ VALUES
 		NULL,
 		NULL,
 		'Taillée dans un Abrakleur clair, cette ceinture ne protège pas bien, mais au moins, elle est assez flexible pour bouger librement.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image117.svg'
+		'../images/image_ceinture/image117.svg'
 	),
 	(
 		'item',
@@ -47335,7 +47335,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est Bowisse le Cordonnier en personne, qui a conçu cette ceinture. Il l''a offerte à Brouce Boulgoure lorsque celui-ci a réussi à déraciner à mains nues le Chêne Mou, il y a de ça très longtemps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image118.svg'
+		'../images/image_ceinture/image118.svg'
 	),
 	(
 		'item',
@@ -47393,7 +47393,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les motifs sur cette ceinture donnent l''impression que vous avez le feu au fondement. Le trompe l''oeil est si bon que la plupart des porteurs y croient eux-mêmes et courent partout en hurlant. Ce qui correspond exactement au rituel de la cérémonie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image131.svg'
+		'../images/image_ceinture/image131.svg'
 	),
 	(
 		'item',
@@ -47451,7 +47451,7 @@ VALUES
 		NULL,
 		NULL,
 		'En automne, le Chêne Mou porte son string pour protéger ses précieux glands. En été, il les trimballe à l''air.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image132.svg'
+		'../images/image_ceinture/image132.svg'
 	),
 	(
 		'item',
@@ -47509,7 +47509,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prosper Youpla était persuadé de pouvoir voler grâce à cette ceinture ornée d''ailes de Bitouf. Ignorant que très peu de Bitoufs savent voler, il s''élançait du haut de l''arbre Hakam et s''écrasait systématiquement au sol, tant et si bien qu''il fût surnommé "Boum".',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image133.svg'
+		'../images/image_ceinture/image133.svg'
 	),
 	(
 		'item',
@@ -47567,7 +47567,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture rigide, permettait au Minotot, de contenir son énorme bedaine, afin de ne pas basculer en avant au moindre courant d''air.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image134.svg'
+		'../images/image_ceinture/image134.svg'
 	),
 	(
 		'item',
@@ -47625,7 +47625,7 @@ VALUES
 		NULL,
 		NULL,
 		'On raconte que lorsque son premier propriétaire enfilait cette ceinture, il tournait à chaque fois sur lui même. Ce qui confirme qu''il faut être un peu dingue pour porter un truc pareil.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image135.svg'
+		'../images/image_ceinture/image135.svg'
 	),
 	(
 		'item',
@@ -47683,7 +47683,7 @@ VALUES
 		NULL,
 		NULL,
 		'La meilleure façon de ne pas avoir de champignons dans l''entrejambe, c''est de les attirer ailleurs. Comme il n''y avait déjà plus de place dans vos chaussures pour loger d''autres champignons, vous pourrez utiliser cette ceinture, véritable substrat pour tout bon champignon digne de ce nom.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image136.svg'
+		'../images/image_ceinture/image136.svg'
 	),
 	(
 		'item',
@@ -47741,7 +47741,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prenez un Orme, retirez-lui son écorce, laissez-la tremper dans une flaque, enfouissez-la dans la vase pendant plusieurs mois, recouvrez-là de spores de champignons, mettez-là sous votre lit pendant une semaine en la badigeonnant de graisse de Blop tous les soirs, et voilà vous avez une ceinture en écorce qui sent très mauvais. Alors heureux ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image137.svg'
+		'../images/image_ceinture/image137.svg'
 	),
 	(
 		'item',
@@ -47799,7 +47799,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les deux clous de la ceinture se plantaient directement dans les poignées d''amour du Bworker. Lorsqu''il se trémoussait en faisant la danse du ventre pour distraire ses ennemis, on pouvait parfois apercevoir les coutures de ses sous-vêtements en peau de Kilibriss. L''érotisme exacerbé du Bworker a fait vaciller plus d''un ennemi. Sa lame s''est contentée de les achever.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image138.svg'
+		'../images/image_ceinture/image138.svg'
 	),
 	(
 		'item',
@@ -47857,7 +47857,7 @@ VALUES
 		NULL,
 		NULL,
 		'Lorsque le Rasboul a les boules, il porte sa ceinture Rasboulaire pour envoyer bouler tous les casse-boules.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image139.svg'
+		'../images/image_ceinture/image139.svg'
 	),
 	(
 		'item',
@@ -47915,7 +47915,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sur l''étiquette de cette ceinture, on peut lire : "Nous sommes désolés mais ce n''est pas en portant cette ceinture que vous aurez le déhanchement légendaire d''Ougah". Et alors ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image140.svg'
+		'../images/image_ceinture/image140.svg'
 	),
 	(
 		'item',
@@ -47973,7 +47973,7 @@ VALUES
 		NULL,
 		NULL,
 		'Comme son nom l''indique, ce string est particulièrement efficace pour tuer les mouches un peu trop intéressées par votre anatomie. Il est déconseillé de l''arracher avec les dents, même si vous appréciez cela.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image141.svg'
+		'../images/image_ceinture/image141.svg'
 	),
 	(
 		'item',
@@ -48031,7 +48031,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette ceinture vous permet, certes, de dissimuler efficacement votre postérieur; mais peut également être portée comme un couvre-chef pour vos soirées mondaines.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_ceinture/image142.svg'
+		'../images/image_ceinture/image142.svg'
 	),
 	(
 		'arme',
@@ -48089,7 +48089,7 @@ VALUES
 		NULL,
 		NULL,
 		'Arc de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image0.svg'
+		'../images/image_arc/images0.svg'
 	),
 	(
 		'arme',
@@ -48147,7 +48147,7 @@ VALUES
 		NULL,
 		NULL,
 		'Arc de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image1.svg'
+		'../images/image_arc/images1.svg'
 	),
 	(
 		'arme',
@@ -48205,7 +48205,7 @@ VALUES
 		NULL,
 		NULL,
 		'Arc de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image2.svg'
+		'../images/image_arc/images2.svg'
 	),
 	(
 		'arme',
@@ -48263,7 +48263,7 @@ VALUES
 		NULL,
 		NULL,
 		'Arc de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image3.svg'
+		'../images/image_arc/images3.svg'
 	),
 	(
 		'arme',
@@ -48321,7 +48321,7 @@ VALUES
 		NULL,
 		NULL,
 		'À cause de sa faible portée, cet arc n''est pas très efficace, mais il permet tout de même d''affaiblir suffisamment l''ennemi avant de l''achever avec une autre arme ou magie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image4.svg'
+		'../images/image_arc/images4.svg'
 	),
 	(
 		'arme',
@@ -48379,7 +48379,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc tire si rapidement ses flèches, que l''on entend ces dernières partir de très loin. Pensez donc à l''équiper d''un silencieux, si c''est la discrétion que vous recherchez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image5.svg'
+		'../images/image_arc/images5.svg'
 	),
 	(
 		'arme',
@@ -48437,7 +48437,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''arc déroutant est un objet de base, mais son utilité n''est pas à négliger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image6.svg'
+		'../images/image_arc/images6.svg'
 	),
 	(
 		'arme',
@@ -48495,7 +48495,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est spécialement conçu pour chasser les oiseaux. Léger et facile à manier, il vous permettra de voler dans les plumes de n''importe qui ou presque.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image7.svg'
+		'../images/image_arc/images7.svg'
 	),
 	(
 		'arme',
@@ -48553,7 +48553,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc a été créé par un magicien porté sur la bouteille. Afin de résoudre son problème, il a inventé cet arc spécialisé dans l''eau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image8.svg'
+		'../images/image_arc/images8.svg'
 	),
 	(
 		'arme',
@@ -48611,7 +48611,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''arc déroutant est un objet de base, mais son utilité n''est pas à négliger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image9.svg'
+		'../images/image_arc/images9.svg'
 	),
 	(
 		'arme',
@@ -48669,7 +48669,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''arc déroutant est un objet de base, mais son utilité n''est pas à négliger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image10.svg'
+		'../images/image_arc/images10.svg'
 	),
 	(
 		'arme',
@@ -48727,7 +48727,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est spécialement conçu pour chasser les oiseaux. Léger et facile à manier, il vous permettra de voler dans les plumes de n''importe qui ou presque.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image11.svg'
+		'../images/image_arc/images11.svg'
 	),
 	(
 		'arme',
@@ -48785,7 +48785,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le plan de fabrication de cet arc 100% biodégradable fut retrouvé au fond des ruines de Din par un aventurier apparemment célèbre pour son fouet. Rien ne dit s''il a troqué sa vieille babiole claquante contre ce magnifique arc.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image12.svg'
+		'../images/image_arc/images12.svg'
 	),
 	(
 		'arme',
@@ -48843,7 +48843,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''arc déroutant est un objet de base, mais son utilité n''est pas à négliger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image13.svg'
+		'../images/image_arc/images13.svg'
 	),
 	(
 		'arme',
@@ -48901,7 +48901,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est un arc très simple à utiliser, il a été conçu pour s''adapter à l''intelligence d''un Bwork Archer, ce qui le rend presque utilisable par un Tofu. En revanche, il nécessite une force de Craqueleur pour être bandé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image14.svg'
+		'../images/image_arc/images14.svg'
 	),
 	(
 		'arme',
@@ -48959,7 +48959,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est spécialement conçu pour chasser les oiseaux. Léger et facile à manier, il vous permettra de voler dans les plumes de n''importe qui ou presque.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image15.svg'
+		'../images/image_arc/images15.svg'
 	),
 	(
 		'arme',
@@ -49017,7 +49017,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est l''arc le plus recherché de tout Amakna, on raconte que là où ses flèches retombent, on peut trouver un trésor. Étrangement, il ne semble être efficace que lorsque pluie et rayons de soleil se mêlent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image16.svg'
+		'../images/image_arc/images16.svg'
 	),
 	(
 		'arme',
@@ -49075,7 +49075,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le plan de fabrication de cet arc 100% biodégradable fut retrouvé au fond des ruines de Din par un aventurier apparemment célèbre pour son fouet. Rien ne dit s''il a troqué sa vieille babiole claquante contre ce magnifique arc.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image17.svg'
+		'../images/image_arc/images17.svg'
 	),
 	(
 		'arme',
@@ -49133,7 +49133,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est spécialement conçu pour chasser les oiseaux. Léger et facile à manier, il vous permettra de voler dans les plumes de n''importe qui ou presque.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image18.svg'
+		'../images/image_arc/images18.svg'
 	),
 	(
 		'arme',
@@ -49191,7 +49191,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est assez puissant pour envoyer une flèche sur la lune.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image19.svg'
+		'../images/image_arc/images19.svg'
 	),
 	(
 		'arme',
@@ -49249,7 +49249,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le plan de fabrication de cet arc 100% biodégradable fut retrouvé au fond des ruines de Din par un aventurier apparemment célèbre pour son fouet. Rien ne dit s''il a troqué sa vieille babiole claquante contre ce magnifique arc.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image20.svg'
+		'../images/image_arc/images20.svg'
 	),
 	(
 		'arme',
@@ -49307,7 +49307,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le bois d''Abraknyde étant toujours vivant une fois coupé, cet arc est très difficile à utiliser. Cependant, il n''y a pas mieux pour ridiculiser un Abraknyde, que de le tuer avec un arc issu des racines de ses propres frères.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image21.svg'
+		'../images/image_arc/images21.svg'
 	),
 	(
 		'arme',
@@ -49365,7 +49365,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Avec un Bouftou, on peut faire tout !" tel était le slogan d''un marchand dont la spécialité était le recyclage de Bouftou. Cet arc est l''un de ses produits. Pas très esthétique, il n''en est pas moins redoutable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image22.svg'
+		'../images/image_arc/images22.svg'
 	),
 	(
 		'arme',
@@ -49423,7 +49423,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Avec un arc, ça passe ou ça casse", dit le proverbe. Les sages éviteront cet arc, il serait soi-disant porteur du mauvais oeil...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image23.svg'
+		'../images/image_arc/images23.svg'
 	),
 	(
 		'arme',
@@ -49481,7 +49481,7 @@ VALUES
 		NULL,
 		NULL,
 		'Comme son nom l''indique, cet arc permet de gagner facilement un combat. Un grand architecte Crâ sans imagination a même utilisé le nom de cet arc pour nommer une de ses constructions.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image24.svg'
+		'../images/image_arc/images24.svg'
 	),
 	(
 		'arme',
@@ -49539,7 +49539,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'Jeanne était un peu folle, elle entendait des Tabis roter dans sa tête. Pour éviter qu''elle ne se blesse avec son arc, il lui a été confisqué et on a décidé de la brûler vive pour réchauffer l''ambiance lors de l''inauguration de la taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image25.svg'
+		'../images/image_arc/images25.svg'
 	),
 	(
 		'arme',
@@ -49655,7 +49655,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Corde de Yamato a fait vibrer plus d''un coeur de monstre. Arme fine, elle est capable de diriger sa flèche dans les endroits les plus cachés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image27.svg'
+		'../images/image_arc/images27.svg'
 	),
 	(
 		'arme',
@@ -49713,7 +49713,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le plan de fabrication de cet arc 100% biodégradable fut retrouvé au fond des ruines de Din par un aventurier apparemment célèbre pour son fouet. Rien ne dit s''il a troqué sa vieille babiole claquante contre ce magnifique arc.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image28.svg'
+		'../images/image_arc/images28.svg'
 	),
 	(
 		'arme',
@@ -49771,7 +49771,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Avec un Bouftou, on peut faire tout !" tel était le slogan d''un marchand dont la spécialité était le recyclage de Bouftou. Cet arc est l''un de ses produits, pas très esthétique il n''en est pas moins redoutable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image29.svg'
+		'../images/image_arc/images29.svg'
 	),
 	(
 		'arme',
@@ -49829,7 +49829,7 @@ VALUES
 		NULL,
 		NULL,
 		'Type d''arc fabriqué seulement dans le grand nord d''Amakna, le Kéha est un arc peu cher, à monter soi-même. Ses performances dépendent ainsi fortement de la maîtrise de l''assembleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image30.svg'
+		'../images/image_arc/images30.svg'
 	),
 	(
 		'arme',
@@ -49887,7 +49887,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc a appartenu à Ivan Nowé, un Crâ téméraire, qui a pourfendu plus d''un Tofu égaré. Cet arc a la particularité de faire des coups pour le moins surprenants qui laissent perplexes puis agonisants les ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image31.svg'
+		'../images/image_arc/images31.svg'
 	),
 	(
 		'arme',
@@ -49945,7 +49945,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Avec un Bouftou, on peut faire tout !" tel était le slogan d''un marchand dont la spécialité était le recyclage de Bouftou. Cet arc est l''un de ses produits, pas très esthétique il n''en est pas moins redoutable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image32.svg'
+		'../images/image_arc/images32.svg'
 	),
 	(
 		'arme',
@@ -50003,7 +50003,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prenez un vieil arc usé, saupoudrez-le de poudre de perlinpinpin, demandez à un dragon de souffler sur le tout et vous obtenez un arc enchanteur. Cette recette de conte ne marche pas vraiment, les dragons visant étrangement toujours à coté.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image33.svg'
+		'../images/image_arc/images33.svg'
 	),
 	(
 		'arme',
@@ -50061,7 +50061,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc semble encore vivant et peut presque tirer des flèches tout seul, comme un grand. Il aurait pu être l''arc idéal des personnes dotées de deux mains gauches, mais malheureusement, il faut toujours encocher la flèche dans le bon sens.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image34.svg'
+		'../images/image_arc/images34.svg'
 	),
 	(
 		'arme',
@@ -50119,7 +50119,7 @@ VALUES
 		NULL,
 		NULL,
 		'Type d''arc fabriqué seulement dans le grand nord d''Amakna, le Kéha est un arc peu cher, à monter soi-même. Ses performances dépendent ainsi fortement de la maîtrise de l''assembleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image35.svg'
+		'../images/image_arc/images35.svg'
 	),
 	(
 		'arme',
@@ -50177,7 +50177,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le créateur de cet arc, un certain Marc Hidsad, n''a jamais très bien su s''en servir. Il pouvait tout autant infliger de sévères blessures à ses ennemis que de se blesser lui-même.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image36.svg'
+		'../images/image_arc/images36.svg'
 	),
 	(
 		'arme',
@@ -50235,7 +50235,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc, dont toutes les poulies ont été sciées, était, il y a fort longtemps, le symbole de la lutte du bien contre le mal. Encore aujourd''hui, on peut sentir en lui la flamme des anciens justiciers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image37.svg'
+		'../images/image_arc/images37.svg'
 	),
 	(
 		'arme',
@@ -50293,7 +50293,7 @@ VALUES
 		NULL,
 		NULL,
 		'Type d''arc fabriqué seulement dans le grand nord d''Amakna, le Kéha est un arc peu cher, à monter soi-même. Ses performances dépendent ainsi fortement de la maîtrise de l''assembleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image38.svg'
+		'../images/image_arc/images38.svg'
 	),
 	(
 		'arme',
@@ -50351,7 +50351,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prenez un vieil arc usé, saupoudrez-le de poudre de perlinpinpin, demandez à un dragon de souffler sur le tout et vous obtenez un arc enchanteur. Cette recette de conte ne marche pas vraiment, les dragons visant étrangement toujours à coté.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image39.svg'
+		'../images/image_arc/images39.svg'
 	),
 	(
 		'arme',
@@ -50409,7 +50409,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc permettait aux pêcheurs de nettoyer les rivages de toute la vermine environnante sans avoir à se lever de leur siège, et cela depuis la fenêtre du bar des pirates.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image40.svg'
+		'../images/image_arc/images40.svg'
 	),
 	(
 		'arme',
@@ -50467,7 +50467,7 @@ VALUES
 		NULL,
 		NULL,
 		'Type d''arc fabriqué seulement dans le grand nord d''Amakna, le Kéha est un arc peu cher, à monter soi-même. Ses performances dépendent ainsi fortement de la maîtrise de l''assembleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image41.svg'
+		'../images/image_arc/images41.svg'
 	),
 	(
 		'arme',
@@ -50525,7 +50525,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc prend sa force aussi bien de la terre que de l''eau. Malheur à ceux qui ne maîtrisent ni l''un ni l''autre...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image42.svg'
+		'../images/image_arc/images42.svg'
 	),
 	(
 		'arme',
@@ -50583,7 +50583,7 @@ VALUES
 		NULL,
 		NULL,
 		'Hick était un Crâ maudit : il n''arrivait jamais à se débarrasser de son hoquet. Cependant, il finit un jour par jeter son arc au feu pour le remplacer par une épée, et son mal disparu mystérieusement...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image43.svg'
+		'../images/image_arc/images43.svg'
 	),
 	(
 		'arme',
@@ -50641,7 +50641,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prenez un vieil arc usé, saupoudrez-le de poudre de perlinpinpin, demandez à un dragon de souffler sur le tout et vous obtenez un arc enchanteur. Cette recette de conte ne marche pas vraiment, les dragons visant étrangement toujours à coté.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image44.svg'
+		'../images/image_arc/images44.svg'
 	),
 	(
 		'arme',
@@ -50699,7 +50699,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc peu conventionnel fut conçu spécialement pour le roi auto proclamé d''un village de paysans, qui adorait faire son show en tirant deux flèches simultanément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image45.svg'
+		'../images/image_arc/images45.svg'
 	),
 	(
 		'arme',
@@ -50757,7 +50757,7 @@ VALUES
 		NULL,
 		NULL,
 		'Prenez un vieil arc usé, saupoudrez-le de poudre de perlinpinpin, demandez à un dragon de souffler sur le tout et vous obtenez un arc enchanteur. Cette recette de conte ne marche pas vraiment, les dragons visant étrangement toujours à côté.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image46.svg'
+		'../images/image_arc/images46.svg'
 	),
 	(
 		'arme',
@@ -50815,7 +50815,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc a appartenu à Kuri en personne, célèbre prêtresse de l''amour, et bras gauche de Mamie Bonbon. Ne tournez jamais le dos à une prêtresse de l''amour, une seule flèche de cet arc peut suffire à vous déchirer le coeur, voire même les fesses, si vous ne faites pas face à votre adversaire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image47.svg'
+		'../images/image_arc/images47.svg'
 	),
 	(
 		'arme',
@@ -50873,7 +50873,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est issu du croisement raté d''un Tronknyde et d''un Abraknyde. Pour un Bûcheron, il s''agit de toute évidence d''un échec mais pour un Sculpteur d''Arcs, c''est une vraie réussite. Vos parents auraient aimé pouvoir en dire autant de vous.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image48.svg'
+		'../images/image_arc/images48.svg'
 	),
 	(
 		'arme',
@@ -50931,7 +50931,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Xaveur est un arc efficace. Il appartenait au grand Xavier le Boulanger. Entre deux fournées, il partait distribuer des pains aux monstres entourant sa boulangerie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image49.svg'
+		'../images/image_arc/images49.svg'
 	),
 	(
 		'arme',
@@ -50989,7 +50989,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc peu conventionnel fut conçu spécialement pour le roi auto proclamé d''un village de paysans, qui adorait se faire remarquer en tirant deux flèches simultanément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image50.svg'
+		'../images/image_arc/images50.svg'
 	),
 	(
 		'arme',
@@ -51047,7 +51047,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc surprenant permet de voler la vie de ses adversaires, et parfois même, de voler vos adversaires à la vie, ce qui ne signifie rien en soi, mais reste tout de même très impressionnant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image51.svg'
+		'../images/image_arc/images51.svg'
 	),
 	(
 		'arme',
@@ -51105,7 +51105,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc peu conventionnel fut conçu spécialement pour le roi auto proclamé d''un village de paysans, qui adorait se faire remarquer en tirant deux flèches simultanément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image52.svg'
+		'../images/image_arc/images52.svg'
 	),
 	(
 		'arme',
@@ -51163,7 +51163,7 @@ VALUES
 		NULL,
 		NULL,
 		'Issu d''un constat frappant (l''arc est très utile pour pêcher les poissons volants), cet arc est muni d''une canne à pêche intégrée qui permet de pêcher d''autres choses que des poissons volants.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image53.svg'
+		'../images/image_arc/images53.svg'
 	),
 	(
 		'arme',
@@ -51221,7 +51221,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc peu conventionnel fut conçu spécialement pour le roi auto proclamé d''un village de paysans, qui adorait se faire remarquer en tirant deux flèches simultanément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image54.svg'
+		'../images/image_arc/images54.svg'
 	),
 	(
 		'arme',
@@ -51279,7 +51279,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous tenez cet arc bien haut et prononcez avec entrain le mot "Pampulilu !", vous aurez vraiment l''air ridicule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image55.svg'
+		'../images/image_arc/images55.svg'
 	),
 	(
 		'arme',
@@ -51337,7 +51337,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc a une forme très étudiée, sa courbure est vraiment parfaite. On raconte à ce sujet que le sculpteur d''arc s''est servi d''un fessier de femelle Bouftou comme patron.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image56.svg'
+		'../images/image_arc/images56.svg'
 	),
 	(
 		'arme',
@@ -51395,7 +51395,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet Arc est léger, fin, élégant, et sent bon la fleur de cerisier. Il est également meurtrier si l''on s''en sert pour autre chose que se pavaner.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image57.svg'
+		'../images/image_arc/images57.svg'
 	),
 	(
 		'arme',
@@ -51453,7 +51453,7 @@ VALUES
 		NULL,
 		NULL,
 		'A propos de cet arc, on est en droit de se demander pourquoi son nom est aussi stupide. Il en est de même pour vous.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image58.svg'
+		'../images/image_arc/images58.svg'
 	),
 	(
 		'arme',
@@ -51511,7 +51511,7 @@ VALUES
 		NULL,
 		NULL,
 		'Chiduc était un sculpteur d''arcs, réputé pour avoir des problèmes de prononciation. Il était en effet incapable de prononcé le son "ar" sans rajouter un "keu" derrière. C''était tout de même un grand arctiste.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image59.svg'
+		'../images/image_arc/images59.svg'
 	),
 	(
 		'arme',
@@ -51569,7 +51569,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quand les dagues ne suffisent plus, que les dieux se moquent de vous, à vous de rechercher votre propre style de combat. Certains Srams l''ont bien compris, d''autres espèrent que les dieux leur viennent en aide.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image60.svg'
+		'../images/image_arc/images60.svg'
 	),
 	(
 		'arme',
@@ -51627,7 +51627,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est la preuve que l''association de la technologie et de la magie, peut donner d''excellents résultats. Pourtant, cet arc est tout de même tombé rapidement dans l''oubli pour des raisons encore méconnues. L''artisan à l''origine de cette arc a d''ailleurs été contraint de fermer sa boutique, ce qui n''a pas manqué d''attrister bon nombre de ses anciens clients.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image61.svg'
+		'../images/image_arc/images61.svg'
 	),
 	(
 		'arme',
@@ -51685,7 +51685,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc était avant tout utilisé pour chasser les Sangliers des Plaines. En effet, il est si puissant, qu''il permet à l''aide d''une seule flèche, de tuer plusieurs petits marcassins, à condition qu''ils soient correctement alignés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image62.svg'
+		'../images/image_arc/images62.svg'
 	),
 	(
 		'arme',
@@ -51743,7 +51743,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc à l''apparence complexe est un véritable objet d''art. Le sculpteur d''arc qui l''a créé est également célèbre pour avoir exposé ses modèles les plus controversés dans la fameuse grotte de Loopine, interdite au public non averti depuis des lustres.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image63.svg'
+		'../images/image_arc/images63.svg'
 	),
 	(
 		'arme',
@@ -51801,7 +51801,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Chafer Archer, n''aura jamais été assez astucieux et habile à cause de ses os tremblants, pour manier un tel arc. Excepté pour le problème des os tremblants, il est probable que vous soyez dans le même cas que ce ridicule Chafer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image64.svg'
+		'../images/image_arc/images64.svg'
 	),
 	(
 		'arme',
@@ -51859,7 +51859,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc a été enchanté il y a bien longtemps par une magie des plus obscures. De quoi inquiéter autant son propriétaire que ses ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image65.svg'
+		'../images/image_arc/images65.svg'
 	),
 	(
 		'arme',
@@ -51917,7 +51917,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est en réalité la chevelure fossilisée d''un Sadida endormi trop profondément, sur laquelle des Araknes ont tissé leurs toiles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image66.svg'
+		'../images/image_arc/images66.svg'
 	),
 	(
 		'arme',
@@ -51975,7 +51975,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc est si puissant qu''il permet d''envoyer des oeufs pourris de Dragoeufs au dessus des murailles de Brâkmar. Quel beau gâchis !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image67.svg'
+		'../images/image_arc/images67.svg'
 	),
 	(
 		'arme',
@@ -52033,7 +52033,7 @@ VALUES
 		NULL,
 		NULL,
 		'La corde de cet arc est faite de bave de Kaskargo, plus ou moins sèche, son élasticité est sans pareille, sa texture gluante et visqueuse en revanche rappelle... On ne sait pas trop ce que ça rappelle mais ça n''est pas agréable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image68.svg'
+		'../images/image_arc/images68.svg'
 	),
 	(
 		'arme',
@@ -52091,7 +52091,7 @@ VALUES
 		NULL,
 		'Vole 1 à 5000 d''or',
 		'Cet arc est réputé pour voler l''argent du peuple à distance, et en toute discrétion. Le plus surprenant c''est qu''il reste tout de même très populaire au fil des années. Heureusement pour le peuple, il commence déjà à s''user.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image69.svg'
+		'../images/image_arc/images69.svg'
 	),
 	(
 		'arme',
@@ -52149,7 +52149,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc était avant tout utilisé comme une arme de dissuasion. Son propriétaire expliquait à qui voulait l''entendre que ses flèches étaient empoisonnées, ce qui ne manquait pas d''effrayer la population locale. Ainsi, il arrivait à faire reculer tous les pleutres qui se mettaient en travers de son chemin.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image70.svg'
+		'../images/image_arc/images70.svg'
 	),
 	(
 		'arme',
@@ -52207,7 +52207,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc d''une couleur discutable est parfait pour parader au Zaap de Bonta et à défaut de vous faire passer pour un coq, il attirera toutes les poulettes. Tantôt renversant, tantôt révulsant, il viendra peut-être à bout de vos ennemis sans que vous ne décochiez la moindre flèche.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image71.svg'
+		'../images/image_arc/images71.svg'
 	),
 	(
 		'arme',
@@ -52265,7 +52265,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc appartenait à un ménestrel indépendant, surtout célèbre, pour détruire les oreilles de ses ennemis avec ses chants de guerre. Il fut exilé pendant plusieurs années sur Pandala, à cause de ses chants qui étaient capables de rendre sourds les Corbacs de Brâkmar. Après avoir rendu fous plusieurs générations de Pandawas, il fut tout simplement livré vivant au grand Sorlok, pour être digéré lentement pendant plus de 752 années. Il y découvrit une nouvelle forme de plaisir intense.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image72.svg'
+		'../images/image_arc/images72.svg'
 	),
 	(
 		'arme',
@@ -52323,7 +52323,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc léger et fragile a séduit bon nombre d''aventuriers, plus attachés aux apparences qu''à l''efficacité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image73.svg'
+		'../images/image_arc/images73.svg'
 	),
 	(
 		'arme',
@@ -52381,7 +52381,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est l''histoire d''un homme appelé Chon, il avait un phare. C''était le Phare à Chon.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image74.svg'
+		'../images/image_arc/images74.svg'
 	),
 	(
 		'arme',
@@ -52439,7 +52439,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc étrange a été sculpté par une Sadida pendant une phase de somnambulisme créatrice. Il en émane une envie de sommeil qui affecte autant le porteur que ses cibles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image75.svg'
+		'../images/image_arc/images75.svg'
 	),
 	(
 		'arme',
@@ -52497,7 +52497,7 @@ VALUES
 		NULL,
 		NULL,
 		'Construit à la base pour servir de lattes pour les sommiers de lits, ces lamelles ont fini par être utilisées dans la fabrication de cet arc, qui vous permettra d''endormir vos ennemis pour l''éternité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image76.svg'
+		'../images/image_arc/images76.svg'
 	),
 	(
 		'arme',
@@ -52555,7 +52555,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet arc a été assemblé avec des matériaux d''une grande qualité. En le saisissant, un grand pouvoir s''en dégage et cela se ressent également dans les flèches tirées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_arc/image77.svg'
+		'../images/image_arc/images77.svg'
 	),
 	(
 		'arme',
@@ -52613,7 +52613,7 @@ VALUES
 		NULL,
 		NULL,
 		'Baguette de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image0.svg'
+		'../images/image_baguette/images0.svg'
 	),
 	(
 		'arme',
@@ -52671,7 +52671,7 @@ VALUES
 		NULL,
 		NULL,
 		'Baguette de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image1.svg'
+		'../images/image_baguette/images1.svg'
 	),
 	(
 		'arme',
@@ -52729,7 +52729,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette n''a de puissant que le nom et encore...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image2.svg'
+		'../images/image_baguette/images2.svg'
 	),
 	(
 		'arme',
@@ -52787,7 +52787,7 @@ VALUES
 		NULL,
 		NULL,
 		'Rika Zarouil la boulangère fut connue pour avoir été l''eniripsa la plus petite de la contrée. Elle faisait son pain dans des petits-fours en carton et se battait avec des demi-baguettes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image3.svg'
+		'../images/image_baguette/images3.svg'
 	),
 	(
 		'arme',
@@ -52845,7 +52845,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une baguette bien sculptée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image4.svg'
+		'../images/image_baguette/images4.svg'
 	),
 	(
 		'arme',
@@ -52903,7 +52903,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une baguette bien sculptée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image5.svg'
+		'../images/image_baguette/images5.svg'
 	),
 	(
 		'arme',
@@ -52961,7 +52961,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une baguette bien sculptée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image6.svg'
+		'../images/image_baguette/images6.svg'
 	),
 	(
 		'arme',
@@ -53019,7 +53019,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''eniripsa Mie Dopan confectionna cette série de baguettes piquantes pour lutter contre les vols. Capable en théorie de remonter le temps pour empêcher une agression, elle finit généralement dans l''oeil d''un démon.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image7.svg'
+		'../images/image_baguette/images7.svg'
 	),
 	(
 		'arme',
@@ -53077,7 +53077,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une baguette bien sculptée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image8.svg'
+		'../images/image_baguette/images8.svg'
 	),
 	(
 		'arme',
@@ -53135,7 +53135,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'Cette baguette appartenait à l''Eniripsa Liriel qui mourût d''une overdose de fraises dans d''atroces souffrances, perdant ses ailes dans un râle de douleur à vous glacer le sang. Les collectionneurs s''arrachent cette baguette réputée maudite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image9.svg'
+		'../images/image_baguette/images9.svg'
 	),
 	(
 		'arme',
@@ -53193,7 +53193,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''eniripsa Mie Dopan confectionna cette série de baguettes piquantes pour lutter contre les vols. Capable en théorie de remonter le temps pour empêcher une agression, elle finit généralement dans l''oeil d''un démon.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image10.svg'
+		'../images/image_baguette/images10.svg'
 	),
 	(
 		'arme',
@@ -53251,7 +53251,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette permet à son porteur d''augmenter son intelligence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image11.svg'
+		'../images/image_baguette/images11.svg'
 	),
 	(
 		'arme',
@@ -53309,7 +53309,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette permet à son porteur d''augmenter sa sagesse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image12.svg'
+		'../images/image_baguette/images12.svg'
 	),
 	(
 		'arme',
@@ -53367,7 +53367,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pour la fabrication de cette baguette lugubre, on dit qu''il faut mettre la baguette dans le corps d''un cadavre frais, et l''enterrer peu après. Mais personne n''ose imaginer comment faire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image13.svg'
+		'../images/image_baguette/images13.svg'
 	),
 	(
 		'arme',
@@ -53425,7 +53425,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette permet à son porteur d''augmenter sa sagesse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image14.svg'
+		'../images/image_baguette/images14.svg'
 	),
 	(
 		'arme',
@@ -53483,7 +53483,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette permet à son porteur d''augmenter son intelligence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image15.svg'
+		'../images/image_baguette/images15.svg'
 	),
 	(
 		'arme',
@@ -53541,7 +53541,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette permet à son porteur d''augmenter sa sagesse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image16.svg'
+		'../images/image_baguette/images16.svg'
 	),
 	(
 		'arme',
@@ -53599,7 +53599,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''eniripsa Mie Dopan confectionna cette série de baguettes piquantes pour lutter contre les vols. Capable en théorie de remonter le temps pour empêcher une agression, elle finit généralement dans l''oeil d''un démon.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image17.svg'
+		'../images/image_baguette/images17.svg'
 	),
 	(
 		'arme',
@@ -53657,7 +53657,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'Contrairement à ce que certains aventuriers peuvent croire, cette baguette n''est pas utilisée par les Tofus (bien trop stupides pour savoir se servir d''une telle arme), mais contre les Tofus. En effet, les plumes de Tofu qui la composent permettent aux chasseurs de simuler la parade nuptiale des Tofus pour ensuite mieux les attraper. Mais jusqu''où iront ces terribles chasseurs pour satisfaire leurs pulsions meurtrières ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image18.svg'
+		'../images/image_baguette/images18.svg'
 	),
 	(
 		'arme',
@@ -53715,7 +53715,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette terrifiante baguette est capable de s''enrouler autour du cou de vos adversaires pour les étrangler lentement mais sûrement. Une façon originale et distinguée de donner la mort aux adversaires que vous respectez un peu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image19.svg'
+		'../images/image_baguette/images19.svg'
 	),
 	(
 		'arme',
@@ -53773,7 +53773,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette permet à son porteur d''augmenter son intelligence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image20.svg'
+		'../images/image_baguette/images20.svg'
 	),
 	(
 		'arme',
@@ -53831,7 +53831,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette permet à son porteur d''augmenter sa sagesse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image21.svg'
+		'../images/image_baguette/images21.svg'
 	),
 	(
 		'arme',
@@ -53889,7 +53889,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette permet à son porteur d''augmenter son intelligence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image22.svg'
+		'../images/image_baguette/images22.svg'
 	),
 	(
 		'arme',
@@ -53947,7 +53947,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''eniripsa Mie Dopan confectionna cette série de baguettes piquantes pour lutter contre les vols. Capable en théorie de remonter le temps pour empêcher une agression, elle finit généralement dans l''oeil d''un démon.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image23.svg'
+		'../images/image_baguette/images23.svg'
 	),
 	(
 		'arme',
@@ -54005,7 +54005,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''émancipation des ménagères Eniripsa de moins de 50 ans commença grâce à cette baguette: redoutable à la fois pour les monstres et pour la poussière. Pratique non ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image24.svg'
+		'../images/image_baguette/images24.svg'
 	),
 	(
 		'arme',
@@ -54063,7 +54063,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette utilise les propriétés magiques de la Racine d''Abraknyde qui est encore vivante, méfiez-vous des effets néfastes de cette baguette, il lui arrive parfois de se retourner contre son maître.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image25.svg'
+		'../images/image_baguette/images25.svg'
 	),
 	(
 		'arme',
@@ -54121,7 +54121,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un sculpteur un peu farceur tenta de faire passer ses baguettes pour des dagues. Son stratagème n''eu aucun succès mais ses baguettes, elles, en eurent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image26.svg'
+		'../images/image_baguette/images26.svg'
 	),
 	(
 		'arme',
@@ -54179,7 +54179,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''émancipation des ménagères Eniripsa de moins de 50 ans commença grâce à cette baguette: redoutable à la fois pour les monstres et pour la poussière. Pratique non ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image27.svg'
+		'../images/image_baguette/images27.svg'
 	),
 	(
 		'arme',
@@ -54237,7 +54237,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lourde baguette a fracassé plus d''un crâne de pécheur. Les prêtres Iop l''utilisant pour absoudre radicalement et définitivement un repenti.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image28.svg'
+		'../images/image_baguette/images28.svg'
 	),
 	(
 		'arme',
@@ -54295,7 +54295,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''émancipation des ménagères Eniripsa de moins de 50 ans commença grâce à cette baguette: redoutable à la fois pour les monstres et pour la poussière. Pratique non ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image29.svg'
+		'../images/image_baguette/images29.svg'
 	),
 	(
 		'arme',
@@ -54353,7 +54353,7 @@ VALUES
 		NULL,
 		NULL,
 		'Houvette inventa ces baguettes pour ramener son mari enutrof du bar où il passait ses journées. Bien utilisées, celles-ci permettaient de redonner du piquant à leur couple, mais nul ne dit comment.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image30.svg'
+		'../images/image_baguette/images30.svg'
 	),
 	(
 		'arme',
@@ -54411,7 +54411,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette terrifiante baguette est en fait un boyau de larve desséché puis enchanté, et enfin réhydraté. Il ne ressemble plus à rien désormais, un peu comme vous en fait, sauf que vous n''êtes même pas enchanté.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image31.svg'
+		'../images/image_baguette/images31.svg'
 	),
 	(
 		'arme',
@@ -54469,7 +54469,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lourde baguette a fracassé plus d''un crâne de pécheur. Les prêtres Iop l''utilisant pour absoudre radicalement et définitivement un repenti.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image32.svg'
+		'../images/image_baguette/images32.svg'
 	),
 	(
 		'arme',
@@ -54527,7 +54527,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Baguette Sylvien a l''étrange pouvoir de conférer une vue perçante à son porteur. Charge ensuite à celui ci d''être suffisamment agile pour pouvoir fuir le danger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image33.svg'
+		'../images/image_baguette/images33.svg'
 	),
 	(
 		'arme',
@@ -54585,7 +54585,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''artisan à l''origine de cette baguette avait de nombreux apprentis qu''il faisait travailler à longueur de journées. Il était censé leur apprendre les ficelles du métier, mais était en fait très mauvais pédagogue, il commençait toujours ses explications, mais ne les finissait jamais.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image34.svg'
+		'../images/image_baguette/images34.svg'
 	),
 	(
 		'arme',
@@ -54643,7 +54643,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''émancipation des ménagères Eniripsa de moins de 50 ans commença grâce à cette baguette: redoutable à la fois pour les monstres et pour la poussière. Pratique non ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image35.svg'
+		'../images/image_baguette/images35.svg'
 	),
 	(
 		'arme',
@@ -54701,7 +54701,7 @@ VALUES
 		NULL,
 		NULL,
 		'Houvette inventa ces baguettes pour ramener son mari Enutrof du bar où il passait ses journées. Bien utilisées, celles-ci permettaient de redonner du piquant à leur couple, mais nul ne dit comment.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image36.svg'
+		'../images/image_baguette/images36.svg'
 	),
 	(
 		'arme',
@@ -54759,7 +54759,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lourde baguette a fracassé plus d''un crâne de pécheur. Les prêtres Iop l''utilisant pour absoudre radicalement et définitivement un repenti.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image37.svg'
+		'../images/image_baguette/images37.svg'
 	),
 	(
 		'arme',
@@ -54817,7 +54817,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette fut créée il y a de nombreuses années dans les flammes de la forge de Mort Dur. Cette arme nécessite d''avoir toujours de l''eau à côté de soi pour pouvoir maitriser son feu intérieur...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image38.svg'
+		'../images/image_baguette/images38.svg'
 	),
 	(
 		'arme',
@@ -54875,7 +54875,7 @@ VALUES
 		NULL,
 		NULL,
 		'A l''origine destinée à être mangée, cette baguette est devenue une arme redoutée. En effet, Xavier le Boulanger l''a oubliée dans son four pendant 234 ans alors qu''il était parti distribuer des pains aux monstres autour de sa boulangerie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image39.svg'
+		'../images/image_baguette/images39.svg'
 	),
 	(
 		'arme',
@@ -54933,7 +54933,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette œuvre d''art symbolise l''alliance de la pureté... et de la stupidité. Son créateur devait l''être un peu aussi, car il lui conféra d''énormes pouvoirs magiques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image40.svg'
+		'../images/image_baguette/images40.svg'
 	),
 	(
 		'arme',
@@ -54991,7 +54991,7 @@ VALUES
 		NULL,
 		NULL,
 		'Houvette inventa ces baguettes pour ramener son mari enutrof du bar où il passait ses journées. Bien utilisées, celles-ci permettaient de redonner du piquant à leur couple, mais nul ne dit comment.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image41.svg'
+		'../images/image_baguette/images41.svg'
 	),
 	(
 		'arme',
@@ -55049,7 +55049,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lourde baguette a fracassé plus d''un crâne de pécheur. Les prêtres Iop l''utilisant pour absoudre radicalement et définitivement un repenti.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image42.svg'
+		'../images/image_baguette/images42.svg'
 	),
 	(
 		'arme',
@@ -55107,7 +55107,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette fut bénie par Helle du haut des cieux. Elle procure à son porteur agilité et vitalité dans les batailles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image43.svg'
+		'../images/image_baguette/images43.svg'
 	),
 	(
 		'arme',
@@ -55165,7 +55165,7 @@ VALUES
 		NULL,
 		NULL,
 		'Houvette inventa ces baguettes pour ramener son mari enutrof du bar où il passait ses journées. Bien utilisées, celles-ci permettaient de redonner du piquant à leur couple, mais nul ne dit comment.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image44.svg'
+		'../images/image_baguette/images44.svg'
 	),
 	(
 		'arme',
@@ -55223,7 +55223,7 @@ VALUES
 		NULL,
 		NULL,
 		'Selon l''étiquette, cette baguette aurait l''étrange pouvoir de faire obéir les gens. Le mode d''emploi stipule simplement de l''agiter fortement devant une personne. En cas de mauvais fonctionnement, l''agiter sur la personne marche bien aussi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image45.svg'
+		'../images/image_baguette/images45.svg'
 	),
 	(
 		'arme',
@@ -55281,7 +55281,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les origines de cette baguette restent obscures. Cependant, elle a toujours aidé ses heureux possesseurs à trouver les chemins les moins encombrés d''Amakna, ce qui peut servir les jours de grande influence sur le domaine du bouftou royal.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image46.svg'
+		'../images/image_baguette/images46.svg'
 	),
 	(
 		'arme',
@@ -55339,7 +55339,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette magique est parfaite pour dépoussiérer les vieux meubles ou les vieilles personnes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image47.svg'
+		'../images/image_baguette/images47.svg'
 	),
 	(
 		'arme',
@@ -55397,7 +55397,7 @@ VALUES
 		NULL,
 		NULL,
 		'Selon l''étiquette, cette baguette aurait l''étrange pouvoir de faire obéir les gens. Le mode d''emploi stipule simplement de l''agiter fortement devant une personne. En cas de mauvais fonctionnement, l''agiter sur la personne marche bien aussi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image48.svg'
+		'../images/image_baguette/images48.svg'
 	),
 	(
 		'arme',
@@ -55455,7 +55455,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une fois sculptée, cette baguette a été trempée dans la bière pendant plusieurs années. Elle a déjà commencé à pourrir, mais elle garde cependant encore quelques propriétés magiques, suffisantes pour divertir ou exterminer vos alliés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image49.svg'
+		'../images/image_baguette/images49.svg'
 	),
 	(
 		'arme',
@@ -55513,7 +55513,7 @@ VALUES
 		NULL,
 		NULL,
 		'La femme de Brouce Boulgoure, une Eniripsa, ne cessait de lui voler sa célèbre hache. Pour mettre un terme à ces bêtises, il lui coupa une aile et un bras et pour s''excuser, il lui offrît cette Baguette. Voilà un homme qui savait y faire avec les femmes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image50.svg'
+		'../images/image_baguette/images50.svg'
 	),
 	(
 		'arme',
@@ -55571,7 +55571,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le pieu vampirique est en fait la baguette d''un vampire depuis longtemps retiré de la vie sociale et de la boucherie. Cet étrange bout de bois a cependant gardé quelques uns des avantages de son ancien maître...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image51.svg'
+		'../images/image_baguette/images51.svg'
 	),
 	(
 		'arme',
@@ -55629,7 +55629,7 @@ VALUES
 		NULL,
 		NULL,
 		'Selon l''étiquette, cette baguette aurait l''étrange pouvoir de faire obéir les gens. Le mode d''emploi stipule simplement de l''agiter fortement devant une personne. En cas de mauvais fonctionnement, l''agiter sur la personne marche bien aussi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image52.svg'
+		'../images/image_baguette/images52.svg'
 	),
 	(
 		'arme',
@@ -55687,7 +55687,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette a parfois tendance à reprendre vie et se révolter contre son maître. Dans ce cas-là, la meilleure chose à faire reste de la donner à votre ennemi, ou à un Iop qui pensera que vous lui faîtes un cadeau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image53.svg'
+		'../images/image_baguette/images53.svg'
 	),
 	(
 		'arme',
@@ -55745,7 +55745,7 @@ VALUES
 		NULL,
 		NULL,
 		'Selon l''étiquette, cette baguette aurait l''étrange pouvoir de faire obéir les gens. Le mode d''emploi stipule simplement de l''agiter fortement devant une personne. En cas de mauvais fonctionnement, l''agiter sur la personne marche bien aussi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image54.svg'
+		'../images/image_baguette/images54.svg'
 	),
 	(
 		'arme',
@@ -55803,7 +55803,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette appartient au célèbre Grinegau, qui fait du très bon café, mais qui ne vendra pas son échelle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image55.svg'
+		'../images/image_baguette/images55.svg'
 	),
 	(
 		'arme',
@@ -55861,7 +55861,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette est fabriquée dans des conditions extrêmes, presques identiques à celles du coeur de la terre dit-on. Son énorme puissance viendrait de là. Personne ne peut vraiment vérifier hormis les artisans capables de la fabriquer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image56.svg'
+		'../images/image_baguette/images56.svg'
 	),
 	(
 		'arme',
@@ -55919,7 +55919,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec la Bidjiz, vous resterez vivant, sûrement parce que vos adversaires se mettront à danser en voyant les multiples facettes de la boule qui orne cette baguette.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image57.svg'
+		'../images/image_baguette/images57.svg'
 	),
 	(
 		'arme',
@@ -55977,7 +55977,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est un sculpteur réputé, connu également pour la ressemblance de son nom avec un des alliages les plus précieux d''Amakna, qui eut le premier, l''idée d''introduire des métaux dans ses créations. La folie mène parfois au succès.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image58.svg'
+		'../images/image_baguette/images58.svg'
 	),
 	(
 		'arme',
@@ -56035,7 +56035,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette a d''étranges propriétés : au toucher, elle est brûlante. Mais le plus énigmatique reste son odeur de cendre, qui laisse à penser que le bois de cette baguette aurait survécu à un feu de forêt.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image59.svg'
+		'../images/image_baguette/images59.svg'
 	),
 	(
 		'arme',
@@ -56093,7 +56093,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéale pour allumer le feu, ou animer les mariages ennuyeux, cette baguette vous permettra peut-être une fois dans votre vie, de faire des étincelles. Une occasion à saisir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image60.svg'
+		'../images/image_baguette/images60.svg'
 	),
 	(
 		'arme',
@@ -56151,7 +56151,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette est constituée d''éléments plutôt mous, ce qui en fait une baguette difficile à manier. Mais au coeur du combat, cette baguette révèle son véritable pouvoir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image61.svg'
+		'../images/image_baguette/images61.svg'
 	),
 	(
 		'arme',
@@ -56209,7 +56209,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le sculpteur de cette baguette, a maintes fois demandé à changer de nom. Trop habitués à passer leurs journées à la Taverne, les responsables du registre d''Amakna, ont fini par avoir mal à la tête avec toutes ces histoires. Cette baguette leur est dédiée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image62.svg'
+		'../images/image_baguette/images62.svg'
 	),
 	(
 		'arme',
@@ -56267,7 +56267,7 @@ VALUES
 		NULL,
 		NULL,
 		'Des mélanges magiques d''éléments surnaturels ont permis la création de cette baguette qui vogue aux frontières du réel. Tantôt terrifiante, tantôt délirante, cette baguette est l''exemple typique de l''instabilité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image63.svg'
+		'../images/image_baguette/images63.svg'
 	),
 	(
 		'arme',
@@ -56325,7 +56325,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette n''est pas qu''un vulgaire amas de poils. Le coeur même de la baguette absorbe l''essence magique des diverses touffes et les fusionne entre elles. Aussi aberrant que cela puisse paraître, ça marche !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image64.svg'
+		'../images/image_baguette/images64.svg'
 	),
 	(
 		'arme',
@@ -56383,7 +56383,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette branche servait à racler certaines parties du corps inaccessibles autrement. Mais rassurez-vous, la couleur sombre est d''origine. Aucun rapport avec les dépôts contenus dans les cavités les plus inaccessibles de l''Abrakleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image65.svg'
+		'../images/image_baguette/images65.svg'
 	),
 	(
 		'arme',
@@ -56441,7 +56441,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette magique est encore de nos jours utilisée pour vider les fosses sceptiques, curer les fossés, et accessoirement pour se curer le nez. Les sculpteurs les plus avertis, vous expliqueront qu''elle tire toute sa magie, des immondices qu''elle a pu côtoyer, surtout celles présentes dans votre nez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image66.svg'
+		'../images/image_baguette/images66.svg'
 	),
 	(
 		'arme',
@@ -56499,7 +56499,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette provient des Limbes de Syrastass. La légende raconte qu''elle permet de faire fleurir des champs entiers de pâquerettes à la simple demande de son porteur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image67.svg'
+		'../images/image_baguette/images67.svg'
 	),
 	(
 		'arme',
@@ -56557,7 +56557,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette explosive a été trempée dans la lave d''un volcan en éruption avant d''être sculptée, puis enchantée. Il va sans dire qu''elle semble très puissante, malgré son apparence ridicule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image68.svg'
+		'../images/image_baguette/images68.svg'
 	),
 	(
 		'arme',
@@ -56615,7 +56615,7 @@ VALUES
 		NULL,
 		NULL,
 		'Houffe le pâtissier était fou au point de se marier avec la bûcheronne Craitien, et de l''étouffer le lendemain avec ses pâtisseries trop grasses. On parle donc depuis cet événement, "d''histoire de Houffe", pour relater les événements les plus fous.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image69.svg'
+		'../images/image_baguette/images69.svg'
 	),
 	(
 		'arme',
@@ -56673,7 +56673,7 @@ VALUES
 		NULL,
 		NULL,
 		'Utilisée par les plus célèbres Eniripsas d''Amakna, cette baguette constitue l''arme idéale pour envoyer un sortilège sur ses adversaires ou tenter de rendre plus intelligents ses propres amis. Ainsi, vous pouvez transformer un Iop en citrouille.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image70.svg'
+		'../images/image_baguette/images70.svg'
 	),
 	(
 		'arme',
@@ -56731,7 +56731,7 @@ VALUES
 		NULL,
 		NULL,
 		'Conçue par un célèbre Sculpteur, cette baguette a gagné 13 fois le grand concours de la Baguette N''hi, en réussissant à surpasser les anciens modèles de Boulgourdes aujourd''hui retirés du marché car trop dangereuses pour les petites Eniripsas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image71.svg'
+		'../images/image_baguette/images71.svg'
 	),
 	(
 		'arme',
@@ -56789,7 +56789,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette semble plus efficace lorsqu''elle est utilisée comme un gourdin ou comme une tapette à Moskitos.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image72.svg'
+		'../images/image_baguette/images72.svg'
 	),
 	(
 		'arme',
@@ -56847,7 +56847,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le sculpteur de cette baguette voulait qu''elle puisse détruire les étoiles filantes qui l''empêchaient de dormir la nuit. La légende raconte qu''un soir en sortant de la taverne, complètement ivre, il a voulu essayer sa baguette, mais a confondu la lune avec une étoile filante. La baguette étant réellement très puissante, il aurait cassé la lune en deux, et une des deux parties serait tombée en pleine Mer d''Asse, donnant ainsi naissance à l''île de Moon telle qu''on la connaît actuellement. Encore une histoire débile de plus, à raconter entre amis, les soirs de beuverie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image73.svg'
+		'../images/image_baguette/images73.svg'
 	),
 	(
 		'arme',
@@ -56905,7 +56905,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le sculpteur de cette baguette avait la fâcheuse habitude d''oublier ses enfants à l''école. Sa femme, une mère indigne comme tant d''autres, s''en réjouissait. Conscient d''être trop étourdi, il sculpta cette baguette qui tous les jours, prenait vie et lui rappelait d''aller chercher ses enfants. Il a par la suite tenté de faire des baguettes similaires pour rappeler à sa femme d''aller faire le ménage, mais la baguette ne fut jamais assez puissante pour relever ce défi.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image74.svg'
+		'../images/image_baguette/images74.svg'
 	),
 	(
 		'arme',
@@ -56963,7 +56963,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette faite de bric et de broc renferme une énergie surprenante. On raconte qu''elle est capable de se déplacer elle-même, pour choisir sa cible et défendre son maître même lorsque ce dernier est en train d''agoniser. Le Chouque aurait même dit à propos de cette baguette "Je crois que votre baguette est ouverte". Pauvre Chouque.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image75.svg'
+		'../images/image_baguette/images75.svg'
 	),
 	(
 		'arme',
@@ -57021,7 +57021,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette branche servait à racler certaines parties du corps inaccessibles autrement. Ceci explique peut-être l''odeur étrange de cette branche.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image76.svg'
+		'../images/image_baguette/images76.svg'
 	),
 	(
 		'arme',
@@ -57079,7 +57079,7 @@ VALUES
 		NULL,
 		NULL,
 		'Iots était un perroquet qui répétait toujours tout, on raconte que cette baguette fut sculptée dans son bec.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image77.svg'
+		'../images/image_baguette/images77.svg'
 	),
 	(
 		'arme',
@@ -57137,7 +57137,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette baguette servait à décapiter tous les ploucs d''Amakna. Autant dire qu''elle a beaucoup servi. Il est intéressant de constater qu''elle ressemble à s''y méprendre à un bâton, et même peut-être à une canne... Peut-être était-elle utilisée pour assouvir les vieux fantasmes de son propriétaire, qui a fini par lui donner son nom. Personne ne saura jamais le fin mot de cette histoire sordide.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image78.svg'
+		'../images/image_baguette/images78.svg'
 	),
 	(
 		'arme',
@@ -57195,7 +57195,7 @@ VALUES
 		NULL,
 		NULL,
 		'Fabriquée à partir de restes du Chêne Mou ayant repris vie, cette baguette est tout simplement surpuissante. Il suffit de l''agiter à droite puis à gauche avec le bon rythme, pour déclencher des pluies de crapauds ou passer pour un idiot notoire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image79.svg'
+		'../images/image_baguette/images79.svg'
 	),
 	(
 		'arme',
@@ -57253,7 +57253,7 @@ VALUES
 		NULL,
 		NULL,
 		'A l''origine, il suffisait de souffler très fort dans cette trompette fongique, pour faire arriver le ménestrel Francisque Kabroule. Ce dernier se mettait alors à chanter, et tous les monstres mourraient sur place. Bon comme c''était un peu trop facile comme technique pour tuer les monstres, les dieux ont décidé de la boucher et de la transformer en une vulgaire baguette.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baguette/image80.svg'
+		'../images/image_baguette/images80.svg'
 	),
 	(
 		'arme',
@@ -57311,7 +57311,7 @@ VALUES
 		NULL,
 		NULL,
 		'Bâton de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image0.svg'
+		'../images/image_baton/images0.svg'
 	),
 	(
 		'arme',
@@ -57369,7 +57369,7 @@ VALUES
 		NULL,
 		NULL,
 		'Bâton de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image1.svg'
+		'../images/image_baton/images1.svg'
 	),
 	(
 		'arme',
@@ -57427,7 +57427,7 @@ VALUES
 		NULL,
 		NULL,
 		'Bâton de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image2.svg'
+		'../images/image_baton/images2.svg'
 	),
 	(
 		'arme',
@@ -57485,7 +57485,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton en forme de fleur a été confectionné à partir des restes de fleurs champêtres ayant succombé durant d''horribles et cruels combats. Toute la rage et la haine de ces pauvres plantes est contenue dans ce ridicule petit bâton. Cette arme est utilisée par les Srams les plus fourbes, qui tentent de persuader les ignorantes qu''ils comptent leur offrir un bouquet de fleurs. Une fois à portée, l''imprudente se retrouve souvent assenée de coups sur la tête bien mérités.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image3.svg'
+		'../images/image_baton/images3.svg'
 	),
 	(
 		'arme',
@@ -57543,7 +57543,7 @@ VALUES
 		NULL,
 		NULL,
 		'Bâton couramment utilisé lors de la transhumance par les bouftiers. Les bworks aiment déguster ces troupeaux de bouftous en fines tranches lors de l''apéritif (le plat principal étant constitué du bouftier lui-même).',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image4.svg'
+		'../images/image_baton/images4.svg'
 	),
 	(
 		'arme',
@@ -57601,7 +57601,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un bâton bien taillé, intéressant pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image5.svg'
+		'../images/image_baton/images5.svg'
 	),
 	(
 		'arme',
@@ -57659,7 +57659,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un bâton bien taillé, intéressant pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image6.svg'
+		'../images/image_baton/images6.svg'
 	),
 	(
 		'arme',
@@ -57717,7 +57717,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton augmente la sagesse de son porteur. Peut entraîner une hypertrophie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image7.svg'
+		'../images/image_baton/images7.svg'
 	),
 	(
 		'arme',
@@ -57775,7 +57775,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un bâton bien taillé, intéressant pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image8.svg'
+		'../images/image_baton/images8.svg'
 	),
 	(
 		'arme',
@@ -57833,7 +57833,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un bâton bien taillé, intéressant pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image9.svg'
+		'../images/image_baton/images9.svg'
 	),
 	(
 		'arme',
@@ -57891,7 +57891,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton augmente la vitalité de son porteur et peut, le cas échéant, être mangé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image10.svg'
+		'../images/image_baton/images10.svg'
 	),
 	(
 		'arme',
@@ -57949,7 +57949,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''Homme Ours utilisait ce bâton pour dresser ses invocations d''ours, et parfois pour frapper les doigts de ses enfants, lorsque ces derniers ne faisaient pas leurs devoirs en revenant de l''école. Voilà un homme qui avait tout compris à l''éducation des enfants.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image11.svg'
+		'../images/image_baton/images11.svg'
 	),
 	(
 		'arme',
@@ -58007,7 +58007,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est la réplique d''un artefact légendaire, un peu de pouvoir en moins. Capable d''émettre de la lumière lors d''un choc sur le sol (Oh!), de déformer un peu votre voix (Wah!), il vous fera passer pour ce que vous n''êtes pas : un grand mage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image12.svg'
+		'../images/image_baton/images12.svg'
 	),
 	(
 		'arme',
@@ -58065,7 +58065,7 @@ VALUES
 		NULL,
 		NULL,
 		'Hète était vraiment un guerrier redoutable avec son bâton. Il était tellement efficace qu''on prétendait que son bâton était magique et qu''il lançait des flammes...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image13.svg'
+		'../images/image_baton/images13.svg'
 	),
 	(
 		'arme',
@@ -58123,7 +58123,7 @@ VALUES
 		NULL,
 		NULL,
 		'La plupart des jeunes Féca possèdent de nombreux bâtons comme celui-ci, plus qu''une mode c''est presque un nouveau rituel. Quelqu''un devrait quand même leur dire qu''ils sont ridicules.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image14.svg'
+		'../images/image_baton/images14.svg'
 	),
 	(
 		'arme',
@@ -58181,7 +58181,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est la réplique d''un artefact légendaire, un peu de pouvoir en moins. Capable d''émettre de la lumière lors d''un choc sur le sol (Oh!), de déformer un peu votre voix (Wah!), il vous fera passer pour ce que vous n''êtes pas : un grand mage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image15.svg'
+		'../images/image_baton/images15.svg'
 	),
 	(
 		'arme',
@@ -58239,7 +58239,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une vieille Féca voyante malvoyante inventa accidentellement cette puissante arme lorsqu''elle fit rencontrer son bâton et sa boule de cristal à l''occasion d''une chute qu''elle ne sut prévoir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image16.svg'
+		'../images/image_baton/images16.svg'
 	);
 
 INSERT INTO
@@ -58358,7 +58358,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Les 110" est le surnom donné aux 110 valeureux pompiers Amakniens, qui ont notamment combattu le feu d''un Dragonnet en mal de sensations fortes. Cette lance aurait appartenu à l''un d''eux. S''en servir demande courage et force.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image17.svg'
+		'../images/image_baton/images17.svg'
 	),
 	(
 		'arme',
@@ -58416,7 +58416,7 @@ VALUES
 		NULL,
 		NULL,
 		'La plupart des jeunes Féca possèdent de nombreux bâtons comme celui-ci, plus qu''une mode c''est presque un nouveau rituel. Quelqu''un devrait quand même leur dire qu''ils sont ridicules.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image18.svg'
+		'../images/image_baton/images18.svg'
 	),
 	(
 		'arme',
@@ -58474,7 +58474,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'"Ce bâton a dû faire, toutes les guerres, pour être aussi fort aujourd''hui" tels ont été les derniers mots de Francisque Kabroule, le célèbre Ménestrel Forgeur de Haches, avant de périr écrasé par un œuf de Tofu géant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image19.svg'
+		'../images/image_baton/images19.svg'
 	),
 	(
 		'arme',
@@ -58532,7 +58532,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton servait à l''origine aux éleveurs d''Amakna qui voulaient contrôler plus facilement leurs troupeaux de Tabis, ce bâton est en effet si léger, qu''il permet à son porteur de courir après les Tabis égarés sans se fatiguer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image20.svg'
+		'../images/image_baton/images20.svg'
 	),
 	(
 		'arme',
@@ -58590,7 +58590,7 @@ VALUES
 		NULL,
 		NULL,
 		'Etrangement sculpté, ce Bâton ne provient pas du coin. Il sent les vieux endroits humides et sombres de Brâkmar.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image21.svg'
+		'../images/image_baton/images21.svg'
 	),
 	(
 		'arme',
@@ -58648,7 +58648,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton fait oublier tous les soucis et les mauvaises pensées de son propriétaire. Malheureusement, il perd aussi parfois une partie de sa mémoire et devient sujet à des pertes de concentration de plus en plus fréquentes. A réserver aux sages...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image22.svg'
+		'../images/image_baton/images22.svg'
 	),
 	(
 		'arme',
@@ -58706,7 +58706,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est la réplique d''un artefact légendaire, un peu de pouvoir en moins. Capable d''émettre de la lumière lors d''un choc sur le sol (Oh!), de déformer un peu votre voix (Wah!), il vous fera passer pour ce que vous n''êtes pas : un grand mage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image23.svg'
+		'../images/image_baton/images23.svg'
 	),
 	(
 		'arme',
@@ -58764,7 +58764,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton taillé dans une grosse racine d''Abraknyde est très efficace au corps à corps, attention à ne pas le laisser au contact de l''eau, il pourrait reprendre racines et se retourner contre son maître.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image24.svg'
+		'../images/image_baton/images24.svg'
 	),
 	(
 		'arme',
@@ -58822,7 +58822,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton a la faculté de pouvoir faire léviter les Cawottes, on se demande bien à quoi cela peut servir en combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image25.svg'
+		'../images/image_baton/images25.svg'
 	),
 	(
 		'arme',
@@ -58880,7 +58880,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Pour la baston, rien ne vaut un Fourbasse-Ton". Voici ce que l''on pouvait lire sur le dépliant publicitaire de l''Agence Touristes, qui proposait de reconstruire soi-même ce bâton à partir de diverses ressources cachées un peu partout sur l''île de Moon. Une sorte de jeu de piste, mais avec aucune piste.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image26.svg'
+		'../images/image_baton/images26.svg'
 	),
 	(
 		'arme',
@@ -58938,7 +58938,7 @@ VALUES
 		NULL,
 		NULL,
 		'La plupart des jeunes Féca possèdent de nombreux bâtons comme celui-ci, plus qu''une mode c''est presque un nouveau rituel. Quelqu''un devrait quand même leur dire qu''ils sont ridicules.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image27.svg'
+		'../images/image_baton/images27.svg'
 	),
 	(
 		'arme',
@@ -58996,7 +58996,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est un Bâton en racines d''Abraknyde encore vivantes. Attention, ce dernier a une fâcheuse tendance à se retourner contre son maître. Il peut être très efficace lorsqu''il décide de s''attaquer à la même cible que celle de son maître.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image28.svg'
+		'../images/image_baton/images28.svg'
 	),
 	(
 		'arme',
@@ -59054,7 +59054,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton servait à l''origine aux éleveurs d''Amakna qui voulaient contrôler plus facilement leurs troupeaux de Tabis, ce bâton est en effet si léger, qu''il permet à son porteur de courir après les Tabis égarés sans se fatiguer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image29.svg'
+		'../images/image_baton/images29.svg'
 	),
 	(
 		'arme',
@@ -59112,7 +59112,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton permettait à Gramine Ingalsse, éleveuse de Tabis, d''invoquer plus facilement des Tofus gardiens de troupeaux. Au fil du temps, ce bâton s''est révélé être une excellente arme de combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image30.svg'
+		'../images/image_baton/images30.svg'
 	),
 	(
 		'arme',
@@ -59170,7 +59170,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est la réplique d''un artefact légendaire, un peu de pouvoir en moins. Capable d''émettre de la Lumière lors d''un choc sur le sol (Oh!), de déformer un peu votre voix (Wah!), il vous fera passer pour ce que vous n''êtes pas : un grand mage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image31.svg'
+		'../images/image_baton/images31.svg'
 	),
 	(
 		'arme',
@@ -59228,7 +59228,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une vieille Féca voyante malvoyante inventa accidentellement cette puissante arme lorsqu''elle fit rencontrer son bâton et sa boule de cristal à l''occasion d''une chute qu''elle ne sut prévoir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image32.svg'
+		'../images/image_baton/images32.svg'
 	),
 	(
 		'arme',
@@ -59286,7 +59286,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton servait à l''origine aux éleveurs d''Amakna qui voulaient contrôler plus facilement leurs troupeaux de Tabis, ce bâton est en effet si léger, qu''il permet à son porteur de courir après les Tabis égarés sans se fatiguer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image33.svg'
+		'../images/image_baton/images33.svg'
 	),
 	(
 		'arme',
@@ -59344,7 +59344,7 @@ VALUES
 		NULL,
 		NULL,
 		'La plupart des jeunes Féca possèdent de nombreux bâtons comme celui-ci, plus qu''une mode c''est presque un nouveau rituel. Quelqu''un devrait quand même leur dire qu''ils sont ridicules.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image34.svg'
+		'../images/image_baton/images34.svg'
 	),
 	(
 		'arme',
@@ -59402,7 +59402,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton servait à l''origine aux éleveurs d''Amakna qui voulaient contrôler plus facilement leurs troupeaux de Tabis, ce bâton est en effet si léger, qu''il permet à son porteur de courir après les Tabis égarés sans se fatiguer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image35.svg'
+		'../images/image_baton/images35.svg'
 	),
 	(
 		'arme',
@@ -59460,7 +59460,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outre son nom insupportable, ce bâton possède bien d''autres moyens de rendre son propriétaire fou de rage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image36.svg'
+		'../images/image_baton/images36.svg'
 	),
 	(
 		'arme',
@@ -59518,7 +59518,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton a appartenu à la très belle Dina ''Mythe'', qui était surtout connue pour ses formes avantageuses et son caractère explosif... Bref c''était une vraie bombe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image37.svg'
+		'../images/image_baton/images37.svg'
 	),
 	(
 		'arme',
@@ -59576,7 +59576,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le succès du bâton du Wa Wabbit a contribué à l''apparition de divers bâtons, comme celui-ci, dont le nom singe le premier. Ceci afin de le vendre plus facilement. Une technique bien connue de certains promoteurs immobiliers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image38.svg'
+		'../images/image_baton/images38.svg'
 	),
 	(
 		'arme',
@@ -59634,7 +59634,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une vieille Féca voyante malvoyante inventa accidentellement cette puissante arme lorsqu''elle fit rencontrer son bâton et sa boule de cristal à l''occasion d''une chute qu''elle ne sut prévoir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image39.svg'
+		'../images/image_baton/images39.svg'
 	),
 	(
 		'arme',
@@ -59692,7 +59692,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton servait à corriger les jeunes Pandawas un peu trop turbulents. Trois coups sur les doigts, quinze sur le derrière, soixante sur la tête, deux dans les yeux, et le tour était joué.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image40.svg'
+		'../images/image_baton/images40.svg'
 	),
 	(
 		'arme',
@@ -59750,7 +59750,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton a gardé toute l''agressivité de l''Abraknyde, mais n''a pas conservé l''odeur de bois moisi qui caractérise souvent les vieux Abraknydes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image41.svg'
+		'../images/image_baton/images41.svg'
 	),
 	(
 		'arme',
@@ -59808,7 +59808,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est en règle générale utilisé par les disciples Pandawushuka qui ont réussi à atteindre le grade de Shodanwa sans perdre l''usage de leurs bras entre temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image42.svg'
+		'../images/image_baton/images42.svg'
 	),
 	(
 		'arme',
@@ -59866,7 +59866,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le succès du bâton du Wa Wabbit a contribué à l''apparition de divers bâtons, comme celui-ci, dont le nom singe le premier. Ceci afin de le vendre plus facilement. Une technique bien connue de certains promoteurs immobiliers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image43.svg'
+		'../images/image_baton/images43.svg'
 	),
 	(
 		'arme',
@@ -59924,7 +59924,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une vieille Féca voyante malvoyante inventa accidentellement cette puissante arme lorsqu''elle fit rencontrer son bâton et sa boule de cristal à l''occasion d''une chute qu''elle ne sut prévoir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image44.svg'
+		'../images/image_baton/images44.svg'
 	),
 	(
 		'arme',
@@ -59982,7 +59982,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le succès du bâton du Wa Wabbit a contribué à l''apparition de divers bâtons, comme celui-ci, dont le nom singe le premier. Ceci afin de le vendre plus facilement. Un peu comme certains promoteurs immobiliers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image45.svg'
+		'../images/image_baton/images45.svg'
 	),
 	(
 		'arme',
@@ -60040,7 +60040,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton, est une réplique approximative de celui d''un Kanigrou. Il réserve quelques surprises, mais pas uniquement de bonnes surprises...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image46.svg'
+		'../images/image_baton/images46.svg'
 	),
 	(
 		'arme',
@@ -60098,7 +60098,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un Sadida, éperdument amoureux d''une Sadidette Sauvage a tenté de l''attirer sous un charme avec cette racine, il a attendu une centaine d''années. Elle lui a posé une sorte de Wabbit. Depuis ce jour, les Sadidas parlent de poser une Racine.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image47.svg'
+		'../images/image_baton/images47.svg'
 	),
 	(
 		'arme',
@@ -60156,7 +60156,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Hook a été retrouvé sur un cadavre, près d''un énorme Crocodaille en décomposition.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image48.svg'
+		'../images/image_baton/images48.svg'
 	),
 	(
 		'arme',
@@ -60214,7 +60214,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton permettait à Shika Ingalsse, éleveuse de Tofus, d''invoquer plus facilement des Tofus gardiens de troupeaux. Au fil du temps, ce bâton s''est révélé être une excellente arme de combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image49.svg'
+		'../images/image_baton/images49.svg'
 	),
 	(
 		'arme',
@@ -60272,7 +60272,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sans leur bâton, les Bwork Mages sont aussi inoffensifs que les Tofus sans leur Bécos. Voilà qui en dit long sur la puissance de ce bâton.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image50.svg'
+		'../images/image_baton/images50.svg'
 	),
 	(
 		'arme',
@@ -60330,7 +60330,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton vivant a traîné dans les endroits les plus sombres de l''univers d''Amakna. Il se réveille tous les 300 ans pour changer d''endroit ou de propriétaire, préférant emprunter les petits tunnels tout sombres, qui ne sentent pas très bon.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image51.svg'
+		'../images/image_baton/images51.svg'
 	),
 	(
 		'arme',
@@ -60388,7 +60388,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''écart entre les deux pointes de ce bâton correspond à celui des yeux de Lenalds... Mais jusqu''où iront ces howibles Wabbits ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image52.svg'
+		'../images/image_baton/images52.svg'
 	),
 	(
 		'arme',
@@ -60446,7 +60446,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le succès du bâton du Wa Wabbit a contribué à l''apparition de divers bâtons, comme celui-ci, dont le nom singe le premier. Ceci afin de le vendre plus facilement. Une technique bien connue de certains promoteurs immobiliers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image53.svg'
+		'../images/image_baton/images53.svg'
 	),
 	(
 		'arme',
@@ -60504,7 +60504,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est en règle générale utilisé par les disciples Pandawushuka qui ont réussi à atteindre le grade de Nidanwa sans perdre l''usage de leurs bras entre temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image54.svg'
+		'../images/image_baton/images54.svg'
 	),
 	(
 		'arme',
@@ -60562,7 +60562,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le God Rod est une arme terrible. Très puissant, il permet à son porteur de se montrer digne des meilleurs lorsqu''il a une petite baisse de régime.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image55.svg'
+		'../images/image_baton/images55.svg'
 	),
 	(
 		'arme',
@@ -60620,7 +60620,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est en règle générale utilisé par les disciples Pandawushuka qui ont réussi à atteindre le grade de Sandanwa sans perdre l''usage de leurs bras entre temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image56.svg'
+		'../images/image_baton/images56.svg'
 	),
 	(
 		'arme',
@@ -60678,7 +60678,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton taillé sur mesure, permettait à Shika de créer les meules de foin les plus hautes de tout Amakna. La légende raconte que leur taille était si importante, que les marins s''en servaient de points de repères pour savoir s''ils approchaient ou non de la côte d''Amakna.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image57.svg'
+		'../images/image_baton/images57.svg'
 	),
 	(
 		'arme',
@@ -60736,7 +60736,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce splendide bâton est muni de très belles dents à son extrémité, ce qui en fait un excellent fourcher. Farle s''en servait pour créer d''immenses meules de foin, plus hautes que le plus grand des Ormes qui poussait jadis en forêt de Litneg. On raconte que c''est Brouce Boulgoure en personne qui aurait coupé le bois nécessaire à la fabrication de ce bâton, en échange des monstrueuses rations quotidiennes de flocons d''avoine offertes par Shika Ingalsse, qu''il engouffrait avant de partir raser des forêts complètes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image58.svg'
+		'../images/image_baton/images58.svg'
 	),
 	(
 		'arme',
@@ -60794,7 +60794,7 @@ VALUES
 		NULL,
 		NULL,
 		'Toujours en quête d''un moyen de surprendre ses ennemis, le Sadida Aga Dou, a pris soin d''accrocher une petite poupée au bout de son bâton. Les jeunes Iopettes se jettent dessus pour attraper la poupée et meurent empalées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image59.svg'
+		'../images/image_baton/images59.svg'
 	),
 	(
 		'arme',
@@ -60852,7 +60852,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton permettait à Farle Ingalsse, éleveur de Bouftous, d''invoquer plus facilement des Tofus gardiens de troupeaux. Au fil du temps, ce bâton s''est révélé être une excellente arme de combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image60.svg'
+		'../images/image_baton/images60.svg'
 	),
 	(
 		'arme',
@@ -60910,7 +60910,7 @@ VALUES
 		NULL,
 		NULL,
 		'On raconte qu''un disciple de Sadida du nom de Fraye a utilisé ce bâton pour défendre sa femme et son fils face à un troupeau de Bouftous enragés. Il est regrettable qu''il ait confondu sa famille avec les monstres pendant l''échauffourée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image61.svg'
+		'../images/image_baton/images61.svg'
 	),
 	(
 		'arme',
@@ -60968,7 +60968,7 @@ VALUES
 		NULL,
 		NULL,
 		'Depuis des générations, les Sadidas utilisent des racines magiques comme bâtons. Cependant, il semblerait que certains d''entre eux, se refusent encore à utiliser celle-ci, qui serait paraît-il, plus proche du fruit que de la racine. Fruit ou racine, qu''importe, elle fait très mal là où elle se glisse et c''est l''essentiel.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image62.svg'
+		'../images/image_baton/images62.svg'
 	),
 	(
 		'arme',
@@ -61026,7 +61026,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette terrible racine, est avant tout connue pour déclencher des catastrophes climatiques aux endroits précis où elle est utilisée. Evitez donc de vous en servir pour botter les fesses de vos adversaires, on ne sait pas ce qu''il pourrait arriver...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image63.svg'
+		'../images/image_baton/images63.svg'
 	),
 	(
 		'arme',
@@ -61084,7 +61084,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette branche d''Abraknyde Sombre est en fait l''un de ses bras. Excellente pour s''entraîner au bras de fer, c''est surtout une excellente arme pour terroriser vos ennemis d''enfance ou torturer les Tronknydes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image64.svg'
+		'../images/image_baton/images64.svg'
 	),
 	(
 		'arme',
@@ -61142,7 +61142,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette racine a des formes pures, que certains artisans n''hésiteront pas à qualifier de parfaites. C''est peut-être pour cela que certains aventuriers y attachent plus d''importance qu''à leur dulcinée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image65.svg'
+		'../images/image_baton/images65.svg'
 	),
 	(
 		'arme',
@@ -61200,7 +61200,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est en règle générale utilisé par les disciples Pandawushuka qui ont réussi à atteindre le grade de Yondanwa sans perdre l''usage de leurs bras entre-temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image66.svg'
+		'../images/image_baton/images66.svg'
 	),
 	(
 		'arme',
@@ -61258,7 +61258,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les habitants d''Amakna en avaient assez d''entendre les disciples Fécas se plaindre à longueur de journée de leurs armures. Ils ont donc conçu ce bâton pour espérer les voir parler d''autre chose à la taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image67.svg'
+		'../images/image_baton/images67.svg'
 	),
 	(
 		'arme',
@@ -61316,7 +61316,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette canne appartenait à Mamie Bonbon en personne, une des trois terribles prêtresses de l''amour. Affûtée à une extrémité et lustrée à une autre, cette canne était surtout célèbre pour sa polyvalence et sa capacité à pouvoir se fourrer n''importe où. Personne ne pouvait y rester insensible.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image68.svg'
+		'../images/image_baton/images68.svg'
 	),
 	(
 		'arme',
@@ -61374,7 +61374,7 @@ VALUES
 		NULL,
 		NULL,
 		'Hécouanone n''avait pas de chance, son mari était un gros fainéant, incapable d''assumer son statut (pourtant mérité par sa condition) de chef de famille. Elle était en permanence obligée de lui fixer des conditions : "Tu auras ta Gelée Fraise, si tu vas faucher les céréales" ou encore "Tu pourras fumer des Champs quand tu auras tondu les Bouftous", pour ne citer que ses phrases les plus connues. Évidemment, cette histoire n''a aucun rapport avec cette racine très puissante, à moins qu''elle aussi, à force de côtoyer sa maîtresse, ne vous impose trop de conditions...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image69.svg'
+		'../images/image_baton/images69.svg'
 	),
 	(
 		'arme',
@@ -61432,7 +61432,7 @@ VALUES
 		NULL,
 		NULL,
 		'Utiliser cette racine en combat est censé être assez simple. Parfois, elle reprend vie et décide de n''en faire qu''à sa tête. C''est dans ces moments-là qu''il est possible d''entendre son propriétaire crier : "Mais ce n''est pas une Racine Hécure". Et pourtant si, c''en est bien une.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image70.svg'
+		'../images/image_baton/images70.svg'
 	),
 	(
 		'arme',
@@ -61490,7 +61490,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sémilla était une jeune Sadidette, très intéressée par le jardinage et accessoirement, une piètre chanteuse. Elle prenait d''ailleurs régulièrement un malin plaisir à recevoir des râteaux, mais bizarrement, beaucoup moins de pelles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image71.svg'
+		'../images/image_baton/images71.svg'
 	),
 	(
 		'arme',
@@ -61548,7 +61548,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est un gros bâton, avec des clous plantés dedans. N''y cherchez pas autre chose, c''est la simplicité même, et pourtant, il est diablement efficace pour déchausser les dents de vos adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image72.svg'
+		'../images/image_baton/images72.svg'
 	),
 	(
 		'arme',
@@ -61606,7 +61606,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marie Aigue savait y faire avec les hommes, son bâton savait repousser les avances des plus grands chevaliers Iops. Ce fut bien plus tard que l''on découvrit que Marie Aigue n''était autre qu''un garçon, habillé en fille.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image73.svg'
+		'../images/image_baton/images73.svg'
 	),
 	(
 		'arme',
@@ -61664,7 +61664,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton a déjà mordu des gens, ou été mordu par des gens, ou des gens sont mordus de lui, on ne sait pas trop.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image74.svg'
+		'../images/image_baton/images74.svg'
 	),
 	(
 		'arme',
@@ -61722,7 +61722,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Broutures se servent de leur tige pour se nettoyer les oreilles. Les sculpteurs de bâton préfèrent les employer comme arme. Comme quoi, les goûts et les couleurs, ça ne discute pas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image75.svg'
+		'../images/image_baton/images75.svg'
 	),
 	(
 		'arme',
@@ -61780,7 +61780,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton appartenait au grand-père de Sangroku, Sangrokrane, réputé pour avoir la grosse tête. La légende raconte que ce bâton magique est capable de s''allonger pour atteindre n''importe quel ennemi, ou tout simplement pour compenser certains complexes d''infériorité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image76.svg'
+		'../images/image_baton/images76.svg'
 	),
 	(
 		'arme',
@@ -61838,7 +61838,7 @@ VALUES
 		NULL,
 		NULL,
 		'La légende raconte que cette racine est herbivore : elle aurait tendance à se faufiler très vite sous les feuilles mortes et avaler les jeunes pousses. Très impressionnant. Bon, à part si vous combattez des Pissenlits, ça ne sert à rien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image77.svg'
+		'../images/image_baton/images77.svg'
 	),
 	(
 		'arme',
@@ -61896,7 +61896,7 @@ VALUES
 		NULL,
 		NULL,
 		'Création élégante et raffinée, cette racine sculptée fera de vous un invocateur confirmé. Pas de quoi frimer en soirée, mais pour rendre folles de vous les Sadidettes d''Amakna, il n''y a pas mieux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image78.svg'
+		'../images/image_baton/images78.svg'
 	),
 	(
 		'arme',
@@ -61954,7 +61954,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est muni à son extrémité, d''une grosse pointe dont personne ne connaît l''origine. En revanche, les aventuriers avertis connaissent sa destination...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image79.svg'
+		'../images/image_baton/images79.svg'
 	),
 	(
 		'arme',
@@ -62012,7 +62012,7 @@ VALUES
 		NULL,
 		NULL,
 		'On raconte que ce bâton permet de faire rougir une femelle Abraknyde, ou de chatouiller les parties intimes du Chêne Mou pour mieux le séduire. Dans tous les cas, on vous déconseille d''essayer, le Chêne Mou est vraiment très possessif...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image80.svg'
+		'../images/image_baton/images80.svg'
 	),
 	(
 		'arme',
@@ -62070,7 +62070,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton vient du sud, et par tous les chemins, il y revient.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image81.svg'
+		'../images/image_baton/images81.svg'
 	),
 	(
 		'arme',
@@ -62128,7 +62128,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton est très branché auprès des femmes troncs. Mais si vous préférez séduire d''autres types de femmes, cela est aussi possible (même si cela risque d''être moins efficace).',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image82.svg'
+		'../images/image_baton/images82.svg'
 	),
 	(
 		'arme',
@@ -62186,7 +62186,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est un certain Frank, sculpteur de bâtons de son état, qui serait à l''origine de cette petite merveille, capable d''assombrir le ciel et de faire couler le sang des ennemis qui n''en n''ont pas. On raconte qu''il aurait mis plus de mille heures pour la sculpter. Même vos ennemis ne pourront y rester indifférents.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image83.svg'
+		'../images/image_baton/images83.svg'
 	),
 	(
 		'arme',
@@ -62244,7 +62244,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous êtes superstitieux et que vous avez toujours besoin de toucher du bois, choisissez cette Racine de Floribonde ! D''un autre côté, vous pouvez aussi essayer d''être prudent, de ne pas scier la branche sur laquelle vous êtes assis et de ne surtout pas mettre le doigt entre l''arbre et l''écorce.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image84.svg'
+		'../images/image_baton/images84.svg'
 	),
 	(
 		'arme',
@@ -62302,7 +62302,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce Sceptre orné à son extrémité d''une tête de Serpentin en pierres précieuses, permet d''effrayer les jeunes aventuriers, afin de les faire fuir, et de botter leurs petites fesses toutes roses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image85.svg'
+		'../images/image_baton/images85.svg'
 	),
 	(
 		'arme',
@@ -62360,7 +62360,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Maître Zoth est capable de vaincre n''importe qui avec son bâton. Aucun adversaire ne lui fait peur ! Et c''est bien normal. Vu qu''avec sa coiffe il ne voit rien, il ne peut pas être terrorisé par son ennemi. Cette technique bien pratique au combat est toutefois problématique lorsqu''il s''agit de prendre les repas. Ayant un champ de vision limité, le Maître Zoth a toujours eu quelques problèmes pour manger sans en mettre partout.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image86.svg'
+		'../images/image_baton/images86.svg'
 	),
 	(
 		'arme',
@@ -62418,7 +62418,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce bâton étrange, est une version améliorée du célèbre God Rod. En effet, ce bâton a été imaginé et confectionné après les nombreux tests du God Rod effectués par les Prêtresses de l''Amour. Ce modèle a même été utilisé et usé par Kuri en personne, ce qui en fait en quelque sorte une pièce unique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image87.svg'
+		'../images/image_baton/images87.svg'
 	),
 	(
 		'arme',
@@ -62476,7 +62476,7 @@ VALUES
 		NULL,
 		NULL,
 		'Telle la mauvaise herbe, le Tynril est capable de se reproduire à l''infini grâce à un simple bout de rhizome. C''est à partir de cette constatation que certains sculpteurs ont créé un bâton à base de Tynril. Ils espéraient pouvoir le reproduire facilement et à moindre frais pour le revendre au plus offrant. C''est raté.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image88.svg'
+		'../images/image_baton/images88.svg'
 	),
 	(
 		'arme',
@@ -62534,7 +62534,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les trois pointes de ce bâton permettent de concentrer les résidus de plasmogrine présents dans la brise quadramentale. Mettez un peu de salive sur les pointes, orientez le bâton dans le sens des aiguilles d''une montre Xélor inversée, comptez jusqu''à soixante, ou essayez jusqu''à six si vous êtes Iop. Restez concentré, serrez les fesses, voilà vous avez une chance sur deux de vous prendre un coup de tonnerre, ou de transformer vos ennemis en Kirboules hirsutes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_baton/image89.svg'
+		'../images/image_baton/images89.svg'
 	),
 	(
 		'arme',
@@ -62592,7 +62592,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague est imprégnée d''une essence magique, indispensable pour sculpter des oeuvres pleines de magie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image0.svg'
+		'../images/image_dague/images0.svg'
 	),
 	(
 		'arme',
@@ -62650,7 +62650,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague est imprégnée d''une essence magique, indispensable pour sculpter des oeuvres pleines de magie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image1.svg'
+		'../images/image_dague/images1.svg'
 	),
 	(
 		'arme',
@@ -62708,7 +62708,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague est imprégnée d''une essence magique, indispensable pour sculpter des oeuvres pleines de magie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image2.svg'
+		'../images/image_dague/images2.svg'
 	),
 	(
 		'arme',
@@ -62766,7 +62766,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création de chaussures et de ceintures.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image3.svg'
+		'../images/image_dague/images3.svg'
 	),
 	(
 		'arme',
@@ -62824,7 +62824,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce sertisseur permet de rendre plus éblouissants, les bijoux que vous avez confectionnés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image4.svg'
+		'../images/image_dague/images4.svg'
 	),
 	(
 		'arme',
@@ -62882,7 +62882,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce Coupe Cuir magique permet de mieux découper le cuir et gratter les peaux. C''est l''outil idéal pour améliorer les vieilles bottes et ceintures.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image5.svg'
+		'../images/image_dague/images5.svg'
 	),
 	(
 		'arme',
@@ -62940,7 +62940,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet objet permet au Bijoutier de travailler ses joailleries.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image6.svg'
+		'../images/image_dague/images6.svg'
 	),
 	(
 		'arme',
@@ -62998,7 +62998,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création des bâtons.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image7.svg'
+		'../images/image_dague/images7.svg'
 	),
 	(
 		'arme',
@@ -63056,7 +63056,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création des baguettes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image8.svg'
+		'../images/image_dague/images8.svg'
 	),
 	(
 		'arme',
@@ -63114,7 +63114,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création des arcs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image9.svg'
+		'../images/image_dague/images9.svg'
 	),
 	(
 		'arme',
@@ -63172,7 +63172,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si vous utilisez cette tailladeuse en combat, vous vous battrez comme un manche. Par contre, si vous vous en servez pour sculpter des manches, les tailleurs se retrouveront sur la paille, ce qui rendra les paysans mécontents.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image10.svg'
+		'../images/image_dague/images10.svg'
 	),
 	(
 		'arme',
@@ -63230,7 +63230,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dagues de simple facture, elles ne feront pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image11.svg'
+		'../images/image_dague/images11.svg'
 	),
 	(
 		'arme',
@@ -63288,7 +63288,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dagues de simple facture, elles ne feront pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image12.svg'
+		'../images/image_dague/images12.svg'
 	),
 	(
 		'arme',
@@ -63346,7 +63346,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dagues de simple facture, elles ne feront pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image13.svg'
+		'../images/image_dague/images13.svg'
 	),
 	(
 		'arme',
@@ -63404,7 +63404,7 @@ VALUES
 		NULL,
 		NULL,
 		'Dagues de simple facture, elles ne feront pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image14.svg'
+		'../images/image_dague/images14.svg'
 	),
 	(
 		'arme',
@@ -63462,7 +63462,7 @@ VALUES
 		NULL,
 		NULL,
 		'Des dagues bien forgées, intéressantes pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image15.svg'
+		'../images/image_dague/images15.svg'
 	),
 	(
 		'arme',
@@ -63520,7 +63520,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, les Dagues de Croclage feront de vous un vaillant combattant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image16.svg'
+		'../images/image_dague/images16.svg'
 	),
 	(
 		'arme',
@@ -63578,7 +63578,7 @@ VALUES
 		NULL,
 		NULL,
 		'Des dagues bien forgées, intéressantes pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image17.svg'
+		'../images/image_dague/images17.svg'
 	),
 	(
 		'arme',
@@ -63636,7 +63636,7 @@ VALUES
 		NULL,
 		'Vole 6 à 10 d''or',
 		'Ces dagues aiguisées sont populaires auprès des bandits et impopulaires auprès des jeunes aventuriers pour les mêmes raisons, elles disposent d''un enchantement leur permettant de voler les kamas de ses adversaires. Une forme d''impôt assez originale.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image18.svg'
+		'../images/image_dague/images18.svg'
 	),
 	(
 		'arme',
@@ -63694,7 +63694,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues permettent selon la légende de voler tout et n''importe quoi, mais surtout n''importe quoi à n''importe qui, où l''inverse, mais plus personne ne se souvient de la légende avec exactitude.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image19.svg'
+		'../images/image_dague/images19.svg'
 	),
 	(
 		'arme',
@@ -63752,7 +63752,7 @@ VALUES
 		NULL,
 		NULL,
 		'Des dagues bien forgées, intéressantes pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image20.svg'
+		'../images/image_dague/images20.svg'
 	),
 	(
 		'arme',
@@ -63810,7 +63810,7 @@ VALUES
 		NULL,
 		NULL,
 		'Des dagues bien forgées, intéressantes pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image21.svg'
+		'../images/image_dague/images21.svg'
 	),
 	(
 		'arme',
@@ -63868,7 +63868,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, les Dagues de Croclage feront de vous un vaillant combattant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image22.svg'
+		'../images/image_dague/images22.svg'
 	),
 	(
 		'arme',
@@ -63926,7 +63926,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, les Dagues de Croclage feront de vous un vaillant combattant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image23.svg'
+		'../images/image_dague/images23.svg'
 	),
 	(
 		'arme',
@@ -63984,7 +63984,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, les Dagues de Croclage feront de vous un vaillant combattant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image24.svg'
+		'../images/image_dague/images24.svg'
 	),
 	(
 		'arme',
@@ -64042,7 +64042,7 @@ VALUES
 		NULL,
 		NULL,
 		'La poignée de cette arme est grasse et glissante, mais elle a vraiment un look génial.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image25.svg'
+		'../images/image_dague/images25.svg'
 	),
 	(
 		'arme',
@@ -64100,7 +64100,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues étaient particulièrement bien adaptées pour couper les racines ou les jeunes pousses, elles ont été détournées de leur usage pour en faire des armes presque mortelles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image26.svg'
+		'../images/image_dague/images26.svg'
 	),
 	(
 		'arme',
@@ -64158,7 +64158,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues étaient particulièrement bien adaptées pour couper les racines ou les jeunes pousses, elles ont été détournées de leur usage pour en faire des armes presque mortelles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image27.svg'
+		'../images/image_dague/images27.svg'
 	),
 	(
 		'arme',
@@ -64216,7 +64216,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette paire de dagues est en fait un jouet magique. Créé pour amuser les jeunes Ecaflips, sa production fut interdite après qu''un enfant adepte de Sram prit part au jeu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image28.svg'
+		'../images/image_dague/images28.svg'
 	),
 	(
 		'arme',
@@ -64274,7 +64274,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues étaient particulièrement bien adaptées pour couper les racines ou les jeunes pousses, elles ont été détournées de leur usage pour en faire des armes presque mortelles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image29.svg'
+		'../images/image_dague/images29.svg'
 	),
 	(
 		'arme',
@@ -64332,7 +64332,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues étaient particulièrement bien adaptées pour couper les racines ou les jeunes pousses, elles ont été détournées de leur usage pour en faire des armes presque mortelles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image30.svg'
+		'../images/image_dague/images30.svg'
 	),
 	(
 		'arme',
@@ -64390,7 +64390,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Bashers sont de redoutables dagues d''assassin. Celui qui les possède est capable de rivaliser avec le plus sanguinaire des guerriers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image31.svg'
+		'../images/image_dague/images31.svg'
 	),
 	(
 		'arme',
@@ -64448,7 +64448,7 @@ VALUES
 		NULL,
 		NULL,
 		'Krys Razepa était un vieux disciple d''Enutrof qui portait la barbe, comme tous les disciples d''Enutrof dignes de ce nom. Lorsque madame Razepa, sa femme, lui offrit un rasoir, il préféra l''utiliser pour combattre...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image32.svg'
+		'../images/image_dague/images32.svg'
 	),
 	(
 		'arme',
@@ -64506,7 +64506,7 @@ VALUES
 		NULL,
 		NULL,
 		'Tylo était un scribe amaknéen qui vécut il y a des siècles de cela. Il avait la particularité de graver ses cahiers de pierre non pas avec des burins mais avec des dagues. Nous reste de lui cette superbe dague, impressionnante de résistance aux chocs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image33.svg'
+		'../images/image_dague/images33.svg'
 	),
 	(
 		'arme',
@@ -64564,7 +64564,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues d''apparence modeste sont cependant très dangereuses. Elles sont de plus facilement dissimulables, ce qui en fait une arme de choix pour les assassins.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image34.svg'
+		'../images/image_dague/images34.svg'
 	),
 	(
 		'arme',
@@ -64622,7 +64622,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'O''Bert cou rouge était célèbre dans la campagne profonde. Un jour où il chantait à tue-tête il fut tué, la tête tranchée. D''où son surnom. La dague coupable fut retrouvée, mais personne ne chercha son propriétaire. O''Bert chantait vraiment trop mal.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image35.svg'
+		'../images/image_dague/images35.svg'
 	),
 	(
 		'arme',
@@ -64680,7 +64680,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''illustre fou Stek Dardar aurait commandé ces couteaux étranges et redoutables. Nul n''en connaissait l''utilité jusqu''à ce qu''il tente d''offrir à manger à son dieu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image36.svg'
+		'../images/image_dague/images36.svg'
 	),
 	(
 		'arme',
@@ -64738,7 +64738,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces couteaux étaient à l''origine censés servir dans un restaurant de luxe. Mais devant leur look plutôt... étrange, le patron du restaurant a préféré les revendre à un lanceur de couteaux ambulant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image37.svg'
+		'../images/image_dague/images37.svg'
 	),
 	(
 		'arme',
@@ -64796,7 +64796,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues d''apparence modeste sont cependant très dangereuses. Elles sont de plus facilement dissimulables, ce qui en fait une arme de choix pour les assassins.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image38.svg'
+		'../images/image_dague/images38.svg'
 	),
 	(
 		'arme',
@@ -64854,7 +64854,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces puissantes dagues, forgées à l''ancienne à partir d''Ambre Ancestrale, ont servi pendant la colonisation de l''île de Moon, avant que cette dernière ne redevienne sauvage.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image39.svg'
+		'../images/image_dague/images39.svg'
 	),
 	(
 		'arme',
@@ -64912,7 +64912,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''illustre fou Stek Dardar aurait commandé ces couteaux étranges et redoutables. Nul n''en connaissait l''utilité jusqu''à ce qu''il tente d''offrir à manger à son dieu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image40.svg'
+		'../images/image_dague/images40.svg'
 	),
 	(
 		'arme',
@@ -64970,7 +64970,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée fut donnée à Souzé Schel, un jeune Iop, lors de son adoubement. Malheureusement, lors de sa première mission de chevalier, il glissa sur une pierre qui se trouvait être un craqueleur...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image41.svg'
+		'../images/image_dague/images41.svg'
 	),
 	(
 		'arme',
@@ -65028,7 +65028,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues d''apparence modeste sont cependant très dangereuses. Elles sont de plus facilement dissimulables, ce qui en fait une arme de choix pour les assassins.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image42.svg'
+		'../images/image_dague/images42.svg'
 	),
 	(
 		'arme',
@@ -65086,7 +65086,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''illustre fou Stek Dardar aurait commandé ces couteaux étranges et redoutables. Nul n''en connaissait l''utilité jusqu''à ce qu''il tente d''offrir à manger à son dieu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image43.svg'
+		'../images/image_dague/images43.svg'
 	),
 	(
 		'arme',
@@ -65144,7 +65144,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues d''apparence modeste sont cependant très dangereuses. Elles sont de plus facilement dissimulables, ce qui en fait une arme de choix pour les assassins.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image44.svg'
+		'../images/image_dague/images44.svg'
 	),
 	(
 		'arme',
@@ -65202,7 +65202,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces magnifiques dagues auraient appartenu à la Sramette la plus cruelle qu''Amakna ait connu. Enfin, l''une des plus cruelles... En fait, juste un peu plus que les autres, enfin au moins autant que les autres, ce qui est déjà pas mal !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image45.svg'
+		'../images/image_dague/images45.svg'
 	),
 	(
 		'arme',
@@ -65260,7 +65260,7 @@ VALUES
 		NULL,
 		NULL,
 		'Eulasse était un bouftier du nord d''Amakna qui trouva un jour, au milieu du fumier de ses bouftous, une paire de dagues légèrement salies. Que celui qui les porte fasse attention : le manche glisse, il est facile de manquer son coup.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image46.svg'
+		'../images/image_dague/images46.svg'
 	),
 	(
 		'arme',
@@ -65318,7 +65318,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''illustre fou Stek Dardar aurait commandé ces couteaux étranges et redoutables. Nul n''en connaissait l''utilité jusqu''à ce qu''il tente d''offrir à manger à son dieu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image47.svg'
+		'../images/image_dague/images47.svg'
 	),
 	(
 		'arme',
@@ -65376,7 +65376,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague était utilisée autrefois par la confrérie secrète de Fon. Cette guilde voulait plonger Amakna dans le chaos. Finalement, elle coula en premier quand l''île qui les cachait fut submergée par les flots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image48.svg'
+		'../images/image_dague/images48.svg'
 	),
 	(
 		'arme',
@@ -65434,7 +65434,7 @@ VALUES
 		NULL,
 		NULL,
 		'Qui ne connait pas Aj''Deh''Là, l''ermite, légendaire disciple de Sram qui avait passé sa vie à refuser tout contact avec les autres. À sa mort, on retrouva ses dagues fétiches à côté de son corps, et seuls les plus agiles purent les apprivoiser.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image49.svg'
+		'../images/image_dague/images49.svg'
 	),
 	(
 		'arme',
@@ -65492,7 +65492,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues ont baigné dans le sang de nombreuses créatures démoniaques agonisantes, comme des enfants par exemple, ce qui leur donne un cachet franchement original.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image50.svg'
+		'../images/image_dague/images50.svg'
 	),
 	(
 		'arme',
@@ -65550,7 +65550,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues légendaires constituent de vraies pièces de collection pour tout Sram qui se respecte, elles sont tellement vénérées, que certains Srams se refusent à les voler.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image51.svg'
+		'../images/image_dague/images51.svg'
 	),
 	(
 		'arme',
@@ -65608,7 +65608,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague était utilisée autrefois par la confrérie secrète de Fon. Cette guilde voulait plonger Amakna dans le chaos. Finalement, elle coula en premier quand l''île qui les cachait fut submergée par les flots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image52.svg'
+		'../images/image_dague/images52.svg'
 	),
 	(
 		'arme',
@@ -65666,7 +65666,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague était utilisée autrefois par la confrérie secrète de Fon. Cette guilde voulait plonger Amakna dans le chaos. Finalement, elle coula en premier quand l''île qui les cachait fut submergée par les flots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image53.svg'
+		'../images/image_dague/images53.svg'
 	),
 	(
 		'arme',
@@ -65724,7 +65724,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague Sram possède une forme particulièrement fourbe. Tellement fourbe qu''on se demande si c''est vraiment une dague. Lorsque la réponse vient, il est souvent trop tard...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image54.svg'
+		'../images/image_dague/images54.svg'
 	),
 	(
 		'arme',
@@ -65782,7 +65782,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague était utilisée autrefois par la confrérie secrète de Fon. Cette guilde voulait plonger Amakna dans le chaos. Finalement, elle coula en premier quand l''île qui les cachait fut submergée par les flots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image55.svg'
+		'../images/image_dague/images55.svg'
 	),
 	(
 		'arme',
@@ -65840,7 +65840,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague Sram possède une forme particulièrement fourbe. Tellement fourbe qu''on se demande si c''est vraiment une dague. Lorsque la réponse vient, il est souvent trop tard...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image56.svg'
+		'../images/image_dague/images56.svg'
 	),
 	(
 		'arme',
@@ -65898,7 +65898,7 @@ VALUES
 		NULL,
 		NULL,
 		'Aiguisées comme des griffes de Meulou, ces dagues feront de vous un excellent apprenti assassin.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image57.svg'
+		'../images/image_dague/images57.svg'
 	),
 	(
 		'arme',
@@ -65956,7 +65956,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague Sram possède une forme particulièrement fourbe. Tellement fourbe qu''on se demande si c''est vraiment une dague. Lorsque la réponse vient, il est souvent trop tard...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image58.svg'
+		'../images/image_dague/images58.svg'
 	),
 	(
 		'arme',
@@ -66014,7 +66014,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Blessdags viennent du célèbre Ogre la Main Sombre qui périt en affrontant un paladin du Bimd''Oule. Il paraît que son sang anime ces dagues malsaines.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image59.svg'
+		'../images/image_dague/images59.svg'
 	),
 	(
 		'arme',
@@ -66072,7 +66072,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague Sram possède une forme particulièrement fourbe. Tellement fourbe qu''on se demande si c''est vraiment une dague. Lorsque la réponse vient, il est souvent trop tard...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image60.svg'
+		'../images/image_dague/images60.svg'
 	),
 	(
 		'arme',
@@ -66130,7 +66130,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues sont perforées tout au long de la lame, afin d''émettre un joli sifflement quand on les manie rapidement. Les trous sont également très efficaces pour entraîner les viscères de ses ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image61.svg'
+		'../images/image_dague/images61.svg'
 	),
 	(
 		'arme',
@@ -66188,7 +66188,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues ont été forgées pour une écaflipette maniaque de la manucure. Elle trouvait que les lourdes épées s''accordaient mal à ses jolies griffes vernies.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image62.svg'
+		'../images/image_dague/images62.svg'
 	),
 	(
 		'arme',
@@ -66246,7 +66246,7 @@ VALUES
 		NULL,
 		NULL,
 		'Chakra Style est une paire de dagues ayant appartenu à l''une des plus grandes voleuses de tous les temps. Chakra fut la première à pouvoir forcer les portes du temple d''Osaroth et à y dérober de précieuses reliques.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image63.svg'
+		'../images/image_dague/images63.svg'
 	),
 	(
 		'arme',
@@ -66304,7 +66304,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ortimus Contrari est une légende parmi les assassins. Il exécute toujours ses contrats d''une manière totalement opposée aux méthodes traditionnelles. N''en demandez pas plus, vous pourriez mourir dans l''instant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image64.svg'
+		'../images/image_dague/images64.svg'
 	),
 	(
 		'arme',
@@ -66362,7 +66362,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues feraient craquer n''importe quelle petite Sramette en quête d''expériences nouvelles. En effet, ses pouvoirs étranges lui permettent d''accomplir les pires fourberies, aux amis comme aux ennemis. Le Captain Chafer aurait adoré.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image65.svg'
+		'../images/image_dague/images65.svg'
 	),
 	(
 		'arme',
@@ -66420,7 +66420,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette dague en forme de faucille, servait à éviscérer les voyageurs égarés. Elle tire son nom, de toutes les beuveries à la taverne que son propriétaire se payait après avoir dépouillé ses pauvres victimes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image66.svg'
+		'../images/image_dague/images66.svg'
 	),
 	(
 		'arme',
@@ -66478,7 +66478,7 @@ VALUES
 		NULL,
 		NULL,
 		'Si le Captain Chafer a disparu, sa dague elle, est bien entre vos mains. Si son manche est passé entre les mains du célèbre Captain Chafer, imaginez où la lame a pu passer...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image67.svg'
+		'../images/image_dague/images67.svg'
 	),
 	(
 		'arme',
@@ -66536,7 +66536,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un ridicule petit artisan du nom de Slaillehine, a eu la brillante idée de bricoler ces superbes dagues. Du jour au lendemain, tout le monde faisait la queue devant sa forge, c''est comme cela qu''il a trouvé un nom pour cette dague.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image68.svg'
+		'../images/image_dague/images68.svg'
 	),
 	(
 		'arme',
@@ -66594,7 +66594,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est le célèbre artisan Daguiero qui eut l''idée de créer une telle dague. Plutôt versé dans les jeux d''argents et activités peu recommandables, ce fut sa dernière création réellement digne d''intérêt. On peut imaginer pire comme fin de carrière.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image69.svg'
+		'../images/image_dague/images69.svg'
 	),
 	(
 		'arme',
@@ -66652,7 +66652,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues sublimes ont été confectionnées sur mesure, pour une Sramette en manque de sensations fortes. En effet, déçue de ne pas trouver de dagues à sa convenance, elle lança un défi à tous les forgeurs de dagues d''Amakna : celui qui réussirait à lui forger des dagues capables de tuer sur le coup, n''importe quel Tofu, pourrait passer 3 nuits en sa compagnie. Contrairement à ce qu''elle pensait, cette annonce n''eut pas l''effet escompté, puisque personne ne participa au défi. Elle dut attendre une centaine d''années, pour qu''un forgeur de dagues Enutrof à la retraite, soit intéressé par la récompense qui avait bien changé avec le temps...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image70.svg'
+		'../images/image_dague/images70.svg'
 	),
 	(
 		'arme',
@@ -66710,7 +66710,7 @@ VALUES
 		NULL,
 		'Vole 21 à 30 d''or',
 		'A la fois tranchantes et abîmées, les lames de ces dagues permettent de trancher les membres de vos adversaires avec une facilité déconcertante, tout en s''assurant que vous leur retirerez une quantité impressionnante de lambeaux de chair. Dommage qu''elles ne soient pas rouillées, chauffées à blanc et empoisonnées lorsque vous les utilisez.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image71.svg'
+		'../images/image_dague/images71.svg'
 	),
 	(
 		'arme',
@@ -66768,7 +66768,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues sont parfaites pour couper les fruits, ou pour couper l''herbe sous les pieds de vos adversaires. Une façon originale de les surprendre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image72.svg'
+		'../images/image_dague/images72.svg'
 	),
 	(
 		'arme',
@@ -66826,7 +66826,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues ont appartenu à un pauvre Sadida, dont la richesse fulgurante fera date dans l''histoire d''Amakna. En effet, ce Sadida avait dédié son existence à la chasse aux Bouftons, ce qui ne manquait pas de faire rire tous les habitants du village. Certains badauds venaient même de loin, pour le regarder chasser ces ridicules créatures et pour se moquer de lui. Sa vengeance fut terrible, car entre temps, il était devenu assez riche pour mettre à prix toutes les sales têtes qui s''étaient moquées de lui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image73.svg'
+		'../images/image_dague/images73.svg'
 	),
 	(
 		'arme',
@@ -66884,7 +66884,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces puissantes dagues sont le fruit d''une coopération entre les seuls artisans capables de se mettre d''accord sur l''avenir de leur profession. Ils ne furent que deux. Ils moururent tous les deux en se disputant à propos du nom de ces dagues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image74.svg'
+		'../images/image_dague/images74.svg'
 	),
 	(
 		'arme',
@@ -66942,7 +66942,7 @@ VALUES
 		NULL,
 		NULL,
 		'Aucun Sram ne peut résister à l''envie d''agresser un ami avec ces sublimes dagues. Leur principal intérêt est donc de faire baisser de manière considérable l''insécurité en Amakna, en supprimant un à un les derniers Srams restants.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image75.svg'
+		'../images/image_dague/images75.svg'
 	),
 	(
 		'arme',
@@ -67000,7 +67000,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ramougre était un vieux Sram, devenu maître dans la confection de bijoux. Il se servait à la fois de ce sertisseur pour ses créations, mais aussi pour assassiner ses propres clients, lorsqu''il s''ennuyait trop dans sa bijouterie. Il était connu pour son très mauvais caractère, qui le poussait parfois à détruire avec son sertisseur, ses plus belles créations. Aujourd''hui, les utilisateurs de ces dagues savent lui rendre hommage, puisqu''il les utilisent essentiellement pour trancher les bijoux de famille.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image76.svg'
+		'../images/image_dague/images76.svg'
 	),
 	(
 		'arme',
@@ -67058,7 +67058,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues sont idéales pour découper le haut d''un oeuf de Dragoeuf cuit à la coque. Elles sont aussi très légères, ce qui permet de courir vite lorsque le reste de la communauté des Dragoeufs s''en aperçoit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image77.svg'
+		'../images/image_dague/images77.svg'
 	),
 	(
 		'arme',
@@ -67116,7 +67116,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le bouwin n''est pas fin, le bouwin n''est pas malin, mais quand il a ses dagues en main, personne ne cherche à provoquer le bouwin.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image78.svg'
+		'../images/image_dague/images78.svg'
 	),
 	(
 		'arme',
@@ -67174,7 +67174,7 @@ VALUES
 		NULL,
 		NULL,
 		'Affûtées une fois par décennie seulement, ces dagues n''en restent pas moins mortelles. Animées d''une magie des plus obscures, elles se déplacent parfois toutes seules la nuit, pour aller se planter dans le meilleur des cas, dans le derrière des imprudents... Encore une histoire que l''on raconte aux jeunes Iops pour leur faire peur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image79.svg'
+		'../images/image_dague/images79.svg'
 	),
 	(
 		'arme',
@@ -67232,7 +67232,7 @@ VALUES
 		NULL,
 		NULL,
 		'A ne pas confondre avec le célèbre bâton au nom semblable, ces lames provoquent des carnages bien plus violents.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image80.svg'
+		'../images/image_dague/images80.svg'
 	),
 	(
 		'arme',
@@ -67290,7 +67290,7 @@ VALUES
 		NULL,
 		NULL,
 		'La lame de ces dagues est en glace, ce qui est très pratique pour rafraîchir l''haleine de vos ennemis, ouvrez-leur la bouche, plantez-y votre grosse dague glacée, et le tour est joué.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image81.svg'
+		'../images/image_dague/images81.svg'
 	),
 	(
 		'arme',
@@ -67348,7 +67348,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ruik est meilleur buveur que combattant, et ça ne s''améliore pas au fil du temps. Il est quand même déconseillé de ressembler à un bouchon quand il porte ses dagues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image82.svg'
+		'../images/image_dague/images82.svg'
 	),
 	(
 		'arme',
@@ -67406,7 +67406,7 @@ VALUES
 		NULL,
 		NULL,
 		'Eudin était un Sram complètement fou, il volait les pauvres pour donner aux riches.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image83.svg'
+		'../images/image_dague/images83.svg'
 	),
 	(
 		'arme',
@@ -67464,7 +67464,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces dagues sont parfaites pour pousser les ananas ou moudre le café. Certains s''en servent même pour taper des pommes et des poires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image84.svg'
+		'../images/image_dague/images84.svg'
 	),
 	(
 		'arme',
@@ -67522,7 +67522,7 @@ VALUES
 		NULL,
 		NULL,
 		'Lorsque le Bworker commença à étriper lentement Francisque Kabroule, ce dernier se mit à chanter : "Et ça continue encore et encore, c''est que le début d''accord, d''accord...". Depuis, le Bworker est devenu sourd.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image85.svg'
+		'../images/image_dague/images85.svg'
 	),
 	(
 		'arme',
@@ -67580,7 +67580,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ces couteaux étaient autrefois utilisés pour retirer les mycoses qui parasitaient les pieds des aventuriers. On leur coupait les pieds juste au niveau du genou.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_dague/image86.svg'
+		'../images/image_dague/images86.svg'
 	),
 	(
 		'arme',
@@ -67638,7 +67638,7 @@ VALUES
 		NULL,
 		NULL,
 		'Epée de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image0.svg'
+		'../images/image_epee/images0.svg'
 	),
 	(
 		'arme',
@@ -67696,7 +67696,7 @@ VALUES
 		NULL,
 		NULL,
 		'Epée de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image1.svg'
+		'../images/image_epee/images1.svg'
 	),
 	(
 		'arme',
@@ -67754,7 +67754,7 @@ VALUES
 		NULL,
 		NULL,
 		'Epée de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image2.svg'
+		'../images/image_epee/images2.svg'
 	),
 	(
 		'arme',
@@ -67812,7 +67812,7 @@ VALUES
 		NULL,
 		NULL,
 		'Epée de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image3.svg'
+		'../images/image_epee/images3.svg'
 	),
 	(
 		'arme',
@@ -67870,7 +67870,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Chevalier de Glace était connu pour être un des plus grands forgeurs d''épées de tout Amakna. Seule l''horrible et impitoyable Liche refusait de reconnaître son immense talent. Vexé qu''une telle créature puisse ne pas s''émerveiller devant ses créations, il lui posa un ultimatum : il refusa d''exercer sa profession tant qu''elle ne fît pas l''effort de reconnaître publiquement le talent du forgeur d''épées. Mais c''était mal connaître la terrible Liche, qui ne céda point. Le forgeur dû se résoudre à forger à nouveau plusieurs centaines d''années plus tard. Entre temps, il avait complètement oublié son métier, et cette épée ridicule fut sa dernière création utilisable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image4.svg'
+		'../images/image_epee/images4.svg'
 	),
 	(
 		'arme',
@@ -67928,7 +67928,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une épée bien forgée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image5.svg'
+		'../images/image_epee/images5.svg'
 	),
 	(
 		'arme',
@@ -67986,7 +67986,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une épée bien forgée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image6.svg'
+		'../images/image_epee/images6.svg'
 	),
 	(
 		'arme',
@@ -68044,7 +68044,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, l''épée d''Ha fera de vous un vaillant combattant. Sa seule vue angoisse doublement le plus courageux des adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image7.svg'
+		'../images/image_epee/images7.svg'
 	),
 	(
 		'arme',
@@ -68102,7 +68102,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une épée sainte distribuée aux jeunes guerriers durant leur formation.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image8.svg'
+		'../images/image_epee/images8.svg'
 	),
 	(
 		'arme',
@@ -68160,7 +68160,7 @@ VALUES
 		NULL,
 		NULL,
 		'Epée symbolisant la partie de leur corps dont les Ecaflips sont le plus fier. Cette épée résume bien la façon de faire des joueurs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image9.svg'
+		'../images/image_epee/images9.svg'
 	),
 	(
 		'arme',
@@ -68218,7 +68218,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une épée bien forgée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image10.svg'
+		'../images/image_epee/images10.svg'
 	),
 	(
 		'arme',
@@ -68276,7 +68276,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une épée bien forgée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image11.svg'
+		'../images/image_epee/images11.svg'
 	),
 	(
 		'arme',
@@ -68334,7 +68334,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une épée sainte distribuée aux jeunes guerriers durant leur formation.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image12.svg'
+		'../images/image_epee/images12.svg'
 	),
 	(
 		'arme',
@@ -68392,7 +68392,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, l''épée d''Ha fera de vous un vaillant combattant. Sa seule vue angoisse doublement le plus courageux des adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image13.svg'
+		'../images/image_epee/images13.svg'
 	),
 	(
 		'arme',
@@ -68450,7 +68450,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une épée sainte distribuée aux jeunes guerriers durant leur formation.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image14.svg'
+		'../images/image_epee/images14.svg'
 	),
 	(
 		'arme',
@@ -68508,7 +68508,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, l''épée d''Ha fera de vous un vaillant combattant. Sa seule vue angoisse doublement le plus courageux des adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image15.svg'
+		'../images/image_epee/images15.svg'
 	),
 	(
 		'arme',
@@ -68566,7 +68566,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lame forgée à l''origine pour les Chevaucheurs de Karne, était en fait bien trop lourde pour ces faibles gobelins. Elle n''en reste pas moins très légère pour un individu normal, ce qui lui permet de frapper très vite.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image16.svg'
+		'../images/image_epee/images16.svg'
 	),
 	(
 		'arme',
@@ -68624,7 +68624,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une épée sainte distribuée aux jeunes guerriers durant leur formation.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image17.svg'
+		'../images/image_epee/images17.svg'
 	),
 	(
 		'arme',
@@ -68682,7 +68682,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, l''épée d''Ha fera de vous un vaillant combattant. Sa seule vue angoisse doublement le plus courageux des adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image18.svg'
+		'../images/image_epee/images18.svg'
 	),
 	(
 		'arme',
@@ -68740,7 +68740,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lame double à la forme bien étrange servait à l''origine à élaguer les arbres pour progresser dans les forêts denses. Les bûcherons se sont vite aperçus qu''elle constituait une arme de choix pour exterminer toute forme de menace.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image19.svg'
+		'../images/image_epee/images19.svg'
 	),
 	(
 		'arme',
@@ -68798,7 +68798,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée très prisée des jeunes Iops, vous permettra peut-être de faire vos preuves. Mais attention, leur propriétaire, une fois équipé, finit toujours par perdre l''Epée d''Alle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image20.svg'
+		'../images/image_epee/images20.svg'
 	),
 	(
 		'arme',
@@ -68856,7 +68856,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'Il s''agit d''une épée ayant baigné dans les larmes d''un jeune Mulou. Beaucoup de guerriers pensent qu''ainsi bénie, leur arme apportera chance et courage sur les champs de bataille.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image21.svg'
+		'../images/image_epee/images21.svg'
 	),
 	(
 		'arme',
@@ -68914,7 +68914,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée d''apparence rudimentaire est très appréciée des Bworks les plus débiles, qui ne savent pas se servir d''un arc ou d''un bâton, certains confondent même la lame et le manche ce qui ne manque pas de faire rire leurs adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image22.svg'
+		'../images/image_epee/images22.svg'
 	),
 	(
 		'arme',
@@ -68972,7 +68972,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''épée du Petit Chevalier est une épée solide et efficace, bien utilisée elle peut causer de gros dommages à vos ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image23.svg'
+		'../images/image_epee/images23.svg'
 	),
 	(
 		'arme',
@@ -69030,7 +69030,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Queue Infernale est vraiment infernale... De quoi rendre votre adversaire ou vos coéquipiers complètement fous, et surtout de transformer vos coéquipiers en adversaires si vous vous y prenez mal. En revanche, le cas inverse ne semble jamais se produire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image24.svg'
+		'../images/image_epee/images24.svg'
 	),
 	(
 		'arme',
@@ -69088,7 +69088,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée très prisée des jeunes Iops, vous permettra peut-être de faire vos preuves. Mais attention, leur propriétaire, une fois équipé, finit toujours par perdre l''Epée d''Alle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image25.svg'
+		'../images/image_epee/images25.svg'
 	),
 	(
 		'arme',
@@ -69146,7 +69146,7 @@ VALUES
 		NULL,
 		NULL,
 		'Tranchante et infernale : tels ont été les mots de la succube qui l''a forgée. A moins que ce ne soit les mots utilisés par Vald pour décrire sa soeur, plus personne ne sait.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image26.svg'
+		'../images/image_epee/images26.svg'
 	),
 	(
 		'arme',
@@ -69204,7 +69204,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''épée du Chevalier est une épée solide et efficace, bien utilisée elle peut causer de gros dommages à vos ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image27.svg'
+		'../images/image_epee/images27.svg'
 	),
 	(
 		'arme',
@@ -69262,7 +69262,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée d''apparence rudimentaire est très appréciée des Bworks les plus débiles, qui ne savent pas se servir d''un arc ou d''un bâton, certains confondent même la lame et le manche ce qui ne manque pas de faire rire leurs adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image28.svg'
+		'../images/image_epee/images28.svg'
 	),
 	(
 		'arme',
@@ -69320,7 +69320,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée très prisée des jeunes Iops, vous permettra peut-être de faire vos preuves. Mais attention, leur propriétaire, une fois équipé, finit toujours par perdre l''Epée d''Alle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image29.svg'
+		'../images/image_epee/images29.svg'
 	),
 	(
 		'arme',
@@ -69378,7 +69378,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''épée du Grand Chevalier est une épée solide et efficace, bien utilisée elle peut causer de gros dommages à vos ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image30.svg'
+		'../images/image_epee/images30.svg'
 	),
 	(
 		'arme',
@@ -69436,7 +69436,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée d''apparence rudimentaire est très appréciée des Bworks les plus débiles, qui ne savent pas se servir d''un arc ou d''un bâton, certains confondent même la lame et le manche ce qui ne manque pas de faire rire leurs adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image31.svg'
+		'../images/image_epee/images31.svg'
 	),
 	(
 		'arme',
@@ -69494,7 +69494,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce type d''épée était forgé pour les gardes d''un commerçant aussi riche que réputé. Plutôt destinée à effrayer les voleurs, elle n''en reste pas moins redoutable pour achever les voleurs ou les clients honnêtes, mais un peu usants.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image32.svg'
+		'../images/image_epee/images32.svg'
 	),
 	(
 		'arme',
@@ -69552,7 +69552,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée très prisée des jeunes Iops, vous permettra peut-être de faire vos preuves. Mais attention, leur propriétaire, une fois équipé, finit toujours par perdre l''Epée d''Alle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image33.svg'
+		'../images/image_epee/images33.svg'
 	),
 	(
 		'arme',
@@ -69610,7 +69610,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''épée du Puissant Chevalier est une épée solide et efficace, bien utilisée elle peut causer de gros dommages à vos ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image34.svg'
+		'../images/image_epee/images34.svg'
 	),
 	(
 		'arme',
@@ -69668,7 +69668,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée d''apparence rudimentaire est très appréciée des Bworks les plus débiles, qui ne savent pas se servir d''un arc ou d''un bâton, certains confondent même la lame et le manche ce qui ne manque pas de faire rire leurs adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image35.svg'
+		'../images/image_epee/images35.svg'
 	),
 	(
 		'arme',
@@ -69726,7 +69726,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lame appartenait à Metzger le boucher, elle avait été forgée pour découper les os. Le Chafer a cependant réussi à lui dérober son outil, devenu maintenant une arme très redoutée qui est à l''origine de nombreuses amputations.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image36.svg'
+		'../images/image_epee/images36.svg'
 	),
 	(
 		'arme',
@@ -69784,7 +69784,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée appartenait au célèbre Badoul, vaillant guerrier ayant perdu la boule lors d''un combat.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image37.svg'
+		'../images/image_epee/images37.svg'
 	),
 	(
 		'arme',
@@ -69842,7 +69842,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lame recourbée, faite d''os, de cartilage et de corne, est aussi tranchante qu''une griffe d''Ecaflip. En un peu plus gros et plus propre.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image38.svg'
+		'../images/image_epee/images38.svg'
 	),
 	(
 		'arme',
@@ -69900,7 +69900,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée servait autrefois à découper des blocs de granit pour confectionner les murailles des cités prestigieuses telles que Bonta ou Brâkmar. Aujourd''hui, cette arme est avant tout recherché pour sa capacité à écraser toutes sortes de créatures vivantes, consentantes ou pas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image39.svg'
+		'../images/image_epee/images39.svg'
 	),
 	(
 		'arme',
@@ -69958,7 +69958,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce magnifique sabre est utilisé par les disciples Pandawushuka lorsqu''ils réussissent à atteindre le grade Shodanwa sans être morts entre temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image40.svg'
+		'../images/image_epee/images40.svg'
 	),
 	(
 		'arme',
@@ -70016,7 +70016,7 @@ VALUES
 		NULL,
 		NULL,
 		'L''épée Goultard a été trempée dans le sang d''un Dragon Cochon. Le héros qui supportera l''odeur dégagée par cette puissante épée pourra se hisser à la hauteur des plus grands.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image41.svg'
+		'../images/image_epee/images41.svg'
 	),
 	(
 		'arme',
@@ -70074,7 +70074,7 @@ VALUES
 		NULL,
 		NULL,
 		'La créatrice de cette épée aux charmes certains, à voulu retranscrire toute sa beauté gracieuse auréolée d''un caractère piquant. Le résultat est bien plus parlant que des mots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image42.svg'
+		'../images/image_epee/images42.svg'
 	),
 	(
 		'arme',
@@ -70132,7 +70132,7 @@ VALUES
 		NULL,
 		NULL,
 		'Lame froide et tranchante, elle réveillera les instincts les plus primitifs de ceux qui l''utilisent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image43.svg'
+		'../images/image_epee/images43.svg'
 	),
 	(
 		'arme',
@@ -70190,7 +70190,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Cette lame aiguisée mais pas déguisée, conviendra parfaitement aux aventuriers déjà expérimentés en quête de nouvelles sensations". Voici ce que l''on peut lire sur le manuel de cette épée. Les manuels ne sont plus ce qu''ils étaient décidément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image44.svg'
+		'../images/image_epee/images44.svg'
 	),
 	(
 		'arme',
@@ -70248,7 +70248,7 @@ VALUES
 		NULL,
 		NULL,
 		'Idéale pour couper les nuages, cette lame pourra également vous servir à faire du vent si vous l''agitez comme un éventail. Une excellente technique pour décimer les Moskitos ou défigurer vos amis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image45.svg'
+		'../images/image_epee/images45.svg'
 	),
 	(
 		'arme',
@@ -70306,7 +70306,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Kwaklame de Flammes est une arme vraiment stylée. A défaut de faire peur à votre adversaire, elle vous servira à l''impressionner, pour ensuite mieux le surprendre par une vieille ruse de fourbe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image46.svg'
+		'../images/image_epee/images46.svg'
 	),
 	(
 		'arme',
@@ -70364,7 +70364,7 @@ VALUES
 		NULL,
 		NULL,
 		'La créatrice de cette épée aux charmes certains, à voulu retranscrire toute sa beauté gracieuse auréolée d''un caractère piquant. Le résultat est bien plus parlant que des mots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image47.svg'
+		'../images/image_epee/images47.svg'
 	),
 	(
 		'arme',
@@ -70422,7 +70422,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ogralimde était un grand guerrier qui devait sa force à Adyol son maître, un puissant Bwork Mage d''une intelligence surprenante. Mais l''élève n''a jamais dépassé le maître, contrairement à ce que raconte la légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image48.svg'
+		'../images/image_epee/images48.svg'
 	),
 	(
 		'arme',
@@ -70480,7 +70480,7 @@ VALUES
 		NULL,
 		NULL,
 		'Terriblement tranchante et incroyablement classe, cette lame risque de faire des jaloux parmi votre entourage de Corbacs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image49.svg'
+		'../images/image_epee/images49.svg'
 	),
 	(
 		'arme',
@@ -70538,7 +70538,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée est totalement appropriée pour agresser de gentilles personnes. Rapide, maniable et surtout extrêmement coupante. Elle est, de ce fait, interdite à la vente depuis longtemps. Mais tolérée aujourd''hui comme défense anti-bwork.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image50.svg'
+		'../images/image_epee/images50.svg'
 	),
 	(
 		'arme',
@@ -70596,7 +70596,7 @@ VALUES
 		NULL,
 		NULL,
 		'La créatrice de cette épée aux charmes certains, à voulu retranscrire toute sa beauté gracieuse auréolée d''un caractère piquant. Le résultat est bien plus parlant que des mots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image51.svg'
+		'../images/image_epee/images51.svg'
 	),
 	(
 		'arme',
@@ -70654,7 +70654,7 @@ VALUES
 		NULL,
 		NULL,
 		'La créatrice de cette épée aux charmes certains, à voulu retranscrire toute sa beauté gracieuse auréolée d''un caractère piquant. Le résultat est bien plus parlant que des mots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image52.svg'
+		'../images/image_epee/images52.svg'
 	),
 	(
 		'arme',
@@ -70712,7 +70712,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée est totalement appropriée pour agresser de gentilles personnes. Rapide, maniable et surtout extrêmement coupante. Elle est, de ce fait, interdite à la vente depuis longtemps. Mais tolérée aujourd''hui comme défense anti-bwork.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image53.svg'
+		'../images/image_epee/images53.svg'
 	),
 	(
 		'arme',
@@ -70770,7 +70770,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée a été bénie par les larmes de l''ange Raziel. Terriblement destructrice elle est suffisamment puissante pour permettre à son porteur d''affronter le plus terrible des adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image54.svg'
+		'../images/image_epee/images54.svg'
 	),
 	(
 		'arme',
@@ -70828,7 +70828,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée est totalement appropriée pour agresser de gentilles personnes. Rapide, maniable et surtout extrêmement coupante. Elle est, de ce fait, interdite à la vente depuis longtemps. Mais tolérée aujourd''hui comme défense anti-Bwork.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image55.svg'
+		'../images/image_epee/images55.svg'
 	),
 	(
 		'arme',
@@ -70886,7 +70886,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée a permis au célèbre marin Mobby Diqueriveurse, de découper en tranches, les tentacules du célèbre Kralamoure Géant de l''île de Moon, réputé pour étouffer les marins saouls et saouler les marins étouffés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image56.svg'
+		'../images/image_epee/images56.svg'
 	),
 	(
 		'arme',
@@ -70944,7 +70944,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée est totalement appropriée pour agresser de gentilles personnes. Rapide, maniable et surtout extrêmement coupante. Elle est, de ce fait, interdite à la vente depuis longtemps. Mais tolérée aujourd''hui comme défense anti-bwork.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image57.svg'
+		'../images/image_epee/images57.svg'
 	),
 	(
 		'arme',
@@ -71002,7 +71002,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce magnifique sabre est utilisé par les disciples Pandawushuka lorsqu''ils réussissent à atteindre le grade Nidanwa sans être morts entre temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image58.svg'
+		'../images/image_epee/images58.svg'
 	),
 	(
 		'arme',
@@ -71060,7 +71060,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cent pour cent naturelle, cette épée est comme une sixième griffe pour une main Ecaflip. A ce propos, faites attention à ne pas vous grattouiller le museau avec cette griffe là !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image59.svg'
+		'../images/image_epee/images59.svg'
 	),
 	(
 		'arme',
@@ -71118,7 +71118,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée ne sait pas trop sur quel sabot danser... Elle inflige des dégâts de chaque élément.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image60.svg'
+		'../images/image_epee/images60.svg'
 	),
 	(
 		'arme',
@@ -71176,7 +71176,7 @@ VALUES
 		NULL,
 		NULL,
 		'Fabriquée à partir de débris trouvés sur un Chef Crocodaille, cette arme saura se révéler très efficace si vous êtes assez beau, habile, intelligent et fort pour la manier. Avec un peu de chance, vous finirez par trouver quelqu''un qui acceptera de vous l''échanger contre une épée de boisaille.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image61.svg'
+		'../images/image_epee/images61.svg'
 	),
 	(
 		'arme',
@@ -71234,7 +71234,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette lame est lubrifiée afin de glisser plus facilement dans son fourreau. En revanche elle est impossible à nettoyer et doit être jetée après utilisation, surtout si elle est recouverte de sang. N''oubliez pas qu''elle sert avant tout à se protéger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image62.svg'
+		'../images/image_epee/images62.svg'
 	),
 	(
 		'arme',
@@ -71292,7 +71292,7 @@ VALUES
 		NULL,
 		NULL,
 		'A l''origine, cette épée était un accessoire utile pour s''aérer le visage. Il suffisait juste de l''agiter avec vigueur. Après que quelques têtes sont tombées, il fut admis qu''utiliser du métal pour ce genre d''objet n''était pas une bonne idée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image63.svg'
+		'../images/image_epee/images63.svg'
 	),
 	(
 		'arme',
@@ -71350,7 +71350,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce sabre a été forgé par Hotari Honza en personne. Il parait que c''est l''une de ses dernières créations avant sa reconversation en cuisinier. Une véritable pièce de collection en tout cas.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image64.svg'
+		'../images/image_epee/images64.svg'
 	),
 	(
 		'arme',
@@ -71408,7 +71408,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce magnifique sabre est utilisé par les disciples Pandawushuka lorsqu''ils réussissent à atteindre le grade Sandanwa sans être morts entre temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image65.svg'
+		'../images/image_epee/images65.svg'
 	),
 	(
 		'arme',
@@ -71466,7 +71466,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée, à la lame froide et pointue, fait ressurgir les instincts les plus basiques de celui qui la porte. Chaque geste, si anodin soit-il, est alors exécuté comme un coup bas. Il vous faudra renforcer votre esprit pour résister à cette lame.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image66.svg'
+		'../images/image_epee/images66.svg'
 	),
 	(
 		'arme',
@@ -71524,7 +71524,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce magnifique sabre est utilisé par les disciples Pandawushuka lorsqu''ils réussissent à atteindre le grade Yondanwa sans être morts entre temps.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image67.svg'
+		'../images/image_epee/images67.svg'
 	),
 	(
 		'arme',
@@ -71582,7 +71582,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une forgeuse écaflipette eut l''idée de forger cette épée après son échec à maitriser la technique ancestrale du même nom. Elle se disait qu''au moins cette griffe ne lui ferait pas faux bond.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image68.svg'
+		'../images/image_epee/images68.svg'
 	),
 	(
 		'arme',
@@ -71640,7 +71640,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée, d''une couleur peu commune, permet d''attendrir l''ennemi avant d''attendrir sa chair. Comme le ferait une douce Ecaflipette. Sa teinte particulière est obtenue en trempant la lame dans des viscères de monstres pendant plusieurs centaines d''années.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image69.svg'
+		'../images/image_epee/images69.svg'
 	),
 	(
 		'arme',
@@ -71698,7 +71698,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée brillante est idéale pour cueillir des fleurs, même si elles se défendent. Elle est même parfaite pour cueillir des arbres.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image70.svg'
+		'../images/image_epee/images70.svg'
 	),
 	(
 		'arme',
@@ -71756,7 +71756,7 @@ VALUES
 		NULL,
 		NULL,
 		'Tous les vieux Enutrofs vous le diront, une belle barbe est une barbe entretenue. Sa lame est si finement aiguisée, qu''elle conviendra même aux dames un peu trop poilues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image71.svg'
+		'../images/image_epee/images71.svg'
 	),
 	(
 		'arme',
@@ -71814,7 +71814,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette Arme est le symbole du Rat Blanc. Elle est réputée pour être capable de trancher ennemis et alliés avec la même facilité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image72.svg'
+		'../images/image_epee/images72.svg'
 	),
 	(
 		'arme',
@@ -71872,7 +71872,7 @@ VALUES
 		NULL,
 		NULL,
 		'Grizmine n''a jamais réussi à utiliser correctement cette griffe. A force de jouer aux cartes et aux jeux d''argent tout en buvant de la bière, ses muscles ont vite fini par s''atrophier. Chez certaines personnes, il semblerait que ce type de loisirs puisse même atrophier d''autres organes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image73.svg'
+		'../images/image_epee/images73.svg'
 	),
 	(
 		'arme',
@@ -71930,7 +71930,7 @@ VALUES
 		NULL,
 		NULL,
 		'Seul le Dark Vlad en personne est à même de faire ressurgir toute la magie de cette épée, pour la rendre réellement étincelante. En la portant, vous pourrez fièrement montrer que vous n''avez pas fini comme ces ridicules aventuriers qui ont péri sous sa lame.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image74.svg'
+		'../images/image_epee/images74.svg'
 	),
 	(
 		'arme',
@@ -71988,7 +71988,7 @@ VALUES
 		NULL,
 		NULL,
 		'Aiguisée comme le rasoir du soir, cette lame vous permettra tout de même de vous raser le matin, mais uniquement les aisselles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image75.svg'
+		'../images/image_epee/images75.svg'
 	),
 	(
 		'arme',
@@ -72046,7 +72046,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce glaive appartenait à Metzger le boucher, qui s''en servait pour récupérer rapidement les entrailles de ses ennemis pour en faire de la chair à saucisse qu''il revendait à bon prix sur les marchés de Bonta.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image76.svg'
+		'../images/image_epee/images76.svg'
 	),
 	(
 		'arme',
@@ -72104,7 +72104,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée fut forgée en visant uniquement l''esthétisme afin de décorer une cheminée de grande valeur, mais son efficacité lors des tueries lui vaut d''être maniée régulièrement. Les gens n''ont décidément aucun respect pour l''art.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image77.svg'
+		'../images/image_epee/images77.svg'
 	),
 	(
 		'arme',
@@ -72162,7 +72162,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée acérée a pris cette teinte pourpre si élégante après avoir éviscéré des milliers de Bworks. Alors qu''avant, elle n''était que violet foncé.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image78.svg'
+		'../images/image_epee/images78.svg'
 	),
 	(
 		'arme',
@@ -72220,7 +72220,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée légendaire a été forgée au petit matin, par une armée d''Enutrofs saouls, dans le fond des mines de Grimoth. Elle dégage une aura de puissance surprenante, mais aussi une odeur de bière éventée.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image79.svg'
+		'../images/image_epee/images79.svg'
 	),
 	(
 		'arme',
@@ -72278,7 +72278,7 @@ VALUES
 		NULL,
 		NULL,
 		'Plus d''un fier guerrier a refusé cette arme à cause de sa couleur, la majorité d''entre eux est morte sous sa lame.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image80.svg'
+		'../images/image_epee/images80.svg'
 	),
 	(
 		'arme',
@@ -72336,7 +72336,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée illustre bien un vieux proverbe Iop, quand l''ennemi périt, l''épée rit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image81.svg'
+		'../images/image_epee/images81.svg'
 	),
 	(
 		'arme',
@@ -72394,7 +72394,7 @@ VALUES
 		NULL,
 		NULL,
 		'Comme disait Brice : « Ce n''est pas sa taille qui compte, mais la façon de s''en servir. »',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image82.svg'
+		'../images/image_epee/images82.svg'
 	),
 	(
 		'arme',
@@ -72452,7 +72452,7 @@ VALUES
 		NULL,
 		NULL,
 		'Souriez ! Dites cheese ! Voilà, vous êtes coupé en deux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image83.svg'
+		'../images/image_epee/images83.svg'
 	),
 	(
 		'arme',
@@ -72510,7 +72510,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée construite à partir de fragments de mycoses, parasitera à merveille les intestins de vos ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image84.svg'
+		'../images/image_epee/images84.svg'
 	),
 	(
 		'arme',
@@ -72568,7 +72568,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée appartenait à un vieil Enutrof mégalomane, elle est en or massif, comme l''était son égo.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image85.svg'
+		'../images/image_epee/images85.svg'
 	),
 	(
 		'arme',
@@ -72626,7 +72626,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette épée dégage un pouvoir impressionnant, les carnages qu''elle augure sont de ceux restant dans les livres d''histoire. Mais son maniement reste étrangement hasardeux. Il existe peut-être quelqu''un capable de corriger cela.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_epee/image86.svg'
+		'../images/image_epee/images86.svg'
 	),
 	(
 		'arme',
@@ -72684,7 +72684,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marteau imprégné d''essence magique indispensable pour forger des oeuvres pleines de magie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image0.svg'
+		'../images/image_marteau/images0.svg'
 	),
 	(
 		'arme',
@@ -72742,7 +72742,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marteau imprégné d''essence magique indispensable pour forger des oeuvres pleines de magie',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image1.svg'
+		'../images/image_marteau/images1.svg'
 	),
 	(
 		'arme',
@@ -72800,7 +72800,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marteau imprégné d''essence magique indispensable pour forger des oeuvres pleines de magie',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image2.svg'
+		'../images/image_marteau/images2.svg'
 	);
 
 INSERT INTO
@@ -72919,7 +72919,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marteau imprégné d''essence magique indispensable pour forger des oeuvres pleines de magie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image3.svg'
+		'../images/image_marteau/images3.svg'
 	),
 	(
 		'arme',
@@ -72977,7 +72977,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marteau de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image4.svg'
+		'../images/image_marteau/images4.svg'
 	),
 	(
 		'arme',
@@ -73035,7 +73035,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création de haches.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image5.svg'
+		'../images/image_marteau/images5.svg'
 	),
 	(
 		'arme',
@@ -73093,7 +73093,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau est indispensable à la confection de boucliers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image6.svg'
+		'../images/image_marteau/images6.svg'
 	),
 	(
 		'arme',
@@ -73151,7 +73151,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau permet au Bricoleur de réaliser une multitude d''objets différents.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image7.svg'
+		'../images/image_marteau/images7.svg'
 	),
 	(
 		'arme',
@@ -73209,7 +73209,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau de piètre qualité a été conçu pour leurrer les forgerons, en leur faisant croire qu''ils avaient entre leurs mains un marteau d''excellente qualité. Il est fortement déconseillé de s''en servir, même pour ne rien faire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image8.svg'
+		'../images/image_marteau/images8.svg'
 	),
 	(
 		'arme',
@@ -73267,7 +73267,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création de marteaux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image9.svg'
+		'../images/image_marteau/images9.svg'
 	),
 	(
 		'arme',
@@ -73325,7 +73325,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création d''épées.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image10.svg'
+		'../images/image_marteau/images10.svg'
 	),
 	(
 		'arme',
@@ -73383,7 +73383,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création de dagues.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image11.svg'
+		'../images/image_marteau/images11.svg'
 	),
 	(
 		'arme',
@@ -73441,7 +73441,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outil indispensable à la création de pelles.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image12.svg'
+		'../images/image_marteau/images12.svg'
 	),
 	(
 		'arme',
@@ -73499,7 +73499,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marteau imprégné d''essence magique indispensable pour forger des oeuvres pleines de magie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image13.svg'
+		'../images/image_marteau/images13.svg'
 	),
 	(
 		'arme',
@@ -73557,7 +73557,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau destiné à la forge a été conçu pour un usage précis, ce qui rend son utilisation difficile pour autre chose. Seule une personne désespérée ou marginale s''en servirait pour forger des armes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image14.svg'
+		'../images/image_marteau/images14.svg'
 	),
 	(
 		'arme',
@@ -73615,7 +73615,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marteau de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image15.svg'
+		'../images/image_marteau/images15.svg'
 	),
 	(
 		'arme',
@@ -73673,7 +73673,7 @@ VALUES
 		NULL,
 		NULL,
 		'Marteau de simple facture, il ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image16.svg'
+		'../images/image_marteau/images16.svg'
 	),
 	(
 		'arme',
@@ -73731,7 +73731,7 @@ VALUES
 		NULL,
 		NULL,
 		'Version améliorée du Marteau de Boisaille, il n''a de puissant que le nom.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image17.svg'
+		'../images/image_marteau/images17.svg'
 	),
 	(
 		'arme',
@@ -73789,7 +73789,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le manuel de l''utilisateur explique que ce surprenant marteau est capable de libérer une énergie colossale lorsqu''il est correctement manié. Encore un manuel Osamodas traduit en Sadida...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image18.svg'
+		'../images/image_marteau/images18.svg'
 	),
 	(
 		'arme',
@@ -73847,7 +73847,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un marteau bien travaillé, intéressant pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image19.svg'
+		'../images/image_marteau/images19.svg'
 	),
 	(
 		'arme',
@@ -73905,7 +73905,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un marteau bien travaillé, intéressant pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image20.svg'
+		'../images/image_marteau/images20.svg'
 	),
 	(
 		'arme',
@@ -73963,7 +73963,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau augmente l''intelligence du héros qui le porte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image21.svg'
+		'../images/image_marteau/images21.svg'
 	),
 	(
 		'arme',
@@ -74021,7 +74021,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un marteau bien travaillé, intéressant pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image22.svg'
+		'../images/image_marteau/images22.svg'
 	),
 	(
 		'arme',
@@ -74079,7 +74079,7 @@ VALUES
 		NULL,
 		NULL,
 		'Tout comme l''amulette du même nom, le Maillet Aclou a la particularité de transformer votre énergie vitale en puissance. À consommer avec modération...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image23.svg'
+		'../images/image_marteau/images23.svg'
 	),
 	(
 		'arme',
@@ -74137,7 +74137,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un marteau bien travaillé, intéressant pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image24.svg'
+		'../images/image_marteau/images24.svg'
 	),
 	(
 		'arme',
@@ -74195,7 +74195,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau augmente l''intelligence du héros qui le porte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image25.svg'
+		'../images/image_marteau/images25.svg'
 	),
 	(
 		'arme',
@@ -74253,7 +74253,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau était détenu par le gardien de la Porte des Enfers. Il empêchait les vivants d''y entrer, les morts d''en sortir et les morts-vivants de bouger.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image26.svg'
+		'../images/image_marteau/images26.svg'
 	),
 	(
 		'arme',
@@ -74311,7 +74311,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une des armes fétiches créées par Ha. Cette masse, à l''aérodynamisme calculé, fend deux fois plus vite l''air, et donc deux fois plus vite les crânes. Au moins deux bonnes raisons pour posséder cette arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image27.svg'
+		'../images/image_marteau/images27.svg'
 	),
 	(
 		'arme',
@@ -74369,7 +74369,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau très particulier a été confectionné à partir de becs de Kwaks, ce qui explique pourquoi il pique très fort lorsque l''on se prend un coup de ce marteau.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image28.svg'
+		'../images/image_marteau/images28.svg'
 	),
 	(
 		'arme',
@@ -74427,7 +74427,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau augmente l''intelligence du héros qui le porte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image29.svg'
+		'../images/image_marteau/images29.svg'
 	),
 	(
 		'arme',
@@ -74485,7 +74485,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau augmente l''intelligence du héros qui le porte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image30.svg'
+		'../images/image_marteau/images30.svg'
 	),
 	(
 		'arme',
@@ -74543,7 +74543,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une des armes fétiches créées par Ha. Cette masse, à l''aérodynamisme calculé, fend deux fois plus vite l''air, et donc deux fois plus vite les crânes. Au moins deux bonnes raisons pour posséder cette arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image31.svg'
+		'../images/image_marteau/images31.svg'
 	),
 	(
 		'arme',
@@ -74601,7 +74601,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'Une belle arme étrange et fascinante, elle vous permettra de vous battre au corps à corps comme le ferait le meilleur des Chafers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image32.svg'
+		'../images/image_marteau/images32.svg'
 	),
 	(
 		'arme',
@@ -74659,7 +74659,7 @@ VALUES
 		NULL,
 		NULL,
 		'On dit que ce marteau est une pièce unique, car fabriqué de façon artisanale par d''anciens forgeurs Xelor. Certains racontent cependant qu''il s''agirait d''une lettre composant l''enseigne d''un forgeron. Testez-le donc sur une tête et faites votre choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image33.svg'
+		'../images/image_marteau/images33.svg'
 	),
 	(
 		'arme',
@@ -74717,7 +74717,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une des armes fétiches créées par Ha. Cette masse, à l''aérodynamisme calculé, fend deux fois plus vite l''air, et donc deux fois plus vite les crânes. Au moins deux bonnes raisons pour posséder cette arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image34.svg'
+		'../images/image_marteau/images34.svg'
 	),
 	(
 		'arme',
@@ -74775,7 +74775,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau a appartenu à Tau, un jeune disciple d''Osamodas qui passait son temps à raconter des blagues stupides. Son marteau, tout comme lui, ne rend pas très intelligent, mais peut parfois détendre l''atmosphère...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image35.svg'
+		'../images/image_marteau/images35.svg'
 	),
 	(
 		'arme',
@@ -74833,7 +74833,7 @@ VALUES
 		NULL,
 		NULL,
 		'Barabas est redoutable : il permet à son porteur de se déplacer plus facilement, et surtout d''être plus efficace en combat rapproché.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image36.svg'
+		'../images/image_marteau/images36.svg'
 	),
 	(
 		'arme',
@@ -74891,7 +74891,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une des armes fétiches créées par Ha. Cette masse, à l''aérodynamisme calculé, fend deux fois plus vite l''air, et donc deux fois plus vite les crânes. Au moins deux bonnes raisons pour posséder cette arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image37.svg'
+		'../images/image_marteau/images37.svg'
 	),
 	(
 		'arme',
@@ -74949,7 +74949,7 @@ VALUES
 		NULL,
 		NULL,
 		'On dit que ce marteau est une pièce unique, car fabriqué de façon artisanale par d''anciens forgeurs Xelor. Certains racontent cependant qu''il s''agirait d''une lettre composant l''enseigne d''un forgeron. Testez-le donc sur une tête et faites votre choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image38.svg'
+		'../images/image_marteau/images38.svg'
 	),
 	(
 		'arme',
@@ -75007,7 +75007,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce ridicule petit marteau servait à Zokrim le paysan, qui s''en servait pour planter ses piquets de clôtures à l''aurore. Personne ne sait pourquoi Zokrim plantait ses piquets à l''aurore, mais la légende raconte qu''il avait de bonnes raisons.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image39.svg'
+		'../images/image_marteau/images39.svg'
 	),
 	(
 		'arme',
@@ -75065,7 +75065,7 @@ VALUES
 		NULL,
 		NULL,
 		'On dit que ce marteau est une pièce unique, car fabriqué de façon artisanale par d''anciens forgeurs Xelor. Certains racontent cependant qu''il s''agirait d''une lettre composant l''enseigne d''un forgeron. Testez-le donc sur une tête et faites votre choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image40.svg'
+		'../images/image_marteau/images40.svg'
 	),
 	(
 		'arme',
@@ -75123,7 +75123,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sargasse était détenue par un enfant aux terribles pouvoirs. On ne sait pas ce qu''est devenue cette arme lorsqu''elle fut échangée à un aventurier contre un sac de billes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image41.svg'
+		'../images/image_marteau/images41.svg'
 	),
 	(
 		'arme',
@@ -75181,7 +75181,7 @@ VALUES
 		NULL,
 		NULL,
 		'On dit que ce marteau est une pièce unique, car fabriqué de façon artisanale par d''anciens forgeurs Xelor. Certains racontent cependant qu''il s''agirait d''une lettre composant l''enseigne d''un forgeron. Testez-le donc sur une tête et faites votre choix.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image42.svg'
+		'../images/image_marteau/images42.svg'
 	),
 	(
 		'arme',
@@ -75239,7 +75239,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette masse permet à son porteur de connaître le temps qu''il fera. Du moins, son inventeur le pensait-il avant de mourir foudroyé. On s''aperçut bien plus tard que cette masse était aussi habile à recevoir les coups qu''à les distribuer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image43.svg'
+		'../images/image_marteau/images43.svg'
 	),
 	(
 		'arme',
@@ -75297,7 +75297,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''après la légende, ce marteau tirerait son nom du son qu''il produit lorsqu''il s''écrase sur un crâne ennemi. Malheureusement, nul ennemi n''est là pour confirmer ces dires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image44.svg'
+		'../images/image_marteau/images44.svg'
 	),
 	(
 		'arme',
@@ -75355,7 +75355,7 @@ VALUES
 		NULL,
 		NULL,
 		'Vous aimez les animaux ? Toh''Lo aussi. Il leur avait même voué sa vie. Ce marteau raconte un peu son histoire , une grande communion avec les bêtes...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image45.svg'
+		'../images/image_marteau/images45.svg'
 	),
 	(
 		'arme',
@@ -75413,7 +75413,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outar Grand Bwork aurait commandé ces marteaux redoutables à un village Xélor contre un traité de paix: s''ils étaient efficaces, le village serait épargné. Quand les marteaux furent livrés, le village fut rasé. Après tout, il fallait bien les essayer !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image46.svg'
+		'../images/image_marteau/images46.svg'
 	),
 	(
 		'arme',
@@ -75471,7 +75471,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette masse permet à son porteur de connaître le temps qu''il fera. Du moins, son inventeur le pensait-il avant de mourir foudroyé. On s''aperçut bien plus tard que cette masse était aussi habile à recevoir les coups qu''à les distribuer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image47.svg'
+		'../images/image_marteau/images47.svg'
 	),
 	(
 		'arme',
@@ -75529,7 +75529,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette masse est l''héritage de l''ancienne tribu pacifique Aj Taye. Cela explique sa principale utilité : en la roulant sur les muscles endoloris la douleur disparaît. Les brutes épaisses vous diront qu''elle marche aussi très bien pour la faire apparaître.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image48.svg'
+		'../images/image_marteau/images48.svg'
 	),
 	(
 		'arme',
@@ -75587,7 +75587,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette masse permet à son porteur de connaître le temps qu''il fera. Du moins, son inventeur le pensait-il avant de mourir foudroyé. On s''aperçut bien plus tard que cette masse était aussi habile à recevoir les coups qu''à les distribuer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image49.svg'
+		'../images/image_marteau/images49.svg'
 	),
 	(
 		'arme',
@@ -75645,7 +75645,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outar Grand Bwork aurait commandé ces marteaux redoutables à un village Xélor contre un traité de paix: s''ils étaient efficaces, le village serait épargné. Quand les marteaux furent livrés, le village fut rasé. Après tout, il fallait bien les essayer !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image50.svg'
+		'../images/image_marteau/images50.svg'
 	),
 	(
 		'arme',
@@ -75703,7 +75703,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau est idéal pour imprimer votre pacifisme sur le crâne de vos adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image51.svg'
+		'../images/image_marteau/images51.svg'
 	),
 	(
 		'arme',
@@ -75761,7 +75761,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette masse permet à son porteur de connaître le temps qu''il fera. Du moins, son inventeur le pensait-il avant de mourir foudroyé. On s''aperçut bien plus tard que cette masse était aussi habile à recevoir les coups qu''à les distribuer.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image52.svg'
+		'../images/image_marteau/images52.svg'
 	),
 	(
 		'arme',
@@ -75819,7 +75819,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette masse est l''héritage de l''ancienne tribu pacifique Aj Taye. Cela explique sa principale utilité : en la roulant sur les muscles endoloris la douleur disparaît. Les brutes épaisses vous diront qu''elle marche aussi très bien pour la faire apparaître.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image53.svg'
+		'../images/image_marteau/images53.svg'
 	),
 	(
 		'arme',
@@ -75877,7 +75877,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outar Grand Bwork aurait commandé ces marteaux redoutables à un village Xélor contre un traité de paix: s''ils étaient efficaces, le village serait épargné. Quand les marteaux furent livrés, le village fut rasé. Après tout, il fallait bien les essayer !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image54.svg'
+		'../images/image_marteau/images54.svg'
 	),
 	(
 		'arme',
@@ -75935,7 +75935,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau légendaire a déjà fait ses preuves en Amakna, appartenant au puissant Twote en Carton, qui n''hésita jamais à s''en servir, pour réduire ses adversaires en patte à mâcher et confettis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image55.svg'
+		'../images/image_marteau/images55.svg'
 	),
 	(
 		'arme',
@@ -75993,7 +75993,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette masse est l''héritage de l''ancienne tribu pacifique Aj Taye. Cela explique sa principale utilité : en la roulant sur les muscles endoloris la douleur disparaît. Les brutes épaisses vous diront qu''elle marche aussi très bien pour la faire apparaître.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image56.svg'
+		'../images/image_marteau/images56.svg'
 	),
 	(
 		'arme',
@@ -76051,7 +76051,7 @@ VALUES
 		NULL,
 		NULL,
 		'Outar Grand Bwork aurait commandé ces marteaux redoutables à un village Xélor contre un traité de paix: s''ils étaient efficaces, le village serait épargné. Quand les marteaux furent livrés, le village fut rasé. Après tout, il fallait bien les essayer !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image57.svg'
+		'../images/image_marteau/images57.svg'
 	),
 	(
 		'arme',
@@ -76109,7 +76109,7 @@ VALUES
 		NULL,
 		NULL,
 		'En Amakna, lorsque les jeunes écoliers ne sont pas sages ou ne comprennent rien, on leur tape les doigts avec ce marteau. Celui-ci a écrasé surtout des doigts de Iops.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image58.svg'
+		'../images/image_marteau/images58.svg'
 	),
 	(
 		'arme',
@@ -76167,7 +76167,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un marteau exceptionnel, destiné à soigner son petit Prespic adoré, ou ses ennemis si vous êtes un disciple du Chafer Fu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image59.svg'
+		'../images/image_marteau/images59.svg'
 	),
 	(
 		'arme',
@@ -76225,7 +76225,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette masse est l''héritage de l''ancienne tribu pacifique Aj Taye. Cela explique sa principale utilité : en la roulant sur les muscles endoloris la douleur disparaît. Les brutes épaisses vous diront qu''elle marche aussi très bien pour la faire apparaître.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image60.svg'
+		'../images/image_marteau/images60.svg'
 	),
 	(
 		'arme',
@@ -76283,7 +76283,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau a été fabriqué à partir d''une horloge, la fameuse horloge avalée par le Crocodaille qui avait dévoré la main du Captain'' Brochet. Si on a pu récupérer l''horloge, on ne sait en revanche pas ce qu''il est advenu de la main...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image61.svg'
+		'../images/image_marteau/images61.svg'
 	),
 	(
 		'arme',
@@ -76341,7 +76341,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau est tellement ridicule que votre ennemi explosera de rire en vous voyant. Vous donnant juste assez de temps pour l''exploser vraiment.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image62.svg'
+		'../images/image_marteau/images62.svg'
 	),
 	(
 		'arme',
@@ -76399,7 +76399,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau a été forgé pendant des années et des années, par des dizaines de forgerons. Au final, on retrouve une arme splendide, mais qui a malheureusement hérité de ses concepteurs une certaine idée de la vitesse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image63.svg'
+		'../images/image_marteau/images63.svg'
 	),
 	(
 		'arme',
@@ -76457,7 +76457,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau tire sa puissance d''un subtile enchantement. Ca ne se voit pas au premier coup d''oeil, ni au second. C''est pour cela que l''on prend la peine de le préciser, histoire d''augmenter la valeur de cet objet aux yeux des acheteurs un peu naïfs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image64.svg'
+		'../images/image_marteau/images64.svg'
 	),
 	(
 		'arme',
@@ -76515,7 +76515,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Polpoulette est le résultat d''un croisement entre un Kwak de Feu agressif et un Tofu maladif. Depuis la nuit des temps, la chasse à la Polpoulette est considérée comme un rituel immuable, chasser cette horrible créature est un vrai plaisir.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image65.svg'
+		'../images/image_marteau/images65.svg'
 	),
 	(
 		'arme',
@@ -76573,7 +76573,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau est tellement ridicule que votre ennemi explosera de rire en vous voyant. Vous donnant juste assez de temps pour l''exploser vraiment.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image66.svg'
+		'../images/image_marteau/images66.svg'
 	),
 	(
 		'arme',
@@ -76631,7 +76631,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau est tellement ridicule que votre ennemi explosera de rire en vous voyant. Vous donnant juste assez de temps pour l''exploser vraiment.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image67.svg'
+		'../images/image_marteau/images67.svg'
 	),
 	(
 		'arme',
@@ -76689,7 +76689,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Ragnarok est un marteau très puissant, capable de déchaîner des tempêtes ou les foudres de vos alliés si vous leur tapez dessus.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image68.svg'
+		'../images/image_marteau/images68.svg'
 	),
 	(
 		'arme',
@@ -76747,7 +76747,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau est tellement ridicule que votre ennemi explosera de rire en vous voyant. Vous donnant juste assez de temps pour l''exploser vraiment.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image69.svg'
+		'../images/image_marteau/images69.svg'
 	),
 	(
 		'arme',
@@ -76805,7 +76805,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Falistos sont des démons Xélors. Ayant renié leurs anciens principes, ils ont développé leur force en forgeant des marteaux toujours plus puissants. Après avoir apporté le chaos, ils furent battus et bannis sous terre. Mais quelques armes subsistèrent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image70.svg'
+		'../images/image_marteau/images70.svg'
 	),
 	(
 		'arme',
@@ -76863,7 +76863,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau n''est pas pratique, pas spécialement beau, pas très ergonomique, pas puissant, pas assez lourd, trop fragile, mal équilibré, il brille trop et sent mauvais. Mais il est coloré ! Enfin, un peu de couleurs dans ce monde de brutes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image71.svg'
+		'../images/image_marteau/images71.svg'
 	),
 	(
 		'arme',
@@ -76921,7 +76921,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce terrible marteau vous permettra enfin de prouver que les personnes pensant que le muscle prime sur le cerveau ont tort! (Ceci n''est valable uniquement sur des personnes moins fortes, les autres, n''oubliez pas, ont TOUJOURS raison)',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image72.svg'
+		'../images/image_marteau/images72.svg'
 	),
 	(
 		'arme',
@@ -76979,7 +76979,7 @@ VALUES
 		NULL,
 		NULL,
 		'On ne connaît que le diminutif de son créateur, un certain Fantal, mais on sait qu''il avait très mauvais goût. En effet, il appréciait s''enduire de Gelée Royale pour ensuite se recouvrir de plumes de Tofu Royal. Et oui en plus, il avait des goûts de luxe.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image73.svg'
+		'../images/image_marteau/images73.svg'
 	),
 	(
 		'arme',
@@ -77037,7 +77037,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet énorme marteau est en fait une épée de Craqueleur, munie d''une pierre du Craqueleur Légendaire. Cette création surprenante saura surprendre vos adversaires, juste avant de les écraser.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image74.svg'
+		'../images/image_marteau/images74.svg'
 	),
 	(
 		'arme',
@@ -77095,7 +77095,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est l''arme rêvée des Xélors un tantinet rebelles et en manque de sensations fortes. Ca leur permet surtout de compenser une vieille histoire de complexe à propos de leur taille franchement ridicule.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image75.svg'
+		'../images/image_marteau/images75.svg'
 	),
 	(
 		'arme',
@@ -77153,7 +77153,7 @@ VALUES
 		NULL,
 		NULL,
 		'Kaiser est le nom d''un Dragon Cochon qui jadis dévasta le village de Bounkaïda. Lorsque la milice eut enfin raison du monstre, les forgerons créèrent de nombreuses armes à partir des restes de la bête. Ce marteau en fait partie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image76.svg'
+		'../images/image_marteau/images76.svg'
 	),
 	(
 		'arme',
@@ -77211,7 +77211,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau réduit si facilement les crânes en bouillie qu''il a pris une élégante teinte rouge tomate.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image77.svg'
+		'../images/image_marteau/images77.svg'
 	),
 	(
 		'arme',
@@ -77269,7 +77269,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau tire sa jolie couleur des morceaux de Corailleur qui le composent. Contrairement à ce que l''on pourrait croire, il ne servait pas initialement à écrabouiller les Iops ou les ennemis. En réalité, il s''agit d''un objet d''artisanat laissé par une ancienne civilisation. Cette masse servait de heurtoir pour que les personnes ayant des problèmes d''audition puissent comprendre que quelqu''un frappe à la porte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image78.svg'
+		'../images/image_marteau/images78.svg'
 	),
 	(
 		'arme',
@@ -77327,7 +77327,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Terps était une très vilaine créature aussi dangereuse et mal aimée que sa grande rivale, la vieille Liche. Déterminée à la surpasser, elle forgea ce marteau pour lui écraser les orteils, mais elle lui cassa surtout les pieds. Une grande histoire d''amour naquit.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image79.svg'
+		'../images/image_marteau/images79.svg'
 	),
 	(
 		'arme',
@@ -77385,7 +77385,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pour lutter contre les bêtes à cornes, ce marteau est idéal. En revanche, pour planter des clous, ou des choux, même à la mode de chez nous, c''est une autre histoire.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image80.svg'
+		'../images/image_marteau/images80.svg'
 	),
 	(
 		'arme',
@@ -77443,7 +77443,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce léger marteau, était destiné à la base aux petits êtres : les Xélors utilisaient le manche, et les Araknes recevaient la masse sur la tête. Il a vite été détourné de son usage et constitue maintenant un petit jouet pour les jeunes Iops bricoleurs.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image81.svg'
+		'../images/image_marteau/images81.svg'
 	),
 	(
 		'arme',
@@ -77501,7 +77501,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau rouillé est parfait pour éclater les érables, ou les Moskitos.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image82.svg'
+		'../images/image_marteau/images82.svg'
 	),
 	(
 		'arme',
@@ -77559,7 +77559,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le célèbre Capitaine Kradoc a utilisé pendant des dizaines d''années ce terrible marteau afin d''occire tous ceux qui se mettaient en travers de son chemin, y compris femmes et enfants. Son mauvais caractère légendaire et son goût prononcé pour l''alcool, en ont tout de même fait une personne très respectée des différents corps d''armées, ennemis, comme alliés.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image83.svg'
+		'../images/image_marteau/images83.svg'
 	),
 	(
 		'arme',
@@ -77617,7 +77617,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce somptueux marteau a fait tourner la tête de plus d''un Osamodas. En effet, il est si puissant, que tout le monde se retourne quand on croise son propriétaire. Ce marteau est depuis ce temps-là, à l''origine d''une bien étrange pathologie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image84.svg'
+		'../images/image_marteau/images84.svg'
 	),
 	(
 		'arme',
@@ -77675,7 +77675,7 @@ VALUES
 		NULL,
 		NULL,
 		'Kahr était vraiment à la masse lorsqu''il s''agissait de combattre avec un marteau. Heureusement pour lui, il reçut en héritage cette véritable merveille, qui fit de lui une personne respectée et jalousée. Le succès ne tient parfois à rien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image85.svg'
+		'../images/image_marteau/images85.svg'
 	),
 	(
 		'arme',
@@ -77733,7 +77733,7 @@ VALUES
 		NULL,
 		NULL,
 		'C''est le marteau parfait des moments chauds, vous aurez un succès énorme parmi votre entourage si vous savez vous y prendre correctement. De toute évidence, à ne pas mettre entre toutes les mains...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image86.svg'
+		'../images/image_marteau/images86.svg'
 	),
 	(
 		'arme',
@@ -77791,7 +77791,7 @@ VALUES
 		NULL,
 		NULL,
 		'Plus lourd qu''un crâne vide de Krokeur, mais moins solide qu''un fémur de Kirboule des cavernes, ce marteau reste néanmoins une arme redoutable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image87.svg'
+		'../images/image_marteau/images87.svg'
 	),
 	(
 		'arme',
@@ -77849,7 +77849,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau était autrefois utilisé pour faire sonner la cloche de l''église d''Amakna. De nos jours, il sert toujours à faire de la musique, en broyant les os des imprudents par exemple.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image88.svg'
+		'../images/image_marteau/images88.svg'
 	),
 	(
 		'arme',
@@ -77907,7 +77907,7 @@ VALUES
 		NULL,
 		NULL,
 		'Plus grande, plus lourde, plus puissante, cette masse s''abat plus bruyamment sur les ennemis. Mais curieusement, elle est plus légère et d''une prise en main plus agréable. Le Corailleur dont on s''est servi pour la confectionner n''était pas magistral pour rien.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image89.svg'
+		'../images/image_marteau/images89.svg'
 	),
 	(
 		'arme',
@@ -77965,7 +77965,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cet énorme marteau fait un bruit incroyable lorsqu''il tape sur un crâne de Iop, car il a tendance à amplifier les résonances. Surprenant, mais terriblement efficace.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image90.svg'
+		'../images/image_marteau/images90.svg'
 	),
 	(
 		'arme',
@@ -78023,7 +78023,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau fait voir la vie en rose avant de vous réduire le crâne en bouillie.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image91.svg'
+		'../images/image_marteau/images91.svg'
 	),
 	(
 		'arme',
@@ -78081,7 +78081,7 @@ VALUES
 		NULL,
 		NULL,
 		'Malgré sa petite taille, la Gamine Zoth arbore un immense marteau. C''est une façon comme une autre de renforcer la musculature. Pas besoin de mettre des poids aux pieds ou aux poignets pour augmenter la force : traîner le marteau est bien suffisant !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image92.svg'
+		'../images/image_marteau/images92.svg'
 	),
 	(
 		'arme',
@@ -78139,7 +78139,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau de mineur est utilisable comme une pelle ou pioche selon vos besoins. Son utilisation en jardinage est cependant proscrite, car il a tendance à détruire de manière définitive les pelouses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image93.svg'
+		'../images/image_marteau/images93.svg'
 	),
 	(
 		'arme',
@@ -78197,7 +78197,7 @@ VALUES
 		NULL,
 		NULL,
 		'Son précédent propriétaire dansait avec les Mulous. Il est mort dévoré.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image94.svg'
+		'../images/image_marteau/images94.svg'
 	),
 	(
 		'arme',
@@ -78255,7 +78255,7 @@ VALUES
 		NULL,
 		NULL,
 		'Conçu par un alchimiste de renom pendant un séjour dans les prisons de Brâkmar, ce marteau devait à l''origine servir à casser le matériel d''alchimie de ses concurrents.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image95.svg'
+		'../images/image_marteau/images95.svg'
 	),
 	(
 		'arme',
@@ -78313,7 +78313,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau servait à l''origine à casser les tablettes de chocolat, pour en faire de la poudre. Il a donc acquis au fil des années, une odeur et un goût délicieux. Une raison de plus, pour aller le faire goûter à vos ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image96.svg'
+		'../images/image_marteau/images96.svg'
 	),
 	(
 		'arme',
@@ -78371,7 +78371,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ce marteau a été créé à l''époque du Roi Stéphane, qui a terrorisé des millions de gens.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image97.svg'
+		'../images/image_marteau/images97.svg'
 	),
 	(
 		'arme',
@@ -78429,7 +78429,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ougah a la tête dure, plus dure que n''importe qui, c''est pourquoi un marteau créé avec son crâne est idéal pour fracasser celui des autres.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_marteau/image98.svg'
+		'../images/image_marteau/images98.svg'
 	),
 	(
 		'arme',
@@ -78487,7 +78487,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pelle de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image0.svg'
+		'../images/image_pelle/images0.svg'
 	),
 	(
 		'arme',
@@ -78545,7 +78545,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pelle de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image1.svg'
+		'../images/image_pelle/images1.svg'
 	),
 	(
 		'arme',
@@ -78603,7 +78603,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pelle de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image2.svg'
+		'../images/image_pelle/images2.svg'
 	),
 	(
 		'arme',
@@ -78661,7 +78661,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pelle de simple facture, elle ne fera pas de votre héros une légende.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image3.svg'
+		'../images/image_pelle/images3.svg'
 	),
 	(
 		'arme',
@@ -78719,7 +78719,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une pelle bien équilibrée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image4.svg'
+		'../images/image_pelle/images4.svg'
 	),
 	(
 		'arme',
@@ -78777,7 +78777,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, la pelle de rapage fera de vous un vaillant combattant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image5.svg'
+		'../images/image_pelle/images5.svg'
 	),
 	(
 		'arme',
@@ -78835,7 +78835,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est la petite favorite des cultivateurs de champs, surtout de pomme de tewe. Rien ne vous empêche cependant de retourner d''autres types de patate avec.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image6.svg'
+		'../images/image_pelle/images6.svg'
 	),
 	(
 		'arme',
@@ -78893,7 +78893,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une pelle bien équilibrée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image7.svg'
+		'../images/image_pelle/images7.svg'
 	),
 	(
 		'arme',
@@ -78951,7 +78951,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, la pelle de rapage fera de vous un vaillant combattant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image8.svg'
+		'../images/image_pelle/images8.svg'
 	),
 	(
 		'arme',
@@ -79009,7 +79009,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une pelle bien équilibrée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image9.svg'
+		'../images/image_pelle/images9.svg'
 	),
 	(
 		'arme',
@@ -79067,7 +79067,7 @@ VALUES
 		NULL,
 		NULL,
 		'Une pelle bien équilibrée, intéressante pour les novices.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image10.svg'
+		'../images/image_pelle/images10.svg'
 	),
 	(
 		'arme',
@@ -79125,7 +79125,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, la pelle de rapage fera de vous un vaillant combattant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image11.svg'
+		'../images/image_pelle/images11.svg'
 	),
 	(
 		'arme',
@@ -79183,7 +79183,7 @@ VALUES
 		NULL,
 		NULL,
 		'D''excellente facture, la pelle de rapage fera de vous un vaillant combattant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image12.svg'
+		'../images/image_pelle/images12.svg'
 	),
 	(
 		'arme',
@@ -79241,7 +79241,7 @@ VALUES
 		NULL,
 		NULL,
 		'La seule chose qui soit aussi solide qu''un Craqueleur, c''est un Craqueleur, voilà pourquoi cette pelle, destinée à la chasse aux craqueleurs, est en Pierre de Craqueleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image13.svg'
+		'../images/image_pelle/images13.svg'
 	),
 	(
 		'arme',
@@ -79299,7 +79299,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'Barbe Grise était l''arme favorite du démon nain Assan Cehef, qui terrorisa de nombreux villageois, attaquant sans crier "gare", ni "train".',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image14.svg'
+		'../images/image_pelle/images14.svg'
 	),
 	(
 		'arme',
@@ -79357,7 +79357,7 @@ VALUES
 		NULL,
 		NULL,
 		'Gaston Houze, jardinier disciple d''Enutrof, avait tendance à toujours trop abuser des plantes. Cette arme en est la preuve : puissante, elle aura tendance à vous jouer des tours et à mettre à mal votre intelligence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image15.svg'
+		'../images/image_pelle/images15.svg'
 	),
 	(
 		'arme',
@@ -79415,7 +79415,7 @@ VALUES
 		NULL,
 		NULL,
 		'La seule chose qui soit aussi solide qu''un Craqueleur, c''est un Craqueleur, voilà pourquoi cette pelle destinée à la chasse aux craqueleurs est en Pierre de Craqueleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image16.svg'
+		'../images/image_pelle/images16.svg'
 	),
 	(
 		'arme',
@@ -79473,7 +79473,7 @@ VALUES
 		NULL,
 		NULL,
 		'Thart'', le créateur de cette pelle, était un disciple de Iop. Un nom prédestiné, pour un Iop, n''est-ce pas ?',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image17.svg'
+		'../images/image_pelle/images17.svg'
 	),
 	(
 		'arme',
@@ -79531,7 +79531,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les habitants de l''île Koutoulou fabriquent artisanalement ces pelles affreuses avec du bric et du broc (surtout du broc). Pitoyables pour creuser, elles sont uniquement destinées à faire peur aux esprits et aux enfants pas assez sages.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image18.svg'
+		'../images/image_pelle/images18.svg'
 	),
 	(
 		'arme',
@@ -79589,7 +79589,7 @@ VALUES
 		NULL,
 		NULL,
 		'Après une soirée un peu trop arrosée à la taverne qui a débouché sur une bagarre, un Enutrof s''est aperçu que cette pelle conçue à l''origine pour les grands travaux de construction était une excellente arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image19.svg'
+		'../images/image_pelle/images19.svg'
 	),
 	(
 		'arme',
@@ -79647,7 +79647,7 @@ VALUES
 		NULL,
 		NULL,
 		'La seule chose qui soit aussi solide qu''un Craqueleur, c''est un Craqueleur, voilà pourquoi cette pelle destinée à la chasse aux craqueleurs est en Pierre de Craqueleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image20.svg'
+		'../images/image_pelle/images20.svg'
 	),
 	(
 		'arme',
@@ -79705,7 +79705,7 @@ VALUES
 		NULL,
 		NULL,
 		'Après une soirée un peu trop arrosée à la taverne qui a débouché sur une bagarre, un Enutrof s''est aperçu que cette pelle conçue à l''origine pour les grands travaux de construction était une excellente arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image21.svg'
+		'../images/image_pelle/images21.svg'
 	),
 	(
 		'arme',
@@ -79763,7 +79763,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les habitants de l''île Koutoulou fabriquent artisanalement ces pelles affreuses avec du bric et du broc (surtout du broc). Pitoyables pour creuser, elles sont uniquement destinées à faire peur aux esprits et aux enfants pas assez sages.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image22.svg'
+		'../images/image_pelle/images22.svg'
 	),
 	(
 		'arme',
@@ -79821,7 +79821,7 @@ VALUES
 		NULL,
 		NULL,
 		'La seule chose qui soit aussi solide qu''un Craqueleur, c''est un Craqueleur, voilà pourquoi cette pelle destinée à la chasse aux craqueleurs est en Pierre de Craqueleur.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image23.svg'
+		'../images/image_pelle/images23.svg'
 	),
 	(
 		'arme',
@@ -79879,7 +79879,7 @@ VALUES
 		NULL,
 		NULL,
 		'Après une soirée un peu trop arrosée à la taverne qui a débouché sur une bagarre, un Enutrof s''est aperçu que cette pelle conçue à l''origine pour les grands travaux de construction était une excellente arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image24.svg'
+		'../images/image_pelle/images24.svg'
 	),
 	(
 		'arme',
@@ -79937,7 +79937,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est utilisée par les Enutrof pour cueillir des fruits dans les arbres, mais elle peut s''avérer une arme de combat redoutable. Comme dirait son créateur, Mechba : ''eche est beche, ma pelle''.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image25.svg'
+		'../images/image_pelle/images25.svg'
 	),
 	(
 		'arme',
@@ -79995,7 +79995,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les habitants de l''île Koutoulou fabriquent artisanalement ces pelles affreuses avec du bric et du broc (surtout du broc). Pitoyables pour creuser, elles sont uniquement destinées à faire peur aux esprits et aux enfants pas assez sages.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image26.svg'
+		'../images/image_pelle/images26.svg'
 	),
 	(
 		'arme',
@@ -80053,7 +80053,7 @@ VALUES
 		NULL,
 		NULL,
 		'Après une soirée un peu trop arrosée à la taverne qui a débouché sur une bagarre, un Enutrof s''est aperçu que cette pelle conçue à l''origine pour les grands travaux de construction était une excellente arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image27.svg'
+		'../images/image_pelle/images27.svg'
 	),
 	(
 		'arme',
@@ -80111,7 +80111,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est faite d''un bois très rare. Selon la légende, toute jeune fille au contact de cette pelle tombera dans un sommeil éternel. Notez bien qu''en cas de contacts répétés, l''effet est applicable à n''importe qui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image28.svg'
+		'../images/image_pelle/images28.svg'
 	),
 	(
 		'arme',
@@ -80169,7 +80169,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les habitants de l''île Koutoulou fabriquent artisanalement ces pelles affreuses avec du bric et du broc (surtout du broc). Pitoyables pour creuser, elles sont uniquement destinées à faire peur aux esprits et aux enfants pas assez sages.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image29.svg'
+		'../images/image_pelle/images29.svg'
 	),
 	(
 		'arme',
@@ -80227,7 +80227,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est faite d''un bois très rare. Selon la légende, toute jeune fille au contact de cette pelle tombera dans un sommeil éternel. Notez bien qu''en cas de contacts répétés, l''effet est applicable à n''importe qui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image30.svg'
+		'../images/image_pelle/images30.svg'
 	),
 	(
 		'arme',
@@ -80285,7 +80285,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quoi de mieux qu''une pelle écologique pour mettre un terme aux mauvaises herbes ? Cette pelle est la réponse, avec elle vous pourrez aisément arracher des pissenlits et les faire manger à vos ennemis, en commençant par la racine !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image31.svg'
+		'../images/image_pelle/images31.svg'
 	),
 	(
 		'arme',
@@ -80343,7 +80343,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est faite d''un bois très rare. Selon la légende, toute jeune fille au contact de cette pelle tombera dans un sommeil éternel. Notez bien qu''en cas de contacts répétés, l''effet est applicable à n''importe qui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image32.svg'
+		'../images/image_pelle/images32.svg'
 	),
 	(
 		'arme',
@@ -80401,7 +80401,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle de jardinier est particulièrement efficace pour couper les rhizomes, des mauvaises herbes. C''est également une excellente arme dès qu''il s''agit de couper autre chose que des rhizomes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image33.svg'
+		'../images/image_pelle/images33.svg'
 	),
 	(
 		'arme',
@@ -80459,7 +80459,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quoi de mieux qu''une pelle écologique pour mettre un terme aux mauvaises herbes ? Cette pelle est LA réponse, avec elle vous pourrez aisément arracher des pissenlits et les faire manger à vos ennemis, en commençant par la racine !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image34.svg'
+		'../images/image_pelle/images34.svg'
 	),
 	(
 		'arme',
@@ -80517,7 +80517,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est faite d''un bois très rare. Selon la légende, toute jeune fille au contact de cette pelle tombera dans un sommeil éternel. Notez bien qu''en cas de contacts répétés, l''effet est applicable à n''importe qui.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image35.svg'
+		'../images/image_pelle/images35.svg'
 	),
 	(
 		'arme',
@@ -80575,7 +80575,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est utilisée par les Enutrof pour cueillir des fruits dans les arbres, mais elle peut s''avérer une arme de combat redoutable. Comme dirait son créateur, Mechba : ''eche est beche, ma pelle''.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image36.svg'
+		'../images/image_pelle/images36.svg'
 	),
 	(
 		'arme',
@@ -80633,7 +80633,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quoi de mieux qu''une pelle écologique pour mettre un terme aux mauvaises herbes ? Cette pelle est LA réponse, avec elle vous pourrez aisément arracher des pissenlits et les faire manger à vos ennemis, en commençant par la racine !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image37.svg'
+		'../images/image_pelle/images37.svg'
 	),
 	(
 		'arme',
@@ -80691,7 +80691,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle fut créée et utilisée par la famille Woukuis dans la guerre intestine entre les groupes Elle-Poma et Touge-Woukuis, concurrents directs d''exportation de tofus grillés. C''est une arme redoutable, son seul défaut est de rendre les mains grasses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image38.svg'
+		'../images/image_pelle/images38.svg'
 	),
 	(
 		'arme',
@@ -80749,7 +80749,7 @@ VALUES
 		NULL,
 		NULL,
 		'Quoi de mieux qu''une pelle écologique pour mettre un terme aux mauvaises herbes ? Cette pelle est LA réponse, avec elle vous pourrez aisément arracher des pissenlits et les faire manger à vos ennemis, en commençant par la racine !',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image39.svg'
+		'../images/image_pelle/images39.svg'
 	),
 	(
 		'arme',
@@ -80807,7 +80807,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ikan etait le petit poisson de Chourros le guerrier. Il est important de préciser que le nom de cette pelle n''a aucun rapport avec ce poisson, mais plutôt avec son odeur...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image40.svg'
+		'../images/image_pelle/images40.svg'
 	),
 	(
 		'arme',
@@ -80865,7 +80865,7 @@ VALUES
 		NULL,
 		NULL,
 		'Rien de mieux pour avoir la "doudi-attitude", que d''utiliser cette pelle surprenante. On se moquera peut-être de vous, mais qu''importe, il est temps d''assumer votre style et vos goûts différents.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image41.svg'
+		'../images/image_pelle/images41.svg'
 	),
 	(
 		'arme',
@@ -80923,7 +80923,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Pelle pelle pelle comme euh le jour, pelle pelle pelle comme euh l''amour" fredonnait Noh Yèle l''illustre forgeur d''épées. Il chantait si faux, que sa femme en est restée marquée à vie lorsqu''elle lui fabriqua cette pelle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image42.svg'
+		'../images/image_pelle/images42.svg'
 	),
 	(
 		'arme',
@@ -80981,7 +80981,7 @@ VALUES
 		NULL,
 		NULL,
 		'Croisement entre une pelle et une truelle, la pelle-truelle perdit son caractère utile pour devenir une arme incontournable. Rapide à manier et à ranger grâce à sa petite taille, c''est l''accessoire idéal de tout Enutrof aimant l''alcool.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image43.svg'
+		'../images/image_pelle/images43.svg'
 	),
 	(
 		'arme',
@@ -81039,7 +81039,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle fut créée et utilisée par la famille Woukuis dans la guerre intestine entre les groupes Elle-Poma et Touge-Woukuis, concurrents directs d''exportation de tofus grillés. C''est une arme redoutable, son seul défaut est de rendre les mains grasses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image44.svg'
+		'../images/image_pelle/images44.svg'
 	),
 	(
 		'arme',
@@ -81097,7 +81097,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est utilisée par les grands prêtres Kannibouls de l''île de Moon pour invoquer Zébuth, une de leurs divinités souvent représentée sous une forme bovine. Seuls les personnages vils peuvent utiliser cette arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image45.svg'
+		'../images/image_pelle/images45.svg'
 	),
 	(
 		'arme',
@@ -81155,7 +81155,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle fut créée et utilisée par la famille Woukuis dans la guerre intestine entre les groupes Elle-Poma et Touge-Woukuis, concurrents directs d''exportation de tofus grillés. C''est une arme redoutable, son seul défaut est de rendre les mains grasses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image46.svg'
+		'../images/image_pelle/images46.svg'
 	),
 	(
 		'arme',
@@ -81213,7 +81213,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est utilisée par les Enutrof pour cueillir des fruits dans les arbres, mais elle peut s''avérer une arme de combat redoutable. Comme dirait son créateur, Mechba : ''eche est beche, ma pelle''.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image47.svg'
+		'../images/image_pelle/images47.svg'
 	),
 	(
 		'arme',
@@ -81271,7 +81271,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle fut l''arme d''autodéfense d''un petit groupe d''Enutrofettes. Ces dames, une fois l''instrument de puissance entre leurs mains, changèrent du tout au tout et tentèrent de conquérir le monde.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image48.svg'
+		'../images/image_pelle/images48.svg'
 	),
 	(
 		'arme',
@@ -81329,7 +81329,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle fut créée et utilisée par la famille Woukuis dans la guerre intestine entre les groupes Elle-Poma et Touge-Woukuis, concurrents directs d''exportation de tofus grillés. C''est une arme redoutable, son seul défaut est de rendre les mains grasses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image49.svg'
+		'../images/image_pelle/images49.svg'
 	),
 	(
 		'arme',
@@ -81387,7 +81387,7 @@ VALUES
 		NULL,
 		NULL,
 		'Magnifique invention, cette pelle deux-en-un permet de creuser une tombe et de la laisser comme croix. A condition de ne perdre qu''un compagnon à la fois, sous peine de creuser les tombes suivantes avec les mains.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image50.svg'
+		'../images/image_pelle/images50.svg'
 	),
 	(
 		'arme',
@@ -81445,7 +81445,7 @@ VALUES
 		NULL,
 		NULL,
 		'Créée comme une œuvre d''art de la forgemagie, cette pelle creuse très mal, sauf dans la tête de vos adversaires.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image51.svg'
+		'../images/image_pelle/images51.svg'
 	),
 	(
 		'arme',
@@ -81503,7 +81503,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est vraiment différente des autres. Si vous l''utilisez pour combattre, on risque de beaucoup rire et de faire des blagues sur vous. En effet, les blagues sur la Pelle Gicque sont très populaires du côté de la Taverne.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image52.svg'
+		'../images/image_pelle/images52.svg'
 	),
 	(
 		'arme',
@@ -81561,7 +81561,7 @@ VALUES
 		NULL,
 		NULL,
 		'Mi-hache, mi-pelle, Ares fut l''une des sept armes utilisées par le démon Kajlir pour venir à bout de la Confrérie des Enutrofs collectionneurs de Dofus Pourpres.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image53.svg'
+		'../images/image_pelle/images53.svg'
 	),
 	(
 		'arme',
@@ -81619,7 +81619,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pelle très lourde, donc réservée à l''usage des aventuriers les plus gr... larges.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image54.svg'
+		'../images/image_pelle/images54.svg'
 	),
 	(
 		'arme',
@@ -81677,7 +81677,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle permet aux Enutrofs de voir plus loin. Elle est faîte pour qu''ils puissent la planter et monter dessus pour scruter l''horizon et se donner des airs intéressants. Idéal pour retrouver son hospice lorsque l''on est perdu entre deux fougères.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image55.svg'
+		'../images/image_pelle/images55.svg'
 	),
 	(
 		'arme',
@@ -81735,7 +81735,7 @@ VALUES
 		NULL,
 		NULL,
 		'On raconte que celui qui a forgé cette pelle ressemblait à une véritable bête. Une sorte de croisement entre un Sadida et un Mulou. Sa pelle serait tombée amoureuse de lui. Vraiment une histoire débile.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image56.svg'
+		'../images/image_pelle/images56.svg'
 	),
 	(
 		'arme',
@@ -81793,7 +81793,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle a traversé les continents, elle a vu le soleil se coucher sur la crête du Mont Crakelour, le soleil se lever là où la Mer d''Asse et l''horizon ne font plus qu''un. Et dire que vous vous n''êtes jamais allé plus loin que l''île de Moon, pitoyable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image57.svg'
+		'../images/image_pelle/images57.svg'
 	),
 	(
 		'arme',
@@ -81851,7 +81851,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est vraiment antipathique. Personne ne sait réellement pourquoi, mais les Pelles Mairhes sont toujours insupportables. Heureusement, qu''elles ont tout de même des bons côtés, même si on les cherche encore à l''heure actuelle.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image58.svg'
+		'../images/image_pelle/images58.svg'
 	),
 	(
 		'arme',
@@ -81909,7 +81909,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le forgeur de cette pelle a voulu rester anonyme pour faire le modeste, mais il a pris soin de laisser un indice dans le nom de cette pelle. Certains artisans sont vraiment irrécupérables...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image59.svg'
+		'../images/image_pelle/images59.svg'
 	),
 	(
 		'arme',
@@ -81967,7 +81967,7 @@ VALUES
 		NULL,
 		NULL,
 		'Avec cette pelle, Le capitaine Machab a éventré Grobill Dick, le grand Kralamoure Blanc.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image60.svg'
+		'../images/image_pelle/images60.svg'
 	),
 	(
 		'arme',
@@ -82025,7 +82025,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Mineur Sombre se sert de cette pelle de la taille d''une main de Craqueleur, essentiellement pour écraser plusieurs Eniripsas d''un seul coup. On vous encourage à faire de même, histoire de ne pas mourir idiot.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image61.svg'
+		'../images/image_pelle/images61.svg'
 	),
 	(
 		'arme',
@@ -82083,7 +82083,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette étrange pelle multi-usages, servait à tuer les poux des jeunes Iops, à leur enlever les pellicules, et à leur faire rentrer dans le crâne les bases de l''arithmétique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image62.svg'
+		'../images/image_pelle/images62.svg'
 	),
 	(
 		'arme',
@@ -82141,7 +82141,7 @@ VALUES
 		NULL,
 		NULL,
 		'Les Dragoeufs aiment creuser des galeries, mais ne se servent pas de pelles, la communauté Enutrof a longtemps étudié l''énigme de celle-ci, et a fini par conclure qu''il était moins important de savoir d''où elle venait que de taper avec.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image63.svg'
+		'../images/image_pelle/images63.svg'
 	),
 	(
 		'arme',
@@ -82199,7 +82199,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite pelle a été offerte a un jeune Enutrof, il y est resté si attaché qu''il l''utilisait encore juste avant sa mort.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image64.svg'
+		'../images/image_pelle/images64.svg'
 	),
 	(
 		'arme',
@@ -82257,7 +82257,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est sauvage et tente de mordre son propriétaire à chaque utilisation. Elle émet des sons bizarres quand elle est contente et ne se calme qu''en présence de grelots.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image65.svg'
+		'../images/image_pelle/images65.svg'
 	),
 	(
 		'arme',
@@ -82315,7 +82315,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est censée fendre l''air à une vitesse assez incroyable. Ceux qui savent correctement s''en servir, fendent surtout les crânes de leurs ennemis avec.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image66.svg'
+		'../images/image_pelle/images66.svg'
 	),
 	(
 		'arme',
@@ -82373,7 +82373,7 @@ VALUES
 		NULL,
 		NULL,
 		'Un Enutrof futé s''était fait pirate après avoir fait le constat qu''on ramasse plus de trésor sur un cadavre frais que dans une tombe moisie. Sa pelle rouge sang était son symbole et faisait trembler l''équipage des bateaux de toutes les mers.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image67.svg'
+		'../images/image_pelle/images67.svg'
 	),
 	(
 		'arme',
@@ -82431,7 +82431,7 @@ VALUES
 		NULL,
 		NULL,
 		'Jeune Iopette, Mel se voyait déjà vaincre des dragons. Elle jouait à combattre les rochers du jardin de sa mère avec une pelle en guise d''épée. La rocaille a appris à redouter l''ustensile.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image68.svg'
+		'../images/image_pelle/images68.svg'
 	),
 	(
 		'arme',
@@ -82489,7 +82489,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette pelle est dangereuse, elle volera votre vitalité, votre jeunesse, l''eau de votre corps et vos précieux gâtrools.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_pelle/image69.svg'
+		'../images/image_pelle/images69.svg'
 	),
 	(
 		'arme',
@@ -82547,7 +82547,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est indispensable au bûcheron s''il veut correctement exercer son métier. Le cas échéant, elle peut également lui permettre de se débarrasser de quelques monstres...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image0.svg'
+		'../images/image_hache/images0.svg'
 	),
 	(
 		'arme',
@@ -82605,7 +82605,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hachette est l''outil indispensable à tout bûcheron. Non pas qu''elle soit réellement utile, impossible de couper un arbre avec, mais sa présence à la ceinture les calme et les rassure.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image1.svg'
+		'../images/image_hache/images1.svg'
 	),
 	(
 		'arme',
@@ -82663,7 +82663,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette petite hache ne sait pas couper les arbres, mais peut servir à se défendre contre certains petits monstres. Par contre il vous faudra toujours courir si c''est un Minotoror.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image2.svg'
+		'../images/image_hache/images2.svg'
 	),
 	(
 		'arme',
@@ -82721,7 +82721,7 @@ VALUES
 		NULL,
 		NULL,
 		'Fait très étrange, l''Arakne, n''a que quatre pattes velues, ce qui signifie qu''avec seulement quatre coups de haches, vous pourrez la transformer en Arakne Tronc.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image3.svg'
+		'../images/image_hache/images3.svg'
 	),
 	(
 		'arme',
@@ -82779,7 +82779,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache n''a rien d''exceptionnel, mais elle reste tout de même appréciée des Bûcherons débutants, qui l''aiment pour sa simplicité d''utilisation .',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image4.svg'
+		'../images/image_hache/images4.svg'
 	),
 	(
 		'arme',
@@ -82837,7 +82837,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache n''a rien de particulier si ce n''est que la légèreté naturelle du Bois de Châtaignier, permet à cette hache d''avoir un manche aussi léger qu''une plume de jeune Tofu Maléfique.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image5.svg'
+		'../images/image_hache/images5.svg'
 	),
 	(
 		'arme',
@@ -82895,7 +82895,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette série de haches fut conçue par un bwork apprenti forgeur. Elle est bien équilibrée et relativement puissante. Ce bwork venait de créer LA hache de guerre pour jeune aventurier.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image6.svg'
+		'../images/image_hache/images6.svg'
 	),
 	(
 		'arme',
@@ -82953,7 +82953,7 @@ VALUES
 		NULL,
 		NULL,
 		'Térophyle était un disciple de Iop capable de soulever des masses impressionnantes. Mais malheureusement pour lui, comme tous les Iop trop musclés, l''intelligence n''était pas son fort...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image7.svg'
+		'../images/image_hache/images7.svg'
 	),
 	(
 		'arme',
@@ -83011,7 +83011,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est une des seules à pouvoir couper des arbres envoûtés, on peut donc par extension, affirmer qu''elle peut trancher tout ce qui est envoûté, vivant ou non.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image8.svg'
+		'../images/image_hache/images8.svg'
 	),
 	(
 		'arme',
@@ -83069,7 +83069,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache à l''aspect rudimentaire, n''en est pas moins efficace. C''est avec cet outil que Brouce Boulgoure le Bûcheron a gagné le concours de tranchage de Bworks nains. Voilà qui en dit long sur l''efficacité de cette hache.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image9.svg'
+		'../images/image_hache/images9.svg'
 	),
 	(
 		'arme',
@@ -83127,7 +83127,7 @@ VALUES
 		'Arme de chasse',
 		NULL,
 		'Huré était un jeune prêtre qui ne reculait pas devant les armes pour faire progresser la foi. Son arme de prédilection était une hache sur laquelle il avait dessiné de nombreux traits, dont la signification est perdue à jamais...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image10.svg'
+		'../images/image_hache/images10.svg'
 	),
 	(
 		'arme',
@@ -83185,7 +83185,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache a la particularité de ne jamais rouiller, pour éviter de désagréables surprises lorsque les Bûcherons gourmands décident de lécher le sirop d''érable sur la lame après une éprouvante journée d''abattage d''érables.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image11.svg'
+		'../images/image_hache/images11.svg'
 	),
 	(
 		'arme',
@@ -83243,7 +83243,7 @@ VALUES
 		NULL,
 		NULL,
 		'Légère et élégante, cette hache vous permettra de progresser facilement dans les forêts de Bambou de Pandala, et de vous défendre efficacement contre les Pandis les plus fourbes, toujours prêts à attaquer les bûcherons isolés pour de sombres histoires de bourses...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image12.svg'
+		'../images/image_hache/images12.svg'
 	),
 	(
 		'arme',
@@ -83301,7 +83301,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est assez particulière, elle est à la base destinée à l''apprentissage du métier de Bûcheron. Correctement utilisée, elle peut sectionner en deux un jeune Abraknyde trop insouciant, ce qui avouons-le, est très rare.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image13.svg'
+		'../images/image_hache/images13.svg'
 	),
 	(
 		'arme',
@@ -83359,7 +83359,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache de combat, réservée aux jeunes guerriers, comme son nom l''indique, a la particularité de produire un son strident particulièrement désagréable lorsqu''elle entrechoque une autre arme.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image14.svg'
+		'../images/image_hache/images14.svg'
 	),
 	(
 		'arme',
@@ -83417,7 +83417,7 @@ VALUES
 		NULL,
 		NULL,
 		'"Cette hache a tout pour plaire" disait le fameux slogan de Brouce Boulgoure le célèbre bûcheron. En effet, son manche en Bois de Merisier permet d''amortir les vibrations lors de l''abattage des arbres ou des bworks au crâne un peu trop solide.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image15.svg'
+		'../images/image_hache/images15.svg'
 	),
 	(
 		'arme',
@@ -83475,7 +83475,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache permet de couper facilement les arbres, même les plus gros. Elle est surtout appréciée pour son poids important qui lui permet de couper un Bwork en trois facilement, pour peu que son porteur soit capable de la soulever.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image16.svg'
+		'../images/image_hache/images16.svg'
 	),
 	(
 		'arme',
@@ -83533,7 +83533,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache, parfois lourde à manier, est parfaite pour terrasser les Trools : les runes magiques qu''elle contient permettent en effet de brûler les ennemis.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image17.svg'
+		'../images/image_hache/images17.svg'
 	),
 	(
 		'arme',
@@ -83591,7 +83591,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est utilisée par les disciples Pandawushuka, lorsqu''ils obtiennent le grade de Shodanwa. Elle est également très pratique pour ravager les forêts de Bambous et tous ceux qui s''y cachent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image18.svg'
+		'../images/image_hache/images18.svg'
 	),
 	(
 		'arme',
@@ -83649,7 +83649,7 @@ VALUES
 		NULL,
 		NULL,
 		'Très légère et maniable, cette hache facilite les gestes amples nécessaires afin de couper le Bombu en toute sécurité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image19.svg'
+		'../images/image_hache/images19.svg'
 	),
 	(
 		'arme',
@@ -83707,7 +83707,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache, faite d''Oliviolet, est la hache la plus à même à résister aux ondes violettes de l''Oliviolet. Combattre le mal par le mal en quelque sorte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image20.svg'
+		'../images/image_hache/images20.svg'
 	),
 	(
 		'arme',
@@ -83765,7 +83765,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache doit son nom à Woodee la Bûcheronne, qui savait user de ses charmes pour détourner l''attention des autres Bûcherons et ainsi garder secret l''emplacement des rares Charmes dont elle voulait préserver l''existence.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image21.svg'
+		'../images/image_hache/images21.svg'
 	),
 	(
 		'arme',
@@ -83823,7 +83823,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache, très primitive, n''en reste pas moins efficace. Un peu comme certains vieillards.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image22.svg'
+		'../images/image_hache/images22.svg'
 	),
 	(
 		'arme',
@@ -83881,7 +83881,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette longue hache se faufile dans les moindres interstices des arbres pour mieux les fendre en deux. Son utilité en combat est la même, l''adversaire ayant toujours un interstice ou deux à exploiter.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image23.svg'
+		'../images/image_hache/images23.svg'
 	),
 	(
 		'arme',
@@ -83939,7 +83939,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette terrible hache a permis de décapiter plus d''un aventurier imprudent. Et pourtant, elle coupe assez mal, il faut parfois une dizaine de tentatives pour parvenir à couper un cou un peu résistant.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image24.svg'
+		'../images/image_hache/images24.svg'
 	),
 	(
 		'arme',
@@ -83997,7 +83997,7 @@ VALUES
 		NULL,
 		NULL,
 		'Darsson était un vaillant Enutrof adroit comme ses pieds. Faisant souvent tomber sa pelle en combat, il eût l''ingénieuse idée d''attacher une hache de rechange à sa ceinture. Cela lui sauva la vie plusieurs fois, jusqu''à ce qu''il fasse tomber sa hache...',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image25.svg'
+		'../images/image_hache/images25.svg'
 	),
 	(
 		'arme',
@@ -84055,7 +84055,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est utilisée par les disciples Pandawushuka, lorsqu''ils obtiennent le grade de Nidanwa. Elle est également très pratique pour ravager les forêts de Bambous et tous ceux qui s''y cachent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image26.svg'
+		'../images/image_hache/images26.svg'
 	),
 	(
 		'arme',
@@ -84113,7 +84113,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache a appartenu à Brouce Boulgoure le fameux Bûcheron, marié jadis avec Kassiopée Baine, fille d''un autre grand Bûcheron. Cette arme lui permit de se défendre maintes fois lorsqu''il partait la nuit couper des forêts entières.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image27.svg'
+		'../images/image_hache/images27.svg'
 	),
 	(
 		'arme',
@@ -84171,7 +84171,7 @@ VALUES
 		NULL,
 		NULL,
 		'Pour dire je t''aime.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image28.svg'
+		'../images/image_hache/images28.svg'
 	),
 	(
 		'arme',
@@ -84229,7 +84229,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette grosse hache fait un bruit monstrueux lorsqu''elle s''abat sur quelque chose, ce qui a souvent pour effet de provoquer le silence autour de soi. C''est toujours ça de pris.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image29.svg'
+		'../images/image_hache/images29.svg'
 	),
 	(
 		'arme',
@@ -84287,7 +84287,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est très utile pour séparer certaines parties récalcitrantes d''un arbre, notamment les petites boursoufflures du tronc, ceci dans le but d''avoir un arbre parfaitement lisse et rond.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image30.svg'
+		'../images/image_hache/images30.svg'
 	),
 	(
 		'arme',
@@ -84345,7 +84345,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache de guerre a été forgée par Kademlia Boulgoure, pour combattre les plus terrifiants Abraknydes. La légende raconte que cette arme légendaire a tué en une nuit plus d''Abraknydes qu''il n''existe d''arbres en Amakna.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image31.svg'
+		'../images/image_hache/images31.svg'
 	),
 	(
 		'arme',
@@ -84403,7 +84403,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette bardiche est principalement employée par les miliciens d''Amakna. Sa longueur et son efficacité doit probablement compenser d''autres choses.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image32.svg'
+		'../images/image_hache/images32.svg'
 	),
 	(
 		'arme',
@@ -84461,7 +84461,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette étrange hache est profilée de façon à décapiter plus facilement les Bworks. L''aisance avec laquelle elle décapite aussi les habitants d''Astrub indique clairement qu''il existe un lien entre ces deux populations. Mais personne n''a encore trouvé lequel.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image33.svg'
+		'../images/image_hache/images33.svg'
 	),
 	(
 		'arme',
@@ -84519,7 +84519,7 @@ VALUES
 		NULL,
 		NULL,
 		'Sur cette grosse hachette, de multiples inscriptions gravées rappellent des notions Amakniennes de base. Son inventeur Claus Ansipedi désirait donner un semblant de culture aux brûtasses finies...peine perdue, il est mort le crâne fendu.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image34.svg'
+		'../images/image_hache/images34.svg'
 	),
 	(
 		'arme',
@@ -84577,7 +84577,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est utilisée par les disciples Pandawushuka, lorsqu''ils obtiennent le grade de Sandanwa. Elle est également très pratique pour ravager les forêts de Bambous et tous ceux qui s''y cachent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image35.svg'
+		'../images/image_hache/images35.svg'
 	),
 	(
 		'arme',
@@ -84635,7 +84635,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache a été dès le début, pensée pour couper des êtres vivants. Attention, une seule erreur de manipulation de votre part, et vous pourriez vous retrouver diminué de moitié.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image36.svg'
+		'../images/image_hache/images36.svg'
 	),
 	(
 		'arme',
@@ -84693,7 +84693,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache fait souvent le tour du monde en commençant par le bas. Et pour cause c''est dans le sud d''Amakna que ce type de hache est forgée, par une petite guilde de chasseurs de trésors réputée pour leur efficacité.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image37.svg'
+		'../images/image_hache/images37.svg'
 	),
 	(
 		'arme',
@@ -84751,7 +84751,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette longue hache est utilisée par les marins experts pour affronter les poissons géants qui attaquent leurs navires. On imagine assez bien les dégâts qu''elle peut faire contre des monstres plus petits.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image38.svg'
+		'../images/image_hache/images38.svg'
 	),
 	(
 		'arme',
@@ -84809,7 +84809,7 @@ VALUES
 		NULL,
 		NULL,
 		'La Dame Oise était une ravissante princesse qui respirait la candeur et la fraîcheur. Tout le monde fut bien surpris lorsque, lors d''un raid Bwork sur sa cité, elle sortit cette hache et fracassa à elle seule la moitié de l''armée adverse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image39.svg'
+		'../images/image_hache/images39.svg'
 	),
 	(
 		'arme',
@@ -84867,7 +84867,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache de guerre a été forgée par Kademlia Boulgoure, pour combattre l''Abraknyde Ancestral. Seuls les meilleurs guerriers sont à même de pouvoir l''utiliser.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image40.svg'
+		'../images/image_hache/images40.svg'
 	),
 	(
 		'arme',
@@ -84925,7 +84925,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est réputée pour son efficacité à terminer définitivement et très rapidement une querelle entre Enutrofs ivres.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image41.svg'
+		'../images/image_hache/images41.svg'
 	),
 	(
 		'arme',
@@ -84983,7 +84983,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est utilisée par les disciples Pandawushuka, lorsqu''ils obtiennent le grade de yondanwa. Elle est également très pratique pour ravager les forêts de Bambous et tous ceux qui s''y cachent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image42.svg'
+		'../images/image_hache/images42.svg'
 	),
 	(
 		'arme',
@@ -85041,7 +85041,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache tire son nom du test qui fut utilisé pour prouver sa terrible efficacité : une hache géante, un mythophobiaque et une halle remplie de bardes.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image43.svg'
+		'../images/image_hache/images43.svg'
 	),
 	(
 		'arme',
@@ -85099,7 +85099,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache a permis de trancher la tête d''un des plus dangereux Minotorors que la province d''Amakna ait connu. Le plus incroyable dans cette histoire c''est qu''elle semble vous laisser indifférent.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image44.svg'
+		'../images/image_hache/images44.svg'
 	),
 	(
 		'arme',
@@ -85157,7 +85157,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache est percée de trous en divers endroits, ce qui accompagne ses coups d''élégants sifflements guillerets, cachant les cris de douleur de vos ennemis. C''est regrettable.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image45.svg'
+		'../images/image_hache/images45.svg'
 	),
 	(
 		'arme',
@@ -85215,7 +85215,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette arme a été trempée dans une fontaine de foudre pure puis saupoudrée de poussière d''étoile, mais il paraît que c''est entièrement faux.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image46.svg'
+		'../images/image_hache/images46.svg'
 	),
 	(
 		'arme',
@@ -85273,7 +85273,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache fend le beurre aussi facilement que les crânes, à moins que ça ne soit l''inverse.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image47.svg'
+		'../images/image_hache/images47.svg'
 	),
 	(
 		'arme',
@@ -85331,7 +85331,7 @@ VALUES
 		NULL,
 		NULL,
 		'Cette hache fut forgée par Brouce Boulgoure lorsqu''il s''essayait à la boulangerie pour faire plaisir à son ami Xavier le boulanger. Il voulait faire une pelle à tarte.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image48.svg'
+		'../images/image_hache/images48.svg'
 	),
 	(
 		'arme',
@@ -85389,7 +85389,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le fait qu''un bec de Poolay orne cette arme ne sert absolument à rien, voire handicape l''utilisateur. Heureusement qu''elle est puissante.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image49.svg'
+		'../images/image_hache/images49.svg'
 	),
 	(
 		'arme',
@@ -85447,7 +85447,7 @@ VALUES
 		NULL,
 		NULL,
 		'Le Guerrier Zoth a pris l''habitude de porter deux haches, car il est incapable de toucher le flanc gauche de son ennemi avec sa main droite. Problème de schéma corporel ou maladresse congénitale ? Difficile de se prononcer là-dessus. Mais avec ses deux haches, il fait feu de tout bois à défaut de s''en servir pour couper des rondins.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image50.svg'
+		'../images/image_hache/images50.svg'
 	),
 	(
 		'arme',
@@ -85505,7 +85505,7 @@ VALUES
 		NULL,
 		NULL,
 		'Fâché de s''être fait voler un grain de riz dans son assiette par un écureuil chenapan pendant ses vacances touristiques sur l''île de Pandala, Brouce Boulgour s''est servi de cette hache pour abattre chaque bambou au sommet duquel le voleur se réfugiait, afin de l''attraper. Les Pandawas du village ont dû le calmer avec la moitié de la réserve d''alcool de bambou pour éviter qu''il ne rase la forêt. Sacré Brouce.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image51.svg'
+		'../images/image_hache/images51.svg'
 	),
 	(
 		'arme',
@@ -85563,7 +85563,7 @@ VALUES
 		NULL,
 		NULL,
 		'Ourag''han était un vieux Pandawa au derme si doux qu''on l''appelait Peau Lisse. Son odeur en revanche était si forte qu''il a hérité d''un autre surnom. Il l''a transmis à sa fidèle hache.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image52.svg'
+		'../images/image_hache/images52.svg'
 	),
 	(
 		'arme',
@@ -85621,5 +85621,5 @@ VALUES
 		NULL,
 		NULL,
 		'Les différentes lamelles de cette hache permettent de couper très rapidement le saucisson. Un seul coup de hache permet de couper trois tranches. Pour tuer les ennemis, c''est un peu moins utile, sauf si vous avez l''habitude de les manger en tranches.',
-		'/Users/pumalicieux/Desktop/Dofus-Exchange/Liste Items/item_image/image_hache/image53.svg'
+		'../images/image_hache/images53.svg'
 	);

@@ -56,5 +56,56 @@ $$ LANGUAGE sql SECURITY DEFINER;
 
 -- Not necessary, the best way is to do it manually in pgAdmin as only minor and rare amendments could be needed
 
+/* UPDATE AN ITEM IN THE HDV  */
+
+-- Basically this function create dynamically an UPDATE query depending of the field(s) the user wants to modified on the object
+
+CREATE OR REPLACE FUNCTION web.update_item_generic(IN json_data jsonb)
+    RETURNS text
+    LANGUAGE 'plpgsql'
+    VOLATILE SECURITY DEFINER
+    PARALLEL UNSAFE
+    COST 100
+    
+AS $BODY$
+DECLARE
+id integer; 
+    sql_statement text := 'UPDATE web.items_generic SET ';
+    key text;
+    value jsonb;
+BEGIN
+
+ -- Extract the ticket ID from the JSON object.
+ id := (json_data ->> 'id') :: integer;
+
+    -- Loop through each key-value pair in the JSON object
+    FOR key, value IN SELECT * FROM jsonb_each(json_data)
+    LOOP
+	IF key<>'id'THEN
+	IF value::text<>'null' THEN
+	sql_statement := sql_statement || key || '= ' || value || ', ';
+  
+		END IF;
+		END IF;
+    END LOOP;
+
+    -- Remove the trailing comma and space from the sql_statement
+    IF length(sql_statement) > 0 THEN
+        sql_statement := left(sql_statement, length(sql_statement) - 2);
+    END IF;
+	
+	 sql_statement := sql_statement || ' WHERE id = ' || id;
+
+   sql_statement := REPLACE(sql_statement, '"', '''');
+	 
+	 -- Execute the dynamic SQL statement.
+EXECUTE sql_statement;
+
+    RETURN sql_statement;
+END;
+$BODY$;
+
+
+
 
 COMMIT;

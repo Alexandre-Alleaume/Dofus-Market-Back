@@ -1,10 +1,10 @@
 -- Revert dofusmarket:1.create_tables from pg
 BEGIN;
 
-DROP TABLE favoris,
-hdv,
-items_generic,
-user;
+DROP TABLE web.favoris,
+web.hdv,
+web.items_generic,
+administration.user CASCADE;
 
 -- Revoke privileges from the dofusmarket_group_web role on functions in the 'web' schema
 REVOKE EXECUTE ON ALL FUNCTIONS IN SCHEMA web

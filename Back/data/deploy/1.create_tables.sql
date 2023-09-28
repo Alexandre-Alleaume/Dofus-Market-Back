@@ -20,18 +20,23 @@ ALTER DEFAULT PRIVILEGES FOR ROLE admin_dofusmarket IN SCHEMA web GRANT EXECUTE 
 ----------------------------------------------------------------------------
 -- table pour gérer les utilisateurs de mon application web
 CREATE TABLE administration."user" (
-  id integer NOT NULL GENERATED ALWAYS AS IDENTITY,
+  id serial PRIMARY KEY,
   pseudo text NOT NULL,
   email text NOT NULL,
   "password" text NOT NULL,
   "role" text NOT NULL DEFAULT 'user',
   pseudo_ig text,
   profile_picture_id integer NOT NULL,
+  discord_pseudo text,
   discord_access_token text,
-  discord__refresh__token text,
-  PRIMARY KEY (id),
-  CONSTRAINT pseudo UNIQUE (pseudo_ig),
-  CONSTRAINT email UNIQUE (email)
+  discord_refresh_token text,
+  CONSTRAINT unique_email UNIQUE (email),
+  CONSTRAINT valid_email CHECK (
+    email ~ '^[A-Za-z0-9._+%-]+@[A-Za-z0-9.-]+[.][A-Za-z]+$'
+  ) NOT VALID,
+  CONSTRAINT valid_password CHECK (
+    "password" ~ '^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$'
+  ) NOT VALID
 );
 
 -- GENERIC ITEM TABLE -- Table qui contient les items génériques ainsi que leur caractéristiques
@@ -104,10 +109,10 @@ CREATE TABLE web.hdv (
   PRIMARY KEY (id),
   CONSTRAINT vendeur_id FOREIGN KEY (vendeur_id) REFERENCES administration."user" (id) MATCH SIMPLE ON UPDATE CASCADE ON DELETE CASCADE NOT VALID,
   CONSTRAINT generic_item_id FOREIGN KEY (generic_item_id) REFERENCES web.items_generic (id) MATCH SIMPLE ON UPDATE CASCADE ON DELETE CASCADE NOT VALID,
-  "type" text NOT NULL,
-  categorie text NOT NULL,
-  "name" text NOT NULL,
-  niveau integer NOT NULL,
+  /*   "type" text NOT NULL,
+   categorie text NOT NULL,
+   "name" text NOT NULL,
+   niveau integer NOT NULL, */
   degats_neutre_before integer,
   degats_neutre_after integer,
   degats_neutre_secondaire_before integer,
@@ -139,9 +144,9 @@ CREATE TABLE web.hdv (
   vol_eau_before integer,
   vol_eau_after integer,
   pdv_rendus integer,
-  "PA_perdus" integer,
-  "PA" integer,
-  "PM" integer,
+  PA_perdus integer,
+  PA integer,
+  PM integer,
   vitalite integer,
   sagesse integer,
   "force" integer,
@@ -171,10 +176,10 @@ CREATE TABLE web.hdv (
   pods integer,
   renvoi_dommage integer,
   echec_critique integer,
-  chasse text,
-  vole_or text,
-  "description" text NOT NULL,
-  lien_image text NOT NULL,
+  /*  chasse text,
+   vole_or text,
+   "description" text NOT NULL,
+   lien_image text NOT NULL, */
   price integer NOT NULL
 );
 

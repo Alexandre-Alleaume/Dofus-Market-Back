@@ -1,5 +1,5 @@
 BEGIN;
 
-TRUNCATE TABLE web.items_generic;
+TRUNCATE TABLE web.items_generic CASCADE;
 
 COMMIT;

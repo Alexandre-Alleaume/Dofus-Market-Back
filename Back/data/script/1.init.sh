@@ -26,7 +26,7 @@ rm ./data/sqitch.plan
 #rm -r deploy
 #rm -r revert
 #rm -r verify
-cd data ## je me place dans le fodler data pour initialiser Sqitch
+cd data ## je me place dans le folder data pour initialiser Sqitch
 sqitch init dofusmarket --engine pg --target db:pg:dofusmarket
 
 

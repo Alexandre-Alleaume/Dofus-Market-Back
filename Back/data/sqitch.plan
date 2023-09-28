@@ -1,5 +1,10 @@
 %syntax-version=1.0.0
 %project=dofusmarket
 
-1.create_tables 2023-08-01T10:13:05Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Table creation
-2.import_data 2023-08-01T10:13:06Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Importing data to web.items_generic
+1.create_tables 2023-09-28T19:54:15Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Table creation
+2.import_data 2023-09-28T19:54:15Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Importing data to web.items_generic
+3.create_view_hdv_generic 2023-09-28T19:54:16Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Creating view for hdv_generic
+4.functions_items_generic 2023-09-28T19:54:16Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Creating functions for web.items_generic
+5.functions_hdv 2023-09-28T19:54:16Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Creating functions for web.hdv
+6.functions_user 2023-09-28T19:54:17Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Creating functions for administration.user
+7.functions_favoris 2023-09-28T19:54:17Z System Administrator <root@MacBook-Pro-de-Alexandre.local> # Creating functions for web.favoris
