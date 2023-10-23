@@ -26,9 +26,7 @@ const pool = new Pool({
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD,
   ssl: {
-    ca: await readFile(
-      "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/documentation/eu-north-1-bundle.pem"
-    ),
+    ca: await readFile("./documentation/eu-north-1-bundle.pem"),
   },
   /*  ssl: {
     rejectUnauthorized: false, // désactive la vérification du certificat SSL

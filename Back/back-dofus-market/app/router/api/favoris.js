@@ -2,7 +2,8 @@
 // sous-entendu, mon URL est préfixée par /favoris
 
 import express from "express";
-import { favController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js";
+import { favController } from "../../controller/api/index.js";
+/* import { favController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js"; */
 
 const router = express.Router();
 

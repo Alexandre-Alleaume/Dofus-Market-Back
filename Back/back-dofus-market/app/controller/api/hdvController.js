@@ -287,9 +287,10 @@ const hdvController = {
         }
       }
     }
-    screenService.emptyFolder(
+    /* screenService.emptyFolder(
       "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/uploads"
-    );
+    ); */
+    screenService.emptyFolder("../../../uploads");
     res.json("Item inserted succesfully");
   },
 };

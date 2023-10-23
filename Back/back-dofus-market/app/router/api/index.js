@@ -1,9 +1,11 @@
 // Déclaration du routeur principal
 
-import genericRouter from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/router/api/generic.js";
+/* import genericRouter from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/router/api/generic.js"; */
 import hdvRouter from "./hdv.js";
 import userRouter from "./user.js";
-import favRouter from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/router/api/favoris.js";
+import genericRouter from "./generic.js";
+import favRouter from "./favoris.js";
+
 import express from "express";
 
 const mainRouter = express.Router();
