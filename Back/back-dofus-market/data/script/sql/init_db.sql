@@ -16,5 +16,5 @@ GRANT dofusmarket_group_web TO admin_dofusmarket;
 
 GRANT dofusmarket_group_administration TO admin_dofusmarket;
 
--- je crèe la BDD "oblog"
+-- je crèe la BDD "dofusmarket"
 CREATE DATABASE dofusmarket OWNER admin_dofusmarket;

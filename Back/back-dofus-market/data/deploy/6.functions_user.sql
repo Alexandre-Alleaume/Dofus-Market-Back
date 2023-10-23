@@ -117,7 +117,7 @@ $BODY$;
 
 
 -- fonction qui vérifie les données passées pour se connecter
-CREATE FUNCTION web.check_user(u json) RETURNS administration.user AS $$
+CREATE FUNCTION administration.check_user(u json) RETURNS administration.user AS $$
 	SELECT *
 	FROM administration.user
 	WHERE pseudo=u->>'pseudo' /* AND "password"=u->>'password' */;

@@ -1,4 +1,5 @@
 import Tesseract from "tesseract.js";
+import fs from "fs-extra";
 
 export const screenService = {
   createItemCarac: (str, obj, value) => {
@@ -218,6 +219,7 @@ export const screenService = {
   },
   getScreenCarac: async (rectangle, url, itemObj) => {
     const worker = await Tesseract.createWorker();
+    console.log("Inside getScreenCarac");
     await worker.loadLanguage("fra");
     await worker.initialize("fra");
     const {
@@ -265,6 +267,7 @@ export const screenService = {
           height: 65,
         };
       }
+
       itemObj = await screenService.getScreenCarac(
         rectangle,
         urlArray,
@@ -286,5 +289,14 @@ export const screenService = {
     name = await screenService.getScreenName(rectangle, urlArray, name);
 
     return name;
+  },
+  emptyFolder: async (cheminDossier) => {
+    try {
+      // Supprimer le contenu du dossier
+      await fs.emptyDir(cheminDossier);
+      console.log("Dossier vidé avec succès.");
+    } catch (err) {
+      console.error("Erreur lors de la suppression du dossier :", err);
+    }
   },
 };

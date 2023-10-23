@@ -44,7 +44,6 @@ const genericController = {
    * @param {*} res
    */
   add: async (req, res, next) => {
-    /* debug(req.body); */
     const { error, result } = await genericDatamapper.add(req.body);
 
     if (error) {

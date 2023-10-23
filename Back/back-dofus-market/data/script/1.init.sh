@@ -2,6 +2,16 @@
 
 export PGUSER=pumalicieux
 
+
+# TEST AWS
+
+export PGPASSWORD=Verdure3(
+
+psql -h dofus-market.cwh9fbqbym66.eu-north-1.rds.amazonaws.com -U pumalicieux -d dofusmarket
+
+psql -h dofus-market.cwh9fbqbym66.eu-north-1.rds.amazonaws.com -U pumalicieux -d postgres
+
+
 ## suppression de l'existant
 dropdb dofusmarket
 dropuser admin_dofusmarket
@@ -28,6 +38,10 @@ rm ./data/sqitch.plan
 #rm -r verify
 cd data ## je me place dans le folder data pour initialiser Sqitch
 sqitch init dofusmarket --engine pg --target db:pg:dofusmarket
+# Pour AWS
+sqitch init dofusmarket --engine pg --target "db:pg://pumalicieux:Verdure3(@dofus-market.cwh9fbqbym66.eu-north-1.rds.amazonaws.com:5432/dofusmarket"
+
+
 
 
 # ## ajout des tables

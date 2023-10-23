@@ -1,0 +1,17 @@
+%%mocodo
+:::
+FAVORIS: code_favoris, #code_user > USER > code_user, #code_hdv > HDV > code_hdv
+:::
+
+
+:
+USER: code_user, pseudo, email, password, role, discord, profil_picture_id, discord-access-token, discord-refresh-token
+:::
+HDV: code_hdv, serveur, carac_specifiques, price, #code_user > USER > code_user, #code_item_generique > ITEMS_GENERIC > code_item_generique
+:
+
+
+
+:::::
+ITEMS_GENERIC: code_item_generique, type, categorie, name, niveau, carac, description, lien_image
+:

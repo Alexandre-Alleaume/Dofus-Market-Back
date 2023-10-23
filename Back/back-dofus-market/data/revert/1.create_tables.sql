@@ -11,6 +11,10 @@ REVOKE EXECUTE ON ALL FUNCTIONS IN SCHEMA web
 FROM
   dofusmarket_group_web;
 
+REVOKE EXECUTE ON ALL FUNCTIONS IN SCHEMA administration
+FROM
+  dofusmarket_group_web;
+
 -- Drop the 'web' schema
 DROP SCHEMA IF EXISTS web CASCADE;
 

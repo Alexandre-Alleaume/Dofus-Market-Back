@@ -1,14 +1,9 @@
-import path from "path";
-
 import express from "express";
 import cors from "cors";
 import session from "express-session";
 import router from "./router/index.js";
 
 const app = express();
-
-// Mise en place de la documentation
-// require('./service/APIDoc')(app);
 
 // Activation du format JSON
 app.use(express.json());
@@ -36,6 +31,7 @@ app.use(
 // Liaison avec les routeurs
 app.use(router);
 
-// Mise en place de OpenAPI (la documentation de notre API)
-
 export default app;
+
+// Mise en place de la documentation
+// require('./service/APIDoc')(app);

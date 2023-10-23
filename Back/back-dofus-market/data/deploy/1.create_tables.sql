@@ -12,7 +12,9 @@ CREATE SCHEMA administration AUTHORIZATION dofusmarket_group_administration;
 -- ce doit d'USAGE au niveau des fonctions de mon schéma, va me permettre de les appeler
 GRANT USAGE ON SCHEMA web TO dofusmarket_group_web;
 
--- je positionne le droit d'exécuter des fonctions au groupe "oblog_group_web" au niveau du schéma "web"
+GRANT USAGE ON SCHEMA administration TO dofusmarket_group_web;
+
+-- je positionne le droit d'exécuter des fonctions au groupe "dofusmarket_group_web" au niveau du schéma "web"
 ALTER DEFAULT PRIVILEGES FOR ROLE admin_dofusmarket IN SCHEMA web GRANT EXECUTE ON FUNCTIONS TO dofusmarket_group_web;
 
 ----------------------------------------------------------------------------
@@ -20,12 +22,11 @@ ALTER DEFAULT PRIVILEGES FOR ROLE admin_dofusmarket IN SCHEMA web GRANT EXECUTE 
 ----------------------------------------------------------------------------
 -- table pour gérer les utilisateurs de mon application web
 CREATE TABLE administration."user" (
-  id serial PRIMARY KEY,
+  id integer NOT NULL GENERATED ALWAYS AS IDENTITY,
   pseudo text NOT NULL,
   email text NOT NULL,
   "password" text NOT NULL,
   "role" text NOT NULL DEFAULT 'user',
-  pseudo_ig text,
   profile_picture_id text NOT NULL,
   discord_pseudo text,
   discord_access_token text,
@@ -35,8 +36,19 @@ CREATE TABLE administration."user" (
   ) NOT VALID,
   CONSTRAINT valid_password CHECK (
     "password" ~ '^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$'
-  ) NOT VALID
+  ) NOT VALID,
+  PRIMARY KEY (id)
 );
+
+ALTER TABLE
+  IF EXISTS administration."user"
+ADD
+  CONSTRAINT email UNIQUE (email) INCLUDE (email);
+
+ALTER TABLE
+  IF EXISTS administration."user"
+ADD
+  CONSTRAINT pseudo UNIQUE (pseudo) INCLUDE (pseudo);
 
 -- GENERIC ITEM TABLE -- Table qui contient les items génériques ainsi que leur caractéristiques
 CREATE TABLE web.items_generic (

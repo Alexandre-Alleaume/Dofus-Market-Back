@@ -1,7 +1,0 @@
-digraph {
-  node [shape=box]
-  "USER" -> "FAVORIS"
-  "HDV" -> "FAVORIS"
-  "USER" -> "HDV"
-  "ITEMS_GENERIC" -> "HDV"
-}

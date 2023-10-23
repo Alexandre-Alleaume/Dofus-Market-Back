@@ -191,6 +191,7 @@ const hdvController = {
         ///Screen du premier item
 
         let carac = await screenService.screenCarac2(urlArray[i]);
+
         carac.price = req.body.price;
         carac.serveur = req.body.serveur;
         let name = await screenService.screenName2(urlArray[i]);
@@ -286,6 +287,9 @@ const hdvController = {
         }
       }
     }
+    screenService.emptyFolder(
+      "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/uploads"
+    );
     res.json("Item inserted succesfully");
   },
 };

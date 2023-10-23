@@ -111,6 +111,7 @@ SELECT * FROM administration.get_all_user();
     } catch (err) {
       /* debug(err); */
       // je crèe une erreur 500
+      console.log(err);
       error = new APIError("Erreur interne au serveur", 500, err);
     }
 
@@ -175,7 +176,7 @@ SELECT * FROM administration.update_user($1);
     // je prépare ma requête SQL
 
     const sqlQuery = `
-        SELECT * FROM web.check_user($1);
+        SELECT * FROM administration.check_user($1);
     `;
     const values = [user];
 
@@ -189,6 +190,7 @@ SELECT * FROM administration.update_user($1);
 
       // je place la réponse dans result
       result = response.rows[0];
+      console.log(result);
       const match = await bcrypt.compare(user.password, result.password);
       if (!match) {
         error = new APIError("Mot de passe incorrect", 500);

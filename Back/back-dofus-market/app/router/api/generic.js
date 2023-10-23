@@ -1,9 +1,13 @@
-/* const checkRole = require("../../service/checkUserRole"); */
+// Declaration of the "generic" router
+// meaning, my URL is prefixed by /generic
 
-// Déclaration du routeur "generic"
-// sous-entendu, mon URL est préfixée par /generic
+//Apart from the find all and the find one, all the others routes are exclusively for admin user and will be rarely use.
+// They are used to modify, delete or add items to the generic list.
 
-//Apart from the find all and the find one, all the others routes are exclusively for admin user and will be rarely use. They are used to modify, delete or add items to the generic list. However, in  the last few years only 6 items have been added to the game that's why those routes would be rarely used. But I create them in case there are errors in the charcteristics of the items already in the database so admin can modify them. Hence, I should create an admin interface for this but it's not a priority because the modification can be directly done in pgAdmin.
+// However, in the last few years only 6 items have been added to the game that's why those routes would be rarely used.
+// But I create them in case there are errors in the charcteristics of the items already in the database so admin can modify them.
+
+// Hence, I should create an admin interface for this but it's not a priority because the modification can be directly done in pgAdmin.
 
 import express from "express";
 import { genericController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js";

@@ -63,6 +63,7 @@ SELECT * FROM web.get_all_item_generic();
       }
     } catch (err) {
       // je crèe une erreur 500
+      console.log(err);
       error = new APIError("Erreur interne au serveur", 500, err);
     }
 
@@ -115,7 +116,6 @@ SELECT * FROM web.get_all_item_generic();
       // je place la réponse dans result
       result = response.rows[0];
     } catch (err) {
-      /* debug(err); */
       // je crèe une erreur 500
       error = new APIError("Erreur interne au serveur", 500, err);
     }

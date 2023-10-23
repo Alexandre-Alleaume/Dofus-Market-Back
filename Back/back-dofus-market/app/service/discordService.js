@@ -6,7 +6,6 @@ const saltRounds = 10;
 
 export const discordService = {
   async registerDiscord(req, res) {
-    console.log("inside register");
     await userDatamapper.saveDiscordToken(req.body);
     res.send("Discord updated");
   },

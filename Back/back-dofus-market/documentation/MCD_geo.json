@@ -1,0 +1,35 @@
+{
+  "width": 411,
+  "height": 524,
+  "cx": [
+    [ "POSSEDE", 80 ],
+    [ "FAVORIS", 208 ],
+    [ "REPRESENTE", 331 ],
+    [ "USER", 80 ],
+    [ "VEND", 208 ],
+    [ "HDV", 331 ],
+    [ "CORRESPOND", 331 ],
+    [ "ITEMS_GENERIC", 331 ]
+  ],
+  "cy": [
+    [ "POSSEDE", 34 ],
+    [ "FAVORIS", 34 ],
+    [ "REPRESENTE", 34 ],
+    [ "USER", 177 ],
+    [ "VEND", 177 ],
+    [ "HDV", 177 ],
+    [ "CORRESPOND", 295 ],
+    [ "ITEMS_GENERIC", 430 ]
+  ],
+  "shift": [
+    [ "POSSEDE,FAVORIS,0", 0 ],
+    [ "POSSEDE,USER,0", 0 ],
+    [ "REPRESENTE,HDV,0", 0 ],
+    [ "REPRESENTE,FAVORIS,0", 0 ],
+    [ "VEND,HDV,0", 0 ],
+    [ "VEND,USER,0", 0 ],
+    [ "CORRESPOND,HDV,0", 0 ],
+    [ "CORRESPOND,ITEMS_GENERIC,0", 0 ]
+  ],
+  "ratio": []
+}
