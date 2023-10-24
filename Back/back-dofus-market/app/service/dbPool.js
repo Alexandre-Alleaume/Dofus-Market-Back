@@ -25,12 +25,12 @@ const pool = new Pool({
   database: process.env.DB_DATABASE,
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD,
-  ssl: {
-    ca: await readFile("./documentation/eu-north-1-bundle.pem"),
-  },
   /*  ssl: {
-    rejectUnauthorized: false, // désactive la vérification du certificat SSL
+    ca: await readFile("./documentation/eu-north-1-bundle.pem"),
   }, */
+  ssl: {
+    rejectUnauthorized: false, // désactive la vérification du certificat SSL
+  },
 });
 
 export default pool;
