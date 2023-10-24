@@ -13,6 +13,7 @@ const hdvController = {
     const { error, result } = await hdvDatamapper.findAll();
 
     if (error) {
+      console.log(error);
       next(error);
     } else {
       result.forEach((element) => {
