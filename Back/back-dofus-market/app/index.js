@@ -11,8 +11,7 @@ app.use(express.json());
 // Mise en place des CORS
 app.use(
   cors({
-    origin: ["http://localhost:5173"],
-    /*  origin: ["https://dofus-market.onrender.com"], */
+    origin: ["http://localhost:5173", "https://dofus-market.onrender.com"],
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
   })
 );
