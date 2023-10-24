@@ -10,7 +10,8 @@
 // Hence, I should create an admin interface for this but it's not a priority because the modification can be directly done in pgAdmin.
 
 import express from "express";
-import { genericController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js";
+import { genericController } from "../../controller/api/index.js";
+/* import { genericController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js"; */
 
 const router = express.Router();
 

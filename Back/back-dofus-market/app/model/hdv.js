@@ -1,6 +1,8 @@
-import pool from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/service/dbPool.js";
+/* import pool from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/service/dbPool.js"; */
 /* import debug from "debug"; */
-import APIError from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/service/APIError.js";
+/* import APIError from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/service/APIError.js"; */
+import pool from "../service/dbPool.js";
+import APIError from "../service/APIError.js";
 
 /* const logger = debug("model"); */
 

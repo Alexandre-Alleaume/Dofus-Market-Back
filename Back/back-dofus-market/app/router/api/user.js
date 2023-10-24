@@ -2,8 +2,10 @@
 // sous-entendu, mon URL est préfixée par /user
 
 import express from "express";
-import { userController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js";
-import { discordService } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/service/discordService.js";
+import { userController } from "../../controller/api/index.js";
+/* import { userController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js"; */
+import { discordService } from "../../service/discordService.js";
+/* import { discordService } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/service/discordService.js"; */
 
 const router = express.Router();
 

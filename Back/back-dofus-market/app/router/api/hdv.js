@@ -2,7 +2,8 @@
 // sous-entendu, mon URL est préfixée par /hdv
 
 import express from "express";
-import { hdvController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js";
+import { hdvController } from "../../controller/api/index.js";
+/* import { hdvController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js"; */
 import multer from "multer";
 
 const upload = multer({ dest: "uploads/" });
