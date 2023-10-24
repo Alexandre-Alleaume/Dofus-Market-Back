@@ -10,6 +10,7 @@ const genericController = {
   findAll: async (req, res, next) => {
     const { error, result } = await genericDatamapper.findAll();
     if (error) {
+      console.log(error);
       next(error);
     } else {
       result.forEach((element) => {
