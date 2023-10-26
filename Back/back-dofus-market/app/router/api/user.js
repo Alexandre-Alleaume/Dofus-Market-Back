@@ -5,6 +5,7 @@ import express from "express";
 import { userController } from "../../controller/api/index.js";
 /* import { userController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js"; */
 import { discordService } from "../../service/discordService.js";
+import { securityService } from "../../service/checkJwt.js";
 /* import { discordService } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/service/discordService.js"; */
 
 const router = express.Router();
@@ -79,7 +80,7 @@ router.post("/", userController.add);
  * @param {Inputuser} request.body.required - user info
  * @return {user} 200 - success response - application/json
  */
-router.patch("/:id(\\d+)", userController.modify);
+router.patch("/:id(\\d+)", securityService.checkJwt, userController.modify);
 
 /**
  * DELETE /api/user/{id}
@@ -89,7 +90,7 @@ router.patch("/:id(\\d+)", userController.modify);
  * @return {user} 200 - success response - application/json
 
  */
-router.delete("/:id(\\d+)", userController.deleteOne);
+router.delete("/:id(\\d+)", securityService.checkJwt, userController.deleteOne);
 
 /**
  * LOGIN /user/login

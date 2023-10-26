@@ -117,6 +117,7 @@ const hdvController = {
    */
   add: async (req, res, next) => {
     /* debug(req.body); */
+    console.log(req.body);
     const { error, result } = await hdvDatamapper.add(req.body);
 
     if (error) {

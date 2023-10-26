@@ -3,6 +3,7 @@
 
 import express from "express";
 import { hdvController } from "../../controller/api/index.js";
+import { securityService } from "../../service/checkJwt.js";
 /* import { hdvController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js"; */
 import multer from "multer";
 
@@ -59,7 +60,7 @@ router.get("/vendeur/:id(\\d+)", hdvController.findAllByUser);
  * @return {hdv} 200 - success response - application/json
  
  */
-router.post("/", hdvController.add);
+router.post("/", securityService.checkJwt, hdvController.add);
 
 /**
  * POST /api/hdv/screen
@@ -69,7 +70,12 @@ router.post("/", hdvController.add);
  * @return {hdv} 200 - success response - application/json
  
  */
-router.post("/screen", upload.array("files"), hdvController.handleScreen);
+router.post(
+  "/screen",
+  upload.array("files"),
+  securityService.checkJwt,
+  hdvController.handleScreen
+);
 
 /**
  * GET /api/hdv/filter
@@ -79,7 +85,7 @@ router.post("/screen", upload.array("files"), hdvController.handleScreen);
  * @return {hdv} 200 - success response - application/json
  
  */
-router.post("/filter", hdvController.handleFilter);
+router.post("/filter", securityService.checkJwt, hdvController.handleFilter);
 
 /**
  * PATCH /api/hdv/{id}
@@ -89,7 +95,7 @@ router.post("/filter", hdvController.handleFilter);
  * @param {Inputticket} request.body.required - hdv item info
  * @return {hdv} 200 - success response - application/json
  */
-router.patch("/:id(\\d+)", hdvController.modify);
+router.patch("/:id(\\d+)", securityService.checkJwt, hdvController.modify);
 
 /**
  * DELETE /api/hdv/{id}
@@ -99,6 +105,6 @@ router.patch("/:id(\\d+)", hdvController.modify);
  * @return {hdv} 200 - success response - application/json
 
  */
-router.delete("/:id(\\d+)", hdvController.deleteOne);
+router.delete("/:id(\\d+)", securityService.checkJwt, hdvController.deleteOne);
 
 export default router;

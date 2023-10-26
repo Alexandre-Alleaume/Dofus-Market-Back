@@ -11,6 +11,7 @@
 
 import express from "express";
 import { genericController } from "../../controller/api/index.js";
+import { securityService } from "../../service/checkJwt.js";
 /* import { genericController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js"; */
 
 const router = express.Router();
@@ -44,7 +45,7 @@ router.get("/:id(\\d+)", genericController.findOne);
  * @return {generic} 200 - success response - application/json
  
  */
-router.post("/", genericController.add);
+router.post("/", securityService.checkJwt, genericController.add);
 
 /**
  * PATCH /api/generic/{id}
@@ -54,7 +55,7 @@ router.post("/", genericController.add);
  * @param {Inputticket} request.body.required - generic item info
  * @return {generic} 200 - success response - application/json
  */
-router.patch("/:id(\\d+)", genericController.modify);
+router.patch("/:id(\\d+)", securityService.checkJwt, genericController.modify);
 
 /**
  * DELETE /api/generic/{id}
@@ -64,6 +65,10 @@ router.patch("/:id(\\d+)", genericController.modify);
  * @return {generic} 200 - success response - application/json
 
  */
-router.delete("/:id(\\d+)", genericController.deleteOne);
+router.delete(
+  "/:id(\\d+)",
+  securityService.checkJwt,
+  genericController.deleteOne
+);
 
 export default router;
