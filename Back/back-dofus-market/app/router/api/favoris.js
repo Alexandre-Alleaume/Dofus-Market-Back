@@ -3,6 +3,7 @@
 
 import express from "express";
 import { favController } from "../../controller/api/index.js";
+import { securityService } from "../../service/checkJwt.js";
 /* import { favController } from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/controller/api/index.js"; */
 
 const router = express.Router();
@@ -46,7 +47,7 @@ router.get("/user/:id(\\d+)", favController.findAllByUser);
  * @return {favoris} 200 - success response - application/json
  
  */
-router.post("/", favController.add);
+router.post("/", securityService.checkJwt, favController.add);
 
 // /**
 //  * PATCH /api/favoris/{id}
@@ -66,6 +67,6 @@ router.post("/", favController.add);
  * @return {favoris} 200 - success response - application/json
 
  */
-router.delete("/:id(\\d+)", favController.deleteOne);
+router.delete("/:id(\\d+)", securityService.checkJwt, favController.deleteOne);
 
 export default router;
