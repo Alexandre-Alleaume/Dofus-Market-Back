@@ -85,7 +85,7 @@ router.post(
  * @return {hdv} 200 - success response - application/json
  
  */
-router.post("/filter", securityService.checkJwt, hdvController.handleFilter);
+router.post("/filter", hdvController.handleFilter);
 
 /**
  * PATCH /api/hdv/{id}
