@@ -3,7 +3,7 @@ import pg from "pg";
 import { readFile } from "fs/promises";
 const { Pool } = pg;
 
-// dotenv.config();
+dotenv.config();
 
 // const pool = new Pool({
 //   port: process.env.PGPORT,
