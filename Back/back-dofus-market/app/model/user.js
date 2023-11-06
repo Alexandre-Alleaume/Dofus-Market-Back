@@ -210,17 +210,10 @@ SELECT * FROM administration.update_user($1);
     // je prépare ma requête SQL
 
     const sqlQuery = `
-    UPDATE administration.user
-    SET discord_access_token = $1,
-        discord_refresh_token = $2
-    WHERE administration.user.id = $3;
+SELECT * FROM administration.update_user($1);
 `;
 
-    const values = [
-      obj.discord_access_token,
-      obj.discord_refresh_token,
-      obj.id,
-    ];
+    const values = [obj];
 
     let result;
     let error;
@@ -232,7 +225,6 @@ SELECT * FROM administration.update_user($1);
 
       // je place la réponse dans result
     } catch (err) {
-      /* debug(err); */
       // je crèe une erreur 500
       error = new APIError("Erreur interne au serveur", 500);
     }
@@ -244,12 +236,10 @@ SELECT * FROM administration.update_user($1);
     // je prépare ma requête SQL
 
     const sqlQuery = `
-    UPDATE administration.user
-    SET discord_pseudo = $1
-    WHERE administration.user.id = $2;
-`;
+    SELECT * FROM administration.update_user($1);
+    `;
 
-    const values = [obj.discord_pseudo, obj.id];
+    const values = [obj];
 
     let result;
     let error;
