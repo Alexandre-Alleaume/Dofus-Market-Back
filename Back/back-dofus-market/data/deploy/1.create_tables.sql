@@ -50,6 +50,11 @@ ALTER TABLE
 ADD
   CONSTRAINT pseudo UNIQUE (pseudo) INCLUDE (pseudo);
 
+ALTER TABLE
+  IF EXISTS administration."user"
+ADD
+  COLUMN "resettimer" bigint;
+
 -- GENERIC ITEM TABLE -- Table qui contient les items génériques ainsi que leur caractéristiques
 CREATE TABLE web.items_generic (
   id integer NOT NULL GENERATED ALWAYS AS IDENTITY,

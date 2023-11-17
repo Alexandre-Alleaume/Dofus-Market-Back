@@ -44,6 +44,15 @@ router.get(
   userController.findOneByPseudo
 );
 /**
+ * POST (GET) /api/user/email/{email}
+ * @summary Get one user by its pseudo
+ * @tags user
+ * @param {email} request.body.required - user identifier
+ * @return {user} 200 - success response - application/json
+ 
+ */
+router.post("/email", userController.findOneByEmail);
+/**
  * POST /api/user/discord/auth
  * @summary Discord auth
  * @tags auth
@@ -81,8 +90,17 @@ router.post("/", userController.add);
  * @return {user} 200 - success response - application/json
  */
 router.patch("/:id(\\d+)", securityService.checkJwt, userController.modify);
-
 /**
+ * PATCH /api/user/resetPassword/{id}
+ * @summary Update one user
+ * @tags user
+ * @param {number} id.path.required - user identifier
+ * @param {Inputuser} request.body.required - user info
+ * @return {user} 200 - success response - application/json
+ */
+router.patch("/resetPassword/:id(\\d+)", userController.modifyResetTimer);
+
+/* *
  * DELETE /api/user/{id}
  * @summary Delete one user
  * @tags user
@@ -90,7 +108,10 @@ router.patch("/:id(\\d+)", securityService.checkJwt, userController.modify);
  * @return {user} 200 - success response - application/json
 
  */
-router.delete("/:id(\\d+)", securityService.checkJwt, userController.deleteOne);
+/* router.delete(
+  "/:id(\\d+)",
+  securityService.checkJwt, userController.deleteOne
+); */
 
 /**
  * LOGIN /user/login

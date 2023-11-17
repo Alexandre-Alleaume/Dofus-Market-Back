@@ -1,5 +1,4 @@
 import axios from "axios";
-/* import userDatamapper from "/Users/pumalicieux/Desktop/Dofus Market 2/Back/back-dofus-market/app/model/user.js"; */
 import userDatamapper from "../model/user.js";
 import bcrypt from "bcrypt";
 

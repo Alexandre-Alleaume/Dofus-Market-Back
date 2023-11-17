@@ -54,6 +54,23 @@ const userController = {
     }
   },
   /**
+   * Get and return only the user selected by its pseudo
+   * @param {*} req
+   * @param {*} res
+   * @param {*} next
+   */
+  findOneByEmail: async (req, res, next) => {
+    const { error, result } = await userDatamapper.findOneByEmail(
+      req.body.email
+    );
+
+    if (error) {
+      next(error);
+    } else {
+      res.json(result);
+    }
+  },
+  /**
    * Add a user to the database and return it
    * @param {*} req
    * @param {*} res
@@ -85,6 +102,23 @@ const userController = {
     if (error) {
       next(error);
     } else {
+      res.json(result);
+    }
+  },
+  /**
+   * Modify reset Timer a user in the database
+   * @param {*} req
+   * @param {*} res
+   */
+  modifyResetTimer: async (req, res, next) => {
+    const user = req.body;
+
+    const { error, result } = await userDatamapper.updateResetTimer(user);
+
+    if (error) {
+      next(error);
+    } else {
+      console.log(result);
       res.json(result);
     }
   },
@@ -130,7 +164,6 @@ const userController = {
         res.json("pseudo ou mot de passe incorrect");
       }
     }
-    
   },
 };
 
